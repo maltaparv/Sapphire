@@ -1,0 +1,62 @@
+�ࠢ����� 䠩��� FormSapphire.cs � FORMSAPPHIRES.CS
+***** FormSapphire.cs
+        // для результата Select
+        private string scriptSql    = "";  // текст Select из файла  - file.OpenText().ReadToEnd();
+        private string scriptSqlPar = "";  // текст с параметрами из файла со скриптом (Selec
+***** FORMSAPPHIRES.CS
+        // для результата Select
+        private string scriptSql = "";     // текст Select из файла  - file.OpenText().ReadToEnd();
+        private string scriptSqlPar = "";  // текст с параметрами из файла со скриптом (Selec
+*****
+
+***** FormSapphire.cs
+        // Все опции для последовательного устройства могут быть отправл�
+�ны через конструктор класса SerialPort
+        // PortName = "COM1", Baud Rate = 19200, Parity = None, Data Bits = 8, Stop Bits = One, Handshake = None
+        //public SerialPort _serialPort = new SerialPort("COM2", 9600, Parity.None, 8, StopBits.One);
+***** FORMSAPPHIRES.CS
+        // Все опции для последовательного устройства могут быть отправл�
+�ны 
+        // через конструктор класса SerialPort
+        // PortName = "COM1", Baud Rate = 19200, Parity = None, Data Bits = 8, 
+        // Stop Bits = One, Handshake = None
+        //public SerialPort _serialPort = new SerialPort("COM2", 9600, Parity.None, 8, StopBits.One);
+*****
+
+***** FormSapphire.cs
+            //_serialPort.Encoding = Encoding.ASCII;
+            _serialPort.Encoding = Encoding.GetEncoding(1251);  // 2020-04-21
+            Add_RTB(RTBout, $"\nCodePage: {_serialPort.Encoding.CodePage}.\n", Color.Blue);
+            //_serialPort.Encoding.CodePage.ToString()
+            _serialPort.DataReceived += new SerialDataReceivedEventHandler(Sp_DataReceived);
+***** FORMSAPPHIRES.CS
+            //_serialPort.Encoding = Encoding.ASCII;
+            //_serialPort.Encoding = Encoding.GetEncoding(1251);  // 2020-04-21
+            //_serialPort.Encoding = Encoding.GetEncoding(866);  // 2020-05-06
+            Add_RTB(RTBout, $"\nCurrent CodePage on {ComPortName}: {_serialPort.Encoding.CodePage}.\n", Color.Blue);           
+ //_serialPort.Encoding.CodePage.ToString()
+            _serialPort.DataReceived += new SerialDataReceivedEventHandler(Sp_DataReceived);
+*****
+
+***** FormSapphire.cs
+            // Метод "Si_DataReceived" будет выполнен в потоке UI, который позволит з�
+�полнить текстовое поле TextBox.
+            this.BeginInvoke(new SetTextDeleg(Si_DataReceived),
+***** FORMSAPPHIRES.CS
+            // Метод "Si_DataReceived" будет выполнен в потоке UI, который позволит з�
+�полнить текстовое поле RTBout.
+            this.BeginInvoke(new SetTextDeleg(Si_DataReceived),
+*****
+
+***** FormSapphire.cs
+            Stat1.ForeColor = Color.Red;
+            //Pic_Status.Visible = true; ### сделать изменяемую картинку в статусной стр�
+�ке
+            dtm = DateTime.Now;
+***** FORMSAPPHIRES.CS
+            Stat1.ForeColor = Color.Red;
+            //Pic_Status.Visible = true; ## сделать изменяемую картинку в статусной стро
+ке
+            dtm = DateTime.Now;
+*****
+
