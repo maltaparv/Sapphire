@@ -45,7 +45,6 @@ namespace Sapphire
             this.печатьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.предварительныйпросмотрToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
-            this.выходToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.правкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.отменадействияToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.отменадействияToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -74,6 +73,8 @@ namespace Sapphire
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.Btn_ACK = new System.Windows.Forms.Button();
             this.Pic1 = new System.Windows.Forms.PictureBox();
+            this.Lbl_IP = new System.Windows.Forms.Label();
+            this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Pic1)).BeginInit();
@@ -90,6 +91,11 @@ namespace Sapphire
             this.RTBout.Size = new System.Drawing.Size(769, 388);
             this.RTBout.TabIndex = 4;
             this.RTBout.Text = "<Контроль Rtb: >";
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 30000;
+            this.timer1.Tick += new System.EventHandler(this.Timer1_Tick);
             // 
             // menuStrip1
             // 
@@ -115,8 +121,7 @@ namespace Sapphire
             this.toolStripSeparator1,
             this.печатьToolStripMenuItem,
             this.предварительныйпросмотрToolStripMenuItem,
-            this.toolStripSeparator2,
-            this.выходToolStripMenuItem});
+            this.toolStripSeparator2});
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
             this.файлToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
             this.файлToolStripMenuItem.Text = "&Файл";
@@ -185,12 +190,6 @@ namespace Sapphire
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
             this.toolStripSeparator2.Size = new System.Drawing.Size(230, 6);
-            // 
-            // выходToolStripMenuItem
-            // 
-            this.выходToolStripMenuItem.Name = "выходToolStripMenuItem";
-            this.выходToolStripMenuItem.Size = new System.Drawing.Size(233, 22);
-            this.выходToolStripMenuItem.Text = "Вы&ход";
             // 
             // правкаToolStripMenuItem
             // 
@@ -276,7 +275,7 @@ namespace Sapphire
             // 
             this.параметрыToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("параметрыToolStripMenuItem.Image")));
             this.параметрыToolStripMenuItem.Name = "параметрыToolStripMenuItem";
-            this.параметрыToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.параметрыToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
             this.параметрыToolStripMenuItem.Text = "&Параметры ...";
             this.параметрыToolStripMenuItem.Click += new System.EventHandler(this.ПараметрыToolStripMenuItem_Click);
             // 
@@ -442,11 +441,30 @@ namespace Sapphire
             this.Pic1.TabStop = false;
             this.Pic1.Click += new System.EventHandler(this.Pic1_Click);
             // 
+            // Lbl_IP
+            // 
+            this.Lbl_IP.AutoSize = true;
+            this.Lbl_IP.Location = new System.Drawing.Point(167, 85);
+            this.Lbl_IP.Name = "Lbl_IP";
+            this.Lbl_IP.Size = new System.Drawing.Size(69, 15);
+            this.Lbl_IP.TabIndex = 302;
+            this.Lbl_IP.Text = "IP:  xx.xx. ...";
+            // 
+            // notifyIcon1
+            // 
+            this.notifyIcon1.BalloonTipText = "Свёрнут в трей";
+            this.notifyIcon1.BalloonTipTitle = "Драйвер Sapphire ";
+            this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
+            this.notifyIcon1.Text = "Драйвер Sapphire 400";
+            this.notifyIcon1.Visible = true;
+            this.notifyIcon1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.NotifyIcon1_MouseDoubleClick);
+            // 
             // FormSap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(793, 551);
+            this.Controls.Add(this.Lbl_IP);
             this.Controls.Add(this.Pic1);
             this.Controls.Add(this.Btn_ACK);
             this.Controls.Add(this.statusStrip1);
@@ -488,7 +506,6 @@ namespace Sapphire
         private System.Windows.Forms.ToolStripMenuItem печатьToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem предварительныйпросмотрToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
-        private System.Windows.Forms.ToolStripMenuItem выходToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem правкаToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem отменадействияToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem отменадействияToolStripMenuItem1;
@@ -516,6 +533,8 @@ namespace Sapphire
         private System.Windows.Forms.ToolStripStatusLabel Stat3;
         private System.Windows.Forms.Button Btn_ACK;
         private System.Windows.Forms.PictureBox Pic1;
+        private System.Windows.Forms.Label Lbl_IP;
+        private System.Windows.Forms.NotifyIcon notifyIcon1;
     }
 }
 

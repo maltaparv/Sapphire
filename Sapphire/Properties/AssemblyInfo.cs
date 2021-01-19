@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("MBA")]
 [assembly: AssemblyProduct("Sapphire")]
-[assembly: AssemblyCopyright("Copyright © 2020 Maltapar V.A.")]
+[assembly: AssemblyCopyright("Copyright © 2021 Maltapar V.A.")]
 [assembly: AssemblyTrademark("Maltapar")]
 [assembly: AssemblyCulture("")]
 
@@ -33,7 +33,7 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номер сборки и номер редакции по умолчанию.
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0416.64")]
-[assembly: AssemblyFileVersion("2021.1.18.1333")]
+[assembly: AssemblyVersion("1.0.067.218")]
+[assembly: AssemblyFileVersion("2021.1.19.1158")]
 [assembly: NeutralResourcesLanguage("en")]
 

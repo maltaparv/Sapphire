@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
@@ -11,11 +10,12 @@ using System.IO;
 using System.IO.Ports;
 using System.Reflection;
 using System.Text.RegularExpressions;
+using System.Net;
 #region --- лицензия GNU
 //                           LICENSE INFORMATION
 //********************************************************************************************
 // Sapphire 400 Automated Clinical Analyzer Driver, 
-// serial port & SQL communications. Version 1.04.57.
+// serial port & SQL communications. Version 1.05.211.
 // This programme is for managing data from serial port & its transmission to MS-SQL Server
 // according to the rules described in "Automated Clinical Analyzer. BiOLiS 24i Premium.
 // Bi-directional Communicatiom Specifications. Version 1.07" 
@@ -51,16 +51,17 @@ namespace Sapphire
         private static string PathLogDir;   // путь к лог-файлу, заданный в параметрах ini-файла  
         private static string PathErrLog;   // путь к лог-файлу ошибок 
         private string PathIni;             // Путь к ini-файлу (там, откуда запуск)
-        private string inputString = ""; // полученные данные - для парсинга
+        private static int LogInterval = 30;// интервал логирования работы в ожидании, в сек.
+        private string inputString = "";    // полученные данные - для парсинга
         // глобальные
         private static DateTime dt0 = DateTime.Now; // время старта 
         private static DateTime dtm = dt0;          // для измерения времени выполнения запроса 
-        private string sTimeStart   = dt0.ToString("dd-MM-yyyy HH:mm:ss");
-        private int    NumerOfStart = 0;
+        private readonly string sTimeStart = dt0.ToString("dd-MM-yyyy HH:mm:ss");
+        private int    NumberOfStart = 0;
         private readonly string UserName = System.Environment.UserName;
         private readonly string ComputerName = System.Environment.MachineName;
         //private string myIP="" ;
-        private string strVer = "первоначальная версия - 1.0.1. ( потом изменю :)"; // :))
+        private string AppVer; // версия из AutoVersion2
         private static string AppName;      // static т.к. исп. в background-процессе
         private static string qkreq = "";   // запрос о работе ("кукареку")
         private static string sHeader1 = "";// строка заголовка - назначение, для чего.
@@ -73,14 +74,10 @@ namespace Sapphire
         #endregion --- Общие параметры
         #region --- для SQL
         // для результата Select
-        private string scriptSql    = "";  // текст Select из файла  - file.OpenText().ReadToEnd();
-        private string scriptSqlPar = "";  // текст с параметрами из файла со скриптом (Select...)
         private static string dateDone = "2019-12-31 23:59";  // дата-время выполнения анализа по часам на анализаторе
         private static string dateDone999 = "31-12-2019 23:59:00.000";  // дата-время выполнения анализа для SQL
-        //private string st1_0 = "Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ResultText";
         private string st1_0 = "Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam";
         private string st1_1 = "";
-        //private string st2_0 = $") values ({Analyzer_Id}, host_name(), {HistoryNumber}, {ResultDate}, {CntParam}, {ResultText}";    // для строки Insert...
         private string st2_0 = ""; //$") values ({Analyzer_Id}, host_name(), {HistoryNumber}, GetDate(), {CntParam}, {ResultText}";    // для строки Insert...
         private string st2_1 = "";                          // для строки Insert...
         private string st0 = "";
@@ -90,10 +87,7 @@ namespace Sapphire
         private static int    MaxSapphireResult; // = 12 на 2020-04-24
         private static bool   IsControl = false; // признак - текущая принятая запись - это контроли.
         private string        patternHistN = ""; // для выделения HistoryNumber  @"\d{0,6}";  - от 0 до 6 цифр максимум! 
-        private static int    nHistNo = -1;
         private int kRecord = 0; // кол-во полученных записей
-        private int kRes = 0;
-        //private int kNpp = 0; // кол-во постановок, образцов, N по порядку, как в бумажном журнале...
         #endregion --- для SQL
         public FormSap()
         {
@@ -104,12 +98,63 @@ namespace Sapphire
             FormIni();              // установки на форме, которые не делает Visual Studio - IP-адреса          
             PortIni();
         }
+        #region --- методы на форме: timer, ...
         private void FormIni()          // мой начальный вывод на форму, что прочитали из ini-файла
         {
-            CmbTest.SelectedIndex = 0;  // первый (нулевой) элемент - текущий, видимый.
+            var host = Dns.GetHostEntry(Dns.GetHostName()).AddressList;
+            var list_adr = from ip in host where ip.ToString().Length < 16 select ip.ToString();
+            string IP = "";
+            foreach (string st in list_adr) IP += st + " ";
+            Lbl_IP.Text = "IP: " + IP;
+
+            CmbTest.SelectedIndex = 0;   // первый (нулевой) элемент - текущий, видимый.
             //this.Pic1.Image = new Bitmap($"{PathIni}\\Pic.png");  // на форме картинка - для различных приложений должна быть другая!
+            notifyIcon1.Visible = false; // невидимая иконка в трее
+            // добавляем событие по 2-му клику мышки, вызывая функцию  NotifyIcon1_MouseDoubleClick
+            this.notifyIcon1.MouseDoubleClick += new MouseEventHandler(NotifyIcon1_MouseDoubleClick);
+
+            // добавляем событие на изменение окна
+            this.Resize += new System.EventHandler(this.Form1_Resize);
+            this.ShowInTaskbar = false;
+
+            // запуск свёрнутым в трей
+            this.WindowState = FormWindowState.Minimized;
+            this.Hide();
+
+            timer1.Interval = LogInterval * 1000;
+            timer1.Start();
         }
-        // **************************************
+        private void NotifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            this.Show();
+            notifyIcon1.Visible = false;
+            WindowState = FormWindowState.Normal;
+        }
+        private void Form1_Resize(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Minimized)
+            {
+                this.Hide();
+                notifyIcon1.Visible = true; // иконка в трее видимая
+                notifyIcon1.ShowBalloonTip(200); // 2 секунды показать предупреждение о сворачивании в трей
+            }
+            else if (FormWindowState.Normal == this.WindowState)
+            { notifyIcon1.Visible = false; }
+        }
+        private void Timer1_Tick(object sender, EventArgs e)
+        {
+            // текущую дату-время записать в файл %PathErrLog%\LogTimer.txt (для мониторинга работы прораммы)
+            dt0 = DateTime.Now;
+            string fnLogAlive = PathErrLog + @"\LogAlive.txt";
+            fnLogAlive = Path.GetFullPath(fnLogAlive);
+            FileStream fn = new FileStream(fnLogAlive, FileMode.Create);  // FileMode.Append
+            StreamWriter sw = new StreamWriter(fn, Encoding.GetEncoding(1251));
+            dtm = DateTime.Now;
+            string ss = dtm.ToString("yyyy-MM-dd HH:mm:ss").Replace("-", ".");
+            sw.WriteLine($"{ss} ID: {Analyzer_Id}");
+            sw.Close();
+        }
+        #endregion методы на форме: timer, ...
         #region --- методы для Com-порта: инициализация (PortIni) и чтения (Sp_DataReceived и Si_DataReceived)
         public SerialPort _serialPort;
         // Делегат используется для записи в UI control из потока не-UI
@@ -373,7 +418,12 @@ namespace Sapphire
                         WErrLog(msg1);
                         break;  // Что ещё нужо?  
                     }
-
+                    if (CntParam > MaxSapphireResult)
+                    {
+                        msg1 = $"ERR: Количество анализов больше максимального ({MaxSapphireResult})!";
+                        Add_RTB(RTBout, $"\n{dtm} {msg1}.\n", Color.Red);
+                        WLog(msg1);
+                    }
                     st1_1 += $", ParamName{CntParam}, ParamValue{CntParam}, ParamRef{CntParam}";    // + ParamMgr{CntParam}
                     st2_1 += $", '{sKod}', '{sResult}', '{sRefVal}'";
                     Add_RTB(RTBout, $"\nКод:{sKod}, результат:{sResult}, реф.знач:{sRefVal}, выполнен:{dt_Done}.", Color.DeepPink);
@@ -394,96 +444,7 @@ namespace Sapphire
             Add_RTB(RTBout, $"\n{dtm} Конец парсинга [{kRecord++}]. HistoryNumber:{HistoryNumber}.\n", Color.DarkViolet);
             WLog($"Получено для парсинга {inputString.Count()} байт:\n{inputString}");
             Stat1.Text = "конец парсинга";
-            //Stat1.ForeColor = Color.DarkBlue;
-            #region --- old parse
-            /*
-            foreach (string s in text)
-            {
-                kNpp++;
-                string preparedS = s;
-                if (s.Length > 13)
-                {
-                    preparedS = s.Remove(0, 13);
-                    //textBoxResult.AppendText("Prepared (without first 14 symbols): " + preparedS + "\n");
-                    //try
-                    //{
-                    Match res = Regex.Match(preparedS, parsePattern);
-                    cData = res.Groups["Data"].Value;
-                    NHist = res.Groups["HistNumber"].Value;
-                    NSamp = res.Groups["SampNumber"].Value;
-                    kRes = 0;
-
-                    // 2019-08-09 раскраска текста RichTextBox :)))
-                    Add_RTB(RTBout, $"\n Начало kNpp {kNpp}, NHist {NHist}, NSamp {NSamp} \n", Color.Red);
-                    Add_RTB(RTBout, $"{cData}", Color.Black);
-
-
-                    // очистить список результатов
-                    // hres.Clear();
-                    cresAll = ""; // разобранные результаты для лог-файла
-                    stNames = ""; // заготовки для Insert - для каждого пациента
-                    stValues = ""; // заготовки для Insert - для каждого пациента
-                    string stData = res.Groups["Data"].Value;
-
-                    foreach (Match dataPair in Regex.Matches(res.Groups["Data"].Value, dataParsePattern))
-                    {
-                        kRes++;
-                        ckod = dataPair.Groups["SampleID"].Value;
-                        cres = dataPair.Groups["SampleResult"].Value;
-                        cires = dataPair.Groups["SampleLetters"].Value;
-
-                        Add_RTB(RTBout, $"\n ckod {ckod} ===== \n cres {cres}\n cires-{cires}-", Color.DarkGreen);
-
-                        // формируем конец строки Insert: ParamName1,ParamValue1,ParamName2,...
-                        //if (sendIRes == "2") //  только пара <код_анализа> <результат>
-                        if ( "2" == "2") //  только пара <код_анализа> <результат> // заглушка
-                        {
-                            stNames += $",ParamName{kRes},ParamValue{kRes}";
-                            stValues += $",'{ckod}','{cres}'";
-                            cresAll += $"[{kRes}]{ckod};{cres}";
-                        }
-                        else //  тройка <код_анализа> <результат> <интерпретация_результата>
-                        {
-                            stNames += $",ParamName{kRes},ParamValue{kRes},ParamMsr{kRes}";
-                            stValues += $",'{ckod}','{cres}','{cires}'";
-                            cresAll += $"[{kRes}]{ckod};{cres};{cires}";
-                        }
-
-                    }
-
-                    Add_RTB(RTBout, $"\n Конец. kNpp {kNpp}, NHist {NHist}, NSamp {NSamp}, " +
-                        $"kRes {kRes} {dtm}", Color.Red);
-
-
-                    WLog($"NHist {NHist}, NSamp {NSamp}, kRes {kRes}. {cresAll}"); //2019-08-13 kRes {kRes}.
-
-                    // формирование строки Insert...
-                    st1_1 = ", ResultDate, HistoryNumber, CntParam, ResultText";
-                    string ResText = $"{NHist} {NSamp} {stData}"; //2019-07-31
-                                                                  //st2_1 = $", GetDate(), {NHist}, {kRes}, '{NHist} {NSamp} {stData}'  ";
-                    st2_1 = $", GetDate(), {NHist}, {kRes}, '{ResText}' ";
-                    st0 = st1_0 + st1_1 + stNames + ") " + st2_0 + st2_1 + stValues + "); ";
-                    WLog("SQL: " + st0);          // в лог-файл
-
-                    if ((NHist.Count() == 0) || (NSamp.Count() == 0))
-                        WLog($"--- Нет номера истории или номера пробы! {NHist}, {NSamp}."); // и не писать в SQL
-                                                                                             // проверка на уже записанные сегодня результаты по этому HistoryNumber - проверка в SQL. Но ЕСТЬ ЕЩЁ 3 ВАРИАНТА!!! 02.08.2019.
-                    else if (CheckExist(ResText) > 0)
-                        WLog("--- Дубль не записан.");
-                    else if (true) // (chk_WriteSQL.Checked) // писать в SQL - флажок на форме? или лучше в параметрах? пока на форме!
-                        ToSQL(st0);  // запись в SQL
-                    else
-                    {
-                        // всё хорошо, ничего делать больше не надо :))
-                    }
-
-                }
-
-            }
-            */
-            #endregion --- old parse
-
-        }
+           }
 
         #endregion --- Парсинг данных из строки и формирование строки SQL Insert        // ---
         private void ToSQL(string st) // запись в MS-SQL сформированной строки
@@ -573,13 +534,15 @@ namespace Sapphire
             patternHistN=\d{0,6}
             MaxCntParam=22
             MaxSapphireResult=12
+            LogInterval=20
             */
             patternHistN = iniFile.GetPrivateString("Check", "patternHistN").Trim(); // шаблон для выделения номера истории по RegEx patternHistN=\d{0,6}
             str = iniFile.GetPrivateString("Check", "MaxCntParam").Trim();
             MaxCntParam = Convert.ToInt32(str);
             str = iniFile.GetPrivateString("Check", "MaxSapphireResult").Trim();
             MaxSapphireResult = Convert.ToInt32(str);
-
+            str = iniFile.GetPrivateString("Check", "LogInterval").Trim();
+            LogInterval = Convert.ToInt32(str);
             // секция [LogFiles]
             PathLogDir = iniFile.GetPrivateString("LogFiles", "PathLogDir");
             SetPathLog();
@@ -592,22 +555,18 @@ namespace Sapphire
             */
 
             // секция [Comments]
-            string sNumerOfStart = iniFile.GetPrivateString("Comments", "StartNo");
-            NumerOfStart = Convert.ToInt32(sNumerOfStart);
-            NumerOfStart++;
-            sNumerOfStart = Convert.ToString(NumerOfStart);
-            iniFile.WritePrivateString("Comments", "StartNo", sNumerOfStart);
+            string sNumberOfStart = iniFile.GetPrivateString("Comments", "StartNo");
+            NumberOfStart = Convert.ToInt32(sNumberOfStart);
+            NumberOfStart++;
+            sNumberOfStart = Convert.ToString(NumberOfStart);
+            iniFile.WritePrivateString("Comments", "StartNo", sNumberOfStart);
             iniFile.WritePrivateString("Comments", "LastStartTime", dtm.ToString());// записать значение в секции Comments по ключу xx
-
+            
             var version = Assembly.GetExecutingAssembly().GetName().Version;
-            var assemblyLocation = System.Reflection.Assembly.GetExecutingAssembly().Location;
-            //var vers = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version;
-            //var fileVersion = System.Diagnostics.FileVersionInfo.GetVersionInfo(assemblyLocation).FileVersion;
-            //var productVersion = System.Diagnostics.FileVersionInfo.GetVersionInfo(assemblyLocation).ProductVersion;
-            //string sCreationTime  = new System.IO.FileInfo(assemblyLocation).CreationTime.ToString();
-            string sLastWriteTime = new System.IO.FileInfo(assemblyLocation).LastWriteTime.ToString();
-            strVer = $"Версия {version} от {sLastWriteTime}"; //versionString;
-            WLog($"--- Запуск {AppName} {ComputerName} {UserName} {strVer}");
+            string assemblyLocation = System.Reflection.Assembly.GetExecutingAssembly().Location;
+            string fileVersion = System.Diagnostics.FileVersionInfo.GetVersionInfo(assemblyLocation).FileVersion;
+            AppVer = "Версия " + version + " от " + fileVersion;
+            WLog($"--- Запуск {AppName} {ComputerName} {UserName} {AppVer}");
         }
         // ---
         #region --- ( Easter eggs :))
@@ -629,7 +588,6 @@ namespace Sapphire
         }
         private static void WLog(string st) // записать в лог FLog
         {
-            //FIXME for WinXP
             FileStream fn = new FileStream(PathLog, FileMode.Append);
             StreamWriter sw = new StreamWriter(fn, Encoding.GetEncoding(1251));
             dtm = DateTime.Now;
@@ -639,7 +597,6 @@ namespace Sapphire
         }
         private static void WErrLog(string st) // записать ErrLog
         {
-            //FIXME for WinXP
             string fnPathErrLog = PathErrLog + @"\Log_ERR.txt";
             fnPathErrLog = Path.GetFullPath(fnPathErrLog);
             FileStream fn = new FileStream(fnPathErrLog, FileMode.Append);
@@ -682,7 +639,7 @@ namespace Sapphire
         {
             // Закрытие формы - FormClosing
             msg = "Завершение работы.";
-            DialogResult result = MessageBox.Show("Вы действительно хотите завершить работу\n c программой?"
+            DialogResult result = MessageBox.Show("Вы действительно хотите завершить работу? \n\n   Результаты передаваться не будут!"
                 , msg, MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.No)
             {
@@ -727,9 +684,8 @@ namespace Sapphire
             var assemblyLocation = System.Reflection.Assembly.GetExecutingAssembly().Location;
             var fileVersion = System.Diagnostics.FileVersionInfo.GetVersionInfo(assemblyLocation).FileVersion;
             var productVersion = System.Diagnostics.FileVersionInfo.GetVersionInfo(assemblyLocation).ProductVersion;
-            s += $"         {sHeader1}\n";
-            s += $"AppName: {AppName}\n";
-            s += $"{strVer}\n";
+            s += $"     {sHeader1}\n";
+            s += $"{AppName}.  {AppVer}\n";
             s += sep;
             s += $"Время старта: {sTimeStart}\n";
             s += $"ComputerName: {ComputerName}, UserName: {UserName}\n";
@@ -743,39 +699,18 @@ namespace Sapphire
             s += $"Режимы работы: {sModes}\n";
             s += $"SQL: {nameSQLsrv}, Analyzer_Id: {Analyzer_Id}.\n";
             s += $"Com-порт: {ComPortName}.\n";
-            s += sep+"\n\n\n\n";
+            s += $"Интервал логирования: {LogInterval} сек.\n";
+            s += sep+"\n\n\n\n"; 
             DialogResult result = MessageBox.Show(s, "  Параметры в .ini-файле:"
                 , MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
-        private void ВыходToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            ExitApp("Выход по меню <Выход>");
-        }
-        private void ВыходToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            ExitApp("Выход из меню <Выход>");
-        }
         #endregion --- методы Wlog, WErrLog;  SetPathLog, Add_RTB, ExitApp...
-
         #region --- Действия по кнопкам на форме
-        //private void Btn_ini_Click(object sender, EventArgs e)  // вместо кнопки - тест перечитать ini-файл
-        //{
-        //    ReadParmsIni();
-        //}
         private void Btn_Clear_Click(object sender, EventArgs e) // Кнопка: очистить форму
         {
             RTBout.Clear();
             partNo = 0;
             kRecord = 0;
-        }
-        private void BtnRun_Click(object sender, EventArgs e)   // кнопка Выполнить отчёт с параметрами
-        {
-            // кнопка Выполнить отчёт с параметрами
-            //FormParmRep formParmRep = new FormParmRep(ParmRep.LastRep);
-            //formParmRep.ShowDialog();   // здесь заполнили параметры выбранного отчёта
-
-            MessageBox.Show($"Кто послал: {sender},\n аргументы: {e}.\n", "Выполнить отчёт с параметрами (BtnRun_Click)."
-                , MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         private void Btn_ACK_Click(object sender, EventArgs e)
         {
@@ -788,7 +723,7 @@ namespace Sapphire
             }
         }
         #endregion --- Действия по кнопкам на форме
-        #region --- Дополнительные методы: FormMain, FormResize, GetCheckSum, ...
+        #region --- Дополнительные методы: GetCheckSum, ...
 
         private int GetCheckSum(string t)
         {
