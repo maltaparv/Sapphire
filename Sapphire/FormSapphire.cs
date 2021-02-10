@@ -386,8 +386,19 @@ namespace Sapphire
 
                 if (sRecordType == "R")   // Result "4R|1|^^^1^???????^0| 4.7804|?????/?| 4.2000 TO  6.4000|N||F||||20200415165509"
                 {                         //         0  1 2             3        4       5                  6 78 9012 
-                    string sKod = sField[2].Substring(3, 2);  // CheckSubLength
-                    sKod = Regex.Replace(sKod, "\\^", String.Empty);    // удалить "^" в коде
+                    string sKod = sField[2];  // "^^^1^???????^0"  или пустая строка!!!
+                    Regex reg_kod = new Regex(@"\d+");  // найти первые n цифр: Regex(@"\d+"); первые две цифры: Regex(@"\d{1,2}");
+                    MatchCollection matched_kod = reg_kod.Matches(sKod);
+                    if (matched_kod.Count > 0)
+                        sKod = matched_kod[0].Value.ToString();
+                    else
+                    {
+                        msg1 = $"ERR: Нет кода анализа! kField={kField}, sRecord({i})={sRecord[i]}";
+                        Add_RTB(RTBout, $"\n{dtm} {msg1}.\n", Color.Red);
+                        WLog(msg1);
+                        WErrLog(msg1);
+                    }
+
                     sResult = sField[3].Trim();
                     sEdizm = sField[4].Trim();
                     sRefVal = sField[5].Trim();
@@ -754,7 +765,15 @@ namespace Sapphire
             {
                 #region --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)
                 case "тест 01":    // 2020-MM-DD
-                    Add_RTB(RTBout, $"\n {testSelect}", Color.Blue);
+                    string findkod = "";
+                    string sKod = "^^^1^???????^0";  // "^^^12^???????^0"
+                    Regex rg = new Regex(@"\d{1,2}");  // найти первые n цифр Regex(@"\d+"); первые две цифры Regex(@"\d{1,2}");
+                    MatchCollection matched = rg.Matches(sKod);
+                    if (matched.Count > 0)
+                    {
+                        findkod = matched[0].Value.ToString();
+                    }
+                    Add_RTB(RTBout, $"\n {testSelect}, kod={findkod}.", Color.Blue);
                     break;
                 #endregion --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)
                 case "UTF32":  
