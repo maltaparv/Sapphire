@@ -224,13 +224,8 @@ namespace Sapphire
 
             Stat1.Text = " Приём данных...";
             Stat1.ForeColor = Color.Red;
-            //Pic_Status.Visible = true; ### сделать изменяемую картинку в статусной строке
+            //Pic_Status.Visible = true;  //ToDo сделать изменяемую картинку в статусной строке
             dtm = DateTime.Now;
-            if (dt0.ToString("yyyy-MM-dd") != dtm.ToString("yyyy-MM-dd"))
-            {
-                dt0 = dtm;
-                SetPathLog(); // изменить какалог при смене даты
-            }
 
             if (sModes.IndexOf("Log_receivedParts") != -1)
                 WLog($"receivedData: {receivedData}");
@@ -253,10 +248,10 @@ namespace Sapphire
                 Add_RTB(RTBout, $"{dtm} есть <STX>, ответ: <ACK>.\n", Color.DarkGreen);
             }
             int iEOT = receivedData.IndexOf(EOT);
-            if (iEOT != -1) // есть признак конца <EOT> 04h ((kb == 1) & (lastByte == EOT) )
+            if (iEOT == kb-1) //  есть признак конца <EOT> 04h и это последний байт   ## (iEOT != -1)
             {
                 Add_RTB(RTBout, $"{dtm} есть <EOT>\n", Color.DarkGreen);
-                if (kb != 1)    // должен приходить 1 байт
+                if (iEOT > kb - 1)    // есть данные за концом    ## (kb != 1) должен приходить 1 байт
                 {
                     msg = "ERR: получен признак <EOT> и ещё данные, они не обработаны! :(";
                     Add_RTB(RTBout, $"{dtm} {msg}\n", Color.Red);
@@ -372,23 +367,24 @@ namespace Sapphire
                     }
                     sHist = sField[5].Trim();
                     matched = rg.Matches(sHist);
-                    sDigits = Regex.Split(sHist, patternHistN);
                     HistoryNumber = "0";
-                    for (int j = 0; j < matched.Count; j++)
-                    {
-                        if (matched[j].Value.Length != 0)
-                        {
-                            HistoryNumber = matched[j].Value;
-                            break;  // результат д.б. в первой непустой
-                        }
-                    }
+                    //for (int j = 0; j < matched.Count; j++)
+                    //{
+                    //    if (matched[j].Value.Length != 0)
+                    //    {
+                    //        HistoryNumber = matched[j].Value;
+                    //        break;  // результат д.б. в первой непустой
+                    //    }
+                    //}
+                    if (matched.Count>0)
+                        HistoryNumber = matched[0].Value;
                 }
 
                 if (sRecordType == "R")   // Result "4R|1|^^^1^???????^0| 4.7804|?????/?| 4.2000 TO  6.4000|N||F||||20200415165509"
                 {                         //         0  1 2             3        4       5                  6 78 9012 
                     string sKod = sField[2];  // "^^^1^???????^0"  или пустая строка!!!
                     Regex reg_kod = new Regex(@"\d+");  // найти первые n цифр: Regex(@"\d+"); первые две цифры: Regex(@"\d{1,2}");
-                    MatchCollection matched_kod = reg_kod.Matches(sKod);
+                    MatchCollection matched_kod = reg_kod.Matches(sKod); // fix 2021-02-10
                     if (matched_kod.Count > 0)
                         sKod = matched_kod[0].Value.ToString();
                     else
@@ -460,10 +456,6 @@ namespace Sapphire
         #endregion --- Парсинг данных из строки и формирование строки SQL Insert        // ---
         private void ToSQL(string st) // запись в MS-SQL сформированной строки
         {
-            //if (IsControl) // контроли пропускаем
-            ///    return;
-
-            //using (SqlConnection sqlConn = new SqlConnection(Properties.Settings.Default.connStr))
             using (SqlConnection sqlConn = new SqlConnection(connStr))
             {
                 //SqlCommand sqlCmd = new SqlCommand("INSERT INTO [AnalyzerResults]([Analyzer_Id],[ResultText],[ResultDate],[Hostname],[HistoryNumber])VALUES(@AnalyzerId,@ResultText,GETDATE(),@PCname,@HistoryNumber)", sqlConn);
@@ -556,7 +548,7 @@ namespace Sapphire
             LogInterval = Convert.ToInt32(str);
             // секция [LogFiles]
             PathLogDir = iniFile.GetPrivateString("LogFiles", "PathLogDir");
-            SetPathLog();
+            //SetPathLog();  // Fixed 2021-02-11
             PathErrLog = iniFile.GetPrivateString("LogFiles", "PathErrLog");
 
             // секция [Modes]  Режимы работы 
@@ -598,10 +590,15 @@ namespace Sapphire
             PathLog = PathLogGodMes + @"\" + $"{AppName}_" + dtm.ToString("yyyy-MM-dd") + ".txt";
         }
         private static void WLog(string st) // записать в лог FLog
-        {
+        { 
+            dtm = DateTime.Now;
+            PathLogDir = Path.GetFullPath(PathLogDir + @"\.");
+            string PathLogGodMes = PathLogDir + @"\" + dtm.ToString("yyyy-MM");
+            if (!Directory.Exists(PathLogGodMes))
+                Directory.CreateDirectory(PathLogGodMes);
+            PathLog = PathLogGodMes + @"\" + $"{AppName}_" + dtm.ToString("yyyy-MM-dd") + ".txt";
             FileStream fn = new FileStream(PathLog, FileMode.Append);
             StreamWriter sw = new StreamWriter(fn, Encoding.GetEncoding(1251));
-            dtm = DateTime.Now;
             string ss = dtm.ToString("yyyy-MM-dd HH:mm:ss").Replace("-", ".");
             sw.WriteLine($"{ss} {st}");
             sw.Close();
@@ -611,15 +608,6 @@ namespace Sapphire
             string fnPathErrLog = PathErrLog + @"\Log_ERR.txt";
             fnPathErrLog = Path.GetFullPath(fnPathErrLog);
             FileStream fn = new FileStream(fnPathErrLog, FileMode.Append);
-            StreamWriter sw = new StreamWriter(fn, Encoding.GetEncoding(1251));
-            dtm = DateTime.Now;
-            string ss = dtm.ToString("yyyy-MM-dd HH:mm:ss").Replace("-", ".");
-            sw.WriteLine($"\n{ss} {st}");
-            sw.Close();
-        }
-        private static void WTest(string FileNam, string st) // записать в FileNam.txt
-        {
-            FileStream fn = new FileStream(PathErrLog + "\\" + FileNam + ".txt", FileMode.Append);
             StreamWriter sw = new StreamWriter(fn, Encoding.GetEncoding(1251));
             dtm = DateTime.Now;
             string ss = dtm.ToString("yyyy-MM-dd HH:mm:ss").Replace("-", ".");
@@ -646,9 +634,8 @@ namespace Sapphire
             // или: rtbOut.Select(p1, p2);
             //      SendKeys.Send("^{END}");  // это прокрутка в конец :)
         }
-        private void Form1_FormClosing(object sender, FormClosingEventArgs e) // закрыть App
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e) // Закрытие формы - FormClosing
         {
-            // Закрытие формы - FormClosing
             msg = "Завершение работы.";
             DialogResult result = MessageBox.Show("Вы действительно хотите завершить работу? \n\n   Результаты передаваться не будут!"
                 , msg, MessageBoxButtons.YesNo, MessageBoxIcon.Question);
@@ -661,7 +648,6 @@ namespace Sapphire
             }
             WLog("--- " + msg);
             Environment.Exit(0);
-            //ExitApp(mess);
         }
         private static void ExitApp(string mess, int ErrCode = 1001) // Завершение работы по ошибке.
         {
@@ -673,8 +659,6 @@ namespace Sapphire
         }
         private static void ExitApp(string mess) // Нормальное завершение работы (по кнопке Х)
         {
-            //    WLog("--- передумал выходить :) ");
-            //    return; // просто передумал :)
             WLog("--- " + mess);
             Environment.Exit(0);
         }
@@ -703,8 +687,9 @@ namespace Sapphire
             //s += $"IP: {myIP}\n";
             s += sep;
             s += $"путь к логам:\n";
-            s += $"PathLog: {PathLog}\n";
-            s += $"PathLogDir: {PathLogDir}\n";
+            s += $"PathLog: {PathLog}\n";       // текущий (с датой)
+            s += $"PathLogDir: {PathLogDir}\n"; // начальный (в .ini)
+            s += $"PathErrLog: {PathErrLog}\n";
             s += $"PathIni: {PathIni}\n";
             s += sep;
             s += $"Режимы работы: {sModes}\n";
@@ -767,12 +752,10 @@ namespace Sapphire
                 case "тест 01":    // 2020-MM-DD
                     string findkod = "";
                     string sKod = "^^^1^???????^0";  // "^^^12^???????^0"
-                    Regex rg = new Regex(@"\d{1,2}");  // найти первые n цифр Regex(@"\d+"); первые две цифры Regex(@"\d{1,2}");
+                    Regex rg = new Regex(@"\d+");    // найти первые n цифр: Regex(@"\d+"); первые две цифры: Regex(@"\d{1,2}");
                     MatchCollection matched = rg.Matches(sKod);
                     if (matched.Count > 0)
-                    {
                         findkod = matched[0].Value.ToString();
-                    }
                     Add_RTB(RTBout, $"\n {testSelect}, kod={findkod}.", Color.Blue);
                     break;
                 #endregion --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)

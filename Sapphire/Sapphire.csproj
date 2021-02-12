@@ -107,8 +107,6 @@
     <Content Include="Resources\Go_Green_22x22.png" />
     <Content Include="Resources\Skype01_b.ico" />
     <Content Include="Resources\Skype01_bw.ico" />
-    <Content Include="Resources\Skype02_b.ico" />
-    <Content Include="Resources\Skype03_b.ico" />
     <Content Include="Skype01_b.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
