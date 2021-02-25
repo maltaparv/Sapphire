@@ -1,0 +1,40 @@
+2021.02.15 12:56:05 --- Запуск Sapphire ASU-911 user Версия 1.0.67.240 от 2021.2.11.1335
+2021.02.15 13:24:26 Отправлено подтверждение <ACK> (06h) по кнопке.
+2021.02.15 13:38:08 --- Завершение работы.
+2021.02.15 13:47:46 --- Запуск Sapphire ASU-911 user Версия 1.0.67.240 от 2021.2.11.1335
+2021.02.15 13:49:52 receivedData: Г
+2021.02.15 13:49:52 receivedData: Л
+2021.02.15 13:49:52 receivedData: Ю
+2021.02.15 13:49:52 receivedData: К
+2021.02.15 13:49:52 receivedData: О
+2021.02.15 13:49:52 receivedData: З
+2021.02.15 13:49:52 receivedData: А
+2021.02.15 13:49:52 receivedData: 
+2021.02.15 13:49:52 receivedData: 1
+2021.02.15 13:49:52 receivedData: 2
+2021.02.15 13:49:52 receivedData: 3
+2021.02.15 13:49:52 receivedData: 4
+2021.02.15 13:49:52 receivedData: 5
+2021.02.15 13:49:52 receivedData: 6
+2021.02.15 13:49:52 receivedData: 7
+2021.02.15 13:49:52 receivedData: 8
+2021.02.15 13:49:52 receivedData: 9
+2021.02.15 13:49:52 receivedData: 0
+2021.02.15 13:49:52 receivedData: 
+2021.02.15 13:49:52 receivedData: г
+2021.02.15 13:49:52 receivedData: л
+2021.02.15 13:49:52 receivedData: ю
+2021.02.15 13:49:52 receivedData: к
+2021.02.15 13:49:52 receivedData: о
+2021.02.15 13:49:52 receivedData: з
+2021.02.15 13:49:52 receivedData: а
+2021.02.15 13:49:52 receivedData: 
+2021.02.15 13:49:52 receivedData: A
+2021.02.15 13:49:52 receivedData: B
+2021.02.15 13:49:52 receivedData: C
+2021.02.15 13:49:52 receivedData: D
+2021.02.15 13:49:52 receivedData: E
+2021.02.15 13:49:52 receivedData: F
+2021.02.15 13:49:52 receivedData: G
+2021.02.15 13:49:52 receivedData: 
+2021.02.15 13:50:57 Q Encoding: 1251

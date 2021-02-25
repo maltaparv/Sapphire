@@ -367,7 +367,7 @@ namespace Sapphire
                     }
                     sHist = sField[5].Trim();
                     matched = rg.Matches(sHist);
-                    HistoryNumber = "0";
+                    //HistoryNumber = "0";
                     //for (int j = 0; j < matched.Count; j++)
                     //{
                     //    if (matched[j].Value.Length != 0)
@@ -378,6 +378,8 @@ namespace Sapphire
                     //}
                     if (matched.Count>0)
                         HistoryNumber = matched[0].Value;
+                    if (HistoryNumber.Length==0)
+                        HistoryNumber = "0";
                 }
 
                 if (sRecordType == "R")   // Result "4R|1|^^^1^???????^0| 4.7804|?????/?| 4.2000 TO  6.4000|N||F||||20200415165509"
