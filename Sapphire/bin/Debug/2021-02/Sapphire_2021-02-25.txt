@@ -2054,3 +2054,90 @@
 2021.02.25 12:11:24 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ResultText) values (11, host_name(), 0, GetDate(), 8 , '1', '14.7935', '4.200° TO 6.400°', '5', '44.2998', 'длина больше 16', '7', '383.0346', 'длина больше 16', '8', '18.7425', '1.700° TO 8.300°', '9', '155.3841', 'длина больше 16', '10', '148.2806', 'длина больше 16', '11', '256.9894', 'длина больше 16', '16', '101.1762', 'длина больше 16', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202102241254032P|1|2102240077||ь??ї?ї?ї?^||ьU||ь|ь3O|1||^1^77|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю16^??ї.??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F4R|1|^^Ю1^??ї?ї?ї^0|14.7935|??ї?ї/?| 4.200° TO  6.400°|H||F||ь|202102241253485R|2|^^Ю5^??.??ї^0|44.2998|?/?|64.00°0 TO 83.00°0|L||F||ь|202102241252476R|3|^^Ю7^??ї?ї-?^0|383.0346|??ї?ї?/?|71.00°0 TO 115.00°0|H||F||ь|2021022412533і7R|4|^^Ю8^??ї?ї?ї?^0|18.7425|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202102241252020R|5|^^Ю9^??ї^0|155.3841|??/?| 0.00°0 TO 40.00°0|H||F||ь|202102241253181R|6|^^Ю10^??ї^0|148.2806|??/?| 0.00°0 TO 37.00°0|H||P||ь|202102241253022C|1|I|C|I3R|7|^^Ю11^??ї?ї?ї^0|256.9894|??/?|28.00°0 TO 100.00°0|H||F||ь|202102241252174R|8|^^Ю16^??ї.??^0|101.1762|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202102241252325L|1|N');
 2021.02.25 12:11:24 receivedData: 
 2021.02.25 12:11:24 receivedData: 
+2021.02.25 15:54:37 receivedData: 
+2021.02.25 15:54:37 receivedData: 1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210225131458EE2Q|1|ALL||ALL||ь|ь|ь|O953L|1|N061H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210225132144E72Q|1|ALL||ALL||ь|ь|ь|O953L|1|N06
+2021.02.25 15:54:37 receivedData: 
+2021.02.25 15:54:37 Получено для парсинга 203 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202102251314582Q|1|ALL||ALL||ь|ь|ь|O3L|1|N1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202102251321442Q|1|ALL||ALL||ь|ь|ь|O3L|1|N
+2021.02.25 15:54:37 Кол-во анализов = 0: пропускаем, в SQL не пишем.
+2021.02.25 15:54:37 receivedData: 
+2021.02.25 15:54:37 receivedData: 
+2021.02.25 15:54:37 receivedData: 
+2021.02.25 15:54:37 receivedData: 
+2021.02.25 15:54:37 receivedData: 1
+2021.02.25 15:54:38 receivedData: H
+2021.02.25 15:54:38 receivedData: |
+2021.02.25 15:54:38 receivedData: \
+2021.02.25 15:54:38 receivedData: ^
+2021.02.25 15:54:38 receivedData: &
+2021.02.25 15:54:38 receivedData: |
+2021.02.25 15:54:38 receivedData: |
+2021.02.25 15:54:38 receivedData: ь
+2021.02.25 15:54:38 receivedData: B
+2021.02.25 15:54:38 receivedData: i
+2021.02.25 15:54:38 receivedData: O
+2021.02.25 15:54:38 receivedData: L
+2021.02.25 15:54:38 receivedData: i
+2021.02.25 15:54:38 receivedData: S
+2021.02.25 15:54:38 receivedData:  
+2021.02.25 15:54:38 receivedData: N
+2021.02.25 15:54:38 receivedData: EO
+2021.02.25 15:54:38 receivedData: ^
+2021.02.25 15:54:38 receivedData: S
+2021.02.25 15:54:38 receivedData: Y
+2021.02.25 15:54:38 receivedData: S
+2021.02.25 15:54:38 receivedData: T
+2021.02.25 15:54:38 receivedData: E
+2021.02.25 15:54:39 receivedData: M
+2021.02.25 15:54:39 receivedData: 1
+2021.02.25 15:54:39 receivedData: |
+2021.02.25 15:54:39 receivedData: |ь
+2021.02.25 15:54:39 receivedData: |
+2021.02.25 15:54:39 receivedData: ь
+2021.02.25 15:54:39 receivedData: H
+2021.02.25 15:54:39 receivedData: O
+2021.02.25 15:54:39 receivedData: S
+2021.02.25 15:54:39 receivedData: T
+2021.02.25 15:54:39 receivedData: ^P
+2021.02.25 15:54:39 receivedData: _1
+2021.02.25 15:54:39 receivedData: |
+2021.02.25 15:54:39 receivedData: |
+2021.02.25 15:54:39 receivedData: P
+2021.02.25 15:54:39 receivedData: |1
+2021.02.25 15:54:39 receivedData: |
+2021.02.25 15:54:39 receivedData: 2
+2021.02.25 15:54:40 receivedData: 02
+2021.02.25 15:54:40 receivedData: 1
+2021.02.25 15:54:40 receivedData: 0
+2021.02.25 15:54:40 receivedData: 2
+2021.02.25 15:54:40 receivedData: 2
+2021.02.25 15:54:40 receivedData: 5132
+2021.02.25 15:54:40 receivedData: 9
+2021.02.25 15:54:40 receivedData: 4
+2021.02.25 15:54:40 receivedData: 0
+2021.02.25 15:54:40 receivedData: 
+2021.02.25 15:54:40 receivedData: 
+2021.02.25 15:54:40 receivedData: E
+2021.02.25 15:54:40 receivedData: B
+2021.02.25 15:54:40 receivedData: 
+2021.02.25 15:54:40 receivedData: 
+2021.02.25 15:54:40 receivedData: 2
+2021.02.25 15:54:40 receivedData: P
+2021.02.25 15:54:40 receivedData: |
+2021.02.25 15:54:40 receivedData: 1
+2021.02.25 15:54:40 receivedData: |
+2021.02.25 15:54:40 receivedData: 2
+2021.02.25 15:54:40 receivedData: 1
+2021.02.25 15:54:40 receivedData: 0
+2021.02.25 15:54:40 receivedData: 2
+2021.02.25 15:54:40 receivedData: 2
+2021.02.25 15:54:41 receivedData: 5
+2021.02.25 15:54:41 receivedData: 0
+2021.02.25 15:54:41 receivedData: 0
+2021.02.25 15:54:41 receivedData: 1
+2021.02.25 15:54:41 receivedData: 9
+2021.02.25 15:54:41 receivedData: |
+2021.02.25 15:54:41 receivedData: |
+2021.02.25 15:54:41 receivedData: ь
+2021.02.25 15:54:41 receivedData: 1
+2021.02.25 15:54:41 receivedData: 0182 ^ ??ї?ї?ї ? ?  ??ї1||ьU||ь|ь993O|1||^1^19|^^Ю1^??ї?ї?ї^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FCA4R|1|^^Ю1^??ї?ї?ї^0|11.1561|??ї?ї/?| 4.200° TO  6.400°|H||F||ь|202102251329264F5L|1|N081H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210225132956F22P|1|2102250020||ь10038 ^ ??ї?ї?ї?ї ? ?  ??ї1||ьU||ь|ь0F3O|1||^1^20|^^Ю1^??ї?ї?ї^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FC24R|1|^^Ю1^??ї?ї?ї^0| 4.7294|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|202102251329414D5L|1|N08

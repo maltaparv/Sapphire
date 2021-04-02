@@ -347,15 +347,22 @@ namespace Sapphire
             //string patternHistN = @"\d{0,6}";   // для выделения HistoryNumber  2020-04-24 - сделать в параметрах ini-файла! 
             Regex rg = new Regex(patternHistN);
             MatchCollection matched;
-            string[] sDigits;
-            string sHist = "";  // " 25781/ ТЕСТОВЫЙ АФ АРО1";   "?16512 ^??????? ?.?. ???1"  - это первоначальная строка с номером ИБ, ФИО, ...
-
+            string sHist;  // " 25781/ ТЕСТОВЫЙ АФ АРО1";   "?16512 ^??????? ?.?. ???1"  - это первоначальная строка с номером ИБ, ФИО, ...
             string[] sRecord = inputString.Split(new string[] { CR, LF, ENQ, STX, EOT }, StringSplitOptions.RemoveEmptyEntries);
             int ks = sRecord.Count();
             for (int i = 0; i < ks; i++)  // по количеству строк в переданных результатах пациента
             {
                 string[] sField = sRecord[i].Split('|');
                 int kField = sField.Count();
+                // CheckSubLength
+                if (sRecord[i].Length<2)
+                {
+                    msg1 = $"ERR: Ошибка в данных: короткая {i}-я строка={sRecord[i]}.";
+                    Add_RTB(RTBout, $"\n{dtm} {msg1}.\n", Color.Red);
+                    WLog(msg1);
+                    WErrLog(msg1);
+                    continue;
+                }
                 string sRecordType = sRecord[i].Substring(1, 1);  // CheckSubLength
                 if (sRecordType == "P")     // Patient  "2P|1|2020040150101|||19576 ^??????? ?.?   ???|||U|||||"
                 {                           //           0  1 2            345                        67 
