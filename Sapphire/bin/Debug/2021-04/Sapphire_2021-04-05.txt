@@ -1,0 +1,3520 @@
+2021.04.05 12:03:28 --- Запуск Sapphire ASU-911 user Версия 1.0.67.245 от 2021.4.5.0902
+2021.04.05 12:05:04 receivedData: 1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210401160604E52P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ьA63O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD34445R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634113B6R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632102B7R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|20210401063255D60R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|20210401063109951R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|20210401063240A32R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|20210401063225063R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631242C4R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°
+2021.04.05 12:05:05 receivedData: 0 TO 195.00°0|H||F||ь|202104010633413E5R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633567F6R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|20210401063326D37R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|20210401063310830R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|20210401063139A61R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|20210401063155942R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|20210401063426163L|1|N06
+2021.04.05 12:05:05 ERR: Ошибка в данных: короткая 3-я строка=4.
+2021.04.05 12:05:06 Получено для парсинга 1478 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F45R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N
+2021.04.05 12:05:06 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ResultText) values (11, host_name(), 0, GetDate(), 14 , '1', '1.1529', '4.200° TO 6.400°', '5', '56.1505', 'длина больше 16', '7', '27.0224', 'длина больше 16', '8', '41.3238', '1.700° TO 8.300°', '9', '77.6034', 'длина больше 16', '10', '195.5502', 'длина больше 16', '11', '78.9669', 'длина больше 16', '12', '215.5272', 'длина больше 16', '13', '7.8414', 'длина больше 16', '14', '1012.6040', 'длина больше 16', '15', '56.9256', 'длина больше 16', '16', '25.1580', 'длина больше 16', '17', '6.9215', '0.00°0 TO 6.800°', '18', '5.7643', '0.00°0 TO 5.00°0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F45R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N');
+2021.04.05 12:06:11 --- передумал выходить :) UserClosing No
+2021.04.05 12:06:51 receivedData: 
+2021.04.05 12:06:53 receivedData: 
+2021.04.05 12:08:01 receivedData: 
+2021.04.05 12:08:01 receivedData: 
+2021.04.05 12:08:01 receivedData: 
+2021.04.05 12:08:01 receivedData: 1
+2021.04.05 12:08:01 receivedData: H
+2021.04.05 12:08:01 receivedData: |\^&
+2021.04.05 12:08:01 receivedData: ||ьBiOLiS NEO^S
+2021.04.05 12:08:01 receivedData: Y
+2021.04.05 12:08:01 receivedData: S
+2021.04.05 12:08:01 receivedData: T
+2021.04.05 12:08:01 receivedData: E
+2021.04.05 12:08:01 receivedData: M
+2021.04.05 12:08:01 receivedData: 1
+2021.04.05 12:08:02 receivedData: |
+2021.04.05 12:08:02 receivedData: |
+2021.04.05 12:08:02 receivedData: ь
+2021.04.05 12:08:02 receivedData: |
+2021.04.05 12:08:02 receivedData: ь
+2021.04.05 12:08:02 receivedData: H
+2021.04.05 12:08:02 receivedData: O
+2021.04.05 12:08:02 receivedData: S
+2021.04.05 12:08:02 receivedData: T
+2021.04.05 12:08:02 receivedData: ^
+2021.04.05 12:08:02 receivedData: P
+2021.04.05 12:08:02 receivedData: _
+2021.04.05 12:08:02 receivedData: 1
+2021.04.05 12:08:02 receivedData: |
+2021.04.05 12:08:02 receivedData: |
+2021.04.05 12:08:02 receivedData: P
+2021.04.05 12:08:02 receivedData: |
+2021.04.05 12:08:02 receivedData: 1
+2021.04.05 12:08:02 receivedData: |
+2021.04.05 12:08:02 receivedData: 2
+2021.04.05 12:08:02 receivedData: 0
+2021.04.05 12:08:02 receivedData: 2
+2021.04.05 12:08:02 receivedData: 1
+2021.04.05 12:08:02 receivedData: 0401160604E52P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ьA63O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7
+2021.04.05 12:08:02 receivedData: ^
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ?ї
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ї
+2021.04.05 12:08:02 receivedData: -
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ^
+2021.04.05 12:08:02 receivedData: 0
+2021.04.05 12:08:02 receivedData: \
+2021.04.05 12:08:02 receivedData: ^
+2021.04.05 12:08:02 receivedData: ^
+2021.04.05 12:08:02 receivedData: Ю
+2021.04.05 12:08:02 receivedData: 8
+2021.04.05 12:08:02 receivedData: ^
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ї
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ї
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ї
+2021.04.05 12:08:02 receivedData: ?
+2021.04.05 12:08:02 receivedData: ^
+2021.04.05 12:08:02 receivedData: 0
+2021.04.05 12:08:03 receivedData: \
+2021.04.05 12:08:03 receivedData: ^
+2021.04.05 12:08:03 receivedData: ^
+2021.04.05 12:08:03 receivedData: Ю
+2021.04.05 12:08:03 receivedData: 9
+2021.04.05 12:08:03 receivedData: ^
+2021.04.05 12:08:03 receivedData: ?
+2021.04.05 12:08:03 receivedData: ?ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD34445R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634113B6R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632102B7R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|20210401063255D60R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||
+2021.04.05 12:08:03 receivedData: ь
+2021.04.05 12:08:03 receivedData: |
+2021.04.05 12:08:03 receivedData: 2
+2021.04.05 12:08:03 receivedData: 0
+2021.04.05 12:08:03 receivedData: 2
+2021.04.05 12:08:03 receivedData: 1
+2021.04.05 12:08:03 receivedData: 04
+2021.04.05 12:08:03 receivedData: 0
+2021.04.05 12:08:03 receivedData: 1
+2021.04.05 12:08:03 receivedData: 0
+2021.04.05 12:08:03 receivedData: 6
+2021.04.05 12:08:03 receivedData: 3
+2021.04.05 12:08:03 receivedData: 1
+2021.04.05 12:08:03 receivedData: 0
+2021.04.05 12:08:03 receivedData: 9
+2021.04.05 12:08:03 receivedData: 
+2021.04.05 12:08:03 receivedData: 
+2021.04.05 12:08:03 receivedData: 9
+2021.04.05 12:08:03 receivedData: 5
+2021.04.05 12:08:03 receivedData: 
+2021.04.05 12:08:03 receivedData: 
+2021.04.05 12:08:03 receivedData: 1
+2021.04.05 12:08:03 receivedData: R
+2021.04.05 12:08:03 receivedData: |
+2021.04.05 12:08:03 receivedData: 5
+2021.04.05 12:08:03 receivedData: |
+2021.04.05 12:08:03 receivedData: ^
+2021.04.05 12:08:03 receivedData: ^
+2021.04.05 12:08:03 receivedData: Ю
+2021.04.05 12:08:03 receivedData: 9
+2021.04.05 12:08:03 receivedData: ^?
+2021.04.05 12:08:03 receivedData: ?ї
+2021.04.05 12:08:04 receivedData: ^0
+2021.04.05 12:08:04 receivedData: |7
+2021.04.05 12:08:04 receivedData: 7
+2021.04.05 12:08:04 receivedData: .
+2021.04.05 12:08:04 receivedData: 6
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: 34
+2021.04.05 12:08:04 receivedData: |
+2021.04.05 12:08:04 receivedData: ?
+2021.04.05 12:08:04 receivedData: ?
+2021.04.05 12:08:04 receivedData: /
+2021.04.05 12:08:04 receivedData: ?
+2021.04.05 12:08:04 receivedData: |
+2021.04.05 12:08:04 receivedData:  
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: .
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: °
+2021.04.05 12:08:04 receivedData: 0 
+2021.04.05 12:08:04 receivedData: T
+2021.04.05 12:08:04 receivedData: O
+2021.04.05 12:08:04 receivedData:  
+2021.04.05 12:08:04 receivedData: 4
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: .
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: °
+2021.04.05 12:08:04 receivedData: 0
+2021.04.05 12:08:04 receivedData: |
+2021.04.05 12:08:04 receivedData: H
+2021.04.05 12:08:04 receivedData: |
+2021.04.05 12:08:04 receivedData: |
+2021.04.05 12:08:04 receivedData: F
+2021.04.05 12:08:04 receivedData: |
+2021.04.05 12:08:04 receivedData: |
+2021.04.05 12:08:05 receivedData: ь
+2021.04.05 12:08:05 receivedData: |
+2021.04.05 12:08:05 receivedData: 2
+2021.04.05 12:08:05 receivedData: 0
+2021.04.05 12:08:05 receivedData: 2
+2021.04.05 12:08:05 receivedData: 1
+2021.04.05 12:08:05 receivedData: 0
+2021.04.05 12:08:05 receivedData: 4
+2021.04.05 12:08:05 receivedData: 0
+2021.04.05 12:08:05 receivedData: 1
+2021.04.05 12:08:05 receivedData: 0
+2021.04.05 12:08:05 receivedData: 6
+2021.04.05 12:08:05 receivedData: 3
+2021.04.05 12:08:05 receivedData: 2
+2021.04.05 12:08:05 receivedData: 4
+2021.04.05 12:08:05 receivedData: 0
+2021.04.05 12:08:05 receivedData: 
+2021.04.05 12:08:05 receivedData: 
+2021.04.05 12:08:05 receivedData: A
+2021.04.05 12:08:05 receivedData: 3
+2021.04.05 12:08:05 receivedData: 
+2021.04.05 12:08:05 receivedData: 
+2021.04.05 12:08:05 receivedData: 2
+2021.04.05 12:08:05 receivedData: R
+2021.04.05 12:08:05 receivedData: |
+2021.04.05 12:08:05 receivedData: 6
+2021.04.05 12:08:05 receivedData: |
+2021.04.05 12:08:05 receivedData: ^
+2021.04.05 12:08:05 receivedData: ^
+2021.04.05 12:08:05 receivedData: Ю
+2021.04.05 12:08:05 receivedData: 1
+2021.04.05 12:08:05 receivedData: 0
+2021.04.05 12:08:05 receivedData: ^
+2021.04.05 12:08:05 receivedData: ?
+2021.04.05 12:08:05 receivedData: ?
+2021.04.05 12:08:05 receivedData: ї
+2021.04.05 12:08:05 receivedData: ^
+2021.04.05 12:08:05 receivedData: 0
+2021.04.05 12:08:05 receivedData: |
+2021.04.05 12:08:06 receivedData: 1
+2021.04.05 12:08:06 receivedData: 9
+2021.04.05 12:08:06 receivedData: 5
+2021.04.05 12:08:06 receivedData: .
+2021.04.05 12:08:06 receivedData: 5
+2021.04.05 12:08:06 receivedData: 5
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:06 receivedData: 2
+2021.04.05 12:08:06 receivedData: |
+2021.04.05 12:08:06 receivedData: ?
+2021.04.05 12:08:06 receivedData: ?
+2021.04.05 12:08:06 receivedData: /
+2021.04.05 12:08:06 receivedData: ?
+2021.04.05 12:08:06 receivedData: |
+2021.04.05 12:08:06 receivedData:  
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:06 receivedData: .
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:06 receivedData: °
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:06 receivedData:  
+2021.04.05 12:08:06 receivedData: T
+2021.04.05 12:08:06 receivedData: O
+2021.04.05 12:08:06 receivedData:  
+2021.04.05 12:08:06 receivedData: 3
+2021.04.05 12:08:06 receivedData: 7
+2021.04.05 12:08:06 receivedData: .
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:06 receivedData: °
+2021.04.05 12:08:06 receivedData: 0
+2021.04.05 12:08:08 receivedData: |
+2021.04.05 12:08:08 receivedData: H
+2021.04.05 12:08:08 receivedData: |
+2021.04.05 12:08:08 receivedData: |
+2021.04.05 12:08:08 receivedData: F
+2021.04.05 12:08:08 receivedData: |
+2021.04.05 12:08:08 receivedData: |
+2021.04.05 12:08:08 receivedData: ь
+2021.04.05 12:08:08 receivedData: |
+2021.04.05 12:08:08 receivedData: 2
+2021.04.05 12:08:08 receivedData: 0
+2021.04.05 12:08:08 receivedData: 2
+2021.04.05 12:08:08 receivedData: 1
+2021.04.05 12:08:08 receivedData: 0
+2021.04.05 12:08:08 receivedData: 4
+2021.04.05 12:08:08 receivedData: 0
+2021.04.05 12:08:08 receivedData: 1
+2021.04.05 12:08:09 receivedData: 0
+2021.04.05 12:08:09 receivedData: 6
+2021.04.05 12:08:09 receivedData: 3
+2021.04.05 12:08:09 receivedData: 2
+2021.04.05 12:08:09 receivedData: 2
+2021.04.05 12:08:09 receivedData: 5
+2021.04.05 12:08:09 receivedData: 
+2021.04.05 12:08:09 receivedData: 
+2021.04.05 12:08:09 receivedData: 0
+2021.04.05 12:08:09 receivedData: 6
+2021.04.05 12:08:09 receivedData: 
+2021.04.05 12:08:09 receivedData: 
+2021.04.05 12:08:09 receivedData: 3
+2021.04.05 12:08:09 receivedData: R
+2021.04.05 12:08:09 receivedData: |
+2021.04.05 12:08:09 receivedData: 7
+2021.04.05 12:08:09 receivedData: |
+2021.04.05 12:08:09 receivedData: ^
+2021.04.05 12:08:09 receivedData: ^
+2021.04.05 12:08:09 receivedData: Ю
+2021.04.05 12:08:09 receivedData: 1
+2021.04.05 12:08:09 receivedData: 1^
+2021.04.05 12:08:09 receivedData: ?
+2021.04.05 12:08:09 receivedData: ?ї
+2021.04.05 12:08:09 receivedData: ?
+2021.04.05 12:08:09 receivedData: ї
+2021.04.05 12:08:09 receivedData: ?
+2021.04.05 12:08:09 receivedData: ї
+2021.04.05 12:08:09 receivedData: ^
+2021.04.05 12:08:10 receivedData: 0
+2021.04.05 12:08:10 receivedData: |
+2021.04.05 12:08:10 receivedData: 7
+2021.04.05 12:08:10 receivedData: 8
+2021.04.05 12:08:10 receivedData: .
+2021.04.05 12:08:10 receivedData: 9
+2021.04.05 12:08:10 receivedData: 6
+2021.04.05 12:08:10 receivedData: 6
+2021.04.05 12:08:10 receivedData: 9
+2021.04.05 12:08:10 receivedData: |
+2021.04.05 12:08:10 receivedData: ?
+2021.04.05 12:08:10 receivedData: ?
+2021.04.05 12:08:10 receivedData: /
+2021.04.05 12:08:10 receivedData: ?
+2021.04.05 12:08:10 receivedData: |
+2021.04.05 12:08:10 receivedData: 2
+2021.04.05 12:08:10 receivedData: 8
+2021.04.05 12:08:10 receivedData: .
+2021.04.05 12:08:10 receivedData: 0
+2021.04.05 12:08:10 receivedData: 0
+2021.04.05 12:08:10 receivedData: °
+2021.04.05 12:08:10 receivedData: 0
+2021.04.05 12:08:10 receivedData:  
+2021.04.05 12:08:10 receivedData: T
+2021.04.05 12:08:10 receivedData: O
+2021.04.05 12:08:10 receivedData:  
+2021.04.05 12:08:10 receivedData: 1
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: .
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: °
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: |
+2021.04.05 12:08:11 receivedData: N
+2021.04.05 12:08:11 receivedData: |
+2021.04.05 12:08:11 receivedData: |
+2021.04.05 12:08:11 receivedData: F
+2021.04.05 12:08:11 receivedData: |
+2021.04.05 12:08:11 receivedData: |
+2021.04.05 12:08:11 receivedData: ь
+2021.04.05 12:08:11 receivedData: |
+2021.04.05 12:08:11 receivedData: 2
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: 2
+2021.04.05 12:08:11 receivedData: 1
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: 4
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: 1
+2021.04.05 12:08:11 receivedData: 0
+2021.04.05 12:08:11 receivedData: 6
+2021.04.05 12:08:11 receivedData: 3
+2021.04.05 12:08:11 receivedData: 1
+2021.04.05 12:08:11 receivedData: 2
+2021.04.05 12:08:11 receivedData: 4
+2021.04.05 12:08:11 receivedData: 
+2021.04.05 12:08:12 receivedData: 
+2021.04.05 12:08:12 receivedData: 2
+2021.04.05 12:08:12 receivedData: C
+2021.04.05 12:08:12 receivedData: 
+2021.04.05 12:08:12 receivedData: 
+2021.04.05 12:08:12 receivedData: 4
+2021.04.05 12:08:12 receivedData: R
+2021.04.05 12:08:12 receivedData: |
+2021.04.05 12:08:12 receivedData: 8
+2021.04.05 12:08:12 receivedData: |
+2021.04.05 12:08:12 receivedData: ^
+2021.04.05 12:08:12 receivedData: ^
+2021.04.05 12:08:12 receivedData: Ю
+2021.04.05 12:08:12 receivedData: 1
+2021.04.05 12:08:12 receivedData: 2
+2021.04.05 12:08:12 receivedData: ^
+2021.04.05 12:08:12 receivedData: ?
+2021.04.05 12:08:12 receivedData: ?
+2021.04.05 12:08:12 receivedData: ї
+2021.04.05 12:08:12 receivedData: .
+2021.04.05 12:08:12 receivedData: ?
+2021.04.05 12:08:12 receivedData: ?
+2021.04.05 12:08:12 receivedData: ї
+2021.04.05 12:08:12 receivedData: ^
+2021.04.05 12:08:12 receivedData: 0
+2021.04.05 12:08:12 receivedData: |
+2021.04.05 12:08:12 receivedData: 2
+2021.04.05 12:08:12 receivedData: 1
+2021.04.05 12:08:12 receivedData: 5
+2021.04.05 12:08:12 receivedData: .
+2021.04.05 12:08:12 receivedData: 5
+2021.04.05 12:08:12 receivedData: 2
+2021.04.05 12:08:13 receivedData: 7
+2021.04.05 12:08:13 receivedData: 2
+2021.04.05 12:08:13 receivedData: |
+2021.04.05 12:08:13 receivedData: ?
+2021.04.05 12:08:13 receivedData: ?
+2021.04.05 12:08:13 receivedData: /
+2021.04.05 12:08:13 receivedData: ?
+2021.04.05 12:08:13 receivedData: |
+2021.04.05 12:08:13 receivedData: 2
+2021.04.05 12:08:13 receivedData: 4
+2021.04.05 12:08:13 receivedData: .
+2021.04.05 12:08:13 receivedData: 0
+2021.04.05 12:08:13 receivedData: 0
+2021.04.05 12:08:13 receivedData: °
+2021.04.05 12:08:13 receivedData: 0
+2021.04.05 12:08:13 receivedData:  
+2021.04.05 12:08:13 receivedData: T
+2021.04.05 12:08:13 receivedData: O
+2021.04.05 12:08:13 receivedData:  
+2021.04.05 12:08:13 receivedData: 1
+2021.04.05 12:08:13 receivedData: 9
+2021.04.05 12:08:13 receivedData: 5
+2021.04.05 12:08:13 receivedData: .
+2021.04.05 12:08:13 receivedData: 0
+2021.04.05 12:08:13 receivedData: 0
+2021.04.05 12:08:13 receivedData: °
+2021.04.05 12:08:14 receivedData: 0
+2021.04.05 12:08:14 receivedData: |
+2021.04.05 12:08:14 receivedData: H
+2021.04.05 12:08:14 receivedData: |
+2021.04.05 12:08:14 receivedData: |
+2021.04.05 12:08:14 receivedData: F
+2021.04.05 12:08:14 receivedData: |
+2021.04.05 12:08:14 receivedData: |
+2021.04.05 12:08:14 receivedData: ь
+2021.04.05 12:08:14 receivedData: |
+2021.04.05 12:08:14 receivedData: 2
+2021.04.05 12:08:14 receivedData: 0
+2021.04.05 12:08:14 receivedData: 2
+2021.04.05 12:08:14 receivedData: 1
+2021.04.05 12:08:14 receivedData: 0
+2021.04.05 12:08:14 receivedData: 4
+2021.04.05 12:08:14 receivedData: 0
+2021.04.05 12:08:14 receivedData: 1
+2021.04.05 12:08:14 receivedData: 0
+2021.04.05 12:08:14 receivedData: 6
+2021.04.05 12:08:14 receivedData: 3
+2021.04.05 12:08:14 receivedData: 3
+2021.04.05 12:08:14 receivedData: 4
+2021.04.05 12:08:14 receivedData: 1
+2021.04.05 12:08:14 receivedData: 
+2021.04.05 12:08:14 receivedData: 
+2021.04.05 12:08:14 receivedData: 3
+2021.04.05 12:08:14 receivedData: E
+2021.04.05 12:08:14 receivedData: 
+2021.04.05 12:08:14 receivedData: 
+2021.04.05 12:08:14 receivedData: 5
+2021.04.05 12:08:14 receivedData: R
+2021.04.05 12:08:15 receivedData: |
+2021.04.05 12:08:15 receivedData: 9
+2021.04.05 12:08:15 receivedData: |
+2021.04.05 12:08:15 receivedData: ^
+2021.04.05 12:08:15 receivedData: ^
+2021.04.05 12:08:15 receivedData: Ю
+2021.04.05 12:08:15 receivedData: 1
+2021.04.05 12:08:15 receivedData: 3
+2021.04.05 12:08:15 receivedData: ^
+2021.04.05 12:08:15 receivedData: ?
+2021.04.05 12:08:15 receivedData: ?
+2021.04.05 12:08:15 receivedData: -
+2021.04.05 12:08:15 receivedData: ?
+2021.04.05 12:08:15 receivedData: ?
+2021.04.05 12:08:15 receivedData: ї
+2021.04.05 12:08:15 receivedData: ^
+2021.04.05 12:08:15 receivedData: 0
+2021.04.05 12:08:15 receivedData: |
+2021.04.05 12:08:15 receivedData:  
+2021.04.05 12:08:15 receivedData: 7
+2021.04.05 12:08:15 receivedData: .
+2021.04.05 12:08:15 receivedData: 8
+2021.04.05 12:08:15 receivedData: 4
+2021.04.05 12:08:15 receivedData: 1
+2021.04.05 12:08:15 receivedData: 4
+2021.04.05 12:08:15 receivedData: |
+2021.04.05 12:08:15 receivedData: ?
+2021.04.05 12:08:15 receivedData: ?
+2021.04.05 12:08:15 receivedData: /
+2021.04.05 12:08:15 receivedData: ?
+2021.04.05 12:08:15 receivedData: |
+2021.04.05 12:08:15 receivedData:  
+2021.04.05 12:08:15 receivedData: 0
+2021.04.05 12:08:15 receivedData: .
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData: °
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData:  
+2021.04.05 12:08:16 receivedData: T
+2021.04.05 12:08:16 receivedData: O
+2021.04.05 12:08:16 receivedData:  
+2021.04.05 12:08:16 receivedData: 2
+2021.04.05 12:08:16 receivedData: 5
+2021.04.05 12:08:16 receivedData: .
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData: °
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData: |
+2021.04.05 12:08:16 receivedData: N
+2021.04.05 12:08:16 receivedData: |
+2021.04.05 12:08:16 receivedData: |
+2021.04.05 12:08:16 receivedData: F
+2021.04.05 12:08:16 receivedData: |
+2021.04.05 12:08:16 receivedData: |
+2021.04.05 12:08:16 receivedData: ь
+2021.04.05 12:08:16 receivedData: |
+2021.04.05 12:08:16 receivedData: 2
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData: 2
+2021.04.05 12:08:16 receivedData: 1
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:16 receivedData: 4
+2021.04.05 12:08:16 receivedData: 0
+2021.04.05 12:08:17 receivedData: 1
+2021.04.05 12:08:17 receivedData: 0
+2021.04.05 12:08:17 receivedData: 6
+2021.04.05 12:08:17 receivedData: 3
+2021.04.05 12:08:17 receivedData: 3
+2021.04.05 12:08:17 receivedData: 5
+2021.04.05 12:08:17 receivedData: 6
+2021.04.05 12:08:17 receivedData: 
+2021.04.05 12:08:17 receivedData: 
+2021.04.05 12:08:17 receivedData: 7
+2021.04.05 12:08:17 receivedData: F
+2021.04.05 12:08:17 receivedData: 
+2021.04.05 12:08:17 receivedData: 
+2021.04.05 12:08:17 receivedData: 6
+2021.04.05 12:08:17 receivedData: R
+2021.04.05 12:08:17 receivedData: |
+2021.04.05 12:08:17 receivedData: 1
+2021.04.05 12:08:17 receivedData: 0
+2021.04.05 12:08:17 receivedData: |
+2021.04.05 12:08:17 receivedData: ^
+2021.04.05 12:08:17 receivedData: ^
+2021.04.05 12:08:17 receivedData: Ю
+2021.04.05 12:08:17 receivedData: 1
+2021.04.05 12:08:17 receivedData: 4
+2021.04.05 12:08:17 receivedData: ^
+2021.04.05 12:08:17 receivedData: ?
+2021.04.05 12:08:17 receivedData: ?
+2021.04.05 12:08:17 receivedData: ї
+2021.04.05 12:08:17 receivedData: ^
+2021.04.05 12:08:17 receivedData: 0
+2021.04.05 12:08:17 receivedData: |1012.6040|??/?
+2021.04.05 12:08:17 receivedData: |
+2021.04.05 12:08:17 receivedData: 2
+2021.04.05 12:08:18 receivedData: 3
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: .
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: °
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData:  
+2021.04.05 12:08:18 receivedData: T
+2021.04.05 12:08:18 receivedData: O
+2021.04.05 12:08:18 receivedData:  
+2021.04.05 12:08:18 receivedData: 4
+2021.04.05 12:08:18 receivedData: 6
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: .
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: °
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: |
+2021.04.05 12:08:18 receivedData: H
+2021.04.05 12:08:18 receivedData: |
+2021.04.05 12:08:18 receivedData: |
+2021.04.05 12:08:18 receivedData: F|
+2021.04.05 12:08:18 receivedData: |
+2021.04.05 12:08:18 receivedData: ь
+2021.04.05 12:08:18 receivedData: |
+2021.04.05 12:08:18 receivedData: 2
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: 2
+2021.04.05 12:08:18 receivedData: 1
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: 4
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:18 receivedData: 1
+2021.04.05 12:08:18 receivedData: 0
+2021.04.05 12:08:19 receivedData: 6
+2021.04.05 12:08:19 receivedData: 3
+2021.04.05 12:08:19 receivedData: 3
+2021.04.05 12:08:19 receivedData: 2
+2021.04.05 12:08:19 receivedData: 6
+2021.04.05 12:08:19 receivedData: 
+2021.04.05 12:08:19 receivedData: 
+2021.04.05 12:08:19 receivedData: D
+2021.04.05 12:08:19 receivedData: 3
+2021.04.05 12:08:19 receivedData: 
+2021.04.05 12:08:19 receivedData: 
+2021.04.05 12:08:19 receivedData: 7
+2021.04.05 12:08:19 receivedData: R
+2021.04.05 12:08:19 receivedData: |
+2021.04.05 12:08:19 receivedData: 1
+2021.04.05 12:08:19 receivedData: 1
+2021.04.05 12:08:19 receivedData: |
+2021.04.05 12:08:19 receivedData: ^
+2021.04.05 12:08:19 receivedData: ^
+2021.04.05 12:08:19 receivedData: Ю1
+2021.04.05 12:08:19 receivedData: 5
+2021.04.05 12:08:19 receivedData: ^
+2021.04.05 12:08:19 receivedData: ?
+2021.04.05 12:08:19 receivedData: ?
+2021.04.05 12:08:19 receivedData: ї
+2021.04.05 12:08:19 receivedData: .
+2021.04.05 12:08:19 receivedData: ?
+2021.04.05 12:08:19 receivedData: ?
+2021.04.05 12:08:19 receivedData: ї
+2021.04.05 12:08:19 receivedData: .
+2021.04.05 12:08:19 receivedData: ^
+2021.04.05 12:08:20 receivedData: 0
+2021.04.05 12:08:20 receivedData: |
+2021.04.05 12:08:20 receivedData: 5
+2021.04.05 12:08:20 receivedData: 6
+2021.04.05 12:08:20 receivedData: .
+2021.04.05 12:08:20 receivedData: 9
+2021.04.05 12:08:20 receivedData: 2
+2021.04.05 12:08:20 receivedData: 5
+2021.04.05 12:08:20 receivedData: 6
+2021.04.05 12:08:20 receivedData: |
+2021.04.05 12:08:20 receivedData: ?
+2021.04.05 12:08:20 receivedData: ?
+2021.04.05 12:08:20 receivedData: /
+2021.04.05 12:08:20 receivedData: ?
+2021.04.05 12:08:20 receivedData: |
+2021.04.05 12:08:20 receivedData: 9
+2021.04.05 12:08:20 receivedData: 8
+2021.04.05 12:08:20 receivedData: .
+2021.04.05 12:08:20 receivedData: 0
+2021.04.05 12:08:20 receivedData: 0
+2021.04.05 12:08:20 receivedData: °
+2021.04.05 12:08:20 receivedData: 0
+2021.04.05 12:08:20 receivedData:  
+2021.04.05 12:08:20 receivedData: T
+2021.04.05 12:08:20 receivedData: O
+2021.04.05 12:08:20 receivedData:  
+2021.04.05 12:08:20 receivedData: 2
+2021.04.05 12:08:20 receivedData: 7
+2021.04.05 12:08:20 receivedData: 9
+2021.04.05 12:08:20 receivedData: .
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: °
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: |
+2021.04.05 12:08:21 receivedData: L
+2021.04.05 12:08:21 receivedData: |
+2021.04.05 12:08:21 receivedData: |
+2021.04.05 12:08:21 receivedData: F
+2021.04.05 12:08:21 receivedData: |
+2021.04.05 12:08:21 receivedData: |
+2021.04.05 12:08:21 receivedData: ь
+2021.04.05 12:08:21 receivedData: |
+2021.04.05 12:08:21 receivedData: 2
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: 2
+2021.04.05 12:08:21 receivedData: 1
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: 4
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: 1
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: 6
+2021.04.05 12:08:21 receivedData: 3
+2021.04.05 12:08:21 receivedData: 3
+2021.04.05 12:08:21 receivedData: 1
+2021.04.05 12:08:21 receivedData: 0
+2021.04.05 12:08:21 receivedData: 
+2021.04.05 12:08:21 receivedData: 
+2021.04.05 12:08:21 receivedData: 8
+2021.04.05 12:08:21 receivedData: 3
+2021.04.05 12:08:22 receivedData: 
+2021.04.05 12:08:22 receivedData: 0
+2021.04.05 12:08:22 receivedData: R
+2021.04.05 12:08:22 receivedData: |
+2021.04.05 12:08:22 receivedData: 1
+2021.04.05 12:08:22 receivedData: 2
+2021.04.05 12:08:22 receivedData: |
+2021.04.05 12:08:22 receivedData: ^
+2021.04.05 12:08:22 receivedData: ^
+2021.04.05 12:08:22 receivedData: Ю
+2021.04.05 12:08:22 receivedData: 1
+2021.04.05 12:08:22 receivedData: 6
+2021.04.05 12:08:22 receivedData: ^
+2021.04.05 12:08:22 receivedData: ?
+2021.04.05 12:08:22 receivedData: ?
+2021.04.05 12:08:22 receivedData: ї
+2021.04.05 12:08:22 receivedData: .
+2021.04.05 12:08:22 receivedData: ?
+2021.04.05 12:08:22 receivedData: ?^
+2021.04.05 12:08:22 receivedData: 0
+2021.04.05 12:08:22 receivedData: |
+2021.04.05 12:08:22 receivedData: 2
+2021.04.05 12:08:22 receivedData: 5
+2021.04.05 12:08:22 receivedData: .
+2021.04.05 12:08:22 receivedData: 1
+2021.04.05 12:08:22 receivedData: 5
+2021.04.05 12:08:22 receivedData: 8
+2021.04.05 12:08:22 receivedData: 0
+2021.04.05 12:08:22 receivedData: |
+2021.04.05 12:08:22 receivedData: ?
+2021.04.05 12:08:22 receivedData: ?
+2021.04.05 12:08:23 receivedData: ї
+2021.04.05 12:08:23 receivedData: ?
+2021.04.05 12:08:23 receivedData: ї
+2021.04.05 12:08:23 receivedData: ?
+2021.04.05 12:08:23 receivedData: /
+2021.04.05 12:08:23 receivedData: ?
+2021.04.05 12:08:23 receivedData: |
+2021.04.05 12:08:23 receivedData:  
+2021.04.05 12:08:23 receivedData: 0
+2021.04.05 12:08:23 receivedData: .
+2021.04.05 12:08:23 receivedData: 0
+2021.04.05 12:08:23 receivedData: 0
+2021.04.05 12:08:23 receivedData: °
+2021.04.05 12:08:23 receivedData: 0
+2021.04.05 12:08:23 receivedData:  
+2021.04.05 12:08:23 receivedData: T
+2021.04.05 12:08:23 receivedData: O
+2021.04.05 12:08:23 receivedData:  
+2021.04.05 12:08:23 receivedData: 2
+2021.04.05 12:08:23 receivedData: 1
+2021.04.05 12:08:23 receivedData: .
+2021.04.05 12:08:23 receivedData: 0
+2021.04.05 12:08:23 receivedData: 0
+2021.04.05 12:08:23 receivedData: °
+2021.04.05 12:08:23 receivedData: 0
+2021.04.05 12:08:23 receivedData: |
+2021.04.05 12:08:23 receivedData: H
+2021.04.05 12:08:23 receivedData: |
+2021.04.05 12:08:23 receivedData: |
+2021.04.05 12:08:23 receivedData: F
+2021.04.05 12:08:24 receivedData: |
+2021.04.05 12:08:24 receivedData: |
+2021.04.05 12:08:24 receivedData: ь
+2021.04.05 12:08:24 receivedData: |
+2021.04.05 12:08:24 receivedData: 2
+2021.04.05 12:08:24 receivedData: 0
+2021.04.05 12:08:24 receivedData: 2
+2021.04.05 12:08:24 receivedData: 1
+2021.04.05 12:08:24 receivedData: 0
+2021.04.05 12:08:24 receivedData: 4
+2021.04.05 12:08:24 receivedData: 0
+2021.04.05 12:08:24 receivedData: 1
+2021.04.05 12:08:24 receivedData: 0
+2021.04.05 12:08:24 receivedData: 6
+2021.04.05 12:08:24 receivedData: 3
+2021.04.05 12:08:24 receivedData: 1
+2021.04.05 12:08:24 receivedData: 3
+2021.04.05 12:08:24 receivedData: 9
+2021.04.05 12:08:24 receivedData: 
+2021.04.05 12:08:24 receivedData: 
+2021.04.05 12:08:24 receivedData: A
+2021.04.05 12:08:24 receivedData: 6
+2021.04.05 12:08:24 receivedData: 
+2021.04.05 12:08:24 receivedData: 
+2021.04.05 12:08:24 receivedData: 1
+2021.04.05 12:08:24 receivedData: R
+2021.04.05 12:08:24 receivedData: |
+2021.04.05 12:08:24 receivedData: 1
+2021.04.05 12:08:25 receivedData: 3
+2021.04.05 12:08:25 receivedData: |
+2021.04.05 12:08:25 receivedData: ^
+2021.04.05 12:08:25 receivedData: ^
+2021.04.05 12:08:25 receivedData: Ю
+2021.04.05 12:08:25 receivedData: 1
+2021.04.05 12:08:25 receivedData: 7
+2021.04.05 12:08:25 receivedData: ^
+2021.04.05 12:08:25 receivedData: ?
+2021.04.05 12:08:25 receivedData: ?
+2021.04.05 12:08:25 receivedData: ї
+2021.04.05 12:08:25 receivedData: .
+2021.04.05 12:08:25 receivedData: ?
+2021.04.05 12:08:25 receivedData: ?
+2021.04.05 12:08:25 receivedData: ^
+2021.04.05 12:08:25 receivedData: 0
+2021.04.05 12:08:25 receivedData: |
+2021.04.05 12:08:25 receivedData:  
+2021.04.05 12:08:25 receivedData: 6
+2021.04.05 12:08:25 receivedData: .
+2021.04.05 12:08:25 receivedData: 9
+2021.04.05 12:08:25 receivedData: 2
+2021.04.05 12:08:25 receivedData: 1
+2021.04.05 12:08:25 receivedData: 5
+2021.04.05 12:08:25 receivedData: |
+2021.04.05 12:08:25 receivedData: ?
+2021.04.05 12:08:25 receivedData: ?
+2021.04.05 12:08:25 receivedData: ї
+2021.04.05 12:08:25 receivedData: ?
+2021.04.05 12:08:25 receivedData: ї
+2021.04.05 12:08:26 receivedData: ?
+2021.04.05 12:08:26 receivedData: /
+2021.04.05 12:08:26 receivedData: ?
+2021.04.05 12:08:26 receivedData: |
+2021.04.05 12:08:26 receivedData:  
+2021.04.05 12:08:26 receivedData: 0
+2021.04.05 12:08:26 receivedData: .
+2021.04.05 12:08:26 receivedData: 0
+2021.04.05 12:08:26 receivedData: 0
+2021.04.05 12:08:26 receivedData: °
+2021.04.05 12:08:26 receivedData: 0
+2021.04.05 12:08:26 receivedData:  
+2021.04.05 12:08:26 receivedData: T
+2021.04.05 12:08:26 receivedData: O
+2021.04.05 12:08:26 receivedData:  
+2021.04.05 12:08:26 receivedData:  
+2021.04.05 12:08:26 receivedData: 6
+2021.04.05 12:08:26 receivedData: .
+2021.04.05 12:08:26 receivedData: 8
+2021.04.05 12:08:26 receivedData: 0
+2021.04.05 12:08:26 receivedData: 0
+2021.04.05 12:08:26 receivedData: °
+2021.04.05 12:08:26 receivedData: |
+2021.04.05 12:08:26 receivedData: H
+2021.04.05 12:08:26 receivedData: |
+2021.04.05 12:08:26 receivedData: |
+2021.04.05 12:08:27 receivedData: F
+2021.04.05 12:08:27 receivedData: |
+2021.04.05 12:08:27 receivedData: |
+2021.04.05 12:08:27 receivedData: ь
+2021.04.05 12:08:27 receivedData: |
+2021.04.05 12:08:27 receivedData: 2
+2021.04.05 12:08:27 receivedData: 0
+2021.04.05 12:08:27 receivedData: 2
+2021.04.05 12:08:27 receivedData: 1
+2021.04.05 12:08:27 receivedData: 0401063155
+2021.04.05 12:08:27 receivedData: 9
+2021.04.05 12:08:27 receivedData: 4
+2021.04.05 12:08:27 receivedData: 
+2021.04.05 12:08:27 receivedData: 
+2021.04.05 12:08:27 receivedData: 2
+2021.04.05 12:08:27 receivedData: R
+2021.04.05 12:08:27 receivedData: |
+2021.04.05 12:08:27 receivedData: 1
+2021.04.05 12:08:27 receivedData: 4
+2021.04.05 12:08:27 receivedData: |
+2021.04.05 12:08:27 receivedData: ^
+2021.04.05 12:08:27 receivedData: ^
+2021.04.05 12:08:27 receivedData: Ю
+2021.04.05 12:08:27 receivedData: 18
+2021.04.05 12:08:28 receivedData: ^
+2021.04.05 12:08:28 receivedData: ?
+2021.04.05 12:08:28 receivedData: -
+2021.04.05 12:08:28 receivedData: ?
+2021.04.05 12:08:28 receivedData: ?
+2021.04.05 12:08:28 receivedData: ^
+2021.04.05 12:08:28 receivedData: 0
+2021.04.05 12:08:28 receivedData: |
+2021.04.05 12:08:28 receivedData:  
+2021.04.05 12:08:28 receivedData: 5
+2021.04.05 12:08:28 receivedData: .
+2021.04.05 12:08:28 receivedData: 7
+2021.04.05 12:08:28 receivedData: 6
+2021.04.05 12:08:28 receivedData: 4
+2021.04.05 12:08:28 receivedData: 3
+2021.04.05 12:08:28 receivedData: |
+2021.04.05 12:08:28 receivedData: ?
+2021.04.05 12:08:28 receivedData: ?
+2021.04.05 12:08:28 receivedData: /
+2021.04.05 12:08:28 receivedData: ?
+2021.04.05 12:08:28 receivedData: |
+2021.04.05 12:08:28 receivedData:  
+2021.04.05 12:08:29 receivedData: 0
+2021.04.05 12:08:29 receivedData: .
+2021.04.05 12:08:29 receivedData: 0
+2021.04.05 12:08:29 receivedData: 0
+2021.04.05 12:08:29 receivedData: °
+2021.04.05 12:08:29 receivedData: 0
+2021.04.05 12:08:29 receivedData:  
+2021.04.05 12:08:29 receivedData: T
+2021.04.05 12:08:29 receivedData: O
+2021.04.05 12:08:29 receivedData:  
+2021.04.05 12:08:29 receivedData:  
+2021.04.05 12:08:29 receivedData: 5
+2021.04.05 12:08:29 receivedData: .
+2021.04.05 12:08:29 receivedData: 0
+2021.04.05 12:08:29 receivedData: 0
+2021.04.05 12:08:29 receivedData: °
+2021.04.05 12:08:29 receivedData: 0
+2021.04.05 12:08:29 receivedData: |
+2021.04.05 12:08:29 receivedData: H
+2021.04.05 12:08:30 receivedData: |
+2021.04.05 12:08:30 receivedData: |
+2021.04.05 12:08:30 receivedData: F
+2021.04.05 12:08:30 receivedData: |
+2021.04.05 12:08:30 receivedData: |
+2021.04.05 12:08:30 receivedData: ь
+2021.04.05 12:08:30 receivedData: |
+2021.04.05 12:08:30 receivedData: 2
+2021.04.05 12:08:30 receivedData: 0
+2021.04.05 12:08:30 receivedData: 2
+2021.04.05 12:08:30 receivedData: 1
+2021.04.05 12:08:30 receivedData: 0
+2021.04.05 12:08:30 receivedData: 4
+2021.04.05 12:08:30 receivedData: 0
+2021.04.05 12:08:30 receivedData: 1
+2021.04.05 12:08:30 receivedData: 0
+2021.04.05 12:08:30 receivedData: 6
+2021.04.05 12:08:30 receivedData: 3
+2021.04.05 12:08:31 receivedData: 4
+2021.04.05 12:08:31 receivedData: 2
+2021.04.05 12:08:31 receivedData: 6
+2021.04.05 12:08:31 receivedData: 
+2021.04.05 12:08:31 receivedData: 
+2021.04.05 12:08:31 receivedData: 1
+2021.04.05 12:08:31 receivedData: 6
+2021.04.05 12:08:31 receivedData: 
+2021.04.05 12:08:31 receivedData: 
+2021.04.05 12:08:31 receivedData: 3
+2021.04.05 12:08:31 receivedData: L
+2021.04.05 12:08:31 receivedData: |
+2021.04.05 12:08:31 receivedData: 1
+2021.04.05 12:08:31 receivedData: |
+2021.04.05 12:08:31 receivedData: N
+2021.04.05 12:08:31 receivedData: 
+2021.04.05 12:08:31 receivedData: 
+2021.04.05 12:08:31 receivedData: 0
+2021.04.05 12:08:31 receivedData: 6
+2021.04.05 12:08:31 receivedData: 
+2021.04.05 12:08:32 receivedData: 
+2021.04.05 12:08:32 ERR: Ошибка в данных: короткая 4-я строка=4.
+2021.04.05 12:08:32 Получено для парсинга 1480 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F45R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N
+2021.04.05 12:08:32 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ResultText) values (11, host_name(), 0, GetDate(), 14 , '1', '1.1529', '4.200° TO 6.400°', '5', '56.1505', 'длина больше 16', '7', '27.0224', 'длина больше 16', '8', '41.3238', '1.700° TO 8.300°', '9', '77.6034', 'длина больше 16', '10', '195.5502', 'длина больше 16', '11', '78.9669', 'длина больше 16', '12', '215.5272', 'длина больше 16', '13', '7.8414', 'длина больше 16', '14', '1012.6040', 'длина больше 16', '15', '56.9256', 'длина больше 16', '16', '25.1580', 'длина больше 16', '17', '6.9215', '0.00°0 TO 6.800°', '18', '5.7643', '0.00°0 TO 5.00°0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F45R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N');
+2021.04.05 12:21:10 --- Завершение работы.
+2021.04.05 12:22:43 --- Запуск Sapphire ASU-911 user Версия 1.0.67.245 от 2021.4.5.0902
+2021.04.05 12:22:57 receivedData: 1H|\^&
+2021.04.05 12:22:57 receivedData: ||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210401160604E52P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ьA63O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD34445R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634113B6R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632102B7R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|20210401063255D60R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|20210401063109951R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|20210401063240A32R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|20210401063225063R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631242C4R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633413E5R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633567F6R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|20210401063326D37R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|20210401063310830R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|20210401063139A61R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|20210401063155942R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|20210401063426163L|1|N06
+2021.04.05 12:58:51 --- Запуск Sapphire ASU-911 user Версия 1.0.67.245 от 2021.4.5.0958
+2021.04.05 12:59:24 --- Завершение работы.
+2021.04.05 13:05:16 --- Запуск Sapphire ASU-911 user Версия 1.0.67.246 от 2021.4.5.1005
+2021.04.05 13:08:37 --- Запуск Sapphire ASU-911 user Версия 1.0.67.247 от 2021.4.5.1008
+2021.04.05 13:08:59 --- Завершение работы.
+2021.04.05 13:27:46 --- Запуск Sapphire ASU-911 user Версия 1.0.67.248 от 2021.4.5.1027
+2021.04.05 13:34:01 --- Завершение работы.
+2021.04.05 13:34:31 --- Запуск Sapphire ASU-911 user Версия 1.0.67.249 от 2021.4.5.1034
+2021.04.05 13:36:45 --- Завершение работы.
+2021.04.05 13:39:51 --- Запуск Sapphire ASU-911 user Версия 1.0.67.250 от 2021.4.5.1039
+2021.04.05 13:40:26 --- Завершение работы.
+2021.04.05 13:58:03 --- Запуск Sapphire ASU-911 user Версия 1.0.67.251 от 2021.4.5.1057
+2021.04.05 13:59:29 --- Запуск Sapphire ASU-911 user Версия 1.0.67.252 от 2021.4.5.1059
+2021.04.05 13:59:57 --- Завершение работы.
+2021.04.05 14:02:08 --- Запуск Sapphire ASU-911 user Версия 1.0.67.253 от 2021.4.5.1102
+2021.04.05 14:35:27 --- Запуск Sapphire ASU-911 user Версия 1.0.67.254 от 2021.4.5.1135
+2021.04.05 14:36:59 --- Завершение работы.
+2021.04.05 14:58:21 --- Запуск Sapphire ASU-911 user Версия 1.0.67.255 от 2021.4.5.1158
+2021.04.05 14:59:01 receivedData: 1H
+2021.04.05 14:59:01 receivedData: |\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210401160604E52P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ьA63O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD34445R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634113B6R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632102B7R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|20210401063255D60R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|20210401063109951R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|20210401063240A32R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|20210401063225063R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631242C4R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633413E5R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633567F6R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|2021040106
+2021.04.05 14:59:01 receivedData: 3
+2021.04.05 14:59:01 receivedData: 3
+2021.04.05 14:59:01 receivedData: 2
+2021.04.05 14:59:01 receivedData: 6
+2021.04.05 14:59:01 receivedData: 
+2021.04.05 14:59:01 receivedData: 
+2021.04.05 14:59:01 receivedData: D
+2021.04.05 14:59:01 receivedData: 3
+2021.04.05 14:59:01 receivedData: 
+2021.04.05 14:59:01 receivedData: 
+2021.04.05 14:59:01 receivedData: 7
+2021.04.05 14:59:01 receivedData: R
+2021.04.05 14:59:01 receivedData: |
+2021.04.05 14:59:01 receivedData: 1
+2021.04.05 14:59:01 receivedData: 1
+2021.04.05 14:59:02 receivedData: |
+2021.04.05 14:59:02 receivedData: ^
+2021.04.05 14:59:02 receivedData: ^
+2021.04.05 14:59:02 receivedData: Ю
+2021.04.05 14:59:02 receivedData: 1
+2021.04.05 14:59:02 receivedData: 5
+2021.04.05 14:59:02 receivedData: ^
+2021.04.05 14:59:02 receivedData: ?
+2021.04.05 14:59:02 receivedData: ?
+2021.04.05 14:59:02 receivedData: ї
+2021.04.05 14:59:02 receivedData: .
+2021.04.05 14:59:02 receivedData: ?
+2021.04.05 14:59:02 receivedData: ?
+2021.04.05 14:59:02 receivedData: ї
+2021.04.05 14:59:02 receivedData: .
+2021.04.05 14:59:02 receivedData: ^
+2021.04.05 14:59:02 receivedData: 0
+2021.04.05 14:59:02 receivedData: |56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|20210401063310830R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|20210401063139A61R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь
+2021.04.05 14:59:02 receivedData: |
+2021.04.05 14:59:02 receivedData: 2
+2021.04.05 14:59:02 receivedData: 0
+2021.04.05 14:59:02 receivedData: 2
+2021.04.05 14:59:02 receivedData: 1
+2021.04.05 14:59:02 receivedData: 0
+2021.04.05 14:59:02 receivedData: 4
+2021.04.05 14:59:02 receivedData: 0
+2021.04.05 14:59:02 receivedData: 1
+2021.04.05 14:59:02 receivedData: 0
+2021.04.05 14:59:02 receivedData: 6
+2021.04.05 14:59:02 receivedData: 3
+2021.04.05 14:59:02 receivedData: 1
+2021.04.05 14:59:02 receivedData: 5
+2021.04.05 14:59:02 receivedData: 5
+2021.04.05 14:59:02 receivedData: 9
+2021.04.05 14:59:02 receivedData: 4
+2021.04.05 14:59:02 receivedData: 
+2021.04.05 14:59:02 receivedData: 
+2021.04.05 14:59:02 receivedData: 2
+2021.04.05 14:59:02 receivedData: R
+2021.04.05 14:59:02 receivedData: |
+2021.04.05 14:59:02 receivedData: 14
+2021.04.05 14:59:02 receivedData: |^
+2021.04.05 14:59:02 receivedData: ^Ю
+2021.04.05 14:59:02 receivedData: 18
+2021.04.05 14:59:02 receivedData: ^
+2021.04.05 14:59:02 receivedData: ?
+2021.04.05 14:59:02 receivedData: -
+2021.04.05 14:59:02 receivedData: ?
+2021.04.05 14:59:02 receivedData: ?
+2021.04.05 14:59:02 receivedData: ^
+2021.04.05 14:59:02 receivedData: 0|
+2021.04.05 14:59:02 receivedData:  
+2021.04.05 14:59:02 receivedData: 5
+2021.04.05 14:59:03 receivedData: .
+2021.04.05 14:59:03 receivedData: 76
+2021.04.05 14:59:03 receivedData: 4
+2021.04.05 14:59:03 receivedData: 3
+2021.04.05 14:59:03 receivedData: |
+2021.04.05 14:59:03 receivedData: ?
+2021.04.05 14:59:03 receivedData: ?
+2021.04.05 14:59:03 receivedData: /
+2021.04.05 14:59:03 receivedData: ?
+2021.04.05 14:59:03 receivedData: |
+2021.04.05 14:59:03 receivedData:  
+2021.04.05 14:59:03 receivedData: 0
+2021.04.05 14:59:03 receivedData: .0
+2021.04.05 14:59:03 receivedData: 0
+2021.04.05 14:59:03 receivedData: °
+2021.04.05 14:59:03 receivedData: 0
+2021.04.05 14:59:03 receivedData:  
+2021.04.05 14:59:03 receivedData: TO
+2021.04.05 14:59:03 receivedData:  
+2021.04.05 14:59:03 receivedData:  
+2021.04.05 14:59:03 receivedData: 5.
+2021.04.05 14:59:03 receivedData: 00
+2021.04.05 14:59:03 receivedData: °
+2021.04.05 14:59:03 receivedData: 0
+2021.04.05 14:59:03 receivedData: |
+2021.04.05 14:59:03 receivedData: H
+2021.04.05 14:59:03 receivedData: |
+2021.04.05 14:59:03 receivedData: |
+2021.04.05 14:59:03 receivedData: F
+2021.04.05 14:59:03 receivedData: ||
+2021.04.05 14:59:03 receivedData: ь|
+2021.04.05 14:59:03 receivedData: 20
+2021.04.05 14:59:03 receivedData: 21
+2021.04.05 14:59:03 receivedData: 04
+2021.04.05 14:59:03 receivedData: 01
+2021.04.05 14:59:03 receivedData: 06
+2021.04.05 14:59:03 receivedData: 34
+2021.04.05 14:59:03 receivedData: 26
+2021.04.05 14:59:03 receivedData: 
+2021.04.05 14:59:03 receivedData: 1
+2021.04.05 14:59:03 receivedData: 6
+2021.04.05 14:59:03 receivedData: 3L|
+2021.04.05 14:59:03 receivedData: 1
+2021.04.05 14:59:03 receivedData: |N
+2021.04.05 14:59:03 receivedData: 
+2021.04.05 14:59:03 receivedData: 
+2021.04.05 14:59:03 receivedData: 0
+2021.04.05 14:59:03 receivedData: 6
+2021.04.05 14:59:03 receivedData: 
+2021.04.05 14:59:03 receivedData: 
+2021.04.05 14:59:20 ERR: Ошибка в данных - неизвестный тип записи в 3-й строке:4.
+2021.04.05 14:59:20 Получено для парсинга 1481 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD345R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N
+2021.04.05 14:59:20 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ResultText) values (11, host_name(), 0, GetDate(), 14 , '1', '1.1529', '4.200° TO 6.400°', '5', '56.1505', 'длина больше 16', '7', '27.0224', 'длина больше 16', '8', '41.3238', '1.700° TO 8.300°', '9', '77.6034', 'длина больше 16', '10', '195.5502', 'длина больше 16', '11', '78.9669', 'длина больше 16', '12', '215.5272', 'длина больше 16', '13', '7.8414', 'длина больше 16', '14', '1012.6040', 'длина больше 16', '15', '56.9256', 'длина больше 16', '16', '25.1580', 'длина больше 16', '17', '6.9215', '0.00°0 TO 6.800°', '18', '5.7643', '0.00°0 TO 5.00°0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD345R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N');
+2021.04.05 15:04:02 receivedData: 
+2021.04.05 15:04:02 receivedData: 
+2021.04.05 15:04:02 receivedData: 
+2021.04.05 15:04:02 receivedData: 1
+2021.04.05 15:04:02 receivedData: H
+2021.04.05 15:04:02 receivedData: |
+2021.04.05 15:04:02 receivedData: \
+2021.04.05 15:04:02 receivedData: ^&
+2021.04.05 15:04:02 receivedData: |
+2021.04.05 15:04:02 receivedData: |ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210401164
+2021.04.05 15:04:02 receivedData: 9
+2021.04.05 15:04:02 receivedData: 1
+2021.04.05 15:04:02 receivedData: 3
+2021.04.05 15:04:02 receivedData: 
+2021.04.05 15:04:02 receivedData: 
+2021.04.05 15:04:02 receivedData: E
+2021.04.05 15:04:02 receivedData: C
+2021.04.05 15:04:02 receivedData: 
+2021.04.05 15:04:02 receivedData: 
+2021.04.05 15:04:02 receivedData: 2
+2021.04.05 15:04:02 receivedData: P|1|2104010063|
+2021.04.05 15:04:02 receivedData: |
+2021.04.05 15:04:02 receivedData: ь
+2021.04.05 15:04:02 receivedData: 1
+2021.04.05 15:04:02 receivedData: 5
+2021.04.05 15:04:02 receivedData: 5
+2021.04.05 15:04:03 receivedData: 6
+2021.04.05 15:04:03 receivedData: 7
+2021.04.05 15:04:03 receivedData:  ^
+2021.04.05 15:04:03 receivedData: ??
+2021.04.05 15:04:03 receivedData: ї
+2021.04.05 15:04:03 receivedData: ?ї
+2021.04.05 15:04:03 receivedData: ?
+2021.04.05 15:04:03 receivedData: ї?
+2021.04.05 15:04:03 receivedData: ї?
+2021.04.05 15:04:03 receivedData:  ?
+2021.04.05 15:04:03 receivedData: .?
+2021.04.05 15:04:03 receivedData: . 
+2021.04.05 15:04:03 receivedData: ??
+2021.04.05 15:04:03 receivedData: ї
+2021.04.05 15:04:03 receivedData: ||
+2021.04.05 15:04:03 receivedData: ьU
+2021.04.05 15:04:03 receivedData: ||
+2021.04.05 15:04:03 receivedData: ь|
+2021.04.05 15:04:03 receivedData: ь
+2021.04.05 15:04:03 receivedData: 
+2021.04.05 15:04:03 receivedData: 2
+2021.04.05 15:04:03 receivedData: 8
+2021.04.05 15:04:03 receivedData: 
+2021.04.05 15:04:03 receivedData: 
+2021.04.05 15:04:03 receivedData: 3
+2021.04.05 15:04:03 receivedData: O
+2021.04.05 15:04:03 receivedData: |
+2021.04.05 15:04:03 receivedData: 1
+2021.04.05 15:04:03 receivedData: |
+2021.04.05 15:04:03 receivedData: |
+2021.04.05 15:04:03 receivedData: ^
+2021.04.05 15:04:03 receivedData: 1
+2021.04.05 15:04:03 receivedData: ^
+2021.04.05 15:04:03 receivedData: 6
+2021.04.05 15:04:03 receivedData: 3
+2021.04.05 15:04:03 receivedData: |
+2021.04.05 15:04:03 receivedData: ^
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: Ю
+2021.04.05 15:04:04 receivedData: 1
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: ї
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: ї
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: ї
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: 0
+2021.04.05 15:04:04 receivedData: \
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: Ю
+2021.04.05 15:04:04 receivedData: 5
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: .
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: ?
+2021.04.05 15:04:04 receivedData: ї
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: 0
+2021.04.05 15:04:04 receivedData: \
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:04 receivedData: ^
+2021.04.05 15:04:05 receivedData: Ю
+2021.04.05 15:04:05 receivedData: 7
+2021.04.05 15:04:05 receivedData: ^
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ї
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ї
+2021.04.05 15:04:05 receivedData: -
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ^
+2021.04.05 15:04:05 receivedData: 0
+2021.04.05 15:04:05 receivedData: \
+2021.04.05 15:04:05 receivedData: ^
+2021.04.05 15:04:05 receivedData: ^
+2021.04.05 15:04:05 receivedData: Ю
+2021.04.05 15:04:05 receivedData: 8
+2021.04.05 15:04:05 receivedData: ^
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ї
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ї
+2021.04.05 15:04:05 receivedData: ?ї
+2021.04.05 15:04:05 receivedData: ?
+2021.04.05 15:04:05 receivedData: ^
+2021.04.05 15:04:05 receivedData: 0
+2021.04.05 15:04:05 receivedData: \
+2021.04.05 15:04:05 receivedData: ^
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: Ю
+2021.04.05 15:04:06 receivedData: 9
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: ?
+2021.04.05 15:04:06 receivedData: ?
+2021.04.05 15:04:06 receivedData: ї^
+2021.04.05 15:04:06 receivedData: 0
+2021.04.05 15:04:06 receivedData: \
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: Ю
+2021.04.05 15:04:06 receivedData: 1
+2021.04.05 15:04:06 receivedData: 0
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: ?
+2021.04.05 15:04:06 receivedData: ?
+2021.04.05 15:04:06 receivedData: ї
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: 0
+2021.04.05 15:04:06 receivedData: \
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: Ю
+2021.04.05 15:04:06 receivedData: 1
+2021.04.05 15:04:06 receivedData: 1
+2021.04.05 15:04:06 receivedData: ^
+2021.04.05 15:04:06 receivedData: ?
+2021.04.05 15:04:06 receivedData: ?
+2021.04.05 15:04:06 receivedData: ї
+2021.04.05 15:04:06 receivedData: ?
+2021.04.05 15:04:06 receivedData: ї
+2021.04.05 15:04:07 receivedData: ?
+2021.04.05 15:04:07 receivedData: ї
+2021.04.05 15:04:07 receivedData: ^
+2021.04.05 15:04:07 receivedData: 0
+2021.04.05 15:04:07 receivedData: \
+2021.04.05 15:04:07 receivedData: ^
+2021.04.05 15:04:07 receivedData: ^
+2021.04.05 15:04:07 receivedData: Ю
+2021.04.05 15:04:07 receivedData: 1
+2021.04.05 15:04:07 receivedData: 2
+2021.04.05 15:04:07 receivedData: ^
+2021.04.05 15:04:07 receivedData: ?
+2021.04.05 15:04:07 receivedData: ?
+2021.04.05 15:04:07 receivedData: ї
+2021.04.05 15:04:07 receivedData: .
+2021.04.05 15:04:07 receivedData: ?
+2021.04.05 15:04:07 receivedData: ?
+2021.04.05 15:04:07 receivedData: ї
+2021.04.05 15:04:07 receivedData: ^
+2021.04.05 15:04:07 receivedData: 0
+2021.04.05 15:04:07 receivedData: \
+2021.04.05 15:04:07 receivedData: 
+2021.04.05 15:04:07 receivedData: 2
+2021.04.05 15:04:08 receivedData: 0
+2021.04.05 15:04:08 receivedData: 2
+2021.04.05 15:04:08 receivedData: 1
+2021.04.05 15:04:08 receivedData: .
+2021.04.05 15:04:08 receivedData: 0
+2021.04.05 15:04:08 receivedData: 4
+2021.04.05 15:04:08 receivedData: .
+2021.04.05 15:04:08 receivedData: 0
+2021.04.05 15:04:08 receivedData: 1
+2021.04.05 15:04:08 receivedData:  
+2021.04.05 15:04:08 receivedData: 1
+2021.04.05 15:04:08 receivedData: 6
+2021.04.05 15:04:08 receivedData: :4
+2021.04.05 15:04:08 receivedData: 9
+2021.04.05 15:04:08 receivedData: :
+2021.04.05 15:04:08 receivedData: 5
+2021.04.05 15:04:08 receivedData: 5
+2021.04.05 15:04:08 receivedData:  
+2021.04.05 15:04:08 receivedData: r
+2021.04.05 15:04:08 receivedData: e
+2021.04.05 15:04:08 receivedData: c
+2021.04.05 15:04:08 receivedData: e
+2021.04.05 15:04:08 receivedData: i
+2021.04.05 15:04:08 receivedData: v
+2021.04.05 15:04:08 receivedData: e
+2021.04.05 15:04:08 receivedData: d
+2021.04.05 15:04:08 receivedData: D
+2021.04.05 15:04:08 receivedData: a
+2021.04.05 15:04:08 receivedData: t
+2021.04.05 15:04:08 receivedData: a
+2021.04.05 15:04:09 receivedData: :
+2021.04.05 15:04:09 receivedData:  
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: Ю
+2021.04.05 15:04:09 receivedData: 1
+2021.04.05 15:04:09 receivedData: 3
+2021.04.05 15:04:09 receivedData: ^?
+2021.04.05 15:04:09 receivedData: ?
+2021.04.05 15:04:09 receivedData: -
+2021.04.05 15:04:09 receivedData: ?
+2021.04.05 15:04:09 receivedData: ?
+2021.04.05 15:04:09 receivedData: ї
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: 0\
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: Ю
+2021.04.05 15:04:09 receivedData: 1
+2021.04.05 15:04:09 receivedData: 4^
+2021.04.05 15:04:09 receivedData: ?
+2021.04.05 15:04:09 receivedData: ?
+2021.04.05 15:04:09 receivedData: ї
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: 0
+2021.04.05 15:04:09 receivedData: \
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: ^
+2021.04.05 15:04:09 receivedData: Ю
+2021.04.05 15:04:10 receivedData: 1
+2021.04.05 15:04:10 receivedData: 5
+2021.04.05 15:04:10 receivedData: ^
+2021.04.05 15:04:10 receivedData: ?
+2021.04.05 15:04:10 receivedData: ?
+2021.04.05 15:04:10 receivedData: ї
+2021.04.05 15:04:10 receivedData: .
+2021.04.05 15:04:10 receivedData: ?
+2021.04.05 15:04:10 receivedData: ?
+2021.04.05 15:04:10 receivedData: ї
+2021.04.05 15:04:10 receivedData: .
+2021.04.05 15:04:10 receivedData: ^
+2021.04.05 15:04:10 receivedData: 0
+2021.04.05 15:04:10 receivedData: \
+2021.04.05 15:04:10 receivedData: ^
+2021.04.05 15:04:10 receivedData: ^
+2021.04.05 15:04:10 receivedData: Ю
+2021.04.05 15:04:10 receivedData: 1
+2021.04.05 15:04:10 receivedData: 6
+2021.04.05 15:04:10 receivedData: ^
+2021.04.05 15:04:10 receivedData: ?
+2021.04.05 15:04:10 receivedData: ?
+2021.04.05 15:04:10 receivedData: ї
+2021.04.05 15:04:10 receivedData: .
+2021.04.05 15:04:10 receivedData: ?
+2021.04.05 15:04:11 receivedData: ?
+2021.04.05 15:04:11 receivedData: ^
+2021.04.05 15:04:11 receivedData: 0
+2021.04.05 15:04:11 receivedData: \
+2021.04.05 15:04:11 receivedData: ^
+2021.04.05 15:04:11 receivedData: ^
+2021.04.05 15:04:11 receivedData: Ю
+2021.04.05 15:04:11 receivedData: 1
+2021.04.05 15:04:11 receivedData: 7
+2021.04.05 15:04:11 receivedData: ^
+2021.04.05 15:04:11 receivedData: ?
+2021.04.05 15:04:11 receivedData: ?
+2021.04.05 15:04:11 receivedData: ї
+2021.04.05 15:04:11 receivedData: .
+2021.04.05 15:04:11 receivedData: ?
+2021.04.05 15:04:11 receivedData: ?
+2021.04.05 15:04:11 receivedData: ^
+2021.04.05 15:04:11 receivedData: 0
+2021.04.05 15:04:11 receivedData: \
+2021.04.05 15:04:11 receivedData: ^^
+2021.04.05 15:04:11 receivedData: Ю
+2021.04.05 15:04:11 receivedData: 1
+2021.04.05 15:04:11 receivedData: 8
+2021.04.05 15:04:12 receivedData: ^
+2021.04.05 15:04:12 receivedData: ?
+2021.04.05 15:04:12 receivedData: -
+2021.04.05 15:04:12 receivedData: ?
+2021.04.05 15:04:12 receivedData: ?
+2021.04.05 15:04:12 receivedData: ^
+2021.04.05 15:04:12 receivedData: 0
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: R
+2021.04.05 15:04:12 receivedData: ||ь
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: ь
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: ь
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: ь
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: S
+2021.04.05 15:04:12 receivedData: e
+2021.04.05 15:04:12 receivedData: r
+2021.04.05 15:04:12 receivedData: u
+2021.04.05 15:04:12 receivedData: m
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: ь
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: ь
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:12 receivedData: ь|
+2021.04.05 15:04:12 receivedData: ь
+2021.04.05 15:04:12 receivedData: |
+2021.04.05 15:04:13 receivedData: F
+2021.04.05 15:04:13 receivedData: C
+2021.04.05 15:04:13 receivedData: E
+2021.04.05 15:04:13 receivedData: 
+2021.04.05 15:04:13 receivedData: 
+2021.04.05 15:04:13 receivedData: 4
+2021.04.05 15:04:13 receivedData: 
+2021.04.05 15:04:13 receivedData: 
+2021.04.05 15:04:13 receivedData: 4
+2021.04.05 15:04:13 receivedData: 4
+2021.04.05 15:04:13 receivedData: 
+2021.04.05 15:04:13 receivedData: 
+2021.04.05 15:04:13 receivedData: 5
+2021.04.05 15:04:13 receivedData: R
+2021.04.05 15:04:13 receivedData: |
+2021.04.05 15:04:13 receivedData: 1
+2021.04.05 15:04:13 receivedData: |
+2021.04.05 15:04:13 receivedData: ^
+2021.04.05 15:04:13 receivedData: ^
+2021.04.05 15:04:13 receivedData: Ю
+2021.04.05 15:04:13 receivedData: 1
+2021.04.05 15:04:13 receivedData: ^
+2021.04.05 15:04:13 receivedData: ?
+2021.04.05 15:04:13 receivedData: ?
+2021.04.05 15:04:13 receivedData: ї
+2021.04.05 15:04:13 receivedData: ?
+2021.04.05 15:04:13 receivedData: ї
+2021.04.05 15:04:13 receivedData: ?
+2021.04.05 15:04:14 receivedData: ї
+2021.04.05 15:04:14 receivedData: ^
+2021.04.05 15:04:14 receivedData: 0
+2021.04.05 15:04:14 receivedData: |
+2021.04.05 15:04:14 receivedData:  
+2021.04.05 15:04:14 receivedData: 7
+2021.04.05 15:04:14 receivedData: .
+2021.04.05 15:04:14 receivedData: 0
+2021.04.05 15:04:14 receivedData: 9
+2021.04.05 15:04:14 receivedData: 2
+2021.04.05 15:04:14 receivedData: 6
+2021.04.05 15:04:14 receivedData: |
+2021.04.05 15:04:14 receivedData: ?
+2021.04.05 15:04:14 receivedData: ?
+2021.04.05 15:04:14 receivedData: ї
+2021.04.05 15:04:14 receivedData: ?
+2021.04.05 15:04:14 receivedData: ї
+2021.04.05 15:04:14 receivedData: /
+2021.04.05 15:04:14 receivedData: ?
+2021.04.05 15:04:14 receivedData: |
+2021.04.05 15:04:14 receivedData:  
+2021.04.05 15:04:14 receivedData: 4
+2021.04.05 15:04:14 receivedData: .
+2021.04.05 15:04:14 receivedData: 2
+2021.04.05 15:04:14 receivedData: 0
+2021.04.05 15:04:14 receivedData: 0
+2021.04.05 15:04:14 receivedData: °
+2021.04.05 15:04:14 receivedData:  
+2021.04.05 15:04:15 receivedData: T
+2021.04.05 15:04:15 receivedData: O
+2021.04.05 15:04:15 receivedData:  
+2021.04.05 15:04:15 receivedData:  
+2021.04.05 15:04:15 receivedData: 6
+2021.04.05 15:04:15 receivedData: .
+2021.04.05 15:04:15 receivedData: 4
+2021.04.05 15:04:15 receivedData: 0
+2021.04.05 15:04:15 receivedData: 0
+2021.04.05 15:04:15 receivedData: °
+2021.04.05 15:04:15 receivedData: |
+2021.04.05 15:04:15 receivedData: H||F||ь|2
+2021.04.05 15:04:15 receivedData: 0
+2021.04.05 15:04:15 receivedData: 2
+2021.04.05 15:04:15 receivedData: 1
+2021.04.05 15:04:15 receivedData: 0
+2021.04.05 15:04:15 receivedData: 4
+2021.04.05 15:04:15 receivedData: 0
+2021.04.05 15:04:15 receivedData: 1
+2021.04.05 15:04:15 receivedData: 0
+2021.04.05 15:04:15 receivedData: 6
+2021.04.05 15:04:15 receivedData: 4
+2021.04.05 15:04:15 receivedData: 73
+2021.04.05 15:04:15 receivedData: 5
+2021.04.05 15:04:15 receivedData: 
+2021.04.05 15:04:15 receivedData: 
+2021.04.05 15:04:16 receivedData: 4
+2021.04.05 15:04:16 receivedData: 7
+2021.04.05 15:04:16 receivedData: 
+2021.04.05 15:04:16 receivedData: 
+2021.04.05 15:04:16 receivedData: 6
+2021.04.05 15:04:16 receivedData: R
+2021.04.05 15:04:16 receivedData: |
+2021.04.05 15:04:16 receivedData: 2
+2021.04.05 15:04:16 receivedData: |
+2021.04.05 15:04:16 receivedData: ^
+2021.04.05 15:04:16 receivedData: ^
+2021.04.05 15:04:16 receivedData: Ю
+2021.04.05 15:04:16 receivedData: 5
+2021.04.05 15:04:16 receivedData: ^
+2021.04.05 15:04:16 receivedData: ?
+2021.04.05 15:04:16 receivedData: ?
+2021.04.05 15:04:16 receivedData: .
+2021.04.05 15:04:16 receivedData: ?
+2021.04.05 15:04:16 receivedData: ?
+2021.04.05 15:04:16 receivedData: ї
+2021.04.05 15:04:16 receivedData: ^
+2021.04.05 15:04:16 receivedData: 0
+2021.04.05 15:04:16 receivedData: |
+2021.04.05 15:04:16 receivedData: 5
+2021.04.05 15:04:16 receivedData: 9
+2021.04.05 15:04:16 receivedData: .
+2021.04.05 15:04:16 receivedData: 2
+2021.04.05 15:04:17 receivedData: 9
+2021.04.05 15:04:17 receivedData: 7
+2021.04.05 15:04:17 receivedData: 5
+2021.04.05 15:04:17 receivedData: |
+2021.04.05 15:04:17 receivedData: ?
+2021.04.05 15:04:17 receivedData: /
+2021.04.05 15:04:17 receivedData: ?
+2021.04.05 15:04:17 receivedData: |
+2021.04.05 15:04:17 receivedData: 6
+2021.04.05 15:04:17 receivedData: 4.00°0
+2021.04.05 15:04:17 receivedData:  
+2021.04.05 15:04:17 receivedData: T
+2021.04.05 15:04:17 receivedData: O
+2021.04.05 15:04:17 receivedData:  
+2021.04.05 15:04:17 receivedData: 8
+2021.04.05 15:04:17 receivedData: 3
+2021.04.05 15:04:17 receivedData: .
+2021.04.05 15:04:17 receivedData: 0
+2021.04.05 15:04:17 receivedData: 0
+2021.04.05 15:04:17 receivedData: °
+2021.04.05 15:04:17 receivedData: 0
+2021.04.05 15:04:17 receivedData: |
+2021.04.05 15:04:17 receivedData: L
+2021.04.05 15:04:17 receivedData: |
+2021.04.05 15:04:17 receivedData: |
+2021.04.05 15:04:17 receivedData: F
+2021.04.05 15:04:18 receivedData: |
+2021.04.05 15:04:18 receivedData: |
+2021.04.05 15:04:18 receivedData: ь
+2021.04.05 15:04:18 receivedData: |
+2021.04.05 15:04:18 receivedData: 2
+2021.04.05 15:04:18 receivedData: 0
+2021.04.05 15:04:18 receivedData: 2
+2021.04.05 15:04:18 receivedData: 1
+2021.04.05 15:04:18 receivedData: 0
+2021.04.05 15:04:18 receivedData: 4
+2021.04.05 15:04:18 receivedData: 0
+2021.04.05 15:04:18 receivedData: 1
+2021.04.05 15:04:18 receivedData: 0
+2021.04.05 15:04:18 receivedData: 6
+2021.04.05 15:04:18 receivedData: 4
+2021.04.05 15:04:18 receivedData: 5
+2021.04.05 15:04:18 receivedData: 3
+2021.04.05 15:04:18 receivedData: 4
+2021.04.05 15:04:18 receivedData: 
+2021.04.05 15:04:18 receivedData: 
+2021.04.05 15:04:18 receivedData: 4
+2021.04.05 15:04:18 receivedData: 4
+2021.04.05 15:04:18 receivedData: 
+2021.04.05 15:04:18 receivedData: 
+2021.04.05 15:04:19 receivedData: 7
+2021.04.05 15:04:19 receivedData: R
+2021.04.05 15:04:19 receivedData: |
+2021.04.05 15:04:19 receivedData: 3
+2021.04.05 15:04:19 receivedData: |
+2021.04.05 15:04:19 receivedData: ^
+2021.04.05 15:04:19 receivedData: ^
+2021.04.05 15:04:19 receivedData: Ю
+2021.04.05 15:04:19 receivedData: 7
+2021.04.05 15:04:19 receivedData: ^
+2021.04.05 15:04:19 receivedData: ?
+2021.04.05 15:04:19 receivedData: ?
+2021.04.05 15:04:19 receivedData: ї
+2021.04.05 15:04:19 receivedData: ?
+2021.04.05 15:04:19 receivedData: ї
+2021.04.05 15:04:19 receivedData: -
+2021.04.05 15:04:19 receivedData: ?
+2021.04.05 15:04:19 receivedData: ^
+2021.04.05 15:04:19 receivedData: 0
+2021.04.05 15:04:19 receivedData: |
+2021.04.05 15:04:19 receivedData: 8
+2021.04.05 15:04:19 receivedData: 3
+2021.04.05 15:04:19 receivedData: .
+2021.04.05 15:04:19 receivedData: 1
+2021.04.05 15:04:19 receivedData: 5
+2021.04.05 15:04:19 receivedData: 5
+2021.04.05 15:04:20 receivedData: 3
+2021.04.05 15:04:20 receivedData: |
+2021.04.05 15:04:20 receivedData: ?
+2021.04.05 15:04:20 receivedData: ?
+2021.04.05 15:04:20 receivedData: ї?ї?/?|71.
+2021.04.05 15:04:20 receivedData: 0
+2021.04.05 15:04:20 receivedData: 0
+2021.04.05 15:04:20 receivedData: °
+2021.04.05 15:04:20 receivedData: 0
+2021.04.05 15:04:20 receivedData:  
+2021.04.05 15:04:20 receivedData: T
+2021.04.05 15:04:20 receivedData: O
+2021.04.05 15:04:20 receivedData:  
+2021.04.05 15:04:20 receivedData: 1
+2021.04.05 15:04:20 receivedData: 1
+2021.04.05 15:04:20 receivedData: 5
+2021.04.05 15:04:20 receivedData: .
+2021.04.05 15:04:20 receivedData: 0
+2021.04.05 15:04:20 receivedData: 0
+2021.04.05 15:04:20 receivedData: °
+2021.04.05 15:04:20 receivedData: 0
+2021.04.05 15:04:20 receivedData: |
+2021.04.05 15:04:20 receivedData: N
+2021.04.05 15:04:20 receivedData: |
+2021.04.05 15:04:20 receivedData: |
+2021.04.05 15:04:20 receivedData: F
+2021.04.05 15:04:21 receivedData: |
+2021.04.05 15:04:21 receivedData: |
+2021.04.05 15:04:21 receivedData: ь
+2021.04.05 15:04:21 receivedData: |
+2021.04.05 15:04:21 receivedData: 2
+2021.04.05 15:04:21 receivedData: 0
+2021.04.05 15:04:21 receivedData: 2
+2021.04.05 15:04:21 receivedData: 1
+2021.04.05 15:04:21 receivedData: 0
+2021.04.05 15:04:21 receivedData: 4
+2021.04.05 15:04:21 receivedData: 0
+2021.04.05 15:04:21 receivedData: 1
+2021.04.05 15:04:21 receivedData: 0
+2021.04.05 15:04:21 receivedData: 6
+2021.04.05 15:04:21 receivedData: 4
+2021.04.05 15:04:21 receivedData: 6
+2021.04.05 15:04:21 receivedData: 1
+2021.04.05 15:04:21 receivedData: 9
+2021.04.05 15:04:21 receivedData: 
+2021.04.05 15:04:21 receivedData: 
+2021.04.05 15:04:21 receivedData: E
+2021.04.05 15:04:21 receivedData: 5
+2021.04.05 15:04:21 receivedData: 
+2021.04.05 15:04:21 receivedData: 
+2021.04.05 15:04:22 receivedData: 0
+2021.04.05 15:04:22 receivedData: R
+2021.04.05 15:04:22 receivedData: |
+2021.04.05 15:04:22 receivedData: 4
+2021.04.05 15:04:22 receivedData: |
+2021.04.05 15:04:22 receivedData: ^
+2021.04.05 15:04:22 receivedData: ^
+2021.04.05 15:04:22 receivedData: Ю
+2021.04.05 15:04:22 receivedData: 8
+2021.04.05 15:04:22 receivedData: ^
+2021.04.05 15:04:22 receivedData: ?
+2021.04.05 15:04:22 receivedData: ?
+2021.04.05 15:04:22 receivedData: ї
+2021.04.05 15:04:22 receivedData: ?
+2021.04.05 15:04:22 receivedData: ї
+2021.04.05 15:04:22 receivedData: ?
+2021.04.05 15:04:22 receivedData: ї
+2021.04.05 15:04:22 receivedData: ?
+2021.04.05 15:04:22 receivedData: ^
+2021.04.05 15:04:22 receivedData: 0
+2021.04.05 15:04:23 receivedData: |
+2021.04.05 15:04:23 receivedData: 1
+2021.04.05 15:04:23 receivedData: 9
+2021.04.05 15:04:23 receivedData: .
+2021.04.05 15:04:23 receivedData: 2
+2021.04.05 15:04:23 receivedData: 6
+2021.04.05 15:04:23 receivedData: 0
+2021.04.05 15:04:23 receivedData: 1
+2021.04.05 15:04:23 receivedData: |
+2021.04.05 15:04:23 receivedData: ?
+2021.04.05 15:04:23 receivedData: ?
+2021.04.05 15:04:23 receivedData: ї
+2021.04.05 15:04:23 receivedData: ?
+2021.04.05 15:04:23 receivedData: ї
+2021.04.05 15:04:23 receivedData: /
+2021.04.05 15:04:23 receivedData: ?
+2021.04.05 15:04:23 receivedData: | 
+2021.04.05 15:04:23 receivedData: 1
+2021.04.05 15:04:23 receivedData: .
+2021.04.05 15:04:23 receivedData: 7
+2021.04.05 15:04:23 receivedData: 0
+2021.04.05 15:04:23 receivedData: 0
+2021.04.05 15:04:23 receivedData: °
+2021.04.05 15:04:24 receivedData:  
+2021.04.05 15:04:24 receivedData: T
+2021.04.05 15:04:24 receivedData: O
+2021.04.05 15:04:24 receivedData:  
+2021.04.05 15:04:24 receivedData:  
+2021.04.05 15:04:24 receivedData: 8
+2021.04.05 15:04:24 receivedData: .
+2021.04.05 15:04:24 receivedData: 3
+2021.04.05 15:04:24 receivedData: 0
+2021.04.05 15:04:24 receivedData: 0
+2021.04.05 15:04:24 receivedData: °
+2021.04.05 15:04:24 receivedData: |
+2021.04.05 15:04:24 receivedData: H
+2021.04.05 15:04:24 receivedData: |
+2021.04.05 15:04:24 receivedData: |
+2021.04.05 15:04:24 receivedData: F
+2021.04.05 15:04:24 receivedData: |
+2021.04.05 15:04:24 receivedData: |
+2021.04.05 15:04:24 receivedData: ь
+2021.04.05 15:04:24 receivedData: |
+2021.04.05 15:04:24 receivedData: 20
+2021.04.05 15:04:25 receivedData: 2
+2021.04.05 15:04:25 receivedData: 1
+2021.04.05 15:04:25 receivedData: 0
+2021.04.05 15:04:25 receivedData: 4
+2021.04.05 15:04:25 receivedData: 0
+2021.04.05 15:04:25 receivedData: 1
+2021.04.05 15:04:25 receivedData: 0
+2021.04.05 15:04:25 receivedData: 6
+2021.04.05 15:04:25 receivedData: 4
+2021.04.05 15:04:25 receivedData: 4
+2021.04.05 15:04:25 receivedData: 3
+2021.04.05 15:04:25 receivedData: 3
+2021.04.05 15:04:25 receivedData: 
+2021.04.05 15:04:25 receivedData: 
+2021.04.05 15:04:25 receivedData: 9
+2021.04.05 15:04:25 receivedData: 4
+2021.04.05 15:04:25 receivedData: 
+2021.04.05 15:04:25 receivedData: 
+2021.04.05 15:04:25 receivedData: 1
+2021.04.05 15:04:25 receivedData: R
+2021.04.05 15:04:26 receivedData: |
+2021.04.05 15:04:26 receivedData: 5
+2021.04.05 15:04:26 receivedData: |
+2021.04.05 15:04:26 receivedData: ^
+2021.04.05 15:04:26 receivedData: ^
+2021.04.05 15:04:26 receivedData: Ю
+2021.04.05 15:04:26 receivedData: 9
+2021.04.05 15:04:26 receivedData: ^
+2021.04.05 15:04:26 receivedData: ?
+2021.04.05 15:04:26 receivedData: ?
+2021.04.05 15:04:26 receivedData: ї
+2021.04.05 15:04:26 receivedData: ^
+2021.04.05 15:04:26 receivedData: 0
+2021.04.05 15:04:26 receivedData: |
+2021.04.05 15:04:26 receivedData: 3
+2021.04.05 15:04:26 receivedData: 4
+2021.04.05 15:04:26 receivedData: .
+2021.04.05 15:04:26 receivedData: 6
+2021.04.05 15:04:26 receivedData: 97
+2021.04.05 15:04:26 receivedData: 7
+2021.04.05 15:04:26 receivedData: |
+2021.04.05 15:04:26 receivedData: ?
+2021.04.05 15:04:27 receivedData: ?
+2021.04.05 15:04:27 receivedData: /
+2021.04.05 15:04:27 receivedData: ?
+2021.04.05 15:04:27 receivedData: |
+2021.04.05 15:04:27 receivedData:  
+2021.04.05 15:04:27 receivedData: 0
+2021.04.05 15:04:27 receivedData: .
+2021.04.05 15:04:27 receivedData: 0
+2021.04.05 15:04:27 receivedData: 0
+2021.04.05 15:04:27 receivedData: °0 TO 40.00°0|N||F||ь|20210401064604B72R|6|^^Ю10^??ї^0|40.3813|??/?| 0.00°0 TO 37.00°0|H||F||ь|20210401064549D83R|7|^^Ю11^??ї?ї?ї^0|483.7024|??/?|28.00°0 TO 100.00°0|H||F||ь|202104010644ґ84F4R|8|^^Ю12^??ї.??ї^0|108.3321|??/?|24.00°0 TO 195.00°0|N||F||ь|20210401064705435R|9|^^Ю13^??-??ї^0|50.6914|??/?| 0.00°0 TO 25.00°0|H||F||ь|20210401064720866R|10|^^Ю14^??ї^0|863.799
+2021.04.05 15:04:27 receivedData: 1
+2021.04.05 15:04:27 receivedData: |
+2021.04.05 15:04:27 receivedData: ?
+2021.04.05 15:04:27 receivedData: ?
+2021.04.05 15:04:27 receivedData: /
+2021.04.05 15:04:27 receivedData: ?
+2021.04.05 15:04:27 receivedData: |
+2021.04.05 15:04:27 receivedData: 2
+2021.04.05 15:04:28 receivedData: 3
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData: .
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData: °
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData:  
+2021.04.05 15:04:28 receivedData: T
+2021.04.05 15:04:28 receivedData: O
+2021.04.05 15:04:28 receivedData:  
+2021.04.05 15:04:28 receivedData: 4
+2021.04.05 15:04:28 receivedData: 6
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData: .
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData: °
+2021.04.05 15:04:28 receivedData: 0
+2021.04.05 15:04:28 receivedData: |
+2021.04.05 15:04:29 receivedData: H
+2021.04.05 15:04:29 receivedData: |
+2021.04.05 15:04:29 receivedData: |
+2021.04.05 15:04:29 receivedData: F
+2021.04.05 15:04:29 receivedData: |
+2021.04.05 15:04:29 receivedData: |
+2021.04.05 15:04:29 receivedData: ь
+2021.04.05 15:04:29 receivedData: |
+2021.04.05 15:04:29 receivedData: 2
+2021.04.05 15:04:29 receivedData: 0
+2021.04.05 15:04:29 receivedData: 2
+2021.04.05 15:04:29 receivedData: 1
+2021.04.05 15:04:29 receivedData: 0
+2021.04.05 15:04:29 receivedData: 4
+2021.04.05 15:04:29 receivedData: 0
+2021.04.05 15:04:29 receivedData: 1
+2021.04.05 15:04:29 receivedData: 0
+2021.04.05 15:04:30 receivedData: 6
+2021.04.05 15:04:30 receivedData: 4
+2021.04.05 15:04:30 receivedData: 6
+2021.04.05 15:04:30 receivedData: 5
+2021.04.05 15:04:30 receivedData: 0
+2021.04.05 15:04:30 receivedData: 
+2021.04.05 15:04:30 receivedData: 
+2021.04.05 15:04:30 receivedData: C
+2021.04.05 15:04:30 receivedData: 1
+2021.04.05 15:04:30 receivedData: 
+2021.04.05 15:04:30 receivedData: 
+2021.04.05 15:04:30 receivedData: 7
+2021.04.05 15:04:30 receivedData: R
+2021.04.05 15:04:30 receivedData: |
+2021.04.05 15:04:30 receivedData: 1
+2021.04.05 15:04:30 receivedData: 1
+2021.04.05 15:04:30 receivedData: |
+2021.04.05 15:04:30 receivedData: ^
+2021.04.05 15:04:30 receivedData: ^
+2021.04.05 15:04:30 receivedData: Ю
+2021.04.05 15:04:30 receivedData: 1
+2021.04.05 15:04:31 receivedData: 5
+2021.04.05 15:04:31 receivedData: ^
+2021.04.05 15:04:31 receivedData: ?
+2021.04.05 15:04:31 receivedData: ?
+2021.04.05 15:04:31 receivedData: ї
+2021.04.05 15:04:31 receivedData: .
+2021.04.05 15:04:31 receivedData: ?
+2021.04.05 15:04:31 receivedData: ?
+2021.04.05 15:04:31 receivedData: ї
+2021.04.05 15:04:31 receivedData: .
+2021.04.05 15:04:31 receivedData: ^
+2021.04.05 15:04:31 receivedData: 0
+2021.04.05 15:04:31 receivedData: |
+2021.04.05 15:04:31 receivedData: 3
+2021.04.05 15:04:31 receivedData: 1
+2021.04.05 15:04:31 receivedData: 4
+2021.04.05 15:04:31 receivedData: .
+2021.04.05 15:04:31 receivedData: 7
+2021.04.05 15:04:31 receivedData: 3
+2021.04.05 15:04:32 receivedData: 4
+2021.04.05 15:04:32 receivedData: 7
+2021.04.05 15:04:32 receivedData: |
+2021.04.05 15:04:32 receivedData: ?
+2021.04.05 15:04:32 receivedData: ?
+2021.04.05 15:04:32 receivedData: /?
+2021.04.05 15:04:32 receivedData: |
+2021.04.05 15:04:32 receivedData: 9
+2021.04.05 15:04:32 receivedData: 8
+2021.04.05 15:04:32 receivedData: .
+2021.04.05 15:04:32 receivedData: 0
+2021.04.05 15:04:32 receivedData: 0
+2021.04.05 15:04:32 receivedData: °
+2021.04.05 15:04:32 receivedData: 0
+2021.04.05 15:04:32 receivedData:  
+2021.04.05 15:04:32 receivedData: T
+2021.04.05 15:04:32 receivedData: O
+2021.04.05 15:04:32 receivedData:  
+2021.04.05 15:04:32 receivedData: 2
+2021.04.05 15:04:33 receivedData: 7
+2021.04.05 15:04:33 receivedData: 9
+2021.04.05 15:04:33 receivedData: .
+2021.04.05 15:04:33 receivedData: 0
+2021.04.05 15:04:33 receivedData: 0
+2021.04.05 15:04:33 receivedData: °
+2021.04.05 15:04:33 receivedData: 0
+2021.04.05 15:04:33 receivedData: |
+2021.04.05 15:04:33 receivedData: H
+2021.04.05 15:04:33 receivedData: |
+2021.04.05 15:04:33 receivedData: |
+2021.04.05 15:04:33 receivedData: F
+2021.04.05 15:04:33 receivedData: |
+2021.04.05 15:04:33 receivedData: |
+2021.04.05 15:04:33 receivedData: ь
+2021.04.05 15:04:33 receivedData: |
+2021.04.05 15:04:33 receivedData: 2
+2021.04.05 15:04:33 receivedData: 0
+2021.04.05 15:04:33 receivedData: 2
+2021.04.05 15:04:34 receivedData: 1
+2021.04.05 15:04:34 receivedData: 0
+2021.04.05 15:04:34 receivedData: 4
+2021.04.05 15:04:34 receivedData: 0
+2021.04.05 15:04:34 receivedData: 1
+2021.04.05 15:04:34 receivedData: 0
+2021.04.05 15:04:34 receivedData: 6
+2021.04.05 15:04:34 receivedData: 4
+2021.04.05 15:04:34 receivedData: 6
+2021.04.05 15:04:34 receivedData: 3
+2021.04.05 15:04:34 receivedData: 4
+2021.04.05 15:04:34 receivedData: 
+2021.04.05 15:04:34 receivedData: 
+2021.04.05 15:04:34 receivedData: B
+2021.04.05 15:04:34 receivedData: 5
+2021.04.05 15:04:34 receivedData: 
+2021.04.05 15:04:34 receivedData: 
+2021.04.05 15:04:34 receivedData: 0
+2021.04.05 15:04:34 receivedData: R
+2021.04.05 15:04:35 receivedData: |
+2021.04.05 15:04:35 receivedData: 1
+2021.04.05 15:04:35 receivedData: 2
+2021.04.05 15:04:35 receivedData: |
+2021.04.05 15:04:35 receivedData: ^
+2021.04.05 15:04:35 receivedData: ^
+2021.04.05 15:04:35 receivedData: Ю
+2021.04.05 15:04:35 receivedData: 1
+2021.04.05 15:04:35 receivedData: 6
+2021.04.05 15:04:35 receivedData: ^
+2021.04.05 15:04:35 receivedData: ?
+2021.04.05 15:04:35 receivedData: ?
+2021.04.05 15:04:35 receivedData: ї
+2021.04.05 15:04:35 receivedData: .?
+2021.04.05 15:04:35 receivedData: ?
+2021.04.05 15:04:35 receivedData: ^
+2021.04.05 15:04:35 receivedData: 0
+2021.04.05 15:04:35 receivedData: |
+2021.04.05 15:04:35 receivedData: 4
+2021.04.05 15:04:36 receivedData: 6
+2021.04.05 15:04:36 receivedData: .
+2021.04.05 15:04:36 receivedData: 2
+2021.04.05 15:04:36 receivedData: 1
+2021.04.05 15:04:36 receivedData: 4
+2021.04.05 15:04:36 receivedData: 4
+2021.04.05 15:04:36 receivedData: |?
+2021.04.05 15:04:36 receivedData: ?
+2021.04.05 15:04:36 receivedData: ї
+2021.04.05 15:04:36 receivedData: ?
+2021.04.05 15:04:36 receivedData: ї
+2021.04.05 15:04:36 receivedData: ?
+2021.04.05 15:04:36 receivedData: /
+2021.04.05 15:04:36 receivedData: ?
+2021.04.05 15:04:36 receivedData: |
+2021.04.05 15:04:36 receivedData:  
+2021.04.05 15:04:36 receivedData: 0
+2021.04.05 15:04:36 receivedData: .
+2021.04.05 15:04:37 receivedData: 0
+2021.04.05 15:04:37 receivedData: 0
+2021.04.05 15:04:37 receivedData: °
+2021.04.05 15:04:37 receivedData: 0
+2021.04.05 15:04:37 receivedData:  
+2021.04.05 15:04:37 receivedData: T
+2021.04.05 15:04:37 receivedData: O
+2021.04.05 15:04:37 receivedData:  
+2021.04.05 15:04:37 receivedData: 2
+2021.04.05 15:04:37 receivedData: 1
+2021.04.05 15:04:37 receivedData: .
+2021.04.05 15:04:37 receivedData: 0
+2021.04.05 15:04:37 receivedData: 0
+2021.04.05 15:04:37 receivedData: °
+2021.04.05 15:04:37 receivedData: 0
+2021.04.05 15:04:37 receivedData: |
+2021.04.05 15:04:37 receivedData: H
+2021.04.05 15:04:37 receivedData: |
+2021.04.05 15:04:37 receivedData: |
+2021.04.05 15:04:38 receivedData: F
+2021.04.05 15:04:38 receivedData: |
+2021.04.05 15:04:38 receivedData: |
+2021.04.05 15:04:38 receivedData: ь
+2021.04.05 15:04:38 receivedData: |
+2021.04.05 15:04:38 receivedData: 2
+2021.04.05 15:04:38 receivedData: 0
+2021.04.05 15:04:38 receivedData: 2
+2021.04.05 15:04:38 receivedData: 1
+2021.04.05 15:04:38 receivedData: 0
+2021.04.05 15:04:38 receivedData: 4
+2021.04.05 15:04:38 receivedData: 0
+2021.04.05 15:04:38 receivedData: 1
+2021.04.05 15:04:38 receivedData: 0
+2021.04.05 15:04:38 receivedData: 6
+2021.04.05 15:04:38 receivedData: 45
+2021.04.05 15:04:38 receivedData: 0
+2021.04.05 15:04:38 receivedData: 3
+2021.04.05 15:04:38 receivedData: 
+2021.04.05 15:04:38 receivedData: 
+2021.04.05 15:04:39 receivedData: A
+2021.04.05 15:04:39 receivedData: 2
+2021.04.05 15:04:39 receivedData: 
+2021.04.05 15:04:39 receivedData: 
+2021.04.05 15:04:39 receivedData: 1
+2021.04.05 15:04:39 receivedData: R
+2021.04.05 15:04:39 receivedData: |
+2021.04.05 15:04:39 receivedData: 13|^^Ю17^??ї.??^0|29.3940|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|20210401064519AD2R|14|^^Ю18^?-??^0|36.4717|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010647502A3L|1|N06
+2021.04.05 15:06:02 --- Завершение работы.
+2021.04.05 15:07:08 --- Запуск Sapphire ASU-911 user Версия 1.0.67.255 от 2021.4.5.1158
+2021.04.05 15:08:30 receivedData: 
+2021.04.05 15:08:30 receivedData: 1
+2021.04.05 15:08:30 receivedData: H|\
+2021.04.05 15:08:30 receivedData: ^&||
+2021.04.05 15:08:30 receivedData: ьBiOL
+2021.04.05 15:08:31 receivedData: iS NEO
+2021.04.05 15:08:31 receivedData: ^SYSTEM
+2021.04.05 15:08:31 receivedData: 1||ь|ьHOST^P_1||P|1|2021040
+2021.04.05 15:08:31 receivedData: 1160604E5
+2021.04.05 15:08:31 receivedData: 2P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь
+2021.04.05 15:08:31 receivedData: A63O|1||^1^59
+2021.04.05 15:08:31 receivedData: |^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?
+2021.04.05 15:08:31 receivedData: ї?ї?^0\^^Ю9^??ї^0\^^
+2021.04.05 15:08:31 receivedData: Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^
+2021.04.05 15:08:31 receivedData: ^Ю13^??-??ї^0\^^Ю14^??ї
+2021.04.05 15:08:31 receivedData: ^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|S
+2021.04.05 15:08:31 receivedData: erum||ь|ь|ь|ь|FD3444
+2021.04.05 15:08:31 receivedData: 5R|1|^^Ю1^??ї?ї?ї^0| 1.1529|
+2021.04.05 15:08:32 receivedData: ??ї?ї/?| 4.200° TO  6.400°|L|
+2021.04.05 15:08:32 receivedData: |
+2021.04.05 15:08:32 receivedData: F||ь|202104010634113B6R|2
+2021.04.05 15:08:32 receivedData: |^^Ю5^??.??ї^0|56.1505|?/?|64.0
+2021.04.05 15:08:32 receivedData: 0°0 TO 83.00°0|L||F||ь|202104010
+2021.04.05 15:08:32 receivedData: 632102B7R|3|^^Ю7^??ї?ї-?^0|27
+2021.04.05 15:08:32 receivedData: .0224|??ї?ї?/?|71.00°0 TO 115.00°0
+2021.04.05 15:08:32 receivedData: |L||F||ь|20210401063255D60R|4|^
+2021.04.05 15:08:32 receivedData: ^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.70
+2021.04.05 15:08:32 receivedData: 0° TO  8.300°|H||F||ь|20210401063109
+2021.04.05 15:08:32 receivedData: 951R|5|^^Ю9^??ї^0|77.6034|??/?| 0.0
+2021.04.05 15:08:32 receivedData: 0°0 TO 40.00°0|H||F||ь|20210401063240
+2021.04.05 15:08:32 receivedData: A32R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00
+2021.04.05 15:08:32 receivedData: °0 TO 37.00°0|H||F||ь|2021040106322506
+2021.04.05 15:08:32 receivedData: 
+2021.04.05 15:08:32 receivedData: 3R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0
+2021.04.05 15:08:33 receivedData:  TO 100.00°0|N||F||ь|202104010631242C4R
+2021.04.05 15:08:33 receivedData: |8|^^Ю12^??ї.??ї^0|21
+2021.04.05 15:08:33 receivedData: 5.5272|??/?|24.00°0 TO 
+2021.04.05 15:08:33 receivedData: 195.00°0|H||F||ь|202104010633413E5R|9|^^Ю
+2021.04.05 15:08:33 receivedData: 13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N|
+2021.04.05 15:08:33 receivedData: |F||ь|202104010633567F6R|10|^^Ю14^??ї^0|101
+2021.04.05 15:08:33 receivedData: 2.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|2021040
+2021.04.05 15:08:33 receivedData: 1063326D37R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|
+2021.04.05 15:08:33 receivedData: 98.00°0 TO 279.00°0|L||F||ь|20210401063310830R
+2021.04.05 15:08:33 receivedData: |
+2021.04.05 15:08:33 receivedData: 12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.0
+2021.04.05 15:08:33 receivedData: 0°0|H||F||ь|20210401063139A61R|13|^^Ю17^??ї.??^0
+2021.04.05 15:08:33 receivedData: | 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|20210401
+2021.04.05 15:08:34 receivedData: 063155942R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO
+2021.04.05 15:08:34 receivedData:   5.00°0|H||F||ь|20210401063426163L|1|N06
+2021.04.05 15:08:34 ERR: Ошибка в данных - неизвестный тип записи в 3-й строке:4.
+2021.04.05 15:08:34 Получено для парсинга 1481 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD345R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N
+2021.04.05 15:08:34 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ResultText) values (11, host_name(), 0, GetDate(), 14 , '1', '1.1529', '4.200° TO 6.400°', '5', '56.1505', 'длина больше 16', '7', '27.0224', 'длина больше 16', '8', '41.3238', '1.700° TO 8.300°', '9', '77.6034', 'длина больше 16', '10', '195.5502', 'длина больше 16', '11', '78.9669', 'длина больше 16', '12', '215.5272', 'длина больше 16', '13', '7.8414', 'длина больше 16', '14', '1012.6040', 'длина больше 16', '15', '56.9256', 'длина больше 16', '16', '25.1580', 'длина больше 16', '17', '6.9215', '0.00°0 TO 6.800°', '18', '5.7643', '0.00°0 TO 5.00°0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD345R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N');
+2021.04.05 15:08:47 receivedData: 
+2021.04.05 15:08:47 receivedData: 
+2021.04.05 15:08:47 receivedData: 
+2021.04.05 15:08:47 receivedData: 1
+2021.04.05 15:08:47 receivedData: H
+2021.04.05 15:08:47 receivedData: |
+2021.04.05 15:08:47 receivedData: \
+2021.04.05 15:08:47 receivedData: ^&||
+2021.04.05 15:08:47 receivedData: ьBi
+2021.04.05 15:08:47 receivedData: OLiS
+2021.04.05 15:08:47 receivedData:  NEO^SYS
+2021.04.05 15:08:48 receivedData: T
+2021.04.05 15:08:48 receivedData: E
+2021.04.05 15:08:48 receivedData: M1
+2021.04.05 15:08:48 receivedData: |
+2021.04.05 15:08:48 receivedData: |
+2021.04.05 15:08:48 receivedData: ь|
+2021.04.05 15:08:48 receivedData: ь
+2021.04.05 15:08:48 receivedData: H
+2021.04.05 15:08:48 receivedData: OS
+2021.04.05 15:08:48 receivedData: T
+2021.04.05 15:08:48 receivedData: ^
+2021.04.05 15:08:48 receivedData: P
+2021.04.05 15:08:48 receivedData: _
+2021.04.05 15:08:48 receivedData: 1
+2021.04.05 15:08:48 receivedData: ||
+2021.04.05 15:08:48 receivedData: P
+2021.04.05 15:08:48 receivedData: |
+2021.04.05 15:08:48 receivedData: 1
+2021.04.05 15:08:48 receivedData: |2
+2021.04.05 15:08:48 receivedData: 0
+2021.04.05 15:08:48 receivedData: 2
+2021.04.05 15:08:48 receivedData: 1
+2021.04.05 15:08:48 receivedData: 0
+2021.04.05 15:08:48 receivedData: 4
+2021.04.05 15:08:48 receivedData: 0
+2021.04.05 15:08:48 receivedData: 1
+2021.04.05 15:08:48 receivedData: 1
+2021.04.05 15:08:48 receivedData: 6
+2021.04.05 15:08:48 receivedData: 4
+2021.04.05 15:08:48 receivedData: 9
+2021.04.05 15:08:48 receivedData: 1
+2021.04.05 15:08:48 receivedData: 3
+2021.04.05 15:08:48 receivedData: 
+2021.04.05 15:08:48 receivedData: 
+2021.04.05 15:08:48 receivedData: EC2P
+2021.04.05 15:08:49 receivedData: |
+2021.04.05 15:08:49 receivedData: 1
+2021.04.05 15:08:49 receivedData: |
+2021.04.05 15:08:49 receivedData: 2
+2021.04.05 15:08:49 receivedData: 10
+2021.04.05 15:08:49 receivedData: 4010063
+2021.04.05 15:08:49 receivedData: ||ь15
+2021.04.05 15:08:49 receivedData: 567 ^?
+2021.04.05 15:08:49 receivedData: ?ї?ї?ї?ї? ?.?. ??ї||ьU||ь|ь283O|1||^1^63|
+2021.04.05 15:08:49 receivedData: ^^Ю1^??ї?ї?ї
+2021.04.05 15:08:49 receivedData: ^0
+2021.04.05 15:08:49 receivedData: \
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: Ю
+2021.04.05 15:08:49 receivedData: 5^??
+2021.04.05 15:08:49 receivedData: .
+2021.04.05 15:08:49 receivedData: ?
+2021.04.05 15:08:49 receivedData: ?
+2021.04.05 15:08:49 receivedData: ї
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: 0
+2021.04.05 15:08:49 receivedData: \
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: ^Ю7
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: ?
+2021.04.05 15:08:49 receivedData: ?
+2021.04.05 15:08:49 receivedData: ї
+2021.04.05 15:08:49 receivedData: ?
+2021.04.05 15:08:49 receivedData: ї-
+2021.04.05 15:08:49 receivedData: ?
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: 0\
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: ^Ю
+2021.04.05 15:08:49 receivedData: 8
+2021.04.05 15:08:49 receivedData: ^
+2021.04.05 15:08:49 receivedData: ??ї?ї?
+2021.04.05 15:08:49 receivedData: ї?^
+2021.04.05 15:08:50 receivedData: 0\
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: ^Ю
+2021.04.05 15:08:50 receivedData: 9
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: ??
+2021.04.05 15:08:50 receivedData: ї
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: 0
+2021.04.05 15:08:50 receivedData: \
+2021.04.05 15:08:50 receivedData: ^^
+2021.04.05 15:08:50 receivedData: Ю
+2021.04.05 15:08:50 receivedData: 1
+2021.04.05 15:08:50 receivedData: 0
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: ?
+2021.04.05 15:08:50 receivedData: ?
+2021.04.05 15:08:50 receivedData: ї^
+2021.04.05 15:08:50 receivedData: 0
+2021.04.05 15:08:50 receivedData: \
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: Ю
+2021.04.05 15:08:50 receivedData: 1
+2021.04.05 15:08:50 receivedData: 1
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: ??
+2021.04.05 15:08:50 receivedData: ї
+2021.04.05 15:08:50 receivedData: ?
+2021.04.05 15:08:50 receivedData: ї
+2021.04.05 15:08:50 receivedData: ?
+2021.04.05 15:08:50 receivedData: ї
+2021.04.05 15:08:50 receivedData: ^
+2021.04.05 15:08:50 receivedData: 0
+2021.04.05 15:08:51 receivedData: \
+2021.04.05 15:08:51 receivedData: ^^
+2021.04.05 15:08:51 receivedData: Ю12^??ї.??ї
+2021.04.05 15:08:51 receivedData: ^
+2021.04.05 15:08:51 receivedData: 0
+2021.04.05 15:08:51 receivedData: \
+2021.04.05 15:08:51 receivedData: 
+2021.04.05 15:08:51 receivedData: 20
+2021.04.05 15:08:51 receivedData: 21
+2021.04.05 15:08:51 receivedData: .
+2021.04.05 15:08:51 receivedData: 0
+2021.04.05 15:08:51 receivedData: 4
+2021.04.05 15:08:51 receivedData: .
+2021.04.05 15:08:51 receivedData: 01
+2021.04.05 15:08:51 receivedData:  
+2021.04.05 15:08:51 receivedData: 1
+2021.04.05 15:08:51 receivedData: 6
+2021.04.05 15:08:51 receivedData: :
+2021.04.05 15:08:51 receivedData: 4
+2021.04.05 15:08:51 receivedData: 9
+2021.04.05 15:08:51 receivedData: :55 re
+2021.04.05 15:08:51 receivedData: ceivedData
+2021.04.05 15:08:51 receivedData: :
+2021.04.05 15:08:51 receivedData:  
+2021.04.05 15:08:51 receivedData: ^^Ю13^??-
+2021.04.05 15:08:51 receivedData: ??ї^
+2021.04.05 15:08:51 receivedData: 0\^^Ю
+2021.04.05 15:08:51 receivedData: 14^??ї
+2021.04.05 15:08:51 receivedData: ^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.
+2021.04.05 15:08:51 receivedData: ??^0\^^Ю18^?-
+2021.04.05 15:08:51 receivedData: ??^0|R||ь|ь|ь|
+2021.04.05 15:08:51 receivedData: ь|Serum||ь|ь|ь|ь|FCE444
+2021.04.05 15:08:51 receivedData: 5R|1|^^Ю1^??ї?ї
+2021.04.05 15:08:52 receivedData: ?ї
+2021.04.05 15:08:52 receivedData: ^
+2021.04.05 15:08:52 receivedData: 0
+2021.04.05 15:08:52 receivedData: |
+2021.04.05 15:08:52 receivedData:  
+2021.04.05 15:08:52 receivedData: 7
+2021.04.05 15:08:52 receivedData: .
+2021.04.05 15:08:52 receivedData: 0
+2021.04.05 15:08:52 receivedData: 92
+2021.04.05 15:08:52 receivedData: 6
+2021.04.05 15:08:52 receivedData: |
+2021.04.05 15:08:52 receivedData: ?
+2021.04.05 15:08:52 receivedData: ?
+2021.04.05 15:08:52 receivedData: ї
+2021.04.05 15:08:52 receivedData: ?ї
+2021.04.05 15:08:52 receivedData: /
+2021.04.05 15:08:52 receivedData: ?
+2021.04.05 15:08:52 receivedData: |
+2021.04.05 15:08:52 receivedData:  
+2021.04.05 15:08:52 receivedData: 4
+2021.04.05 15:08:52 receivedData: .
+2021.04.05 15:08:52 receivedData: 2
+2021.04.05 15:08:52 receivedData: 0
+2021.04.05 15:08:52 receivedData: 0
+2021.04.05 15:08:52 receivedData: °
+2021.04.05 15:08:52 receivedData:  
+2021.04.05 15:08:52 receivedData: TO
+2021.04.05 15:08:52 receivedData:  
+2021.04.05 15:08:52 receivedData:  
+2021.04.05 15:08:52 receivedData: 6
+2021.04.05 15:08:53 receivedData: .400°|H||F||ь|2021040
+2021.04.05 15:08:53 receivedData: 1064735
+2021.04.05 15:08:53 receivedData: 
+2021.04.05 15:08:53 receivedData: 
+2021.04.05 15:08:53 receivedData: 4
+2021.04.05 15:08:53 receivedData: 7
+2021.04.05 15:08:53 receivedData: 
+2021.04.05 15:08:53 receivedData: 
+2021.04.05 15:08:53 receivedData: 6
+2021.04.05 15:08:53 receivedData: R|2
+2021.04.05 15:08:53 receivedData: |
+2021.04.05 15:08:53 receivedData: ^
+2021.04.05 15:08:53 receivedData: ^
+2021.04.05 15:08:53 receivedData: Ю
+2021.04.05 15:08:53 receivedData: 5^
+2021.04.05 15:08:53 receivedData: ??.
+2021.04.05 15:08:53 receivedData: ?
+2021.04.05 15:08:53 receivedData: ?
+2021.04.05 15:08:53 receivedData: ї
+2021.04.05 15:08:53 receivedData: ^
+2021.04.05 15:08:53 receivedData: 0
+2021.04.05 15:08:53 receivedData: |
+2021.04.05 15:08:53 receivedData: 5
+2021.04.05 15:08:53 receivedData: 9
+2021.04.05 15:08:53 receivedData: .
+2021.04.05 15:08:53 receivedData: 2975|?/?|6
+2021.04.05 15:08:53 receivedData: 4.00°
+2021.04.05 15:08:53 receivedData: 0 TO 8
+2021.04.05 15:08:53 receivedData: 3.0
+2021.04.05 15:08:53 receivedData: 0
+2021.04.05 15:08:53 receivedData: °
+2021.04.05 15:08:54 receivedData: 0
+2021.04.05 15:08:54 receivedData: |
+2021.04.05 15:08:54 receivedData: L
+2021.04.05 15:08:54 receivedData: |
+2021.04.05 15:08:54 receivedData: |F
+2021.04.05 15:08:54 receivedData: ||ь
+2021.04.05 15:08:54 receivedData: |202
+2021.04.05 15:08:54 receivedData: 10401
+2021.04.05 15:08:54 receivedData: 064
+2021.04.05 15:08:54 receivedData: 5
+2021.04.05 15:08:54 receivedData: 3
+2021.04.05 15:08:54 receivedData: 4
+2021.04.05 15:08:54 receivedData: 
+2021.04.05 15:08:54 receivedData: 447R
+2021.04.05 15:08:54 receivedData: |
+2021.04.05 15:08:54 receivedData: 3|
+2021.04.05 15:08:54 receivedData: ^
+2021.04.05 15:08:54 receivedData: ^
+2021.04.05 15:08:54 receivedData: Ю7
+2021.04.05 15:08:54 receivedData: ^
+2021.04.05 15:08:54 receivedData: ??
+2021.04.05 15:08:54 receivedData: ї?ї-?
+2021.04.05 15:08:54 receivedData: ^0|8
+2021.04.05 15:08:54 receivedData: 3.155
+2021.04.05 15:08:54 receivedData: 3|??ї?
+2021.04.05 15:08:54 receivedData: ї
+2021.04.05 15:08:54 receivedData: ?
+2021.04.05 15:08:54 receivedData: /
+2021.04.05 15:08:54 receivedData: ?
+2021.04.05 15:08:54 receivedData: |7
+2021.04.05 15:08:55 receivedData: 1
+2021.04.05 15:08:55 receivedData: .
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:55 receivedData: °
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:55 receivedData:  
+2021.04.05 15:08:55 receivedData: T
+2021.04.05 15:08:55 receivedData: O
+2021.04.05 15:08:55 receivedData:  
+2021.04.05 15:08:55 receivedData: 1
+2021.04.05 15:08:55 receivedData: 1
+2021.04.05 15:08:55 receivedData: 5
+2021.04.05 15:08:55 receivedData: .
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:55 receivedData: °
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:55 receivedData: |
+2021.04.05 15:08:55 receivedData: N
+2021.04.05 15:08:55 receivedData: |
+2021.04.05 15:08:55 receivedData: |F
+2021.04.05 15:08:55 receivedData: |
+2021.04.05 15:08:55 receivedData: |ь
+2021.04.05 15:08:55 receivedData: |
+2021.04.05 15:08:55 receivedData: 2
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:55 receivedData: 2
+2021.04.05 15:08:55 receivedData: 1
+2021.04.05 15:08:55 receivedData: 0
+2021.04.05 15:08:56 receivedData: 4
+2021.04.05 15:08:56 receivedData: 0
+2021.04.05 15:08:56 receivedData: 1
+2021.04.05 15:08:56 receivedData: 06461
+2021.04.05 15:08:56 receivedData: 9
+2021.04.05 15:08:56 receivedData: 
+2021.04.05 15:08:56 receivedData: E
+2021.04.05 15:08:56 receivedData: 5
+2021.04.05 15:08:56 receivedData: 
+2021.04.05 15:08:56 receivedData: 0
+2021.04.05 15:08:56 receivedData: R|4|^^Ю8
+2021.04.05 15:08:56 receivedData: ^
+2021.04.05 15:08:56 receivedData: ?
+2021.04.05 15:08:56 receivedData: ?
+2021.04.05 15:08:56 receivedData: ї
+2021.04.05 15:08:56 receivedData: ?
+2021.04.05 15:08:56 receivedData: ї?ї?^0|19.2601|??ї?ї/?|
+2021.04.05 15:08:56 receivedData:  
+2021.04.05 15:08:56 receivedData: 1
+2021.04.05 15:08:56 receivedData: .
+2021.04.05 15:08:56 receivedData: 7
+2021.04.05 15:08:56 receivedData: 00° TO  8.300°|H||F||ь|2021040
+2021.04.05 15:08:56 receivedData: 1
+2021.04.05 15:08:56 receivedData: 0
+2021.04.05 15:08:56 receivedData: 6
+2021.04.05 15:08:56 receivedData: 4433
+2021.04.05 15:08:56 receivedData: 
+2021.04.05 15:08:56 receivedData: 
+2021.04.05 15:08:57 receivedData: 94
+2021.04.05 15:08:57 receivedData: 1R|5|^
+2021.04.05 15:08:57 receivedData: ^
+2021.04.05 15:08:57 receivedData: Ю
+2021.04.05 15:08:57 receivedData: 9
+2021.04.05 15:08:57 receivedData: ^
+2021.04.05 15:08:57 receivedData: ??ї
+2021.04.05 15:08:57 receivedData: ^0|
+2021.04.05 15:08:57 receivedData: 3
+2021.04.05 15:08:57 receivedData: 4
+2021.04.05 15:08:57 receivedData: .69
+2021.04.05 15:08:57 receivedData: 7
+2021.04.05 15:08:57 receivedData: 7
+2021.04.05 15:08:57 receivedData: |
+2021.04.05 15:08:57 receivedData: ??
+2021.04.05 15:08:57 receivedData: /
+2021.04.05 15:08:57 receivedData: ?
+2021.04.05 15:08:57 receivedData: |
+2021.04.05 15:08:57 receivedData:  
+2021.04.05 15:08:57 receivedData: 0
+2021.04.05 15:08:57 receivedData: .
+2021.04.05 15:08:57 receivedData: 00°
+2021.04.05 15:08:57 receivedData: 0 
+2021.04.05 15:08:57 receivedData: T
+2021.04.05 15:08:57 receivedData: O
+2021.04.05 15:08:57 receivedData:  
+2021.04.05 15:08:57 receivedData: 4
+2021.04.05 15:08:57 receivedData: 0
+2021.04.05 15:08:58 receivedData: .00°0|N||F||ь|2021040106460
+2021.04.05 15:08:58 receivedData: 4
+2021.04.05 15:08:58 receivedData: 
+2021.04.05 15:08:58 receivedData: B
+2021.04.05 15:08:58 receivedData: 7
+2021.04.05 15:08:58 receivedData: 
+2021.04.05 15:08:58 receivedData: 
+2021.04.05 15:08:58 receivedData: 2R
+2021.04.05 15:08:58 receivedData: |
+2021.04.05 15:08:58 receivedData: 6
+2021.04.05 15:08:58 receivedData: |
+2021.04.05 15:08:58 receivedData: ^
+2021.04.05 15:08:58 receivedData: ^Ю
+2021.04.05 15:08:58 receivedData: 1
+2021.04.05 15:08:58 receivedData: 0
+2021.04.05 15:08:58 receivedData: ^
+2021.04.05 15:08:58 receivedData: ?
+2021.04.05 15:08:58 receivedData: ?
+2021.04.05 15:08:58 receivedData: ї
+2021.04.05 15:08:58 receivedData: ^
+2021.04.05 15:08:58 receivedData: 0
+2021.04.05 15:08:58 receivedData: |
+2021.04.05 15:08:58 receivedData: 4
+2021.04.05 15:08:58 receivedData: 0
+2021.04.05 15:08:58 receivedData: .3
+2021.04.05 15:08:58 receivedData: 813
+2021.04.05 15:08:58 receivedData: |??/
+2021.04.05 15:08:59 receivedData: ?| 0.00°0 TO
+2021.04.05 15:08:59 receivedData:  
+2021.04.05 15:08:59 receivedData: 3
+2021.04.05 15:08:59 receivedData: 7
+2021.04.05 15:08:59 receivedData: .0
+2021.04.05 15:08:59 receivedData: 0°0|H||
+2021.04.05 15:08:59 receivedData: F||ь|2021040106
+2021.04.05 15:08:59 receivedData: 4549
+2021.04.05 15:08:59 receivedData: D83R|7
+2021.04.05 15:08:59 receivedData: |
+2021.04.05 15:08:59 receivedData: ^
+2021.04.05 15:08:59 receivedData: ^Ю1
+2021.04.05 15:08:59 receivedData: 1^?
+2021.04.05 15:08:59 receivedData: ?ї?ї
+2021.04.05 15:08:59 receivedData: ?ї^0
+2021.04.05 15:08:59 receivedData: |
+2021.04.05 15:08:59 receivedData: 4
+2021.04.05 15:08:59 receivedData: 83
+2021.04.05 15:08:59 receivedData: .
+2021.04.05 15:08:59 receivedData: 7024|??
+2021.04.05 15:08:59 receivedData: /
+2021.04.05 15:08:59 receivedData: ?
+2021.04.05 15:08:59 receivedData: |
+2021.04.05 15:08:59 receivedData: 2
+2021.04.05 15:08:59 receivedData: 8
+2021.04.05 15:08:59 receivedData: .
+2021.04.05 15:08:59 receivedData: 0
+2021.04.05 15:08:59 receivedData: 0°
+2021.04.05 15:08:59 receivedData: 0
+2021.04.05 15:09:00 receivedData:  
+2021.04.05 15:09:00 receivedData: T
+2021.04.05 15:09:00 receivedData: O 
+2021.04.05 15:09:00 receivedData: 1
+2021.04.05 15:09:00 receivedData: 0
+2021.04.05 15:09:00 receivedData: 0.00°
+2021.04.05 15:09:00 receivedData: 0|
+2021.04.05 15:09:00 receivedData: H
+2021.04.05 15:09:00 receivedData: |
+2021.04.05 15:09:00 receivedData: |
+2021.04.05 15:09:00 receivedData: F|
+2021.04.05 15:09:00 receivedData: |ь|202104010
+2021.04.05 15:09:00 receivedData: 644ґ84F4R|8
+2021.04.05 15:09:00 receivedData: |
+2021.04.05 15:09:00 receivedData: ^
+2021.04.05 15:09:00 receivedData: ^
+2021.04.05 15:09:00 receivedData: Ю
+2021.04.05 15:09:00 receivedData: 12
+2021.04.05 15:09:00 receivedData: ^
+2021.04.05 15:09:00 receivedData: ?
+2021.04.05 15:09:00 receivedData: ?
+2021.04.05 15:09:00 receivedData: ї
+2021.04.05 15:09:00 receivedData: .
+2021.04.05 15:09:00 receivedData: ?
+2021.04.05 15:09:00 receivedData: ?
+2021.04.05 15:09:00 receivedData: ї^
+2021.04.05 15:09:00 receivedData: 0
+2021.04.05 15:09:01 receivedData: |
+2021.04.05 15:09:01 receivedData: 10
+2021.04.05 15:09:01 receivedData: 8
+2021.04.05 15:09:01 receivedData: .3
+2021.04.05 15:09:01 receivedData: 3
+2021.04.05 15:09:01 receivedData: 2
+2021.04.05 15:09:01 receivedData: 1
+2021.04.05 15:09:01 receivedData: |?
+2021.04.05 15:09:01 receivedData: ?
+2021.04.05 15:09:01 receivedData: /
+2021.04.05 15:09:01 receivedData: ?
+2021.04.05 15:09:01 receivedData: |
+2021.04.05 15:09:01 receivedData: 2
+2021.04.05 15:09:01 receivedData: 4
+2021.04.05 15:09:01 receivedData: .00°0 TO 195.00°0|N||F||ь|2021040
+2021.04.05 15:09:01 receivedData: 1
+2021.04.05 15:09:01 receivedData: 0
+2021.04.05 15:09:01 receivedData: 6
+2021.04.05 15:09:01 receivedData: 47
+2021.04.05 15:09:01 receivedData: 0543
+2021.04.05 15:09:01 receivedData: 5R|9|^^Ю13^??-??
+2021.04.05 15:09:01 receivedData: ї^0|50.
+2021.04.05 15:09:01 receivedData: 6914|??/
+2021.04.05 15:09:01 receivedData: ?| 0.00°0 TO 25.00°0
+2021.04.05 15:09:01 receivedData: |
+2021.04.05 15:09:01 receivedData: H
+2021.04.05 15:09:01 receivedData: |
+2021.04.05 15:09:01 receivedData: |
+2021.04.05 15:09:01 receivedData: F
+2021.04.05 15:09:02 receivedData: |
+2021.04.05 15:09:02 receivedData: |
+2021.04.05 15:09:02 receivedData: ь
+2021.04.05 15:09:02 receivedData: |
+2021.04.05 15:09:02 receivedData: 2
+2021.04.05 15:09:02 receivedData: 02
+2021.04.05 15:09:02 receivedData: 1
+2021.04.05 15:09:02 receivedData: 0
+2021.04.05 15:09:02 receivedData: 4
+2021.04.05 15:09:02 receivedData: 0
+2021.04.05 15:09:02 receivedData: 1
+2021.04.05 15:09:02 receivedData: 06
+2021.04.05 15:09:02 receivedData: 472086
+2021.04.05 15:09:02 receivedData: 6R
+2021.04.05 15:09:02 receivedData: |10|^
+2021.04.05 15:09:02 receivedData: ^Ю14^??ї^0|8
+2021.04.05 15:09:02 receivedData: 6
+2021.04.05 15:09:02 receivedData: 3
+2021.04.05 15:09:02 receivedData: .
+2021.04.05 15:09:02 receivedData: 7
+2021.04.05 15:09:02 receivedData: 9
+2021.04.05 15:09:02 receivedData: 91
+2021.04.05 15:09:02 receivedData: |
+2021.04.05 15:09:02 receivedData: ?
+2021.04.05 15:09:02 receivedData: ?/
+2021.04.05 15:09:02 receivedData: ?|
+2021.04.05 15:09:02 receivedData: 230.00°
+2021.04.05 15:09:03 receivedData: 0
+2021.04.05 15:09:03 receivedData:  
+2021.04.05 15:09:03 receivedData: T
+2021.04.05 15:09:03 receivedData: O 
+2021.04.05 15:09:03 receivedData: 460
+2021.04.05 15:09:03 receivedData: .00°
+2021.04.05 15:09:03 receivedData: 0|H|
+2021.04.05 15:09:03 receivedData: |F||
+2021.04.05 15:09:03 receivedData: ь
+2021.04.05 15:09:03 receivedData: |
+2021.04.05 15:09:03 receivedData: 2
+2021.04.05 15:09:03 receivedData: 0
+2021.04.05 15:09:03 receivedData: 2
+2021.04.05 15:09:03 receivedData: 1
+2021.04.05 15:09:03 receivedData: 04
+2021.04.05 15:09:03 receivedData: 0
+2021.04.05 15:09:03 receivedData: 1
+2021.04.05 15:09:03 receivedData: 0
+2021.04.05 15:09:03 receivedData: 6
+2021.04.05 15:09:03 receivedData: 4
+2021.04.05 15:09:03 receivedData: 65
+2021.04.05 15:09:03 receivedData: 0
+2021.04.05 15:09:03 receivedData: 
+2021.04.05 15:09:03 receivedData: C
+2021.04.05 15:09:03 receivedData: 1
+2021.04.05 15:09:03 receivedData: 
+2021.04.05 15:09:03 receivedData: 
+2021.04.05 15:09:03 receivedData: 7
+2021.04.05 15:09:03 receivedData: R
+2021.04.05 15:09:03 receivedData: |
+2021.04.05 15:09:04 receivedData: 1
+2021.04.05 15:09:04 receivedData: 1
+2021.04.05 15:09:04 receivedData: |
+2021.04.05 15:09:04 receivedData: ^
+2021.04.05 15:09:04 receivedData: ^
+2021.04.05 15:09:04 receivedData: Ю
+2021.04.05 15:09:04 receivedData: 15^??ї.??ї.^0|314
+2021.04.05 15:09:04 receivedData: .
+2021.04.05 15:09:04 receivedData: 7
+2021.04.05 15:09:04 receivedData: 3
+2021.04.05 15:09:04 receivedData: 4
+2021.04.05 15:09:04 receivedData: 7|
+2021.04.05 15:09:04 receivedData: ?
+2021.04.05 15:09:04 receivedData: ?
+2021.04.05 15:09:04 receivedData: /
+2021.04.05 15:09:04 receivedData: ?|
+2021.04.05 15:09:04 receivedData: 98.00°0 TO 279
+2021.04.05 15:09:04 receivedData: .00°0|
+2021.04.05 15:09:04 receivedData: H||F||ь
+2021.04.05 15:09:04 receivedData: |2021040
+2021.04.05 15:09:04 receivedData: 1064634B
+2021.04.05 15:09:04 receivedData: 50R|12|^
+2021.04.05 15:09:04 receivedData: ^Ю16^??ї.?
+2021.04.05 15:09:04 receivedData: ?
+2021.04.05 15:09:04 receivedData: ^
+2021.04.05 15:09:04 receivedData: 0
+2021.04.05 15:09:04 receivedData: |
+2021.04.05 15:09:05 receivedData: 4
+2021.04.05 15:09:05 receivedData: 6
+2021.04.05 15:09:05 receivedData: .
+2021.04.05 15:09:05 receivedData: 2
+2021.04.05 15:09:05 receivedData: 1
+2021.04.05 15:09:05 receivedData: 4
+2021.04.05 15:09:05 receivedData: 4|??ї?ї?
+2021.04.05 15:09:05 receivedData: /
+2021.04.05 15:09:05 receivedData: ?
+2021.04.05 15:09:05 receivedData: |
+2021.04.05 15:09:05 receivedData:  
+2021.04.05 15:09:05 receivedData: 0.00°0
+2021.04.05 15:09:05 receivedData:  TO 
+2021.04.05 15:09:05 receivedData: 2
+2021.04.05 15:09:05 receivedData: 1.00°0|H||
+2021.04.05 15:09:05 receivedData: F||ь|2
+2021.04.05 15:09:05 receivedData: 0210401064503A2
+2021.04.05 15:09:05 receivedData: 1
+2021.04.05 15:09:05 receivedData: R|
+2021.04.05 15:09:05 receivedData: 1
+2021.04.05 15:09:05 receivedData: 3|^
+2021.04.05 15:09:05 receivedData: ^
+2021.04.05 15:09:05 receivedData: Ю
+2021.04.05 15:09:05 receivedData: 1
+2021.04.05 15:09:05 receivedData: 7
+2021.04.05 15:09:05 receivedData: ^?
+2021.04.05 15:09:05 receivedData: ?
+2021.04.05 15:09:05 receivedData: ї
+2021.04.05 15:09:05 receivedData: .?
+2021.04.05 15:09:06 receivedData: ?
+2021.04.05 15:09:06 receivedData: ^
+2021.04.05 15:09:06 receivedData: 0
+2021.04.05 15:09:06 receivedData: |
+2021.04.05 15:09:06 receivedData: 2
+2021.04.05 15:09:06 receivedData: 9.
+2021.04.05 15:09:06 receivedData: 3
+2021.04.05 15:09:06 receivedData: 9
+2021.04.05 15:09:06 receivedData: 4
+2021.04.05 15:09:06 receivedData: 0
+2021.04.05 15:09:06 receivedData: |
+2021.04.05 15:09:06 receivedData: ?
+2021.04.05 15:09:06 receivedData: ?
+2021.04.05 15:09:06 receivedData: ї
+2021.04.05 15:09:06 receivedData: ?
+2021.04.05 15:09:06 receivedData: ї
+2021.04.05 15:09:06 receivedData: ?
+2021.04.05 15:09:06 receivedData: /
+2021.04.05 15:09:06 receivedData: ?
+2021.04.05 15:09:06 receivedData: |
+2021.04.05 15:09:06 receivedData:  
+2021.04.05 15:09:06 receivedData: 0
+2021.04.05 15:09:06 receivedData: .
+2021.04.05 15:09:06 receivedData: 0
+2021.04.05 15:09:06 receivedData: 0°
+2021.04.05 15:09:07 receivedData: 0
+2021.04.05 15:09:07 receivedData:  
+2021.04.05 15:09:07 receivedData: T
+2021.04.05 15:09:07 receivedData: O  
+2021.04.05 15:09:07 receivedData: 6
+2021.04.05 15:09:07 receivedData: .
+2021.04.05 15:09:07 receivedData: 800°|H||F||
+2021.04.05 15:09:07 receivedData: ь
+2021.04.05 15:09:07 receivedData: |
+2021.04.05 15:09:07 receivedData: 20
+2021.04.05 15:09:07 receivedData: 2
+2021.04.05 15:09:07 receivedData: 104
+2021.04.05 15:09:07 receivedData: 010
+2021.04.05 15:09:07 receivedData: 645
+2021.04.05 15:09:07 receivedData: 19
+2021.04.05 15:09:07 receivedData: AD2
+2021.04.05 15:09:07 receivedData: R|14|^
+2021.04.05 15:09:07 receivedData: ^Ю18^?-
+2021.04.05 15:09:07 receivedData: ??^0|36.4
+2021.04.05 15:09:07 receivedData: 7
+2021.04.05 15:09:07 receivedData: 17|??/?| 0.00°0 TO  5.00°0|H||F||ь|2021040
+2021.04.05 15:09:07 receivedData: 10647502A3L|1|N06
+2021.04.05 15:09:18 Отправлено подтверждение <ACK> (06h) по кнопке.
+2021.04.05 15:10:42 receivedData: 
+2021.04.05 15:10:42 receivedData: 
+2021.04.05 15:10:42 receivedData: 
+2021.04.05 15:10:42 receivedData: 1
+2021.04.05 15:10:43 receivedData: H
+2021.04.05 15:10:43 receivedData: |
+2021.04.05 15:10:43 receivedData: \
+2021.04.05 15:10:43 receivedData: ^
+2021.04.05 15:10:43 receivedData: &
+2021.04.05 15:10:43 receivedData: |
+2021.04.05 15:10:43 receivedData: |
+2021.04.05 15:10:43 receivedData: ьB
+2021.04.05 15:10:43 receivedData: i
+2021.04.05 15:10:43 receivedData: O
+2021.04.05 15:10:43 receivedData: L
+2021.04.05 15:10:43 receivedData: iS
+2021.04.05 15:10:43 receivedData:  
+2021.04.05 15:10:43 receivedData: N
+2021.04.05 15:10:43 receivedData: EO
+2021.04.05 15:10:43 receivedData: ^
+2021.04.05 15:10:43 receivedData: S
+2021.04.05 15:10:43 receivedData: Y
+2021.04.05 15:10:43 receivedData: S
+2021.04.05 15:10:43 receivedData: T
+2021.04.05 15:10:43 receivedData: E
+2021.04.05 15:10:43 receivedData: M
+2021.04.05 15:10:44 receivedData: 1
+2021.04.05 15:10:44 receivedData: |
+2021.04.05 15:10:44 receivedData: |
+2021.04.05 15:10:44 receivedData: ь
+2021.04.05 15:10:44 receivedData: |
+2021.04.05 15:10:44 receivedData: ь
+2021.04.05 15:10:44 receivedData: H
+2021.04.05 15:10:44 receivedData: O
+2021.04.05 15:10:44 receivedData: ST^
+2021.04.05 15:10:44 receivedData: P
+2021.04.05 15:10:44 receivedData: _
+2021.04.05 15:10:44 receivedData: 1
+2021.04.05 15:10:44 receivedData: ||
+2021.04.05 15:10:44 receivedData: P|1|2021040
+2021.04.05 15:10:44 receivedData: 1
+2021.04.05 15:10:44 receivedData: 16
+2021.04.05 15:10:44 receivedData: 4
+2021.04.05 15:10:44 receivedData: 9
+2021.04.05 15:10:44 receivedData: 13EC2
+2021.04.05 15:10:44 receivedData: P|1|2
+2021.04.05 15:10:44 receivedData: 104010063||
+2021.04.05 15:10:44 receivedData: ь
+2021.04.05 15:10:44 receivedData: 1
+2021.04.05 15:10:44 receivedData: 55
+2021.04.05 15:10:44 receivedData: 6
+2021.04.05 15:10:44 receivedData: 7
+2021.04.05 15:10:44 receivedData:  
+2021.04.05 15:10:45 receivedData: ^
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData: ?ї
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData: ї
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData: ї
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData: ї
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData:  ?
+2021.04.05 15:10:45 receivedData: .
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData: .
+2021.04.05 15:10:45 receivedData:  
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData: ?
+2021.04.05 15:10:45 receivedData: ї|
+2021.04.05 15:10:45 receivedData: |
+2021.04.05 15:10:45 receivedData: ь
+2021.04.05 15:10:45 receivedData: U
+2021.04.05 15:10:45 receivedData: |
+2021.04.05 15:10:45 receivedData: |
+2021.04.05 15:10:46 receivedData: ь|
+2021.04.05 15:10:46 receivedData: ь
+2021.04.05 15:10:46 receivedData: 
+2021.04.05 15:10:46 receivedData: 
+2021.04.05 15:10:46 receivedData: 2
+2021.04.05 15:10:46 receivedData: 8
+2021.04.05 15:10:46 receivedData: 
+2021.04.05 15:10:46 receivedData: 3
+2021.04.05 15:10:46 receivedData: O
+2021.04.05 15:10:46 receivedData: |1
+2021.04.05 15:10:46 receivedData: |
+2021.04.05 15:10:46 receivedData: |
+2021.04.05 15:10:46 receivedData: ^
+2021.04.05 15:10:46 receivedData: 1^6
+2021.04.05 15:10:46 receivedData: 3|^
+2021.04.05 15:10:46 receivedData: ^Ю1^??ї?ї
+2021.04.05 15:10:46 receivedData: ?ї^0\^
+2021.04.05 15:10:46 receivedData: ^Ю5^??.
+2021.04.05 15:10:46 receivedData: ??ї^0\^^
+2021.04.05 15:10:46 receivedData: Ю7
+2021.04.05 15:10:46 receivedData: ^
+2021.04.05 15:10:46 receivedData: ?
+2021.04.05 15:10:46 receivedData: ?
+2021.04.05 15:10:46 receivedData: ї?ї-
+2021.04.05 15:10:47 receivedData: ?
+2021.04.05 15:10:47 receivedData: ^
+2021.04.05 15:10:47 receivedData: 0\^^Ю
+2021.04.05 15:10:47 receivedData: 8
+2021.04.05 15:10:47 receivedData: ^
+2021.04.05 15:10:47 receivedData: ?
+2021.04.05 15:10:47 receivedData: ?
+2021.04.05 15:10:47 receivedData: ї?ї?ї?^
+2021.04.05 15:10:47 receivedData: 0
+2021.04.05 15:10:47 receivedData: \
+2021.04.05 15:10:47 receivedData: ^^
+2021.04.05 15:10:47 receivedData: Ю9
+2021.04.05 15:10:47 receivedData: ^??ї^
+2021.04.05 15:10:47 receivedData: 0
+2021.04.05 15:10:47 receivedData: \
+2021.04.05 15:10:47 receivedData: ^^
+2021.04.05 15:10:47 receivedData: Ю1
+2021.04.05 15:10:47 receivedData: 0^
+2021.04.05 15:10:47 receivedData: ?
+2021.04.05 15:10:47 receivedData: ?ї^0\^^Ю11
+2021.04.05 15:10:47 receivedData: ^?
+2021.04.05 15:10:47 receivedData: ?
+2021.04.05 15:10:47 receivedData: ї
+2021.04.05 15:10:48 receivedData: ?ї?ї^0\
+2021.04.05 15:10:48 receivedData: ^^Ю
+2021.04.05 15:10:48 receivedData: 1
+2021.04.05 15:10:48 receivedData: 2
+2021.04.05 15:10:48 receivedData: ^
+2021.04.05 15:10:48 receivedData: ?
+2021.04.05 15:10:48 receivedData: ?ї
+2021.04.05 15:10:48 receivedData: .
+2021.04.05 15:10:48 receivedData: ?
+2021.04.05 15:10:48 receivedData: ?
+2021.04.05 15:10:48 receivedData: ї
+2021.04.05 15:10:48 receivedData: ^
+2021.04.05 15:10:48 receivedData: 0
+2021.04.05 15:10:48 receivedData: \
+2021.04.05 15:10:48 receivedData: 
+2021.04.05 15:10:48 receivedData: 2
+2021.04.05 15:10:48 receivedData: 0
+2021.04.05 15:10:48 receivedData: 21
+2021.04.05 15:10:48 receivedData: .
+2021.04.05 15:10:48 receivedData: 0
+2021.04.05 15:10:48 receivedData: 4
+2021.04.05 15:10:49 receivedData: .
+2021.04.05 15:10:49 receivedData: 0
+2021.04.05 15:10:49 receivedData: 1
+2021.04.05 15:10:49 receivedData:  
+2021.04.05 15:10:49 receivedData: 1
+2021.04.05 15:10:49 receivedData: 6
+2021.04.05 15:10:49 receivedData: :4
+2021.04.05 15:10:49 receivedData: 9
+2021.04.05 15:10:49 receivedData: :
+2021.04.05 15:10:49 receivedData: 5
+2021.04.05 15:10:49 receivedData: 5
+2021.04.05 15:10:49 receivedData:  
+2021.04.05 15:10:49 receivedData: receiv
+2021.04.05 15:10:49 receivedData: edData: ^
+2021.04.05 15:10:49 receivedData: ^
+2021.04.05 15:10:49 receivedData: Ю
+2021.04.05 15:10:49 receivedData: 1
+2021.04.05 15:10:49 receivedData: 3^?
+2021.04.05 15:10:49 receivedData: ?
+2021.04.05 15:10:49 receivedData: -??ї
+2021.04.05 15:10:49 receivedData: ^
+2021.04.05 15:10:49 receivedData: 0\
+2021.04.05 15:10:50 receivedData: ^^Ю14^?
+2021.04.05 15:10:50 receivedData: ?
+2021.04.05 15:10:50 receivedData: ї
+2021.04.05 15:10:50 receivedData: ^
+2021.04.05 15:10:50 receivedData: 0
+2021.04.05 15:10:50 receivedData: \^^Ю
+2021.04.05 15:10:50 receivedData: 1
+2021.04.05 15:10:50 receivedData: 5
+2021.04.05 15:10:50 receivedData: ^?
+2021.04.05 15:10:50 receivedData: ?ї.
+2021.04.05 15:10:50 receivedData: ??ї.^0
+2021.04.05 15:10:50 receivedData: \
+2021.04.05 15:10:50 receivedData: ^
+2021.04.05 15:10:50 receivedData: ^
+2021.04.05 15:10:50 receivedData: Ю
+2021.04.05 15:10:50 receivedData: 16^??ї.??
+2021.04.05 15:10:50 receivedData: ^0\^^
+2021.04.05 15:10:50 receivedData: Ю17^??ї.??^0\
+2021.04.05 15:10:50 receivedData: ^^Ю18^?-
+2021.04.05 15:10:50 receivedData: ??
+2021.04.05 15:10:50 receivedData: ^
+2021.04.05 15:10:50 receivedData: 0
+2021.04.05 15:10:50 receivedData: |
+2021.04.05 15:10:51 receivedData: R
+2021.04.05 15:10:51 receivedData: ||
+2021.04.05 15:10:51 receivedData: ь
+2021.04.05 15:10:51 receivedData: |
+2021.04.05 15:10:51 receivedData: ь
+2021.04.05 15:10:51 receivedData: |
+2021.04.05 15:10:51 receivedData: ь
+2021.04.05 15:10:51 receivedData: |
+2021.04.05 15:10:51 receivedData: ь
+2021.04.05 15:10:51 receivedData: |
+2021.04.05 15:10:51 receivedData: Se
+2021.04.05 15:10:51 receivedData: r
+2021.04.05 15:10:51 receivedData: um||
+2021.04.05 15:10:51 receivedData: ь|ь|ь|ь|F
+2021.04.05 15:10:51 receivedData: 
+2021.04.05 15:10:51 receivedData: CE
+2021.04.05 15:10:51 receivedData: 
+2021.04.05 15:10:51 receivedData: 4
+2021.04.05 15:10:51 receivedData: 
+2021.04.05 15:10:51 receivedData: 4
+2021.04.05 15:10:51 receivedData: 4
+2021.04.05 15:10:51 receivedData: 
+2021.04.05 15:10:52 receivedData: 5
+2021.04.05 15:10:52 receivedData: R
+2021.04.05 15:10:52 receivedData: |1
+2021.04.05 15:10:52 receivedData: |
+2021.04.05 15:10:52 receivedData: ^^
+2021.04.05 15:10:52 receivedData: Ю
+2021.04.05 15:10:52 receivedData: 1
+2021.04.05 15:10:52 receivedData: ^?
+2021.04.05 15:10:52 receivedData: ?ї
+2021.04.05 15:10:52 receivedData: ?
+2021.04.05 15:10:52 receivedData: ї
+2021.04.05 15:10:52 receivedData: ?ї
+2021.04.05 15:10:52 receivedData: ^
+2021.04.05 15:10:52 receivedData: 0
+2021.04.05 15:10:52 receivedData: |
+2021.04.05 15:10:52 receivedData:  
+2021.04.05 15:10:52 receivedData: 7
+2021.04.05 15:10:52 receivedData: .
+2021.04.05 15:10:52 receivedData: 0
+2021.04.05 15:10:52 receivedData: 926
+2021.04.05 15:10:52 receivedData: |
+2021.04.05 15:10:53 receivedData: ?
+2021.04.05 15:10:53 receivedData: ?
+2021.04.05 15:10:53 receivedData: ї?
+2021.04.05 15:10:53 receivedData: ї
+2021.04.05 15:10:53 receivedData: /
+2021.04.05 15:10:53 receivedData: ?| 4.
+2021.04.05 15:10:53 receivedData: 2
+2021.04.05 15:10:53 receivedData: 0
+2021.04.05 15:10:53 receivedData: 0
+2021.04.05 15:10:53 receivedData: ° 
+2021.04.05 15:10:53 receivedData: TO  6.400°|H
+2021.04.05 15:10:53 receivedData: ||F||ь
+2021.04.05 15:10:53 receivedData: |202104
+2021.04.05 15:10:53 receivedData: 01064735
+2021.04.05 15:10:53 receivedData: 476R|
+2021.04.05 15:10:53 receivedData: 2|
+2021.04.05 15:10:53 receivedData: ^^
+2021.04.05 15:10:53 receivedData: Ю
+2021.04.05 15:10:53 receivedData: 5
+2021.04.05 15:10:53 receivedData: ^??.??ї^0|59.29
+2021.04.05 15:10:53 receivedData: 75|?/?|64.00°0 TO 83.
+2021.04.05 15:10:53 receivedData: 0
+2021.04.05 15:10:54 receivedData: 0
+2021.04.05 15:10:54 receivedData: °
+2021.04.05 15:10:54 receivedData: 0
+2021.04.05 15:10:54 receivedData: |
+2021.04.05 15:10:54 receivedData: L|
+2021.04.05 15:10:54 receivedData: |
+2021.04.05 15:10:54 receivedData: F
+2021.04.05 15:10:54 receivedData: |
+2021.04.05 15:10:54 receivedData: |ь
+2021.04.05 15:10:54 receivedData: |
+2021.04.05 15:10:54 receivedData: 2
+2021.04.05 15:10:54 receivedData: 0
+2021.04.05 15:10:54 receivedData: 21
+2021.04.05 15:10:54 receivedData: 0
+2021.04.05 15:10:54 receivedData: 4
+2021.04.05 15:10:54 receivedData: 01064534
+2021.04.05 15:10:54 receivedData: 
+2021.04.05 15:10:54 receivedData: 4
+2021.04.05 15:10:54 receivedData: 4
+2021.04.05 15:10:54 receivedData: 
+2021.04.05 15:10:54 receivedData: 
+2021.04.05 15:10:55 receivedData: 7R
+2021.04.05 15:10:55 receivedData: |
+2021.04.05 15:10:55 receivedData: 3
+2021.04.05 15:10:55 receivedData: |
+2021.04.05 15:10:55 receivedData: ^
+2021.04.05 15:10:55 receivedData: ^Ю
+2021.04.05 15:10:55 receivedData: 7
+2021.04.05 15:10:55 receivedData: ^
+2021.04.05 15:10:55 receivedData: ?
+2021.04.05 15:10:55 receivedData: ?
+2021.04.05 15:10:55 receivedData: ї?ї
+2021.04.05 15:10:55 receivedData: -
+2021.04.05 15:10:55 receivedData: ?
+2021.04.05 15:10:55 receivedData: ^
+2021.04.05 15:10:55 receivedData: 0
+2021.04.05 15:10:55 receivedData: |
+2021.04.05 15:10:55 receivedData: 8
+2021.04.05 15:10:55 receivedData: 3
+2021.04.05 15:10:55 receivedData: .
+2021.04.05 15:10:55 receivedData: 1
+2021.04.05 15:10:55 receivedData: 5
+2021.04.05 15:10:56 receivedData: 5
+2021.04.05 15:10:56 receivedData: 3
+2021.04.05 15:10:56 receivedData: |??
+2021.04.05 15:10:56 receivedData: ї?ї
+2021.04.05 15:10:56 receivedData: ?/?|71.00°0 TO 115.0
+2021.04.05 15:10:56 receivedData: 0
+2021.04.05 15:10:56 receivedData: °
+2021.04.05 15:10:56 receivedData: 0|N||F||ь|20210401064619E50R|4|^^Ю
+2021.04.05 15:10:56 receivedData: 8
+2021.04.05 15:10:56 receivedData: ^
+2021.04.05 15:10:56 receivedData: ?
+2021.04.05 15:10:56 receivedData: ?
+2021.04.05 15:10:56 receivedData: ї?
+2021.04.05 15:10:56 receivedData: ї
+2021.04.05 15:10:56 receivedData: ?
+2021.04.05 15:10:56 receivedData: ї
+2021.04.05 15:10:56 receivedData: ?
+2021.04.05 15:10:56 receivedData: ^
+2021.04.05 15:10:56 receivedData: 0
+2021.04.05 15:10:56 receivedData: |19.2
+2021.04.05 15:10:57 receivedData: 6
+2021.04.05 15:10:57 receivedData: 01|??ї
+2021.04.05 15:10:57 receivedData: ?
+2021.04.05 15:10:57 receivedData: ї
+2021.04.05 15:10:57 receivedData: /
+2021.04.05 15:10:57 receivedData: ?
+2021.04.05 15:10:57 receivedData: |
+2021.04.05 15:10:57 receivedData:  
+2021.04.05 15:10:57 receivedData: 1
+2021.04.05 15:10:57 receivedData: .
+2021.04.05 15:10:57 receivedData: 7
+2021.04.05 15:10:57 receivedData: 00
+2021.04.05 15:10:57 receivedData: ° 
+2021.04.05 15:10:57 receivedData: TO  8.3
+2021.04.05 15:10:57 receivedData: 00°|H||
+2021.04.05 15:10:57 receivedData: F
+2021.04.05 15:10:57 receivedData: |
+2021.04.05 15:10:57 receivedData: |
+2021.04.05 15:10:57 receivedData: ь
+2021.04.05 15:10:58 receivedData: |
+2021.04.05 15:10:58 receivedData: 2
+2021.04.05 15:10:58 receivedData: 02
+2021.04.05 15:10:58 receivedData: 10401064433941R|5|^^Ю9^??ї^0|34.
+2021.04.05 15:10:58 receivedData: 6977|??/?| 0.00°0 T
+2021.04.05 15:10:58 receivedData: O 40.00°0|N
+2021.04.05 15:10:58 receivedData: |
+2021.04.05 15:10:58 receivedData: |
+2021.04.05 15:10:58 receivedData: F
+2021.04.05 15:10:58 receivedData: |
+2021.04.05 15:10:58 receivedData: |ь|2021040106
+2021.04.05 15:10:58 receivedData: 4
+2021.04.05 15:10:58 receivedData: 6
+2021.04.05 15:10:58 receivedData: 04
+2021.04.05 15:10:58 receivedData: 
+2021.04.05 15:10:58 receivedData: 
+2021.04.05 15:10:58 receivedData: B
+2021.04.05 15:10:58 receivedData: 7
+2021.04.05 15:10:58 receivedData: 
+2021.04.05 15:10:58 receivedData: 
+2021.04.05 15:10:58 receivedData: 2R
+2021.04.05 15:10:59 receivedData: |6
+2021.04.05 15:10:59 receivedData: |
+2021.04.05 15:10:59 receivedData: ^
+2021.04.05 15:10:59 receivedData: ^
+2021.04.05 15:10:59 receivedData: Ю
+2021.04.05 15:10:59 receivedData: 1
+2021.04.05 15:10:59 receivedData: 0
+2021.04.05 15:10:59 receivedData: ^
+2021.04.05 15:10:59 receivedData: ?
+2021.04.05 15:10:59 receivedData: ?
+2021.04.05 15:10:59 receivedData: ї
+2021.04.05 15:10:59 receivedData: ^0
+2021.04.05 15:10:59 receivedData: |
+2021.04.05 15:10:59 receivedData: 4
+2021.04.05 15:10:59 receivedData: 0
+2021.04.05 15:10:59 receivedData: .3
+2021.04.05 15:10:59 receivedData: 81
+2021.04.05 15:10:59 receivedData: 3|??/
+2021.04.05 15:10:59 receivedData: ?| 0.00°
+2021.04.05 15:11:00 receivedData: 0 
+2021.04.05 15:11:00 receivedData: TO
+2021.04.05 15:11:00 receivedData:  
+2021.04.05 15:11:00 receivedData: 3
+2021.04.05 15:11:00 receivedData: 7
+2021.04.05 15:11:00 receivedData: .00
+2021.04.05 15:11:00 receivedData: °0|H||F
+2021.04.05 15:11:00 receivedData: ||
+2021.04.05 15:11:00 receivedData: ь
+2021.04.05 15:11:00 receivedData: |
+2021.04.05 15:11:00 receivedData: 2
+2021.04.05 15:11:00 receivedData: 0
+2021.04.05 15:11:00 receivedData: 2
+2021.04.05 15:11:00 receivedData: 1040
+2021.04.05 15:11:00 receivedData: 1
+2021.04.05 15:11:00 receivedData: 0
+2021.04.05 15:11:00 receivedData: 64
+2021.04.05 15:11:00 receivedData: 5
+2021.04.05 15:11:00 receivedData: 4
+2021.04.05 15:11:00 receivedData: 9D8
+2021.04.05 15:11:01 receivedData: 3R|7|
+2021.04.05 15:11:01 receivedData: ^
+2021.04.05 15:11:01 receivedData: ^Ю
+2021.04.05 15:11:01 receivedData: 1
+2021.04.05 15:11:01 receivedData: 1^
+2021.04.05 15:11:01 receivedData: ?
+2021.04.05 15:11:01 receivedData: ?
+2021.04.05 15:11:01 receivedData: ї?ї
+2021.04.05 15:11:01 receivedData: ?
+2021.04.05 15:11:01 receivedData: ї
+2021.04.05 15:11:01 receivedData: ^
+2021.04.05 15:11:01 receivedData: 0
+2021.04.05 15:11:01 receivedData: |
+2021.04.05 15:11:01 receivedData: 4
+2021.04.05 15:11:01 receivedData: 83
+2021.04.05 15:11:01 receivedData: .7024|??/?|2
+2021.04.05 15:11:01 receivedData: 8
+2021.04.05 15:11:01 receivedData: .
+2021.04.05 15:11:02 receivedData: 00
+2021.04.05 15:11:02 receivedData: °0
+2021.04.05 15:11:02 receivedData:  TO 100.00°0|H||F||ь|202104010644ґ84F
+2021.04.05 15:11:02 receivedData: 
+2021.04.05 15:11:02 receivedData: 
+2021.04.05 15:11:02 receivedData: 4
+2021.04.05 15:11:02 receivedData: R
+2021.04.05 15:11:02 receivedData: |8|
+2021.04.05 15:11:02 receivedData: ^
+2021.04.05 15:11:02 receivedData: ^Ю1
+2021.04.05 15:11:02 receivedData: 2
+2021.04.05 15:11:02 receivedData: ^
+2021.04.05 15:11:02 receivedData: ?
+2021.04.05 15:11:02 receivedData: ?ї
+2021.04.05 15:11:02 receivedData: .??ї^0
+2021.04.05 15:11:02 receivedData: |
+2021.04.05 15:11:02 receivedData: 1
+2021.04.05 15:11:02 receivedData: 08
+2021.04.05 15:11:02 receivedData: .
+2021.04.05 15:11:02 receivedData: 3
+2021.04.05 15:11:02 receivedData: 32
+2021.04.05 15:11:03 receivedData: 1
+2021.04.05 15:11:03 receivedData: |
+2021.04.05 15:11:03 receivedData: ?
+2021.04.05 15:11:03 receivedData: ?
+2021.04.05 15:11:03 receivedData: /
+2021.04.05 15:11:03 receivedData: ?
+2021.04.05 15:11:03 receivedData: |
+2021.04.05 15:11:03 receivedData: 24
+2021.04.05 15:11:03 receivedData: .0
+2021.04.05 15:11:03 receivedData: 0°
+2021.04.05 15:11:03 receivedData: 0
+2021.04.05 15:11:03 receivedData:  
+2021.04.05 15:11:03 receivedData: T
+2021.04.05 15:11:03 receivedData: O
+2021.04.05 15:11:03 receivedData:  
+2021.04.05 15:11:03 receivedData: 1
+2021.04.05 15:11:03 receivedData: 95
+2021.04.05 15:11:03 receivedData: .00
+2021.04.05 15:11:03 receivedData: °0|N
+2021.04.05 15:11:03 receivedData: ||F||
+2021.04.05 15:11:04 receivedData: ь|20210401064705435R|9|^^Ю13^??-??ї^
+2021.04.05 15:11:04 receivedData: 0|50.69
+2021.04.05 15:11:04 receivedData: 1
+2021.04.05 15:11:04 receivedData: 4
+2021.04.05 15:11:04 receivedData: |
+2021.04.05 15:11:04 receivedData: ?
+2021.04.05 15:11:04 receivedData: ?/?| 
+2021.04.05 15:11:04 receivedData: 0.00
+2021.04.05 15:11:04 receivedData: °0 TO 2
+2021.04.05 15:11:04 receivedData: 5
+2021.04.05 15:11:04 receivedData: .
+2021.04.05 15:11:04 receivedData: 0
+2021.04.05 15:11:04 receivedData: 0°0|H||F||ь|20210
+2021.04.05 15:11:04 receivedData: 4
+2021.04.05 15:11:04 receivedData: 0
+2021.04.05 15:11:04 receivedData: 1
+2021.04.05 15:11:04 receivedData: 06
+2021.04.05 15:11:04 receivedData: 4
+2021.04.05 15:11:04 receivedData: 7
+2021.04.05 15:11:04 receivedData: 2
+2021.04.05 15:11:05 receivedData: 0
+2021.04.05 15:11:05 receivedData: 
+2021.04.05 15:11:05 receivedData: 8
+2021.04.05 15:11:05 receivedData: 6
+2021.04.05 15:11:05 receivedData: 
+2021.04.05 15:11:05 receivedData: 
+2021.04.05 15:11:05 receivedData: 6
+2021.04.05 15:11:05 receivedData: R
+2021.04.05 15:11:05 receivedData: |
+2021.04.05 15:11:05 receivedData: 1
+2021.04.05 15:11:05 receivedData: 0|
+2021.04.05 15:11:05 receivedData: ^
+2021.04.05 15:11:05 receivedData: ^
+2021.04.05 15:11:05 receivedData: Ю
+2021.04.05 15:11:05 receivedData: 1
+2021.04.05 15:11:05 receivedData: 4
+2021.04.05 15:11:05 receivedData: ^
+2021.04.05 15:11:05 receivedData: ?
+2021.04.05 15:11:06 receivedData: ?
+2021.04.05 15:11:06 receivedData: ї
+2021.04.05 15:11:06 receivedData: ^
+2021.04.05 15:11:06 receivedData: 0
+2021.04.05 15:11:06 receivedData: |
+2021.04.05 15:11:06 receivedData: 8
+2021.04.05 15:11:06 receivedData: 6
+2021.04.05 15:11:06 receivedData: 3
+2021.04.05 15:11:06 receivedData: .
+2021.04.05 15:11:06 receivedData: 79
+2021.04.05 15:11:06 receivedData: 9
+2021.04.05 15:11:06 receivedData: 1
+2021.04.05 15:11:06 receivedData: |
+2021.04.05 15:11:06 receivedData: ?
+2021.04.05 15:11:06 receivedData: ?
+2021.04.05 15:11:06 receivedData: /?
+2021.04.05 15:11:06 receivedData: |
+2021.04.05 15:11:06 receivedData: 2
+2021.04.05 15:11:07 receivedData: 3
+2021.04.05 15:11:07 receivedData: 0
+2021.04.05 15:11:07 receivedData: .
+2021.04.05 15:11:07 receivedData: 00°0
+2021.04.05 15:11:07 receivedData:  TO
+2021.04.05 15:11:07 receivedData:  4
+2021.04.05 15:11:07 receivedData: 6
+2021.04.05 15:11:07 receivedData: 0
+2021.04.05 15:11:07 receivedData: .
+2021.04.05 15:11:07 receivedData: 0
+2021.04.05 15:11:07 receivedData: 0
+2021.04.05 15:11:07 receivedData: °
+2021.04.05 15:11:07 receivedData: 0
+2021.04.05 15:11:07 receivedData: |
+2021.04.05 15:11:07 receivedData: H
+2021.04.05 15:11:07 receivedData: |
+2021.04.05 15:11:07 receivedData: |
+2021.04.05 15:11:07 receivedData: F||ь|2021
+2021.04.05 15:11:07 receivedData: 04010
+2021.04.05 15:11:07 receivedData: 6
+2021.04.05 15:11:08 receivedData: 4
+2021.04.05 15:11:08 receivedData: 6
+2021.04.05 15:11:08 receivedData: 50C1
+2021.04.05 15:11:08 receivedData: 7
+2021.04.05 15:11:08 receivedData: R
+2021.04.05 15:11:08 receivedData: |1
+2021.04.05 15:11:08 receivedData: 1
+2021.04.05 15:11:08 receivedData: |
+2021.04.05 15:11:08 receivedData: ^^
+2021.04.05 15:11:08 receivedData: Ю
+2021.04.05 15:11:08 receivedData: 15^?
+2021.04.05 15:11:08 receivedData: ?
+2021.04.05 15:11:08 receivedData: ї
+2021.04.05 15:11:08 receivedData: .??
+2021.04.05 15:11:08 receivedData: ї
+2021.04.05 15:11:08 receivedData: .
+2021.04.05 15:11:08 receivedData: ^0|
+2021.04.05 15:11:08 receivedData: 3
+2021.04.05 15:11:09 receivedData: 14
+2021.04.05 15:11:09 receivedData: .7
+2021.04.05 15:11:09 receivedData: 347
+2021.04.05 15:11:09 receivedData: |
+2021.04.05 15:11:09 receivedData: ?
+2021.04.05 15:11:09 receivedData: ?
+2021.04.05 15:11:09 receivedData: /?
+2021.04.05 15:11:09 receivedData: |
+2021.04.05 15:11:09 receivedData: 9
+2021.04.05 15:11:09 receivedData: 8.00°0 
+2021.04.05 15:11:09 receivedData: T
+2021.04.05 15:11:09 receivedData: O
+2021.04.05 15:11:09 receivedData:  
+2021.04.05 15:11:09 receivedData: 2
+2021.04.05 15:11:09 receivedData: 79.00°0|H||F||ь|202104010646
+2021.04.05 15:11:09 receivedData: 3
+2021.04.05 15:11:09 receivedData: 4
+2021.04.05 15:11:09 receivedData: 
+2021.04.05 15:11:09 receivedData: 
+2021.04.05 15:11:09 receivedData: B
+2021.04.05 15:11:10 receivedData: 50
+2021.04.05 15:11:10 receivedData: R|1
+2021.04.05 15:11:10 receivedData: 2|
+2021.04.05 15:11:10 receivedData: ^
+2021.04.05 15:11:10 receivedData: ^
+2021.04.05 15:11:10 receivedData: Ю
+2021.04.05 15:11:10 receivedData: 1
+2021.04.05 15:11:10 receivedData: 6
+2021.04.05 15:11:10 receivedData: ^
+2021.04.05 15:11:10 receivedData: ?
+2021.04.05 15:11:10 receivedData: ?ї
+2021.04.05 15:11:10 receivedData: .
+2021.04.05 15:11:10 receivedData: ?
+2021.04.05 15:11:10 receivedData: ?
+2021.04.05 15:11:10 receivedData: ^
+2021.04.05 15:11:10 receivedData: 0
+2021.04.05 15:11:10 receivedData: |4
+2021.04.05 15:11:11 receivedData: 6.2
+2021.04.05 15:11:11 receivedData: 1
+2021.04.05 15:11:11 receivedData: 4
+2021.04.05 15:11:11 receivedData: 4|
+2021.04.05 15:11:11 receivedData: ?
+2021.04.05 15:11:11 receivedData: ?ї
+2021.04.05 15:11:11 receivedData: ?
+2021.04.05 15:11:11 receivedData: ї
+2021.04.05 15:11:11 receivedData: ?
+2021.04.05 15:11:11 receivedData: /?
+2021.04.05 15:11:11 receivedData: | 0.0
+2021.04.05 15:11:11 receivedData: 0
+2021.04.05 15:11:11 receivedData: °
+2021.04.05 15:11:11 receivedData: 0 T
+2021.04.05 15:11:11 receivedData: O
+2021.04.05 15:11:11 receivedData:  
+2021.04.05 15:11:11 receivedData: 21
+2021.04.05 15:11:11 receivedData: .
+2021.04.05 15:11:12 receivedData: 00
+2021.04.05 15:11:12 receivedData: °0|H||F
+2021.04.05 15:11:12 receivedData: ||
+2021.04.05 15:11:12 receivedData: ь|20
+2021.04.05 15:11:12 receivedData: 2
+2021.04.05 15:11:12 receivedData: 1
+2021.04.05 15:11:12 receivedData: 04
+2021.04.05 15:11:12 receivedData: 01064503A21R|13
+2021.04.05 15:11:12 receivedData: |
+2021.04.05 15:11:12 receivedData: ^
+2021.04.05 15:11:12 receivedData: ^
+2021.04.05 15:11:12 receivedData: Ю17^??ї.??^0|29.3940|??ї?ї?/?| 0.00°
+2021.04.05 15:11:12 receivedData: 0
+2021.04.05 15:11:12 receivedData:  
+2021.04.05 15:11:12 receivedData: T
+2021.04.05 15:11:12 receivedData: O
+2021.04.05 15:11:12 receivedData:  
+2021.04.05 15:11:12 receivedData:  6
+2021.04.05 15:11:13 receivedData: .
+2021.04.05 15:11:13 receivedData: 8
+2021.04.05 15:11:13 receivedData: 0
+2021.04.05 15:11:13 receivedData: 0°
+2021.04.05 15:11:13 receivedData: |H||F
+2021.04.05 15:11:13 receivedData: ||ь|2021040
+2021.04.05 15:11:13 receivedData: 10
+2021.04.05 15:11:13 receivedData: 6
+2021.04.05 15:11:13 receivedData: 45
+2021.04.05 15:11:13 receivedData: 1
+2021.04.05 15:11:13 receivedData: 9
+2021.04.05 15:11:13 receivedData: 
+2021.04.05 15:11:13 receivedData: A
+2021.04.05 15:11:13 receivedData: D
+2021.04.05 15:11:13 receivedData: 
+2021.04.05 15:11:13 receivedData: 
+2021.04.05 15:11:14 receivedData: 2
+2021.04.05 15:11:14 receivedData: R
+2021.04.05 15:11:14 receivedData: |
+2021.04.05 15:11:14 receivedData: 14|^^
+2021.04.05 15:11:14 receivedData: Ю
+2021.04.05 15:11:14 receivedData: 18
+2021.04.05 15:11:14 receivedData: ^
+2021.04.05 15:11:14 receivedData: ?
+2021.04.05 15:11:14 receivedData: -
+2021.04.05 15:11:14 receivedData: ??^0|36.4717|??
+2021.04.05 15:11:14 receivedData: /?
+2021.04.05 15:11:14 receivedData: |
+2021.04.05 15:11:14 receivedData:  
+2021.04.05 15:11:14 receivedData: 0
+2021.04.05 15:11:14 receivedData: .
+2021.04.05 15:11:14 receivedData: 0
+2021.04.05 15:11:14 receivedData: 0
+2021.04.05 15:11:14 receivedData: °0 
+2021.04.05 15:11:14 receivedData: T
+2021.04.05 15:11:15 receivedData: O
+2021.04.05 15:11:15 receivedData:  
+2021.04.05 15:11:15 receivedData:  5
+2021.04.05 15:11:15 receivedData: .
+2021.04.05 15:11:15 receivedData: 0
+2021.04.05 15:11:15 receivedData: 0°
+2021.04.05 15:11:15 receivedData: 0
+2021.04.05 15:11:15 receivedData: |
+2021.04.05 15:11:15 receivedData: H
+2021.04.05 15:11:15 receivedData: |
+2021.04.05 15:11:15 receivedData: |
+2021.04.05 15:11:15 receivedData: F||ь|202104010647502
+2021.04.05 15:11:15 receivedData: A
+2021.04.05 15:11:15 receivedData: 
+2021.04.05 15:11:15 receivedData: 3
+2021.04.05 15:11:15 receivedData: L
+2021.04.05 15:11:15 receivedData: |
+2021.04.05 15:11:15 receivedData: 1|
+2021.04.05 15:11:15 receivedData: N
+2021.04.05 15:11:15 receivedData: 
+2021.04.05 15:11:16 receivedData: 06
+2021.04.05 15:11:16 receivedData: 
+2021.04.05 15:11:16 ERR: Ошибка в данных - неизвестный тип записи в 4-й строке:4.
+2021.04.05 15:11:16 ERR: Ошибка в данных - неизвестный тип записи в 24-й строке:4.
+2021.04.05 15:11:16 ERR: Количество анализов больше максимального (17)!
+2021.04.05 15:11:16 ERR: Количество анализов больше максимального (17)!
+2021.04.05 15:11:16 ERR: Количество анализов больше максимального (17)!
+2021.04.05 15:11:16 ERR: Количество анализов больше максимального (17)!
+2021.04.05 15:11:16 ERR: Количество анализов больше максимального (17)!
+2021.04.05 15:11:16 ERR: CntParam (23) > (22) MaxCntParam! Хвост с результатами не записан - некуда!
+2021.04.05 15:11:16 Получено для парсинга 3037 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011649132P|1|2104010063||ь15567 ^??ї?ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^63|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\2021.04.01 16:49:55 receivedData: ^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FCE45R|1|^^Ю1^??ї?ї?ї^0| 7.0926|??ї?ї/?| 4.200° TO  6.400°|H||F||ь|202104010647356R|2|^^Ю5^??.??ї^0|59.2975|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010645347R|3|^^Ю7^??ї?ї-?^0|83.1553|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|202104010646190R|4|^^Ю8^??ї?ї?ї?^0|19.2601|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010644331R|5|^^Ю9^??ї^0|34.6977|??/?| 0.00°0 TO 40.00°0|N||F||ь|202104010646042R|6|^^Ю10^??ї^0|40.3813|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010645493R|7|^^Ю11^??ї?ї?ї^0|483.7024|??/?|28.00°0 TO 100.00°0|H||F||ь|202104010644ґ84R|8|^^Ю12^??ї.??ї^0|108.3321|??/?|24.00°0 TO 195.00°0|N||F||ь|202104010647055R|9|^^Ю13^??-??ї^0|50.6914|??/?| 0.00°0 TO 25.00°0|H||F||ь|202104010647206R|10|^^Ю14^??ї^0|863.7991|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010646507R|11|^^Ю15^??ї.??ї.^0|314.7347|??/?|98.00°0 TO 279.00°0|H||F||ь|202104010646340R|12|^^Ю16^??ї.??^0|46.2144|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010645031R|13|^^Ю17^??ї.??^0|29.3940|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010645192R|14|^^Ю18^?-??^0|36.4717|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010647503L|1|N1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011649132P|1|2104010063||ь15567 ^??ї?ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^63|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\2021.04.01 16:49:55 receivedData: ^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FCE45R|1|^^Ю1^??ї?ї?ї^0| 7.0926|??ї?ї/?| 4.200° TO  6.400°|H||F||ь|202104010647356R|2|^^Ю5^??.??ї^0|59.2975|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010645347R|3|^^Ю7^??ї?ї-?^0|83.1553|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|202104010646190R|4|^^Ю8^??ї?ї?ї?^0|19.2601|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010644331R|5|^^Ю9^??ї^0|34.6977|??/?| 0.00°0 TO 40.00°0|N||F||ь|202104010646042R|6|^^Ю10^??ї^0|40.3813|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010645493R|7|^^Ю11^??ї?ї?ї^0|483.7024|??/?|28.00°0 TO 100.00°0|H||F||ь|202104010644ґ84R|8|^^Ю12^??ї.??ї^0|108.3321|??/?|24.00°0 TO 195.00°0|N||F||ь|202104010647055R|9|^^Ю13^??-??ї^0|50.6914|??/?| 0.00°0 TO 25.00°0|H||F||ь|202104010647206R|10|^^Ю14^??ї^0|863.7991|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010646507R|11|^^Ю15^??ї.??ї.^0|314.7347|??/?|98.00°0 TO 279.00°0|H||F||ь|202104010646340R|12|^^Ю16^??ї.??^0|46.2144|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010645031R|13|^^Ю17^??ї.??^0|29.3940|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010645192R|14|^^Ю18^?-??^0|36.4717|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010647503L|1|N
+2021.04.05 15:11:16 Больше 22 анализов! Это повторы: их пока пропускаем (22 поля для приёма в LabAutoResult!!)
+2021.04.05 15:32:17 --- Завершение работы.
+2021.04.05 15:48:02 --- Запуск Sapphire ASU-911 user Версия 1.0.67.256 от 2021.4.5.1247
+2021.04.05 15:48:20 receivedData: 1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|
+2021.04.05 15:48:20 receivedData: 1|
+2021.04.05 15:48:20 receivedData: 2
+2021.04.05 15:48:20 receivedData: 021
+2021.04.05 15:48:20 receivedData: 040
+2021.04.05 15:48:20 receivedData: 1
+2021.04.05 15:48:20 receivedData: 160
+2021.04.05 15:48:20 receivedData: 604
+2021.04.05 15:48:20 receivedData: E
+2021.04.05 15:48:20 receivedData: 5
+2021.04.05 15:48:20 receivedData: 
+2021.04.05 15:48:20 receivedData: 
+2021.04.05 15:48:20 receivedData: 2
+2021.04.05 15:48:20 receivedData: P
+2021.04.05 15:48:20 receivedData: |
+2021.04.05 15:48:20 receivedData: 1
+2021.04.05 15:48:20 receivedData: |
+2021.04.05 15:48:20 receivedData: 2
+2021.04.05 15:48:20 receivedData: 1
+2021.04.05 15:48:20 receivedData: 04
+2021.04.05 15:48:20 receivedData: 0
+2021.04.05 15:48:20 receivedData: 1
+2021.04.05 15:48:20 receivedData: 0
+2021.04.05 15:48:20 receivedData: 059||ь16332
+2021.04.05 15:48:20 receivedData:  
+2021.04.05 15:48:20 receivedData: ^
+2021.04.05 15:48:20 receivedData: ?
+2021.04.05 15:48:20 receivedData: ?
+2021.04.05 15:48:21 receivedData: ї
+2021.04.05 15:48:21 receivedData: ?
+2021.04.05 15:48:21 receivedData: ї?
+2021.04.05 15:48:21 receivedData: ї
+2021.04.05 15:48:21 receivedData: ?
+2021.04.05 15:48:21 receivedData:  
+2021.04.05 15:48:21 receivedData: ?
+2021.04.05 15:48:21 receivedData: .
+2021.04.05 15:48:21 receivedData: ?. 
+2021.04.05 15:48:21 receivedData: ?
+2021.04.05 15:48:21 receivedData: ?
+2021.04.05 15:48:21 receivedData: ї
+2021.04.05 15:48:21 receivedData: |
+2021.04.05 15:48:21 receivedData: |
+2021.04.05 15:48:21 receivedData: ь
+2021.04.05 15:48:21 receivedData: U
+2021.04.05 15:48:21 receivedData: ||
+2021.04.05 15:48:21 receivedData: ь|ь
+2021.04.05 15:48:21 receivedData: A6
+2021.04.05 15:48:21 receivedData: 3O|
+2021.04.05 15:48:21 receivedData: 1||^1
+2021.04.05 15:48:21 receivedData: ^59|^^Ю
+2021.04.05 15:48:21 receivedData: 1^??ї?ї?ї
+2021.04.05 15:48:21 receivedData: ^0\^^Ю5^?
+2021.04.05 15:48:21 receivedData: ?.??ї^0
+2021.04.05 15:48:21 receivedData: \^^Ю7^??ї?ї
+2021.04.05 15:48:21 receivedData: -?
+2021.04.05 15:48:21 receivedData: ^
+2021.04.05 15:48:21 receivedData: 0
+2021.04.05 15:48:21 receivedData: \^
+2021.04.05 15:48:21 receivedData: ^Ю
+2021.04.05 15:48:22 receivedData: 8^?
+2021.04.05 15:48:22 receivedData: ?ї?ї?ї?^0
+2021.04.05 15:48:22 receivedData: \^^Ю9^
+2021.04.05 15:48:22 receivedData: ??ї^0
+2021.04.05 15:48:22 receivedData: \^^Ю10
+2021.04.05 15:48:22 receivedData: ^??ї^
+2021.04.05 15:48:22 receivedData: 0\^^Ю11^??ї?
+2021.04.05 15:48:22 receivedData: ї
+2021.04.05 15:48:22 receivedData: ?
+2021.04.05 15:48:22 receivedData: ї
+2021.04.05 15:48:22 receivedData: ^
+2021.04.05 15:48:22 receivedData: 0\
+2021.04.05 15:48:22 receivedData: ^^Ю12
+2021.04.05 15:48:22 receivedData: ^?
+2021.04.05 15:48:22 receivedData: ?
+2021.04.05 15:48:22 receivedData: ї
+2021.04.05 15:48:22 receivedData: .?
+2021.04.05 15:48:22 receivedData: ?ї
+2021.04.05 15:48:22 receivedData: ^0\^^
+2021.04.05 15:48:22 receivedData: Ю
+2021.04.05 15:48:22 receivedData: 13
+2021.04.05 15:48:22 receivedData: ^?
+2021.04.05 15:48:22 receivedData: ?-?
+2021.04.05 15:48:22 receivedData: ?ї^0
+2021.04.05 15:48:22 receivedData: \^^Ю1
+2021.04.05 15:48:22 receivedData: 4^??
+2021.04.05 15:48:22 receivedData: ї^0\^^
+2021.04.05 15:48:22 receivedData: Ю15^??
+2021.04.05 15:48:22 receivedData: ї.??
+2021.04.05 15:48:22 receivedData: ї.^
+2021.04.05 15:48:22 receivedData: 0
+2021.04.05 15:48:22 receivedData: \
+2021.04.05 15:48:22 receivedData: ^
+2021.04.05 15:48:22 receivedData: ^Ю16^??ї.??^0\^^
+2021.04.05 15:48:22 receivedData: Ю1
+2021.04.05 15:48:22 receivedData: 7
+2021.04.05 15:48:22 receivedData: ^
+2021.04.05 15:48:22 receivedData: ??ї
+2021.04.05 15:48:23 receivedData: .??
+2021.04.05 15:48:23 receivedData: ^0\^
+2021.04.05 15:48:23 receivedData: ^Ю18^
+2021.04.05 15:48:23 receivedData: ?-??^0
+2021.04.05 15:48:23 receivedData: |R||ь|ь
+2021.04.05 15:48:23 receivedData: |ь|ь|Ser
+2021.04.05 15:48:23 receivedData: um||ь|ь|ь
+2021.04.05 15:48:23 receivedData: |ь|FD34
+2021.04.05 15:48:23 receivedData: 445R|1
+2021.04.05 15:48:23 receivedData: |^^Ю1^??ї?ї
+2021.04.05 15:48:23 receivedData: ?ї^0| 1.1529
+2021.04.05 15:48:23 receivedData: |??ї?ї/?| 4.2
+2021.04.05 15:48:23 receivedData: 00° TO  6.400°
+2021.04.05 15:48:23 receivedData: |L||F||ь|202104
+2021.04.05 15:48:23 receivedData: 010634113B6R|
+2021.04.05 15:48:23 receivedData: 2|^^Ю5^??.??ї^0|5
+2021.04.05 15:48:23 receivedData: 6.1505|?/?|64.00°0 
+2021.04.05 15:48:23 receivedData: TO 83.00°0|L||F||ь|
+2021.04.05 15:48:23 receivedData: 202104010632102B
+2021.04.05 15:48:23 receivedData: 7R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0
+2021.04.05 15:48:23 receivedData:  TO 115.00°0|L||F||ь|20
+2021.04.05 15:48:23 receivedData: 210401063255D60R|
+2021.04.05 15:48:23 receivedData: 4|^^Ю8^??ї?ї?ї?^0|41.3
+2021.04.05 15:48:23 receivedData: 238|??ї?ї/?| 1.700° TO  8.300°|H||
+2021.04.05 15:48:23 receivedData: F
+2021.04.05 15:48:23 receivedData: |
+2021.04.05 15:48:23 receivedData: |ь
+2021.04.05 15:48:23 receivedData: |
+2021.04.05 15:48:23 receivedData: 2
+2021.04.05 15:48:23 receivedData: 0
+2021.04.05 15:48:24 receivedData: 21040106310995
+2021.04.05 15:48:24 receivedData: 1
+2021.04.05 15:48:24 receivedData: R
+2021.04.05 15:48:24 receivedData: |
+2021.04.05 15:48:24 receivedData: 5
+2021.04.05 15:48:24 receivedData: |
+2021.04.05 15:48:24 receivedData: ^
+2021.04.05 15:48:24 receivedData: ^
+2021.04.05 15:48:24 receivedData: Ю
+2021.04.05 15:48:24 receivedData: 9
+2021.04.05 15:48:24 receivedData: ^?
+2021.04.05 15:48:24 receivedData: ?
+2021.04.05 15:48:24 receivedData: ї^0|77.6034|??/?| 0.00°0 TO 40.00°0
+2021.04.05 15:48:24 receivedData: |H
+2021.04.05 15:48:24 receivedData: ||F||
+2021.04.05 15:48:24 receivedData: ь
+2021.04.05 15:48:24 receivedData: |
+2021.04.05 15:48:24 receivedData: 2
+2021.04.05 15:48:24 receivedData: 0
+2021.04.05 15:48:24 receivedData: 21
+2021.04.05 15:48:24 receivedData: 04
+2021.04.05 15:48:24 receivedData: 010
+2021.04.05 15:48:24 receivedData: 63240A3
+2021.04.05 15:48:24 receivedData: 2
+2021.04.05 15:48:24 receivedData: R
+2021.04.05 15:48:24 receivedData: |
+2021.04.05 15:48:24 receivedData: 6|
+2021.04.05 15:48:24 receivedData: ^^Ю10^??ї^0|195.55
+2021.04.05 15:48:24 receivedData: 02|??/?
+2021.04.05 15:48:24 receivedData: | 0.00°0
+2021.04.05 15:48:24 receivedData:  TO 37.00
+2021.04.05 15:48:24 receivedData: °0|H||F|
+2021.04.05 15:48:25 receivedData: |
+2021.04.05 15:48:25 receivedData: ь|
+2021.04.05 15:48:25 receivedData: 2
+2021.04.05 15:48:25 receivedData: 0
+2021.04.05 15:48:25 receivedData: 21
+2021.04.05 15:48:25 receivedData: 040
+2021.04.05 15:48:25 receivedData: 106
+2021.04.05 15:48:25 receivedData: 3225
+2021.04.05 15:48:25 receivedData: 06
+2021.04.05 15:48:25 receivedData: 3R|7|^^Ю11^?
+2021.04.05 15:48:25 receivedData: ?ї?ї?ї^0
+2021.04.05 15:48:25 receivedData: |78.966
+2021.04.05 15:48:25 receivedData: 9|??/?|2
+2021.04.05 15:48:25 receivedData: 8.00°0 TO
+2021.04.05 15:48:25 receivedData:  100.00°0|
+2021.04.05 15:48:25 receivedData: N||F||ь|202
+2021.04.05 15:48:25 receivedData: 10401063124
+2021.04.05 15:48:25 receivedData: 2C4R|8|^^Ю
+2021.04.05 15:48:25 receivedData: 12^??ї.??ї^0|2
+2021.04.05 15:48:25 receivedData: 15.5272|??/?|24
+2021.04.05 15:48:25 receivedData: .00°0 TO 195.
+2021.04.05 15:48:25 receivedData: 00°0|H||F||ь|2
+2021.04.05 15:48:25 receivedData: 0210401063341
+2021.04.05 15:48:25 receivedData: 3E5R|9|^^Ю13^?
+2021.04.05 15:48:25 receivedData: ?-??ї^0| 7.8414|?
+2021.04.05 15:48:25 receivedData: ?/?| 0.00°0 TO 25.
+2021.04.05 15:48:25 receivedData: 00°0|N||F||ь|202104
+2021.04.05 15:48:25 receivedData: 01063356
+2021.04.05 15:48:25 receivedData: 7F6R|
+2021.04.05 15:48:25 receivedData: 10|^^Ю14^?
+2021.04.05 15:48:25 receivedData: ?ї^0|
+2021.04.05 15:48:25 receivedData: 1012.6
+2021.04.05 15:48:25 receivedData: 040|??/
+2021.04.05 15:48:25 receivedData: ?|230.00
+2021.04.05 15:48:25 receivedData: °0 TO 460
+2021.04.05 15:48:25 receivedData: .00°0|H||F
+2021.04.05 15:48:25 receivedData: ||ь|2021040
+2021.04.05 15:48:26 receivedData: 1063326D3
+2021.04.05 15:48:26 receivedData: 7R|11|^^Ю15^
+2021.04.05 15:48:26 receivedData: ??ї.??ї.^0|56.
+2021.04.05 15:48:26 receivedData: 9256|??/?|98.00
+2021.04.05 15:48:26 receivedData: °0 TO 279.00°0|L|
+2021.04.05 15:48:26 receivedData: |F||ь|20210401063
+2021.04.05 15:48:26 receivedData: 310830R|12|^^Ю1
+2021.04.05 15:48:26 receivedData: 6^??ї.??^0|25.1580|?
+2021.04.05 15:48:26 receivedData: ?ї?ї?
+2021.04.05 15:48:26 receivedData: /
+2021.04.05 15:48:26 receivedData: ?
+2021.04.05 15:48:26 receivedData: |
+2021.04.05 15:48:26 receivedData:  
+2021.04.05 15:48:26 receivedData: 0
+2021.04.05 15:48:26 receivedData: .
+2021.04.05 15:48:26 receivedData: 0
+2021.04.05 15:48:26 receivedData: 0°0 T
+2021.04.05 15:48:26 receivedData: O 21.00°0|H||F|
+2021.04.05 15:48:26 receivedData: |ь|202104010631
+2021.04.05 15:48:26 receivedData: 39A61
+2021.04.05 15:48:26 receivedData: R|13|^^Ю1
+2021.04.05 15:48:26 receivedData: 7^??ї.??^0| 6.9215|
+2021.04.05 15:48:26 receivedData: ?
+2021.04.05 15:48:26 receivedData: ?
+2021.04.05 15:48:26 receivedData: ї
+2021.04.05 15:48:26 receivedData: ?ї
+2021.04.05 15:48:26 receivedData: ?/?
+2021.04.05 15:48:26 receivedData: | 0.00°0 TO  6.
+2021.04.05 15:48:26 receivedData: 800°|H||
+2021.04.05 15:48:26 receivedData: F||ь|202
+2021.04.05 15:48:26 receivedData: 104010631
+2021.04.05 15:48:26 receivedData: 55942R
+2021.04.05 15:48:26 receivedData: |14|^^Ю18^?
+2021.04.05 15:48:26 receivedData: -??^0| 5.764
+2021.04.05 15:48:26 receivedData: 3|??/?| 0.00°0
+2021.04.05 15:48:26 receivedData:  TO  5.00°0|H|
+2021.04.05 15:48:26 receivedData: |F||ь|202104010
+2021.04.05 15:48:27 receivedData: 63426163L|1|N
+2021.04.05 15:48:27 receivedData: 06
+2021.04.05 16:01:02 ERR: Ошибка в данных - неизвестный тип записи в 3-й строке:4.
+2021.04.05 16:01:02 Получено для парсинга 1481 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD345R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N
+2021.04.05 16:01:02 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ResultText) values (11, host_name(), 0, GetDate(), 14 , '1', '1.1529', '4.200° TO 6.400°', '5', '56.1505', 'длина больше 16', '7', '27.0224', 'длина больше 16', '8', '41.3238', '1.700° TO 8.300°', '9', '77.6034', 'длина больше 16', '10', '195.5502', 'длина больше 16', '11', '78.9669', 'длина больше 16', '12', '215.5272', 'длина больше 16', '13', '7.8414', 'длина больше 16', '14', '1012.6040', 'длина больше 16', '15', '56.9256', 'длина больше 16', '16', '25.1580', 'длина больше 16', '17', '6.9215', '0.00°0 TO 6.800°', '18', '5.7643', '0.00°0 TO 5.00°0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202104011606042P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь3O|1||^1^59|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю17^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|FD345R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|202104010634116R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|202104010632107R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|202104010632550R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202104010631091R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|202104010632402R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|202104010632253R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|202104010631244R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|202104010633415R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|202104010633566R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|202104010633267R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|202104010633100R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202104010631391R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|202104010631552R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|202104010634263L|1|N');
+2021.04.05 16:01:18 --- Завершение работы.

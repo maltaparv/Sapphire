@@ -278,10 +278,10 @@ namespace Sapphire
                     Add_RTB(RTBout, $"{dtm} {msg}\n", Color.DarkGreen);
                     WLog(msg);
                 }
-                else if (CntParam > 22) // возможно, это повторы (2020-04-16) 
+                else if (CntParam > MaxCntParam) // возможно, это повторы (2020-04-16) 
                 {
                     // записать собщение для лаборанта...
-                    msg = "Больше 22 анализов! Это повторы: их пока пропускаем (22 поля для приёма в LabAutoResult!!)";
+                    msg = $"Больше {MaxCntParam} анализов! Это повторы: их пока пропускаем (всего {MaxCntParam} поля для приёма в LabAutoResult!)";
                     Add_RTB(RTBout, $"{dtm} {msg}\n", Color.DarkGreen);
                     WLog(msg);
                 }
@@ -316,40 +316,31 @@ namespace Sapphire
         #region --- Парсинг данных из строки и формирование строки SQL Insert
         private void ParseResults(string input) // ================= ПАРСИНГ ПОЛУЧЕННЫХ ДАННЫХ ===================
         {
-            #region  --- Описание типов полей(записей) в протокое обмена ASTM1394-91
-            /* Automated Clinical Analyzer.   BiOLiS 24i Premium.  Bi - directional Communication Specifications.   Version 1.07.
-             *     page 13
-             * The records are defined by ASTM1394-91. The records supported by BiOLiS are as follows. 
-             *   No Record_ID   Record 
-             *    1      H    Message Header Record 
-             *    2      P    Patient Information Record 
-             *    3      O    Measurement Order Record 
-             *    4      Q    Enquiry Record 
-             *    5      C    Comment Record 
-             *    6      R    Measurement Result Record 
-             *    7      L    Message Terminator Record 
-            */
-            #endregion  --- Описание типов полей в протокое обмена ASTM1394-91
             Stat1.Text = "парсинг";
             Stat1.ForeColor = Color.DarkBlue;
             dtm = DateTime.Now;
-            Add_RTB(RTBout, $"{dtm} Начало парсинга, {inputString.Count()} байт получено для парсинга:\n", Color.DarkViolet);
+            Add_RTB(RTBout, $"{dtm} Начало парсинга. Получено байт: {inputString.Count()}.\n", Color.DarkViolet);
             Add_RTB(RTBout, $"{inputString}", Color.Black);
-
             IsControl = false;
             st1_1 = ""; st2_1 = "";
             CntParam = 0;
-            //  удаление ETX и следующих за ним двух байт контрольной суммы - они не нужны мне.
-            inputString = Regex.Replace(inputString, ETX + "..", String.Empty);
-            inputString = Regex.Replace(inputString, CR + LF, String.Empty);    // удаление CR+LF
+            inputString = Regex.Replace(inputString, ETX + "..", String.Empty);  // удаление ETX и следующих за ним двух байт контрольной суммы - они не нужны мне.
 
-            //2020-04-24 - сделать в параметрах ini-файла! 
-            //string patternHistN = @"\d{0,6}";   // для выделения HistoryNumber  2020-04-24 - сделать в параметрах ini-файла! 
-            Regex rg = new Regex(patternHistN);
+            inputString = Regex.Replace(inputString, ETB + ".." + CR + LF + STX + ".", String.Empty);
+            /* строка выше - это замена управляющих символов, если данные разбиты на несколько фреймов: 
+                 <STX> [FN] [TEXT] <ETB> [C1][C2] <CR> <LF> Intermediate frame
+                 <STX> [FN] [TEXT] <ETX> [C1][C2] <CR> <LF> Termination frame
+              Вот пример:
+                [STX]3O|1|01040218001|^1^1|^^^1^T-BIL^0・・・¥^^^18^CPK^0¥^^^19[ETB]??[CR][LF]
+                [STX]4^AMY^0|R||||||N||||Serum||||||||||F[CR][ETX]??[CR][LF]
+            */
+            inputString = Regex.Replace(inputString, CR + LF, String.Empty);     // удаление CR+LF
+            Regex rg = new Regex(patternHistN);   //string patternHistN = @"\d{0,6}";   // для выделения HistoryNumber - в параметрах ini-файла! 
             MatchCollection matched;
             string sHist;  // " 25781/ ТЕСТОВЫЙ АФ АРО1";   "?16512 ^??????? ?.?. ???1"  - это первоначальная строка с номером ИБ, ФИО, ...
             string[] sRecord = inputString.Split(new string[] { CR, LF, ENQ, STX, EOT }, StringSplitOptions.RemoveEmptyEntries);
             int ks = sRecord.Count();
+
             for (int i = 0; i < ks; i++)  // по количеству строк в переданных результатах пациента
             {
                 string[] sField = sRecord[i].Split('|');
@@ -357,7 +348,7 @@ namespace Sapphire
                 // CheckSubLength
                 if (sRecord[i].Length<2)
                 {
-                    msg1 = $"ERR: Ошибка в данных: короткая {i}-я строка={sRecord[i]}.";
+                    msg1 = $"ERR: Ошибка в данных - неизвестный тип записи в {i}-й строке:{sRecord[i]}.";
                     Add_RTB(RTBout, $"\n{dtm} {msg1}.\n", Color.Red);
                     WLog(msg1);
                     WErrLog(msg1);
@@ -448,21 +439,14 @@ namespace Sapphire
 
             // формирование строки SQL Insert...
             ResultText = inputString;
-            //ResultDate= Get Date()
-            //private string st1_0 = "Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam";
-            //st2_0 = $") values ({Analyzer_Id}, host_name(), {HistoryNumber}, GetDate(), {CntParam}, '{ResultText}' ";    // для строки Insert...
             st2_0 = $", ResultText) values ({Analyzer_Id}, host_name(), {HistoryNumber}, GetDate(), {CntParam} ";    // для строки Insert...
             st0 = st1_0 + st1_1 + st2_0 + st2_1 + $", '{ResultText}');";
-            // ResultText 
-            //Add_RTB(RTBout, $" SQL:\n{st0}",Color.Red);
-
             dtm = DateTime.Now;
             Add_RTB(RTBout, $"\n{dtm} Конец парсинга [{kRecord++}]. HistoryNumber:{HistoryNumber}.\n", Color.DarkViolet);
             WLog($"Получено для парсинга {inputString.Count()} байт:\n{inputString}");
             Stat1.Text = "конец парсинга";
            }
-
-        #endregion --- Парсинг данных из строки и формирование строки SQL Insert        // ---
+        #endregion --- Парсинг данных из строки и формирование строки SQL Insert        
         private void ToSQL(string st) // запись в MS-SQL сформированной строки
         {
             using (SqlConnection sqlConn = new SqlConnection(connStr))
@@ -758,7 +742,29 @@ namespace Sapphire
             switch (testSelect)
             {
                 #region --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)
-                case "тест 01":    // 2020-MM-DD
+                case "тест 00":
+                    // ...
+                    Add_RTB(RTBout, $"\n {testSelect}.", Color.Blue);
+                    break;
+                #endregion --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)
+                case "тест 01":  // 2021-04-05
+                    string inputString = "\u0005\r\u00021H|\\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210401160604\r\r\u00022P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь\r\r\u00023O|1||^1^59|^^Ю1^??ї?ї?ї^0\\^^Ю5^??.??ї^0\\^^Ю7^??ї?ї-?^0\\^^Ю8^??ї?ї?ї?^0\\^^Ю9^??ї^0\\^^Ю10^??ї^0\\^^Ю11^??ї?ї?ї^0\\^^Ю12^??ї.??ї^0\\^^Ю13^??-??ї^0\\^^Ю14^??ї^0\\^^Ю15^??ї.??ї.^0\\^^Ю16^??ї.??^0\\^^Ю17^??ї.??^0\\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F\r\u00024\r\r\u00025R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|20210401063411\r\r\u00026R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|20210401063210\r\r\u00027R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|20210401063255\r\r\u00020R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|20210401063109\r\r\u00021R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|20210401063240\r\r\u00022R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|20210401063225\r\r\u00023R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|20210401063124\r\r\u00024R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|20210401063341\r\r\u00025R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|20210401063356\r\r\u00026R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|20210401063326\r\r\u00027R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|20210401063310\r\r\u00020R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|20210401063139\r\r\u00021R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|20210401063155\r\r\u00022R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|20210401063426\r\r\u00023L|1|N\r\r\u0004";
+                    inputString += CR + LF + STX + "4";
+                    //inputString = Regex.Replace(inputString, ETB + "..", String.Empty);  
+                    //inputString = "Serum||||||||||FD3"+CR+LF+ "4";
+                    Add_RTB(RTBout, $"\n Тест 01:\n{inputString}", Color.Green);
+                    inputString = Regex.Replace(inputString, ETB + ".." + CR + LF + STX + ".", String.Empty);
+                    /* это замена управляющих символов, если данные разбиты на несколько фреймов: 
+                         <STX> [FN] [TEXT] <ETB> [C1][C2] <CR> <LF> Intermediate frame
+                         <STX> [FN] [TEXT] <ETX> [C1][C2] <CR> <LF> Termination frame
+                      Вот пример:
+                        [STX]3O|1|01040218001|^1^1|^^^1^T-BIL^0・・・¥^^^18^CPK^0¥^^^19[ETB]??[CR][LF]
+                        [STX]4^AMY^0|R||||||N||||Serum||||||||||F[CR][ETX]??[CR][LF]
+                    */
+                    inputString = Regex.Replace(inputString, CR + LF, String.Empty);
+                    Add_RTB(RTBout, $"\n После замены:\n{inputString}", Color.Blue);
+                    break;
+                case "тест 02":    // 2020-MM-DD
                     string findkod = "";
                     string sKod = "^^^1^???????^0";  // "^^^12^???????^0"
                     Regex rg = new Regex(@"\d+");    // найти первые n цифр: Regex(@"\d+"); первые две цифры: Regex(@"\d{1,2}");
@@ -767,7 +773,6 @@ namespace Sapphire
                         findkod = matched[0].Value.ToString();
                     Add_RTB(RTBout, $"\n {testSelect}, kod={findkod}.", Color.Blue);
                     break;
-                #endregion --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)
                 case "UTF32":  
                     _serialPort.Encoding = Encoding.UTF32; 
                     Stat1.Text = _serialPort.Encoding.ToString();
@@ -809,9 +814,84 @@ namespace Sapphire
                     MessageBox.Show($"Нет теста для:  {CmbTest.SelectedItem}\n");
                     break;
             }
-            #endregion --- Тесты по кнопке Выполнить
-            // ---
+            // --- end switch
         }
-
+        #endregion --- Тесты по кнопке Выполнить
     }
 }
+#region --- Automated Clinical Analyzer. BiOLiS 24i Premium. Bi-directional Communication Specifications. Version 1.07.
+/* 
+ 3.Protocol of Data Link Layer
+ The protocol of data link layer is defined by ASTM 1381-91.
+ The protocol of data link layer uses the following transmission control codes.
+ No. Transmission control code name    
+      |    Transmission control code
+      |     |
+      V     V          Explanation
+  1  <STX>  2(02h)   Code to show the beginning of text. 
+  2  <ETB> 23(17h)   Code to show the interruption of text. When the transmitted text is too large, it is split into multiple frames, using <ETB>.
+  3  <ETX>  3(03h)   Code to show the end of text. 
+  4  <CR>  13(0Dh)   Carriage return
+  5  <LF>  10(0Ah)   Line feed code 
+  6  <ENQ>  5(05h)   Enquiry
+  7  <ACK>  6(06h)   Acknowledge
+  8  <NAK> 21(15h)   Not acknowledge 
+  9  <EOT>  4(04h)   End of transmission 
+ 10  [FN]     -      Frame number.  ASCII numbers from 0 to 7. The first frame begins with 1. 
+ 11  [C1][C2] -      Checksum
+
+ 3.1.Frame
+
+  <STX> [FN] [TEXT] <ETB> [C1] [C2] <CR> <LF> Intermediate frame
+  <STX> [FN] [TEXT] <ETX> [C1] [C2] <CR> <LF> Termination frame
+
+  [STX]3O|1|01040218001|^1^1|^^^1^T-BIL^0・・・¥^^^18^CPK^0¥^^^19[ETB]??[CR][LF]
+  [STX]4^AMY^0|R||||||N||||Serum||||||||||F[CR][ETX]??[CR][LF]
+
+ Note: All the example of check sum value is invalid. 
+ [TEXT] is the text data to be transmitted. In machine, [TEXT] corresponds to the record (ASTM 1394-91).  
+ 230 characters are the maximum in [TEXT].   (230 octets)   
+ The text, which exceeds 230 octets, uses multiple frames, using < ETB >.
+ Checksum is the least 8 bits of the value, that is gotten when the sum of character codes from [FN] to <ETB>,< ETX >. (Modulo 256).
+ [C1] and [C2] are ASCII alphanumeric hexadecimal notations of the upper 4 bits and the lower 4 bits of checksum, respectively.
+
+ 4.3.  The Maximum Length of Record 
+ The maximum length of record is a record that includes 1024 characters(1024 octets).
+ The escape characters are counted for the characters after escape. (For example, “&F &” is counted as three characters).
+ Note: One line can transmit only 230 characters. If more than 230 characters need to be transmitted, please use second lines by dividing <ETB>.
+
+ Automated Clinical Analyzer.   BiOLiS 24i Premium.  Bi - directional Communication Specifications.   Version 1.07.   page 13
+ The records are defined by ASTM1394-91. The records supported by BiOLiS are as follows. 
+    No Record_ID   Record 
+     1      H    Message Header Record 
+     2      P    Patient Information Record 
+     3      O    Measurement Order Record 
+     4      Q    Enquiry Record 
+     5      C    Comment Record 
+     6      R    Measurement Result Record 
+     7      L    Message Terminator Record 
+*/
+#endregion --- Automated Clinical Analyzer. BiOLiS 24i Premium. Bi-directional Communication Specifications. Version 1.07.
+#region --- Выполняемые анализы ---
+/* Код  Анализ	    Ед.изм.	Референсные значения
+ 1	ГЛЮКОЗА     ммоль/л	4.2 – 6.4
+ 2	ХОЛЕСТ
+ 3	ТРИГЛИЦ
+ 4	ЛПВП
+ 5	Общий белок	г/л	     64 – 83
+ 7	КРЕАТИНИН	ммоль/л	 71 – 115
+ 8	МОЧЕВИНА	ммоль/л	1.7 – 8.3
+ 9	АЛТ	Ед/л	          0 – 40
+ 10	АСТ	Ед/л	          0 – 37
+ 11	АМИЛАЗА	    Ед/л	 28 – 100
+ 12	КФК ОБЩ.	Ед/л	 24 – 195
+ 13	КФК МБ	    Ед/л	  0 – 25
+ 14	ЛДГ     	Ед/л	230 – 460
+ 15	ЩЕЛ.ФОС.	Ед/л	 98 – 279
+ 16	БИЛ.ОБ.	    ммоль/л	  0 – 21
+ 17	БИЛ.ПР		
+ 18	СР-Б		
+ 83	ЛПНП		
+ 90	КА		
+*/
+#endregion --- Выполняемые анализы ---
