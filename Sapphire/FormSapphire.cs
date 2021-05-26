@@ -108,7 +108,12 @@ namespace Sapphire
             Lbl_IP.Text = "IP: " + IP;
 
             CmbTest.SelectedIndex = 0;   // первый (нулевой) элемент - текущий, видимый.
-            //this.Pic1.Image = new Bitmap($"{PathIni}\\Pic.png");  // на форме картинка - для различных приложений должна быть другая!
+
+            if (File.Exists($"{PathIni}\\Pic.png"))
+            {
+                this.Pic1.Image = new Bitmap($"{PathIni}\\Pic.png");  // на форме картинка - для различных приложений должна быть другая!
+            }
+
             notifyIcon1.Visible = false; // невидимая иконка в трее
             // добавляем событие по 2-му клику мышки, вызывая функцию  NotifyIcon1_MouseDoubleClick
             this.notifyIcon1.MouseDoubleClick += new MouseEventHandler(NotifyIcon1_MouseDoubleClick);
