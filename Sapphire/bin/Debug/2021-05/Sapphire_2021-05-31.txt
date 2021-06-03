@@ -1,0 +1,614 @@
+2021.05.31 12:20:17 --- Запуск Sapphire ASU-911 user Версия 1.0.67.259 от 2021.5.31.0919
+2021.05.31 12:21:33 --- Запуск Sapphire ASU-911 user Версия 1.0.67.260 от 2021.5.31.0921
+2021.05.31 12:53:50 --- Запуск Sapphire ASU-911 user Версия 1.0.67.261 от 2021.5.31.0953
+2021.05.31 12:54:55 --- Запуск Sapphire ASU-911 user Версия 1.0.67.262 от 2021.5.31.0954
+2021.05.31 12:55:23 --- Запуск Sapphire ASU-911 user Версия 1.0.67.263 от 2021.5.31.0955
+2021.05.31 12:55:48 --- Завершение работы.
+2021.05.31 12:56:55 --- Запуск Sapphire ASU-911 user Версия 1.0.67.264 от 2021.5.31.0956
+2021.05.31 12:58:11 --- Запуск Sapphire ASU-911 user Версия 1.0.67.265 от 2021.5.31.0958
+2021.05.31 12:59:04 --- Запуск Sapphire ASU-911 user Версия 1.0.67.266 от 2021.5.31.0959
+2021.05.31 12:59:21 --- Завершение работы.
+2021.05.31 13:01:17 --- Запуск Sapphire ASU-911 user Версия 1.0.67.267 от 2021.5.31.1001
+2021.05.31 13:14:48 --- Запуск Sapphire ASU-911 user Версия 1.0.67.267 от 2021.5.31.1001
+2021.05.31 13:15:57 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 13:15:58 ERR: Мало полей! (индекс!) kField=11, sRecord(9)=2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|20210531095728
+2021.05.31 13:15:58 ERR: Мало полей! (индекс!) kField=11, sRecord(15)=0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|20210531095944
+2021.05.31 13:15:58 Получено для парсинга 737 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 13:15:58 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ResultText) values (11, host_name(), 23636, GetDate(), 5 , '4', '14.400', '', '1', '41.108', '', '5', '16.561', '', '6', '4.675', '', '2', '1.153', 'ьH', '1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1');
+2021.05.31 13:29:56 --- Завершение работы.
+2021.05.31 13:49:19 --- Запуск Sapphire ASU-911 user Версия 1.0.67.267 от 2021.5.31.1001
+2021.05.31 13:49:41 receivedData: 1H|\^&||ь
+2021.05.31 13:49:41 receivedData: BC
+2021.05.31 13:49:41 receivedData: S
+2021.05.31 13:49:41 receivedData: X
+2021.05.31 13:49:41 receivedData: P
+2021.05.31 13:49:41 receivedData: ^
+2021.05.31 13:49:41 receivedData: 1
+2021.05.31 13:49:41 receivedData: .
+2021.05.31 13:49:41 receivedData: 0
+2021.05.31 13:49:41 receivedData: ^
+2021.05.31 13:49:42 receivedData: 4
+2021.05.31 13:49:42 receivedData: 2
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: 6
+2021.05.31 13:49:42 receivedData: 9
+2021.05.31 13:49:42 receivedData: 2
+2021.05.31 13:49:42 receivedData: ^
+2021.05.31 13:49:42 receivedData: H
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: P
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: O
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: R
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: C
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: Q
+2021.05.31 13:49:42 receivedData: 1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|
+2021.05.31 13:49:42 receivedData: 2
+2021.05.31 13:49:42 receivedData: 0
+2021.05.31 13:49:42 receivedData: 2
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: 0
+2021.05.31 13:49:42 receivedData: 5
+2021.05.31 13:49:42 receivedData: 3
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: 0
+2021.05.31 13:49:42 receivedData: 9
+2021.05.31 13:49:42 receivedData: 5
+2021.05.31 13:49:42 receivedData: 9
+2021.05.31 13:49:42 receivedData: 4
+2021.05.31 13:49:42 receivedData: 4
+2021.05.31 13:49:42 receivedData: 
+2021.05.31 13:49:42 receivedData: 5C|1|I|Resu
+2021.05.31 13:49:42 receivedData: l
+2021.05.31 13:49:42 receivedData: t
+2021.05.31 13:49:42 receivedData: F
+2021.05.31 13:49:42 receivedData: l
+2021.05.31 13:49:42 receivedData: a
+2021.05.31 13:49:42 receivedData: g
+2021.05.31 13:49:42 receivedData:  
+2021.05.31 13:49:42 receivedData: 1
+2021.05.31 13:49:42 receivedData: 6
+2021.05.31 13:49:42 receivedData: |
+2021.05.31 13:49:42 receivedData: G
+2021.05.31 13:49:42 receivedData: 
+2021.05.31 13:49:42 receivedData: 
+2021.05.31 13:49:42 receivedData: 
+2021.05.31 13:49:42 receivedData: 6
+2021.05.31 13:49:42 receivedData: O
+2021.05.31 13:49:42 receivedData: |
+2021.05.31 13:49:42 receivedData: 2
+2021.05.31 13:49:42 receivedData: |
+2021.05.31 13:49:42 receivedData: 2
+2021.05.31 13:49:42 receivedData: -
+2021.05.31 13:49:42 receivedData: 2
+2021.05.31 13:49:42 receivedData: 3
+2021.05.31 13:49:42 receivedData: 6
+2021.05.31 13:49:42 receivedData: 3
+2021.05.31 13:49:43 receivedData: 6
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ^
+2021.05.31 13:49:43 receivedData: ^
+2021.05.31 13:49:43 receivedData: Ю
+2021.05.31 13:49:43 receivedData: 1
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: R
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ь
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: X
+2021.05.31 13:49:43 receivedData: 
+2021.05.31 13:49:43 receivedData: 
+2021.05.31 13:49:43 receivedData: 
+2021.05.31 13:49:43 receivedData: 7
+2021.05.31 13:49:43 receivedData: R
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: 1
+2021.05.31 13:49:43 receivedData: |
+2021.05.31 13:49:43 receivedData: ^
+2021.05.31 13:49:43 receivedData: ^
+2021.05.31 13:49:43 receivedData: Ю
+2021.05.31 13:49:43 receivedData: 1
+2021.05.31 13:49:43 receivedData: ^
+2021.05.31 13:49:43 receivedData: a
+2021.05.31 13:49:43 receivedData: P
+2021.05.31 13:49:43 receivedData: T
+2021.05.31 13:49:43 receivedData: T
+2021.05.31 13:49:43 receivedData: .
+2021.05.31 13:49:43 receivedData: P
+2021.05.31 13:49:43 receivedData: S
+2021.05.31 13:49:43 receivedData: L
+2021.05.31 13:49:43 receivedData: ^
+2021.05.31 13:49:44 receivedData: ^
+2021.05.31 13:49:44 receivedData: Ю
+2021.05.31 13:49:44 receivedData: F
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: 4
+2021.05.31 13:49:44 receivedData: 1
+2021.05.31 13:49:44 receivedData: .
+2021.05.31 13:49:44 receivedData: 1
+2021.05.31 13:49:44 receivedData: 0
+2021.05.31 13:49:44 receivedData: 8
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: s
+2021.05.31 13:49:44 receivedData: e
+2021.05.31 13:49:44 receivedData: c
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: H
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: F
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: ь
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: 2
+2021.05.31 13:49:44 receivedData: 0
+2021.05.31 13:49:44 receivedData: 2
+2021.05.31 13:49:44 receivedData: 1
+2021.05.31 13:49:44 receivedData: 0
+2021.05.31 13:49:44 receivedData: 5
+2021.05.31 13:49:44 receivedData: 3
+2021.05.31 13:49:44 receivedData: 1
+2021.05.31 13:49:44 receivedData: 0
+2021.05.31 13:49:44 receivedData: 9
+2021.05.31 13:49:44 receivedData: 5
+2021.05.31 13:49:44 receivedData: 7
+2021.05.31 13:49:44 receivedData: 2
+2021.05.31 13:49:44 receivedData: 8
+2021.05.31 13:49:44 receivedData: 
+2021.05.31 13:49:44 receivedData: 
+2021.05.31 13:49:44 receivedData: 
+2021.05.31 13:49:44 receivedData: 0
+2021.05.31 13:49:44 receivedData: C
+2021.05.31 13:49:44 receivedData: |
+2021.05.31 13:49:44 receivedData: 1
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: I
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: R
+2021.05.31 13:49:45 receivedData: e
+2021.05.31 13:49:45 receivedData: s
+2021.05.31 13:49:45 receivedData: u
+2021.05.31 13:49:45 receivedData: l
+2021.05.31 13:49:45 receivedData: t
+2021.05.31 13:49:45 receivedData: F
+2021.05.31 13:49:45 receivedData: l
+2021.05.31 13:49:45 receivedData: a
+2021.05.31 13:49:45 receivedData: g
+2021.05.31 13:49:45 receivedData:  
+2021.05.31 13:49:45 receivedData: 1
+2021.05.31 13:49:45 receivedData: 6
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: G
+2021.05.31 13:49:45 receivedData: 
+2021.05.31 13:49:45 receivedData: 
+2021.05.31 13:49:45 receivedData: 
+2021.05.31 13:49:45 receivedData: 1
+2021.05.31 13:49:45 receivedData: O
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: 3
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: 2
+2021.05.31 13:49:45 receivedData: -
+2021.05.31 13:49:45 receivedData: 2
+2021.05.31 13:49:45 receivedData: 3
+2021.05.31 13:49:45 receivedData: 6
+2021.05.31 13:49:45 receivedData: 3
+2021.05.31 13:49:45 receivedData: 6
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: ^
+2021.05.31 13:49:45 receivedData: ^
+2021.05.31 13:49:45 receivedData: Ю
+2021.05.31 13:49:45 receivedData: 5
+2021.05.31 13:49:45 receivedData: |
+2021.05.31 13:49:45 receivedData: R
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ь
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: X
+2021.05.31 13:49:46 receivedData: 
+2021.05.31 13:49:46 receivedData: 
+2021.05.31 13:49:46 receivedData: 
+2021.05.31 13:49:46 receivedData: 2
+2021.05.31 13:49:46 receivedData: R
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: 1
+2021.05.31 13:49:46 receivedData: |
+2021.05.31 13:49:46 receivedData: ^
+2021.05.31 13:49:46 receivedData: ^
+2021.05.31 13:49:46 receivedData: Ю
+2021.05.31 13:49:46 receivedData: 5
+2021.05.31 13:49:46 receivedData: ^
+2021.05.31 13:49:46 receivedData: B
+2021.05.31 13:49:46 receivedData: C
+2021.05.31 13:49:46 receivedData: .
+2021.05.31 13:49:46 receivedData: T
+2021.05.31 13:49:46 receivedData: T
+2021.05.31 13:49:47 receivedData: ^
+2021.05.31 13:49:47 receivedData: ^
+2021.05.31 13:49:47 receivedData: Ю
+2021.05.31 13:49:47 receivedData: F
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: 1
+2021.05.31 13:49:47 receivedData: 6
+2021.05.31 13:49:47 receivedData: .
+2021.05.31 13:49:47 receivedData: 5
+2021.05.31 13:49:47 receivedData: 6
+2021.05.31 13:49:47 receivedData: 1
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: s
+2021.05.31 13:49:47 receivedData: ec
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: ь
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: F
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: ь
+2021.05.31 13:49:47 receivedData: |
+2021.05.31 13:49:47 receivedData: 2
+2021.05.31 13:49:47 receivedData: 0
+2021.05.31 13:49:47 receivedData: 2
+2021.05.31 13:49:47 receivedData: 1
+2021.05.31 13:49:47 receivedData: 0
+2021.05.31 13:49:47 receivedData: 5
+2021.05.31 13:49:47 receivedData: 3
+2021.05.31 13:49:47 receivedData: 1
+2021.05.31 13:49:48 receivedData: 0
+2021.05.31 13:49:48 receivedData: 9
+2021.05.31 13:49:48 receivedData: 5
+2021.05.31 13:49:48 receivedData: 7
+2021.05.31 13:49:48 receivedData: 2
+2021.05.31 13:49:48 receivedData: 8
+2021.05.31 13:49:48 receivedData: 
+2021.05.31 13:49:48 receivedData: 
+2021.05.31 13:49:48 receivedData: 
+2021.05.31 13:49:48 receivedData: 3
+2021.05.31 13:49:48 receivedData: C
+2021.05.31 13:49:48 receivedData: |
+2021.05.31 13:49:48 receivedData: 1
+2021.05.31 13:49:48 receivedData: |
+2021.05.31 13:49:48 receivedData: I
+2021.05.31 13:49:48 receivedData: |
+2021.05.31 13:49:48 receivedData: R
+2021.05.31 13:49:48 receivedData: e
+2021.05.31 13:49:48 receivedData: s
+2021.05.31 13:49:48 receivedData: u
+2021.05.31 13:49:48 receivedData: l
+2021.05.31 13:49:48 receivedData: t
+2021.05.31 13:49:48 receivedData: F
+2021.05.31 13:49:48 receivedData: l
+2021.05.31 13:49:48 receivedData: a
+2021.05.31 13:49:48 receivedData: g
+2021.05.31 13:49:48 receivedData:  
+2021.05.31 13:49:48 receivedData: 0
+2021.05.31 13:49:48 receivedData: |
+2021.05.31 13:49:48 receivedData: G
+2021.05.31 13:49:48 receivedData: 
+2021.05.31 13:49:48 receivedData: 
+2021.05.31 13:49:49 receivedData: 
+2021.05.31 13:49:49 receivedData: 4
+2021.05.31 13:49:49 receivedData: O
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: 4
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: 2
+2021.05.31 13:49:49 receivedData: -
+2021.05.31 13:49:49 receivedData: 2
+2021.05.31 13:49:49 receivedData: 3
+2021.05.31 13:49:49 receivedData: 6
+2021.05.31 13:49:49 receivedData: 3
+2021.05.31 13:49:49 receivedData: 6
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: ^
+2021.05.31 13:49:49 receivedData: ^
+2021.05.31 13:49:49 receivedData: Ю
+2021.05.31 13:49:49 receivedData: 6
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: R
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: ь
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: ь
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: ь
+2021.05.31 13:49:49 receivedData: |
+2021.05.31 13:49:49 receivedData: ь
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: ь
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: ь
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: ь
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: ь
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: ь
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: X
+2021.05.31 13:49:50 receivedData: 
+2021.05.31 13:49:50 receivedData: 
+2021.05.31 13:49:50 receivedData: 
+2021.05.31 13:49:50 receivedData: 5
+2021.05.31 13:49:50 receivedData: R
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: 1
+2021.05.31 13:49:50 receivedData: |
+2021.05.31 13:49:50 receivedData: ^
+2021.05.31 13:49:50 receivedData: ^
+2021.05.31 13:49:50 receivedData: Ю
+2021.05.31 13:49:50 receivedData: 6
+2021.05.31 13:49:50 receivedData: ^
+2021.05.31 13:49:50 receivedData: F
+2021.05.31 13:49:50 receivedData: i
+2021.05.31 13:49:50 receivedData: b
+2021.05.31 13:49:50 receivedData: ^
+2021.05.31 13:49:50 receivedData: ^
+2021.05.31 13:49:50 receivedData: Ю
+2021.05.31 13:49:51 receivedData: F
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: 4
+2021.05.31 13:49:51 receivedData: .
+2021.05.31 13:49:51 receivedData: 6
+2021.05.31 13:49:51 receivedData: 7
+2021.05.31 13:49:51 receivedData: 5
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: g
+2021.05.31 13:49:51 receivedData: /
+2021.05.31 13:49:51 receivedData: L
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: H
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: F
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: ь
+2021.05.31 13:49:51 receivedData: |
+2021.05.31 13:49:51 receivedData: 2
+2021.05.31 13:49:51 receivedData: 0
+2021.05.31 13:49:51 receivedData: 2
+2021.05.31 13:49:51 receivedData: 1
+2021.05.31 13:49:51 receivedData: 05
+2021.05.31 13:49:51 receivedData: 3
+2021.05.31 13:49:51 receivedData: 1
+2021.05.31 13:49:51 receivedData: 1
+2021.05.31 13:49:51 receivedData: 0
+2021.05.31 13:49:51 receivedData: 1
+2021.05.31 13:49:51 receivedData: 2
+2021.05.31 13:49:51 receivedData: 2
+2021.05.31 13:49:52 receivedData: 5
+2021.05.31 13:49:52 receivedData: 
+2021.05.31 13:49:52 receivedData: 
+2021.05.31 13:49:52 receivedData: 
+2021.05.31 13:49:52 receivedData: 6
+2021.05.31 13:49:52 receivedData: C
+2021.05.31 13:49:52 receivedData: |
+2021.05.31 13:49:52 receivedData: 1
+2021.05.31 13:49:52 receivedData: |
+2021.05.31 13:49:52 receivedData: I
+2021.05.31 13:49:52 receivedData: |
+2021.05.31 13:49:52 receivedData: R
+2021.05.31 13:49:52 receivedData: e
+2021.05.31 13:49:52 receivedData: s
+2021.05.31 13:49:52 receivedData: u
+2021.05.31 13:49:52 receivedData: l
+2021.05.31 13:49:52 receivedData: t
+2021.05.31 13:49:52 receivedData: F
+2021.05.31 13:49:52 receivedData: l
+2021.05.31 13:49:52 receivedData: a
+2021.05.31 13:49:52 receivedData: g
+2021.05.31 13:49:52 receivedData:  
+2021.05.31 13:49:52 receivedData: 1
+2021.05.31 13:49:52 receivedData: 6
+2021.05.31 13:49:52 receivedData: |
+2021.05.31 13:49:52 receivedData: G
+2021.05.31 13:49:52 receivedData: 
+2021.05.31 13:49:52 receivedData: 
+2021.05.31 13:49:52 receivedData: 
+2021.05.31 13:49:52 receivedData: 7
+2021.05.31 13:49:52 receivedData: O
+2021.05.31 13:49:52 receivedData: |
+2021.05.31 13:49:53 receivedData: 5
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: 2
+2021.05.31 13:49:53 receivedData: -
+2021.05.31 13:49:53 receivedData: 2
+2021.05.31 13:49:53 receivedData: 3
+2021.05.31 13:49:53 receivedData: 6
+2021.05.31 13:49:53 receivedData: 3
+2021.05.31 13:49:53 receivedData: 6
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: ^
+2021.05.31 13:49:53 receivedData: ^
+2021.05.31 13:49:53 receivedData: Ю
+2021.05.31 13:49:53 receivedData: 2
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: R
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: ь
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: ь
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: ь
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: ь
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: ь
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:53 receivedData: ь
+2021.05.31 13:49:53 receivedData: |
+2021.05.31 13:49:54 receivedData: ь
+2021.05.31 13:49:54 receivedData: |
+2021.05.31 13:49:54 receivedData: ь
+2021.05.31 13:49:54 receivedData: |
+2021.05.31 13:49:54 receivedData: ь
+2021.05.31 13:49:54 receivedData: |
+2021.05.31 13:49:54 receivedData: X
+2021.05.31 13:49:54 receivedData: 
+2021.05.31 13:49:54 receivedData: 
+2021.05.31 13:49:54 receivedData: 
+2021.05.31 13:49:54 receivedData: 0
+2021.05.31 13:49:54 receivedData: R
+2021.05.31 13:49:54 receivedData: |
+2021.05.31 13:49:54 receivedData: 1
+2021.05.31 13:49:54 receivedData: |
+2021.05.31 13:49:54 receivedData: ^
+2021.05.31 13:49:54 receivedData: ^
+2021.05.31 13:49:54 receivedData: Ю
+2021.05.31 13:49:54 receivedData: 2
+2021.05.31 13:49:54 receivedData: ^
+2021.05.31 13:49:54 receivedData: P
+2021.05.31 13:49:54 receivedData: T
+2021.05.31 13:49:54 receivedData: .
+2021.05.31 13:49:54 receivedData: I
+2021.05.31 13:49:54 receivedData: N
+2021.05.31 13:49:54 receivedData: R
+2021.05.31 13:49:54 receivedData: .
+2021.05.31 13:49:54 receivedData: C
+2021.05.31 13:49:54 receivedData: a
+2021.05.31 13:49:54 receivedData: l
+2021.05.31 13:49:54 receivedData: .
+2021.05.31 13:49:54 receivedData: T
+2021.05.31 13:49:55 receivedData: S
+2021.05.31 13:49:55 receivedData: .
+2021.05.31 13:49:55 receivedData: M
+2021.05.31 13:49:55 receivedData: C
+2021.05.31 13:49:55 receivedData: ^
+2021.05.31 13:49:55 receivedData: ^
+2021.05.31 13:49:55 receivedData: Ю
+2021.05.31 13:49:55 receivedData: F
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: 1
+2021.05.31 13:49:55 receivedData: .
+2021.05.31 13:49:55 receivedData: 1
+2021.05.31 13:49:55 receivedData: 5
+2021.05.31 13:49:55 receivedData: 3
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: ь
+2021.05.31 13:49:55 receivedData: H
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: F
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: ь
+2021.05.31 13:49:55 receivedData: |
+2021.05.31 13:49:55 receivedData: 2
+2021.05.31 13:49:55 receivedData: 0
+2021.05.31 13:49:55 receivedData: 2
+2021.05.31 13:49:55 receivedData: 1
+2021.05.31 13:49:55 receivedData: 0
+2021.05.31 13:49:55 receivedData: 5
+2021.05.31 13:49:55 receivedData: 3
+2021.05.31 13:49:55 receivedData: 1
+2021.05.31 13:49:55 receivedData: 0
+2021.05.31 13:49:55 receivedData: 9
+2021.05.31 13:49:55 receivedData: 5
+2021.05.31 13:49:56 receivedData: 9
+2021.05.31 13:49:56 receivedData: 4
+2021.05.31 13:49:56 receivedData: 4
+2021.05.31 13:49:56 receivedData: 
+2021.05.31 13:49:56 receivedData: 
+2021.05.31 13:49:56 receivedData: 
+2021.05.31 13:49:56 receivedData: 1
+2021.05.31 13:49:56 receivedData: C
+2021.05.31 13:49:56 receivedData: |
+2021.05.31 13:49:56 receivedData: 1
+2021.05.31 13:49:56 receivedData: |
+2021.05.31 13:49:56 receivedData: I
+2021.05.31 13:49:56 receivedData: |
+2021.05.31 13:49:56 receivedData: R
+2021.05.31 13:49:56 receivedData: e
+2021.05.31 13:49:56 receivedData: s
+2021.05.31 13:49:56 receivedData: u
+2021.05.31 13:49:56 receivedData: l
+2021.05.31 13:49:56 receivedData: t
+2021.05.31 13:49:56 receivedData: F
+2021.05.31 13:49:56 receivedData: l
+2021.05.31 13:49:56 receivedData: a
+2021.05.31 13:49:56 receivedData: g
+2021.05.31 13:49:56 receivedData:  
+2021.05.31 13:49:56 receivedData: 1
+2021.05.31 13:49:56 receivedData: 6
+2021.05.31 13:49:56 receivedData: |
+2021.05.31 13:49:56 receivedData: G
+2021.05.31 13:49:56 receivedData: 
+2021.05.31 13:49:56 receivedData: 
+2021.05.31 13:49:56 receivedData: 
+2021.05.31 13:49:56 receivedData: 2
+2021.05.31 13:49:56 receivedData: L
+2021.05.31 13:49:57 receivedData: |
+2021.05.31 13:49:57 receivedData: 1
+2021.05.31 13:49:57 receivedData: 
+2021.05.31 13:49:57 receivedData: 
+2021.05.31 13:49:57 receivedData: 
+2021.05.31 14:01:14 ERR: Мало полей! (индекс!) kField=11, sRecord(9)=2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|20210531095728
+2021.05.31 14:01:36 ERR: Мало полей! (индекс!) kField=11, sRecord(15)=0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|20210531095944
+2021.05.31 14:02:28 Получено для парсинга 737 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 14:02:48 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ResultText) values (18, host_name(), 23636, GetDate(), 5 , '4', '14.400', '', '1', '41.108', '', '5', '16.561', '', '6', '4.675', '', '2', '1.153', 'ьH', '1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1');
+2021.05.31 14:05:50 --- Завершение работы.
+2021.05.31 14:06:34 --- Запуск Sapphire ASU-911 user Версия 1.0.67.267 от 2021.5.31.1001
+2021.05.31 14:06:47 --- Завершение работы.
+2021.05.31 14:08:45 --- Запуск Sapphire ASU-911 user Версия 1.0.67.267 от 2021.5.31.1001
+2021.05.31 14:09:04 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0
+2021.05.31 14:09:05 receivedData: R|
+2021.05.31 14:09:05 receivedData: 1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 14:31:26 --- Запуск Sapphire ASU-911 user Версия 1.0.67.268 от 2021.5.31.1131
+2021.05.31 14:31:51 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 14:36:07 --- Запуск Sapphire ASU-911 user Версия 1.0.67.269 от 2021.5.31.1136
+2021.05.31 14:36:24 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 15:28:16 --- Запуск Sapphire ASU-911 user Версия 1.0.67.270 от 2021.5.31.1228
+2021.05.31 15:28:32 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 15:29:14 Получено для парсинга 737 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1
+2021.05.31 15:29:20 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ResultText) values (18, host_name(), 23636, GetDate(), 5 , '4', '14.400', '', '1', '41.108', '', '5', '16.561', '', '6', '4.675', '', '2', '1.153', 'ьH', '1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202105311±33522P|1||ь|^^||ьM3O|1|2-23636||^^Ю4|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю4^PT.sec.TS^^ЮF|14.400|sec||H||F||ь|202105310959445C|1|I|ResultFlag 16|G6O|2|2-23636||^^Ю1|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X7R|1|^^Ю1^aPTT.PSL^^ЮF|41.108|sec||H||F||ь|202105310957280C|1|I|ResultFlag 16|G1O|3|2-23636||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|202105310957283C|1|I|ResultFlag 0|G4O|4|2-23636||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X5R|1|^^Ю6^Fib^^ЮF|4.675|g/L||H||F||ь|202105311012256C|1|I|ResultFlag 16|G7O|5|2-23636||^^Ю2|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|202105310959441C|1|I|ResultFlag 16|G2L|1');
+2021.05.31 15:29:49 --- Завершение работы.

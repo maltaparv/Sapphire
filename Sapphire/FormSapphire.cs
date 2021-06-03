@@ -46,6 +46,7 @@ namespace Sapphire
         // параметры в строчках ini-файла 
         private static string connStr;      // строка коннекта к SQL
         private static int    Analyzer_Id = 911;      // для Sapphire400 =11, он берётся из ini-файла.
+        private static string Analyzer_Name = "Testname"; // SIEMENS или SAPPHIRE
         private static string sModes;       // строка списка режимов работы 
         private static string PathLog;      // путь к лог-файлу с вычисленными каталогом и датой ...\GGGG-MM\BeckLog2019-08-06.txt 
         private static string PathLogDir;   // путь к лог-файлу, заданный в параметрах ini-файла  
@@ -92,7 +93,6 @@ namespace Sapphire
         public FormSap()
         {
             InitializeComponent();
-            //MessageBox.Show("039", "Check point number:", MessageBoxButtons.OK, MessageBoxIcon.Stop);
             ReadParmsIni();         // берём параметры из ini-файла 
             //MessageBox.Show("040", "Check point number:", MessageBoxButtons.OK, MessageBoxIcon.Stop);
             FormIni();              // установки на форме, которые не делает Visual Studio - IP-адреса          
@@ -360,8 +360,10 @@ namespace Sapphire
                     continue;
                 }
                 string sRecordType = sRecord[i].Substring(1, 1);  // CheckSubLength
-                if (sRecordType == "P")     // Patient  "2P|1|2020040150101|||19576 ^??????? ?.?   ???|||U|||||"
-                {                           //           0  1 2            345                        67 
+
+                if (sRecordType == "P" & Analyzer_Name != "SIEMENS")
+                {   // Patient  "2P|1|2020040150101|||19576 ^??????? ?.?   ???|||U|||||"
+                    //           0  1 2            345                        67 
                     if (kField == 2)
                     {
                         IsControl = true;
@@ -385,8 +387,37 @@ namespace Sapphire
                         HistoryNumber = "0";
                 }
 
-                if (sRecordType == "R")   // Result "4R|1|^^^1^???????^0| 4.7804|?????/?| 4.2000 TO  6.4000|N||F||||20200415165509"
-                {                         //         0  1 2             3        4       5                  6 78 9012 
+                if (sRecordType == "O" & Analyzer_Name == "SIEMENS")  // выделяем номер истории - только для SIEMENS
+                {   // Order "6O|2|2-23636||^^^1|R||||||||||||||||||||X"
+                    //        0  1 2       
+                    sHist = sField[2].Trim();
+                    int im = sHist.IndexOf("-");
+                    if (im == -1 | im == sHist.Length - 1)
+                    {
+                        Add_RTB(RTBout, $"\n Нет номера истории!", Color.Red);
+                        HistoryNumber = "0";
+                        return;
+                    }
+                    HistoryNumber = sHist.Substring(im + 1); // после первого минуса и до конца строки должен быть номер истории. 2021-05-31.
+                    if (HistoryNumber.Length == 0)
+                        HistoryNumber = "0";
+                }
+
+                if (sRecordType == "R")
+                {   // Result "4R|1|^^^1^???????^0| 4.7804|?????/?| 4.2000 TO  6.4000|N||F||||20200415165509" для Sapphire
+                    //         0  1 2             3        4       5                  6 78 9012 
+                    // следующие результаты - для SIEMENS:
+                    // Result "4R|1|^^^4^PT.sec.TS^^^F|14.400|sec||H||F||||20210531095944"
+                    //          0 1 2                  3      4    6  8    12 
+                    // Result "7R|1|^^^1^aPTT.PSL^^^F|41.108|sec||H||F||||20210531095728"
+                    //          0 1 2                 3      4    6  8    12 
+                    // Result "0R|1|^^^2^PT.INR.Cal.TS.MC^^^F|1.153|||H||F||||20210531095944"
+                    //          0 1 2                         3    4  6  8    12 
+                    // Result "2R|1|^^^5^BC.TT^^^F|16.561|sec||||F||||20210531095728"
+                    //          0 1 2              3      4    6 8    12 
+                    // Result "5R|1|^^^6^Fib^^^F|4.675|g/L||H||F||||20210531101225"
+                    //          0 1 2            3     4    6  8    12 
+
                     string sKod = sField[2];  // "^^^1^???????^0"  или пустая строка!!!
                     Regex reg_kod = new Regex(@"\d+");  // найти первые n цифр: Regex(@"\d+"); первые две цифры: Regex(@"\d{1,2}");
                     MatchCollection matched_kod = reg_kod.Matches(sKod); // fix 2021-02-10
@@ -406,13 +437,19 @@ namespace Sapphire
                     sRefVal = Regex.Replace(sRefVal, @"\s+", " ");       // заменяет несколько подряд идущих пробелов одинарными
                     if (sRefVal.Length > 16)
                         sRefVal = "длина больше 16";
-                    sFlag = sField[6];
+                    
+                    if (Analyzer_Name == "SIEMENS")
+                        sFlag = sField[7];
+                    else
+                        sFlag = sField[6];
 
                     if (kField >= 13)   // для контроля индекса dt_Done = sField[12];
                         dt_Done = sField[12];
                     else if (kField == 12)
                         dt_Done = sField[11];
-                    else //  (kField < 12)                   
+                    else if (kField == 11)
+                        dt_Done = sField[10];
+                    else //  (kField < 11)                   
                     {
                         msg1 = $"ERR: Мало полей! (индекс!) kField={kField}, sRecord({i})={sRecord[i]}";
                         Add_RTB(RTBout, $"\n{dtm} {msg1}.\n", Color.Red);
@@ -512,20 +549,18 @@ namespace Sapphire
                 MessageBox.Show(errmsg, " Внимание!", MessageBoxButtons.OK, MessageBoxIcon.Stop);
                 Environment.Exit(1);
             }
-            //MessageBox.Show("031", "Check point number:", MessageBoxButtons.OK, MessageBoxIcon.Stop);
 
             INIManager iniFile = new INIManager(pathIniFile);   // cоздание объекта для работы с ini-файлом
-            //MessageBox.Show("032", "Check point number:", MessageBoxButtons.OK, MessageBoxIcon.Stop);
 
             // секция [Description]
             sHeader1 = iniFile.GetPrivateString("Description", "Header1"); // получить значение  из секции Description по ключу Header1
             RtbHeader1.Text = sHeader1;
             this.Text = "  " + sHeader1;    // заголовок в основном окне  
-            //MessageBox.Show("033", "Check point number:", MessageBoxButtons.OK, MessageBoxIcon.Stop);
 
             // секция [Connection]
             string str = iniFile.GetPrivateString("Connection", "Analyzer_Id").Trim();
             Analyzer_Id = Convert.ToInt32(str);
+            Analyzer_Name = iniFile.GetPrivateString("Connection", "Analyzer_Name").Trim();
             connStr = iniFile.GetPrivateString("Connection", "DbSQL").Trim(); // получить значение  из секции 1.. по ключу 2..
             string nameSQLsrev = connStr.Substring(0, connStr.IndexOf(';'));
             ComPortName = iniFile.GetPrivateString("Connection", "ComPortNo").Trim();
@@ -691,7 +726,7 @@ namespace Sapphire
             s += $"PathIni: {PathIni}\n";
             s += sep;
             s += $"Режимы работы: {sModes}\n";
-            s += $"SQL: {nameSQLsrv}, Analyzer_Id: {Analyzer_Id}.\n";
+            s += $"SQL: {nameSQLsrv}, Analyzer_Id: {Analyzer_Id}, Analyzer_Name: {Analyzer_Name}.\n";
             s += $"Com-порт: {ComPortName}.\n";
             s += $"Интервал логирования: {LogInterval} сек.\n";
             s += sep+"\n\n\n\n"; 
@@ -743,6 +778,7 @@ namespace Sapphire
         #region --- Тесты по кнопке Выполнить
         private void BtnRunTest_Click(object sender, EventArgs e)
         {
+            MatchCollection matched;
             string testSelect = CmbTest.SelectedItem.ToString();
             switch (testSelect)
             {
@@ -752,7 +788,36 @@ namespace Sapphire
                     Add_RTB(RTBout, $"\n {testSelect}.", Color.Blue);
                     break;
                 #endregion --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)
-                case "тест 01":  // 2021-04-05
+                case "тест 01":
+                    // ...
+                    // Order "6O|2|2-23636||^^^1|R||||||||||||||||||||X"
+                    //        0  1 2       
+                    string sHist;
+                    //sHist = sField[2].Trim();
+                    sHist = "2-23636";
+                    sHist = "132-77999";
+                    sHist = "1277999";    // Нет номера истории!
+                    sHist = "1-27-7999";  // будет 27-7999
+                    sHist = "12-324asd9"; // будет 324asd9
+                    sHist = "2-";         // Нет номера истории!
+                    //Regex reg = new Regex(@"[0-9]{1,2}-[0-9]{1,6}");  // цифры 0-9 1 или 2 раза, затем минус, затем цифры 0-9 от 1 до 6 раз
+                    //matched = reg.Matches(sHist);
+                    //if (matched.Count > 0)
+                    //    HistoryNumber = matched[1].Value;
+                    int im = sHist.IndexOf("-");
+                    if (im==-1 | im==sHist.Length-1 )
+                    {
+                        Add_RTB(RTBout, $"\nНет номера истории!\n", Color.Red);
+                        HistoryNumber = "0";
+                        // return; BugFix 2021-06-03 пишем в SQL даже если нет номера истории.
+                    }
+                    HistoryNumber = sHist.Substring(im+1); // после первого минуса и до конца строки должен быть номер истории. 2021-05-31.
+                    if (HistoryNumber.Length == 0)
+                        HistoryNumber = "0";
+
+                    Add_RTB(RTBout, $"\n {testSelect}.", Color.Blue);
+                    break;
+                case "тест 01-1":  // 2021-04-05
                     string inputString = "\u0005\r\u00021H|\\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|20210401160604\r\r\u00022P|1|2104010059||ь16332 ^??ї?ї?ї? ?.?. ??ї||ьU||ь|ь\r\r\u00023O|1||^1^59|^^Ю1^??ї?ї?ї^0\\^^Ю5^??.??ї^0\\^^Ю7^??ї?ї-?^0\\^^Ю8^??ї?ї?ї?^0\\^^Ю9^??ї^0\\^^Ю10^??ї^0\\^^Ю11^??ї?ї?ї^0\\^^Ю12^??ї.??ї^0\\^^Ю13^??-??ї^0\\^^Ю14^??ї^0\\^^Ю15^??ї.??ї.^0\\^^Ю16^??ї.??^0\\^^Ю17^??ї.??^0\\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F\r\u00024\r\r\u00025R|1|^^Ю1^??ї?ї?ї^0| 1.1529|??ї?ї/?| 4.200° TO  6.400°|L||F||ь|20210401063411\r\r\u00026R|2|^^Ю5^??.??ї^0|56.1505|?/?|64.00°0 TO 83.00°0|L||F||ь|20210401063210\r\r\u00027R|3|^^Ю7^??ї?ї-?^0|27.0224|??ї?ї?/?|71.00°0 TO 115.00°0|L||F||ь|20210401063255\r\r\u00020R|4|^^Ю8^??ї?ї?ї?^0|41.3238|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|20210401063109\r\r\u00021R|5|^^Ю9^??ї^0|77.6034|??/?| 0.00°0 TO 40.00°0|H||F||ь|20210401063240\r\r\u00022R|6|^^Ю10^??ї^0|195.5502|??/?| 0.00°0 TO 37.00°0|H||F||ь|20210401063225\r\r\u00023R|7|^^Ю11^??ї?ї?ї^0|78.9669|??/?|28.00°0 TO 100.00°0|N||F||ь|20210401063124\r\r\u00024R|8|^^Ю12^??ї.??ї^0|215.5272|??/?|24.00°0 TO 195.00°0|H||F||ь|20210401063341\r\r\u00025R|9|^^Ю13^??-??ї^0| 7.8414|??/?| 0.00°0 TO 25.00°0|N||F||ь|20210401063356\r\r\u00026R|10|^^Ю14^??ї^0|1012.6040|??/?|230.00°0 TO 460.00°0|H||F||ь|20210401063326\r\r\u00027R|11|^^Ю15^??ї.??ї.^0|56.9256|??/?|98.00°0 TO 279.00°0|L||F||ь|20210401063310\r\r\u00020R|12|^^Ю16^??ї.??^0|25.1580|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|20210401063139\r\r\u00021R|13|^^Ю17^??ї.??^0| 6.9215|??ї?ї?/?| 0.00°0 TO  6.800°|H||F||ь|20210401063155\r\r\u00022R|14|^^Ю18^?-??^0| 5.7643|??/?| 0.00°0 TO  5.00°0|H||F||ь|20210401063426\r\r\u00023L|1|N\r\r\u0004";
                     inputString += CR + LF + STX + "4";
                     //inputString = Regex.Replace(inputString, ETB + "..", String.Empty);  
@@ -773,7 +838,8 @@ namespace Sapphire
                     string findkod = "";
                     string sKod = "^^^1^???????^0";  // "^^^12^???????^0"
                     Regex rg = new Regex(@"\d+");    // найти первые n цифр: Regex(@"\d+"); первые две цифры: Regex(@"\d{1,2}");
-                    MatchCollection matched = rg.Matches(sKod);
+                    //MatchCollection matched = rg.Matches(sKod);
+                    matched = rg.Matches(sKod);
                     if (matched.Count > 0)
                         findkod = matched[0].Value.ToString();
                     Add_RTB(RTBout, $"\n {testSelect}, kod={findkod}.", Color.Blue);
