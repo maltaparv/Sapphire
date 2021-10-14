@@ -38,3 +38,114 @@
 2021.05.31 14:01:15 ERR: Мало полей! (индекс!) kField=11, sRecord(9)=2R|1|^^Ю5^BC.TT^^ЮF|16.561|sec||ь|F||ь|20210531095728
 
 2021.05.31 14:01:36 ERR: Мало полей! (индекс!) kField=11, sRecord(15)=0R|1|^^Ю2^PT.INR.Cal.TS.MC^^ЮF|1.153||ьH||F||ь|20210531095944
+
+2021.10.13 15:50:35 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: Недопустимое имя столбца "HisoryNumber".
+Число столбцов в инструкции INSERT превышает число значений, указанных в предложении VALUES. Число значений в предложении VALUES должно соответствовать числу столбцов, указанному в инструкции INSERT.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 504
+
+2021.10.13 15:50:35 Аварийное завершение работы.
+Ошибка при записи в SQL.
+
+2021.10.13 16:11:43 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: Недопустимое имя столбца "HisoryNumber".
+Число столбцов в инструкции INSERT превышает число значений, указанных в предложении VALUES. Число значений в предложении VALUES должно соответствовать числу столбцов, указанному в инструкции INSERT.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 504
+
+2021.10.13 16:11:43 Аварийное завершение работы.
+Ошибка при записи в SQL.
+
+2021.10.13 16:14:38 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: Недопустимое имя столбца "HisoryNumber".
+Число столбцов в инструкции INSERT превышает число значений, указанных в предложении VALUES. Число значений в предложении VALUES должно соответствовать числу столбцов, указанному в инструкции INSERT.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 504
+
+2021.10.13 16:14:38 Аварийное завершение работы.
+Ошибка при записи в SQL.
+
+2021.10.13 16:28:49 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: Число столбцов в инструкции INSERT превышает число значений, указанных в предложении VALUES. Число значений в предложении VALUES должно соответствовать числу столбцов, указанному в инструкции INSERT.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 504
+
+2021.10.13 16:28:49 Аварийное завершение работы.
+Ошибка при записи в SQL.
+
+2021.10.14 11:25:55 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 503
+
+2021.10.14 11:25:55 Аварийное завершение работы.
+Ошибка при записи в SQL.
+
+2021.10.14 13:18:10 Ошибка открытия порта
+
+2021.10.14 13:18:10 Аварийное завершение работы.
+Ошибка открытия порта Com2.
+Доступ к порту 'Com2' закрыт.
+
+2021.10.14 14:43:21 Ошибка открытия порта
+
+2021.10.14 14:43:21 Аварийное завершение работы.
+Ошибка открытия порта Com2.
+Доступ к порту 'Com2' закрыт.
+
+2021.10.14 14:50:50 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 503
+
+2021.10.14 14:50:50 Аварийное завершение работы.
+Ошибка при записи в SQL.

@@ -1,0 +1,1922 @@
+2021.10.14 09:40:25 --- Запуск Sapphire ASU-911 user Версия 1.0.67.277 от 2021.10.13.1410
+2021.10.14 09:44:02 receivedData: 
+2021.10.14 09:44:02 receivedData: 
+2021.10.14 09:44:02 receivedData: 1H|\^
+2021.10.14 09:44:02 receivedData: &||ь
+2021.10.14 09:44:02 receivedData: BCSXP
+2021.10.14 09:44:03 receivedData: ^1.0^421692^H1P1O1R1C
+2021.10.14 09:44:03 receivedData: 1Q1L1^1.0
+2021.10.14 09:44:03 receivedData: ||ь|ь|ьP|1
+2021.10.14 09:44:03 receivedData: |2021101307
+2021.10.14 09:44:03 receivedData: 12062P|1|
+2021.10.14 09:44:03 receivedData: |ь|^^||ьM3
+2021.10.14 09:44:03 receivedData: O|1|23-101||^^Ю6|R||ь|ь|ь|ь|ь
+2021.10.14 09:44:03 receivedData: |ь|ь|ь|ь|X4R|
+2021.10.14 09:44:03 receivedData: 1|^^Ю6^Fib^^ЮF|1.
+2021.10.14 09:44:03 receivedData: 522|g/L||L||F||ь|2
+2021.10.14 09:44:03 receivedData: 02110130711505C|
+2021.10.14 09:44:03 receivedData: 1|I|ResultFlag 32|G
+2021.10.14 09:44:03 receivedData: 6L|1
+2021.10.14 10:51:00 --- Запуск Sapphire ASU-911 user Версия 1.0.67.277 от 2021.10.13.1410
+2021.10.14 11:06:55 --- Запуск Sapphire ASU-911 user Версия 1.0.67.277 от 2021.10.13.1410
+2021.10.14 11:07:28 receivedData: 1
+2021.10.14 11:07:28 receivedData: H
+2021.10.14 11:07:28 receivedData: |
+2021.10.14 11:07:28 receivedData: \
+2021.10.14 11:07:28 receivedData: ^
+2021.10.14 11:07:28 receivedData: &
+2021.10.14 11:07:28 receivedData: |
+2021.10.14 11:07:28 receivedData: |
+2021.10.14 11:07:28 receivedData: ь
+2021.10.14 11:07:28 receivedData: B
+2021.10.14 11:07:28 receivedData: C
+2021.10.14 11:07:28 receivedData: S
+2021.10.14 11:07:28 receivedData: X
+2021.10.14 11:07:28 receivedData: P^
+2021.10.14 11:07:29 receivedData: 1
+2021.10.14 11:07:29 receivedData: .
+2021.10.14 11:07:29 receivedData: 0
+2021.10.14 11:07:29 receivedData: ^
+2021.10.14 11:07:29 receivedData: 4
+2021.10.14 11:07:29 receivedData: 21
+2021.10.14 11:07:29 receivedData: 6
+2021.10.14 11:07:29 receivedData: 9
+2021.10.14 11:07:29 receivedData: 2
+2021.10.14 11:07:29 receivedData: ^
+2021.10.14 11:07:29 receivedData: H
+2021.10.14 11:07:29 receivedData: 1
+2021.10.14 11:07:29 receivedData: P1
+2021.10.14 11:07:29 receivedData: O1R
+2021.10.14 11:07:29 receivedData: 1
+2021.10.14 11:07:29 receivedData: C
+2021.10.14 11:07:29 receivedData: 1
+2021.10.14 11:07:29 receivedData: Q1
+2021.10.14 11:07:29 receivedData: L1^
+2021.10.14 11:07:29 receivedData: 1.0
+2021.10.14 11:07:29 receivedData: ||ь|
+2021.10.14 11:07:29 receivedData: ь|ьP|
+2021.10.14 11:07:29 receivedData: 1|20
+2021.10.14 11:07:29 receivedData: 21
+2021.10.14 11:07:29 receivedData: 1
+2021.10.14 11:07:29 receivedData: 0
+2021.10.14 11:07:29 receivedData: 13071206
+2021.10.14 11:07:29 receivedData: 2P|1||
+2021.10.14 11:07:29 receivedData: ь|^^||ь
+2021.10.14 11:07:29 receivedData: M3O|1
+2021.10.14 11:07:29 receivedData: |101||^^Ю
+2021.10.14 11:07:29 receivedData: 6|R||ь|ь|ь|
+2021.10.14 11:07:29 receivedData: ь|ь|ь|ь|ь|ь
+2021.10.14 11:07:29 receivedData: |X4R|1|
+2021.10.14 11:07:30 receivedData: ^^Ю6^Fib^^Ю
+2021.10.14 11:07:30 receivedData: F|1.522|
+2021.10.14 11:07:30 receivedData: g/L|
+2021.10.14 11:07:30 receivedData: |
+2021.10.14 11:07:30 receivedData: L|
+2021.10.14 11:07:30 receivedData: |
+2021.10.14 11:07:30 receivedData: F
+2021.10.14 11:07:30 receivedData: |
+2021.10.14 11:07:30 receivedData: |ь
+2021.10.14 11:07:30 receivedData: |20
+2021.10.14 11:07:30 receivedData: 2110
+2021.10.14 11:07:30 receivedData: 13071
+2021.10.14 11:07:30 receivedData: 150
+2021.10.14 11:07:30 receivedData: 5C|1|I|
+2021.10.14 11:07:30 receivedData: ResultFl
+2021.10.14 11:07:30 receivedData: a
+2021.10.14 11:07:30 receivedData: g 32|G
+2021.10.14 11:07:30 receivedData: 6L|1
+2021.10.14 11:08:28 receivedData: 
+2021.10.14 11:08:28 receivedData: 
+2021.10.14 11:08:28 receivedData: 1
+2021.10.14 11:08:28 receivedData: H
+2021.10.14 11:08:28 receivedData: |\
+2021.10.14 11:08:28 receivedData: ^
+2021.10.14 11:08:28 receivedData: &
+2021.10.14 11:08:28 receivedData: |
+2021.10.14 11:08:28 receivedData: |
+2021.10.14 11:08:28 receivedData: ь
+2021.10.14 11:08:28 receivedData: B
+2021.10.14 11:08:28 receivedData: C
+2021.10.14 11:08:28 receivedData: S
+2021.10.14 11:08:28 receivedData: XP
+2021.10.14 11:08:28 receivedData: ^
+2021.10.14 11:08:28 receivedData: 1
+2021.10.14 11:08:28 receivedData: .
+2021.10.14 11:08:28 receivedData: 0
+2021.10.14 11:08:28 receivedData: ^
+2021.10.14 11:08:28 receivedData: 4
+2021.10.14 11:08:28 receivedData: 2
+2021.10.14 11:08:28 receivedData: 1
+2021.10.14 11:08:28 receivedData: 69
+2021.10.14 11:08:28 receivedData: 2
+2021.10.14 11:08:28 receivedData: ^
+2021.10.14 11:08:28 receivedData: H1
+2021.10.14 11:08:28 receivedData: P1O
+2021.10.14 11:08:28 receivedData: 1R1
+2021.10.14 11:08:28 receivedData: C1Q1
+2021.10.14 11:08:28 receivedData: L1^1.
+2021.10.14 11:08:28 receivedData: 0||ь
+2021.10.14 11:08:29 receivedData: |ь|ьP
+2021.10.14 11:08:29 receivedData: |1|
+2021.10.14 11:08:29 receivedData: 2
+2021.10.14 11:08:29 receivedData: 02
+2021.10.14 11:08:29 receivedData: 110
+2021.10.14 11:08:29 receivedData: 1307
+2021.10.14 11:08:29 receivedData: 1206
+2021.10.14 11:08:29 receivedData: 2P|1
+2021.10.14 11:08:29 receivedData: ||ь
+2021.10.14 11:08:29 receivedData: |^^|
+2021.10.14 11:08:29 receivedData: |ьM
+2021.10.14 11:08:29 receivedData: 3O|1|
+2021.10.14 11:08:29 receivedData: 101||^^
+2021.10.14 11:08:29 receivedData: Ю6|R||ь|
+2021.10.14 11:08:29 receivedData: ь|ь|
+2021.10.14 11:08:29 receivedData: ь|ь|ь
+2021.10.14 11:08:29 receivedData: |ь|ь|ь
+2021.10.14 11:08:29 receivedData: |X4R
+2021.10.14 11:08:29 receivedData: |1|^^Ю6^
+2021.10.14 11:08:29 receivedData: Fib^^ЮF|1
+2021.10.14 11:08:29 receivedData: .522|g/L||
+2021.10.14 11:08:29 receivedData: L||F||ь
+2021.10.14 11:08:29 receivedData: |2021101
+2021.10.14 11:08:29 receivedData: 3071150
+2021.10.14 11:08:29 receivedData: 5C|1|I|Re
+2021.10.14 11:08:29 receivedData: sultFlag 32|
+2021.10.14 11:08:29 receivedData: G6L|1
+2021.10.14 11:08:35 Отправлено подтверждение <ACK> (06h) по кнопке.
+2021.10.14 11:25:27 receivedData: 1H
+2021.10.14 11:25:27 receivedData: |
+2021.10.14 11:25:27 receivedData: \^
+2021.10.14 11:25:27 receivedData: &
+2021.10.14 11:25:27 receivedData: |
+2021.10.14 11:25:27 receivedData: |
+2021.10.14 11:25:27 receivedData: ь
+2021.10.14 11:25:27 receivedData: B
+2021.10.14 11:25:27 receivedData: i
+2021.10.14 11:25:27 receivedData: O
+2021.10.14 11:25:28 receivedData: L
+2021.10.14 11:25:28 receivedData: i
+2021.10.14 11:25:28 receivedData: S
+2021.10.14 11:25:28 receivedData:  
+2021.10.14 11:25:28 receivedData: N
+2021.10.14 11:25:28 receivedData: E
+2021.10.14 11:25:28 receivedData: O
+2021.10.14 11:25:28 receivedData: ^
+2021.10.14 11:25:28 receivedData: S
+2021.10.14 11:25:28 receivedData: Y
+2021.10.14 11:25:28 receivedData: S
+2021.10.14 11:25:28 receivedData: T
+2021.10.14 11:25:28 receivedData: EM1
+2021.10.14 11:25:28 receivedData: |
+2021.10.14 11:25:28 receivedData: |
+2021.10.14 11:25:28 receivedData: ь
+2021.10.14 11:25:28 receivedData: |ь
+2021.10.14 11:25:28 receivedData: H
+2021.10.14 11:25:28 receivedData: O
+2021.10.14 11:25:28 receivedData: S
+2021.10.14 11:25:28 receivedData: T
+2021.10.14 11:25:28 receivedData: ^
+2021.10.14 11:25:28 receivedData: P
+2021.10.14 11:25:28 receivedData: _1
+2021.10.14 11:25:28 receivedData: ||P|1|2
+2021.10.14 11:25:28 receivedData: 02102
+2021.10.14 11:25:28 receivedData: 24125
+2021.10.14 11:25:28 receivedData: 403
+2021.10.14 11:25:28 receivedData: 2P|1|21
+2021.10.14 11:25:28 receivedData: 02240077
+2021.10.14 11:25:28 receivedData: ||ь??ї?ї?
+2021.10.14 11:25:28 receivedData: ї?^||ьU||ь
+2021.10.14 11:25:28 receivedData: |ь3O|1||
+2021.10.14 11:25:29 receivedData: ^1^77|^^Ю1^?
+2021.10.14 11:25:29 receivedData: ?ї?ї?ї^0\^^Ю5
+2021.10.14 11:25:29 receivedData: ^??.??ї^0\^^Ю7
+2021.10.14 11:25:29 receivedData: ^??ї?ї-?^0\^^Ю8
+2021.10.14 11:25:29 receivedData: ^??ї?ї?ї?^0\^^Ю9
+2021.10.14 11:25:29 receivedData: ^??ї^0\^^Ю10^??ї^
+2021.10.14 11:25:29 receivedData: 0\^^Ю11^??ї?ї?ї^0\
+2021.10.14 11:25:29 receivedData: ^^Ю16^??ї.??^0|R|
+2021.10.14 11:25:29 receivedData: |ь|ь|ь|ь|Serum||ь|
+2021.10.14 11:25:29 receivedData: ь|ь|ь|F4R|1|^^Ю1
+2021.10.14 11:25:29 receivedData: ^??ї?ї?ї^0|14.7935|?
+2021.10.14 11:25:29 receivedData: ?ї?ї/?| 4.200° TO  6.
+2021.10.14 11:25:29 receivedData: 400°|H||F||ь|202102241
+2021.10.14 11:25:29 receivedData: 253485R|2|^^Ю5^??.??
+2021.10.14 11:25:29 receivedData: ї^0|44.2998|?/?|64.00°0 
+2021.10.14 11:25:29 receivedData: TO 83.00°0|L||F||ь|202102
+2021.10.14 11:25:29 receivedData: 241252476R|3|^^Ю7^??ї?ї
+2021.10.14 11:25:29 receivedData: -?^0|383.0346|??ї?ї?/?|71.0
+2021.10.14 11:25:29 receivedData: 0°0 TO 115.00°0|H||F||ь|2021
+2021.10.14 11:25:29 receivedData: 022412533і7R|4|^^Ю8^??ї?ї?
+2021.10.14 11:25:29 receivedData: ї?^0|18.7425|??ї?ї/?| 1.700° T
+2021.10.14 11:25:29 receivedData: O  8.300°|H||F||ь|2021022412520
+2021.10.14 11:25:29 receivedData: 20R|5|^^Ю9^??ї^0|155.3841|??/
+2021.10.14 11:25:29 receivedData: ?| 0.00°0 TO 40.00°0|H||F||ь|2021
+2021.10.14 11:25:30 receivedData: 02241253181R|6|^^Ю10^??ї^0|148.
+2021.10.14 11:25:30 receivedData: 2806|??/?| 0.00°0 TO 37.00°0|H||P||
+2021.10.14 11:25:30 receivedData: ь|202102241253022C|1|I|C|I3R|7
+2021.10.14 11:25:30 receivedData: |^^Ю11^??ї?ї?ї^0|256.9894|??/?|28.00°
+2021.10.14 11:25:30 receivedData: 0 TO 100.00°0|H||F||ь|20210224125217
+2021.10.14 11:25:30 receivedData: 4R|8|^^Ю16^??ї.??^0|101.1762|??ї?ї?/?|
+2021.10.14 11:25:30 receivedData:  0.00°0 TO 21.00°0|H||F||ь|2021022412523
+2021.10.14 11:25:30 receivedData: 2
+2021.10.14 11:25:30 receivedData: 5L|1|N1H|\^&||ьBiOLiS NEO^SYSTEM
+2021.10.14 11:25:30 receivedData: 1||ь|ьHOST^P_1||P|1|202102241304592Q|1|
+2021.10.14 11:25:30 receivedData: ALL||ALL||ь|ь|ь|O3L|1|N
+2021.10.14 11:25:31 Получено для парсинга 1447 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130712062P|1||ь|^^||ьM3O|1|101||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|11H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130712062P|1||ь|^^||ьM3O|1|101||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|11H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202102241254032P|1|2102240077||ь??ї?ї?ї?^||ьU||ь|ь3O|1||^1^77|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю16^??ї.??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F4R|1|^^Ю1^??ї?ї?ї^0|14.7935|??ї?ї/?| 4.200° TO  6.400°|H||F||ь|202102241253485R|2|^^Ю5^??.??ї^0|44.2998|?/?|64.00°0 TO 83.00°0|L||F||ь|202102241252476R|3|^^Ю7^??ї?ї-?^0|383.0346|??ї?ї?/?|71.00°0 TO 115.00°0|H||F||ь|2021022412533і7R|4|^^Ю8^??ї?ї?ї?^0|18.7425|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202102241252020R|5|^^Ю9^??ї^0|155.3841|??/?| 0.00°0 TO 40.00°0|H||F||ь|202102241253181R|6|^^Ю10^??ї^0|148.2806|??/?| 0.00°0 TO 37.00°0|H||P||ь|202102241253022C|1|I|C|I3R|7|^^Ю11^??ї?ї?ї^0|256.9894|??/?|28.00°0 TO 100.00°0|H||F||ь|202102241252174R|8|^^Ю16^??ї.??^0|101.1762|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202102241252325L|1|N1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202102241304592Q|1|ALL||ALL||ь|ь|ь|O3L|1|N
+2021.10.14 11:25:31 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 10 , '6', '1.522', '', '6', '1.522', '', '1', '14.7935', '4.200° TO 6.400°', '5', '44.2998', 'длина больше 16', '7', '383.0346', 'длина больше 16', '8', '18.7425', '1.700° TO 8.300°', '9', '155.3841', 'длина больше 16', '10', '148.2806', 'длина больше 16', '11', '256.9894', 'длина больше 16', '16', '101.1762', 'длина больше 16', 0, 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130712062P|1||ь|^^||ьM3O|1|101||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|11H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130712062P|1||ь|^^||ьM3O|1|101||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|11H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202102241254032P|1|2102240077||ь??ї?ї?ї?^||ьU||ь|ь3O|1||^1^77|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю16^??ї.??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F4R|1|^^Ю1^??ї?ї?ї^0|14.7935|??ї?ї/?| 4.200° TO  6.400°|H||F||ь|202102241253485R|2|^^Ю5^??.??ї^0|44.2998|?/?|64.00°0 TO 83.00°0|L||F||ь|202102241252476R|3|^^Ю7^??ї?ї-?^0|383.0346|??ї?ї?/?|71.00°0 TO 115.00°0|H||F||ь|2021022412533і7R|4|^^Ю8^??ї?ї?ї?^0|18.7425|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|202102241252020R|5|^^Ю9^??ї^0|155.3841|??/?| 0.00°0 TO 40.00°0|H||F||ь|202102241253181R|6|^^Ю10^??ї^0|148.2806|??/?| 0.00°0 TO 37.00°0|H||P||ь|202102241253022C|1|I|C|I3R|7|^^Ю11^??ї?ї?ї^0|256.9894|??/?|28.00°0 TO 100.00°0|H||F||ь|202102241252174R|8|^^Ю16^??ї.??^0|101.1762|??ї?ї?/?| 0.00°0 TO 21.00°0|H||F||ь|202102241252325L|1|N1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|202102241304592Q|1|ALL||ALL||ь|ь|ь|O3L|1|N );
+2021.10.14 11:25:55 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 503
+2021.10.14 11:43:23 --- Запуск Sapphire ASU-911 user Версия 1.0.67.277 от 2021.10.13.1410
+2021.10.14 11:43:48 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|
+2021.10.14 11:43:49 receivedData: ь
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: ь
+2021.10.14 11:43:49 receivedData: P
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: 1
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: 2
+2021.10.14 11:43:49 receivedData: 0
+2021.10.14 11:43:49 receivedData: 2
+2021.10.14 11:43:49 receivedData: 1
+2021.10.14 11:43:49 receivedData: 1
+2021.10.14 11:43:49 receivedData: 0
+2021.10.14 11:43:49 receivedData: 1
+2021.10.14 11:43:49 receivedData: 3
+2021.10.14 11:43:49 receivedData: 0
+2021.10.14 11:43:49 receivedData: 7
+2021.10.14 11:43:49 receivedData: 1
+2021.10.14 11:43:49 receivedData: 2
+2021.10.14 11:43:49 receivedData: 0
+2021.10.14 11:43:49 receivedData: 6
+2021.10.14 11:43:49 receivedData: 
+2021.10.14 11:43:49 receivedData: 
+2021.10.14 11:43:49 receivedData: 
+2021.10.14 11:43:49 receivedData: 2
+2021.10.14 11:43:49 receivedData: P
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: 1
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: ь
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: ^
+2021.10.14 11:43:49 receivedData: ^
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: ь
+2021.10.14 11:43:49 receivedData: M
+2021.10.14 11:43:49 receivedData: 
+2021.10.14 11:43:49 receivedData: 
+2021.10.14 11:43:49 receivedData: 
+2021.10.14 11:43:49 receivedData: 3
+2021.10.14 11:43:49 receivedData: O
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:49 receivedData: 1
+2021.10.14 11:43:49 receivedData: |
+2021.10.14 11:43:50 receivedData: 2
+2021.10.14 11:43:50 receivedData: 3
+2021.10.14 11:43:50 receivedData: -
+2021.10.14 11:43:50 receivedData: 1
+2021.10.14 11:43:50 receivedData: 0
+2021.10.14 11:43:50 receivedData: 1
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ^
+2021.10.14 11:43:50 receivedData: ^
+2021.10.14 11:43:50 receivedData: Ю
+2021.10.14 11:43:50 receivedData: 6
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: R
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: ь
+2021.10.14 11:43:50 receivedData: |
+2021.10.14 11:43:50 receivedData: X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|1
+2021.10.14 13:18:10 --- Запуск Sapphire ASU-911 user Версия 1.0.67.277 от 2021.10.13.1410
+2021.10.14 14:43:21 --- Запуск Sapphire ASU-911 user Версия 1.0.67.277 от 2021.10.13.1410
+2021.10.14 14:44:29 --- Завершение работы.
+2021.10.14 14:45:15 --- Запуск Sapphire ASU-911 user Версия 1.0.67.277 от 2021.10.13.1410
+2021.10.14 14:50:11 receivedData: 
+2021.10.14 14:50:11 receivedData: 1
+2021.10.14 14:50:11 receivedData: H|\
+2021.10.14 14:50:11 receivedData: ^
+2021.10.14 14:50:11 receivedData: &
+2021.10.14 14:50:11 receivedData: |
+2021.10.14 14:50:11 receivedData: |
+2021.10.14 14:50:11 receivedData: ь
+2021.10.14 14:50:11 receivedData: B
+2021.10.14 14:50:11 receivedData: C
+2021.10.14 14:50:11 receivedData: SX
+2021.10.14 14:50:11 receivedData: P^
+2021.10.14 14:50:11 receivedData: 1
+2021.10.14 14:50:11 receivedData: .
+2021.10.14 14:50:11 receivedData: 0
+2021.10.14 14:50:11 receivedData: ^
+2021.10.14 14:50:11 receivedData: 4
+2021.10.14 14:50:11 receivedData: 21
+2021.10.14 14:50:11 receivedData: 6
+2021.10.14 14:50:11 receivedData: 9
+2021.10.14 14:50:11 receivedData: 2
+2021.10.14 14:50:11 receivedData: ^
+2021.10.14 14:50:11 receivedData: H
+2021.10.14 14:50:11 receivedData: 1
+2021.10.14 14:50:11 receivedData: P
+2021.10.14 14:50:11 receivedData: 1
+2021.10.14 14:50:11 receivedData: O1
+2021.10.14 14:50:11 receivedData: R1
+2021.10.14 14:50:11 receivedData: C
+2021.10.14 14:50:12 receivedData: 1
+2021.10.14 14:50:12 receivedData: Q
+2021.10.14 14:50:12 receivedData: 1L
+2021.10.14 14:50:12 receivedData: 1^
+2021.10.14 14:50:12 receivedData: 1.
+2021.10.14 14:50:12 receivedData: 0|
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: ь
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: ь|
+2021.10.14 14:50:12 receivedData: ь
+2021.10.14 14:50:12 receivedData: P
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: 1
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: 2
+2021.10.14 14:50:12 receivedData: 0
+2021.10.14 14:50:12 receivedData: 2
+2021.10.14 14:50:12 receivedData: 1
+2021.10.14 14:50:12 receivedData: 1
+2021.10.14 14:50:12 receivedData: 0
+2021.10.14 14:50:12 receivedData: 1
+2021.10.14 14:50:12 receivedData: 3
+2021.10.14 14:50:12 receivedData: 0
+2021.10.14 14:50:12 receivedData: 5
+2021.10.14 14:50:12 receivedData: 5
+2021.10.14 14:50:12 receivedData: 6
+2021.10.14 14:50:12 receivedData: 5
+2021.10.14 14:50:12 receivedData: 0
+2021.10.14 14:50:12 receivedData: 
+2021.10.14 14:50:12 receivedData: 
+2021.10.14 14:50:12 receivedData: 2
+2021.10.14 14:50:12 receivedData: P
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: 1
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: ь
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: ^
+2021.10.14 14:50:12 receivedData: ^
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: |
+2021.10.14 14:50:12 receivedData: ь
+2021.10.14 14:50:12 receivedData: M
+2021.10.14 14:50:13 receivedData: 
+2021.10.14 14:50:13 receivedData: 
+2021.10.14 14:50:13 receivedData: 3
+2021.10.14 14:50:13 receivedData: O
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: 1
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: 4
+2021.10.14 14:50:13 receivedData: 5
+2021.10.14 14:50:13 receivedData: -
+2021.10.14 14:50:13 receivedData: 54
+2021.10.14 14:50:13 receivedData: 9
+2021.10.14 14:50:13 receivedData: 0
+2021.10.14 14:50:13 receivedData: 6
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ^
+2021.10.14 14:50:13 receivedData: ^Ю
+2021.10.14 14:50:13 receivedData: 5
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: R
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: ь
+2021.10.14 14:50:13 receivedData: |
+2021.10.14 14:50:13 receivedData: X
+2021.10.14 14:50:13 receivedData: 
+2021.10.14 14:50:13 receivedData: 
+2021.10.14 14:50:13 receivedData: 4
+2021.10.14 14:50:14 receivedData: R
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: 1
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: ^
+2021.10.14 14:50:14 receivedData: ^
+2021.10.14 14:50:14 receivedData: Ю
+2021.10.14 14:50:14 receivedData: 5
+2021.10.14 14:50:14 receivedData: ^
+2021.10.14 14:50:14 receivedData: B
+2021.10.14 14:50:14 receivedData: C
+2021.10.14 14:50:14 receivedData: .
+2021.10.14 14:50:14 receivedData: T
+2021.10.14 14:50:14 receivedData: T
+2021.10.14 14:50:14 receivedData: ^
+2021.10.14 14:50:14 receivedData: ^
+2021.10.14 14:50:14 receivedData: Ю
+2021.10.14 14:50:14 receivedData: F
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: *
+2021.10.14 14:50:14 receivedData: *
+2021.10.14 14:50:14 receivedData: Є
+2021.10.14 14:50:14 receivedData: *
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: s
+2021.10.14 14:50:14 receivedData: e
+2021.10.14 14:50:14 receivedData: c
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: W
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: F
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: ь
+2021.10.14 14:50:14 receivedData: |
+2021.10.14 14:50:14 receivedData: 2
+2021.10.14 14:50:14 receivedData: 0
+2021.10.14 14:50:15 receivedData: 2
+2021.10.14 14:50:15 receivedData: 1
+2021.10.14 14:50:15 receivedData: 1
+2021.10.14 14:50:15 receivedData: 0
+2021.10.14 14:50:15 receivedData: 1
+2021.10.14 14:50:15 receivedData: 3
+2021.10.14 14:50:15 receivedData: 0
+2021.10.14 14:50:15 receivedData: 5
+2021.10.14 14:50:15 receivedData: 5
+2021.10.14 14:50:15 receivedData: 6
+2021.10.14 14:50:15 receivedData: 0
+2021.10.14 14:50:15 receivedData: 8
+2021.10.14 14:50:15 receivedData: 
+2021.10.14 14:50:15 receivedData: 
+2021.10.14 14:50:15 receivedData: 5
+2021.10.14 14:50:15 receivedData: C
+2021.10.14 14:50:15 receivedData: |
+2021.10.14 14:50:15 receivedData: 1
+2021.10.14 14:50:15 receivedData: |
+2021.10.14 14:50:15 receivedData: I
+2021.10.14 14:50:15 receivedData: |
+2021.10.14 14:50:15 receivedData: R
+2021.10.14 14:50:15 receivedData: e
+2021.10.14 14:50:15 receivedData: s
+2021.10.14 14:50:15 receivedData: u
+2021.10.14 14:50:15 receivedData: l
+2021.10.14 14:50:15 receivedData: t
+2021.10.14 14:50:15 receivedData: F
+2021.10.14 14:50:15 receivedData: l
+2021.10.14 14:50:15 receivedData: a
+2021.10.14 14:50:15 receivedData: g
+2021.10.14 14:50:15 receivedData:  
+2021.10.14 14:50:15 receivedData: 1
+2021.10.14 14:50:15 receivedData: 3
+2021.10.14 14:50:15 receivedData: 0
+2021.10.14 14:50:15 receivedData: |
+2021.10.14 14:50:15 receivedData: G
+2021.10.14 14:50:15 receivedData: 
+2021.10.14 14:50:15 receivedData: 
+2021.10.14 14:50:16 receivedData: 6
+2021.10.14 14:50:16 receivedData: L
+2021.10.14 14:50:16 receivedData: |
+2021.10.14 14:50:16 receivedData: 1
+2021.10.14 14:50:16 receivedData: 
+2021.10.14 14:50:16 receivedData: 
+2021.10.14 14:50:24 Получено для парсинга 219 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|45-54906||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 14:50:26 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 1 , '5', '**Є*', '', 54906, 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|45-54906||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1 );
+2021.10.14 14:50:50 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: Поставщик именованных каналов, error: 40 - Не удалось открыть подключение к SQL Server)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   в System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   в System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   в System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   в System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   в System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   в System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   в System.Data.SqlClient.SqlConnection.Open()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 503
+2021.10.14 15:03:14 --- Запуск Sapphire ASU-911 user Версия 1.0.67.278 от 2021.10.14.1202
+2021.10.14 15:03:59 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|45-54906||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 15:04:19 Получено для парсинга 219 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|45-54906||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 15:04:42 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 1 , '5', '**Є*', '', '54906','1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|45-54906||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1' );
+2021.10.14 15:23:23 receivedData: 
+2021.10.14 15:23:23 receivedData: 
+2021.10.14 15:23:23 receivedData: 
+2021.10.14 15:23:24 receivedData: 
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: H
+2021.10.14 15:23:24 receivedData: |
+2021.10.14 15:23:24 receivedData: \
+2021.10.14 15:23:24 receivedData: ^
+2021.10.14 15:23:24 receivedData: &
+2021.10.14 15:23:24 receivedData: |
+2021.10.14 15:23:24 receivedData: |
+2021.10.14 15:23:24 receivedData: ь
+2021.10.14 15:23:24 receivedData: B
+2021.10.14 15:23:24 receivedData: C
+2021.10.14 15:23:24 receivedData: S
+2021.10.14 15:23:24 receivedData: X
+2021.10.14 15:23:24 receivedData: P
+2021.10.14 15:23:24 receivedData: ^
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: .
+2021.10.14 15:23:24 receivedData: 0
+2021.10.14 15:23:24 receivedData: ^
+2021.10.14 15:23:24 receivedData: 4
+2021.10.14 15:23:24 receivedData: 2
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: 6
+2021.10.14 15:23:24 receivedData: 9
+2021.10.14 15:23:24 receivedData: 2
+2021.10.14 15:23:24 receivedData: ^
+2021.10.14 15:23:24 receivedData: H
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: P
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: O
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: R
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: C
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: Q
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: L
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: ^
+2021.10.14 15:23:24 receivedData: 1
+2021.10.14 15:23:24 receivedData: .
+2021.10.14 15:23:24 receivedData: 0
+2021.10.14 15:23:24 receivedData: |
+2021.10.14 15:23:24 receivedData: |
+2021.10.14 15:23:25 receivedData: ь
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: ь
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: ь
+2021.10.14 15:23:25 receivedData: P
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: 1
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: 2
+2021.10.14 15:23:25 receivedData: 0
+2021.10.14 15:23:25 receivedData: 2
+2021.10.14 15:23:25 receivedData: 1
+2021.10.14 15:23:25 receivedData: 1
+2021.10.14 15:23:25 receivedData: 0
+2021.10.14 15:23:25 receivedData: 1
+2021.10.14 15:23:25 receivedData: 3
+2021.10.14 15:23:25 receivedData: 0
+2021.10.14 15:23:25 receivedData: 7
+2021.10.14 15:23:25 receivedData: 1
+2021.10.14 15:23:25 receivedData: 2
+2021.10.14 15:23:25 receivedData: 0
+2021.10.14 15:23:25 receivedData: 6
+2021.10.14 15:23:25 receivedData: 
+2021.10.14 15:23:25 receivedData: 
+2021.10.14 15:23:25 receivedData: 
+2021.10.14 15:23:25 receivedData: 2
+2021.10.14 15:23:25 receivedData: P
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: 1
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: ь
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: ^
+2021.10.14 15:23:25 receivedData: ^
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: |
+2021.10.14 15:23:25 receivedData: ь
+2021.10.14 15:23:25 receivedData: M
+2021.10.14 15:23:25 receivedData: 
+2021.10.14 15:23:25 receivedData: 
+2021.10.14 15:23:25 receivedData: 
+2021.10.14 15:23:25 receivedData: 3
+2021.10.14 15:23:26 receivedData: O
+2021.10.14 15:23:26 receivedData: |
+2021.10.14 15:23:26 receivedData: 1
+2021.10.14 15:23:26 receivedData: |
+2021.10.14 15:23:26 receivedData: 2
+2021.10.14 15:23:26 receivedData: 3
+2021.10.14 15:23:26 receivedData: -
+2021.10.14 15:23:26 receivedData: 1
+2021.10.14 15:23:26 receivedData: 0
+2021.10.14 15:23:26 receivedData: 1
+2021.10.14 15:23:26 receivedData: |
+2021.10.14 15:23:26 receivedData: |
+2021.10.14 15:23:26 receivedData: ^
+2021.10.14 15:23:26 receivedData: ^
+2021.10.14 15:23:26 receivedData: Ю
+2021.10.14 15:23:26 receivedData: 6
+2021.10.14 15:23:26 receivedData: |
+2021.10.14 15:23:26 receivedData: R
+2021.10.14 15:23:26 receivedData: |
+2021.10.14 15:23:26 receivedData: |
+2021.10.14 15:23:26 receivedData: ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|1
+2021.10.14 15:24:34 receivedData: 
+2021.10.14 15:24:34 receivedData: 
+2021.10.14 15:24:34 receivedData: 
+2021.10.14 15:24:34 receivedData: 1
+2021.10.14 15:24:34 receivedData: H
+2021.10.14 15:24:34 receivedData: |
+2021.10.14 15:24:34 receivedData: \
+2021.10.14 15:24:34 receivedData: ^
+2021.10.14 15:24:34 receivedData: &
+2021.10.14 15:24:34 receivedData: |
+2021.10.14 15:24:34 receivedData: |
+2021.10.14 15:24:34 receivedData: ь
+2021.10.14 15:24:34 receivedData: B
+2021.10.14 15:24:34 receivedData: C
+2021.10.14 15:24:34 receivedData: S
+2021.10.14 15:24:34 receivedData: XP
+2021.10.14 15:24:34 receivedData: ^
+2021.10.14 15:24:34 receivedData: 1
+2021.10.14 15:24:34 receivedData: .
+2021.10.14 15:24:34 receivedData: 0
+2021.10.14 15:24:34 receivedData: ^
+2021.10.14 15:24:34 receivedData: 4
+2021.10.14 15:24:34 receivedData: 2
+2021.10.14 15:24:34 receivedData: 1
+2021.10.14 15:24:34 receivedData: 6
+2021.10.14 15:24:35 receivedData: 9
+2021.10.14 15:24:35 receivedData: 2
+2021.10.14 15:24:35 receivedData: ^
+2021.10.14 15:24:35 receivedData: H
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: P
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: O
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: R
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: C
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: Q
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: L
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: ^
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: .
+2021.10.14 15:24:35 receivedData: 0
+2021.10.14 15:24:35 receivedData: |
+2021.10.14 15:24:35 receivedData: |
+2021.10.14 15:24:35 receivedData: ь
+2021.10.14 15:24:35 receivedData: |
+2021.10.14 15:24:35 receivedData: ь
+2021.10.14 15:24:35 receivedData: |
+2021.10.14 15:24:35 receivedData: ь
+2021.10.14 15:24:35 receivedData: P
+2021.10.14 15:24:35 receivedData: |
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: |
+2021.10.14 15:24:35 receivedData: 20
+2021.10.14 15:24:35 receivedData: 2
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: 0
+2021.10.14 15:24:35 receivedData: 1
+2021.10.14 15:24:35 receivedData: 3
+2021.10.14 15:24:35 receivedData: 0
+2021.10.14 15:24:36 receivedData: 5
+2021.10.14 15:24:36 receivedData: 5
+2021.10.14 15:24:36 receivedData: 6
+2021.10.14 15:24:36 receivedData: 5
+2021.10.14 15:24:36 receivedData: 0
+2021.10.14 15:24:36 receivedData: 
+2021.10.14 15:24:36 receivedData: 
+2021.10.14 15:24:36 receivedData: 2
+2021.10.14 15:24:36 receivedData: P
+2021.10.14 15:24:36 receivedData: |
+2021.10.14 15:24:36 receivedData: 1
+2021.10.14 15:24:36 receivedData: |
+2021.10.14 15:24:36 receivedData: |
+2021.10.14 15:24:36 receivedData: ь
+2021.10.14 15:24:36 receivedData: |
+2021.10.14 15:24:36 receivedData: ^
+2021.10.14 15:24:36 receivedData: ^
+2021.10.14 15:24:36 receivedData: |
+2021.10.14 15:24:36 receivedData: |
+2021.10.14 15:24:36 receivedData: ь
+2021.10.14 15:24:36 receivedData: M
+2021.10.14 15:24:36 receivedData: 
+2021.10.14 15:24:36 receivedData: 
+2021.10.14 15:24:36 receivedData: 3
+2021.10.14 15:24:36 receivedData: O
+2021.10.14 15:24:36 receivedData: |1
+2021.10.14 15:24:36 receivedData: |
+2021.10.14 15:24:36 receivedData: 4
+2021.10.14 15:24:36 receivedData: 5
+2021.10.14 15:24:36 receivedData: -
+2021.10.14 15:24:36 receivedData: 5
+2021.10.14 15:24:36 receivedData: 4
+2021.10.14 15:24:36 receivedData: 9
+2021.10.14 15:24:36 receivedData: 0
+2021.10.14 15:24:36 receivedData: 6
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ^^
+2021.10.14 15:24:37 receivedData: Ю5|
+2021.10.14 15:24:37 receivedData: R
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ь
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: X
+2021.10.14 15:24:37 receivedData: 
+2021.10.14 15:24:37 receivedData: 
+2021.10.14 15:24:37 receivedData: 4
+2021.10.14 15:24:37 receivedData: R
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: 1
+2021.10.14 15:24:37 receivedData: |
+2021.10.14 15:24:37 receivedData: ^
+2021.10.14 15:24:37 receivedData: ^
+2021.10.14 15:24:38 receivedData: Ю
+2021.10.14 15:24:38 receivedData: 5
+2021.10.14 15:24:38 receivedData: ^
+2021.10.14 15:24:38 receivedData: B
+2021.10.14 15:24:38 receivedData: C
+2021.10.14 15:24:38 receivedData: .
+2021.10.14 15:24:38 receivedData: T
+2021.10.14 15:24:38 receivedData: T
+2021.10.14 15:24:38 receivedData: ^
+2021.10.14 15:24:38 receivedData: ^
+2021.10.14 15:24:38 receivedData: Ю
+2021.10.14 15:24:38 receivedData: F
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: *
+2021.10.14 15:24:38 receivedData: *
+2021.10.14 15:24:38 receivedData: Є
+2021.10.14 15:24:38 receivedData: *
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: se
+2021.10.14 15:24:38 receivedData: c
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: W
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: F
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: ь
+2021.10.14 15:24:38 receivedData: |
+2021.10.14 15:24:38 receivedData: 2
+2021.10.14 15:24:38 receivedData: 0
+2021.10.14 15:24:39 receivedData: 2
+2021.10.14 15:24:39 receivedData: 1
+2021.10.14 15:24:39 receivedData: 1
+2021.10.14 15:24:39 receivedData: 0
+2021.10.14 15:24:39 receivedData: 1
+2021.10.14 15:24:39 receivedData: 3
+2021.10.14 15:24:39 receivedData: 0
+2021.10.14 15:24:39 receivedData: 5
+2021.10.14 15:24:39 receivedData: 5
+2021.10.14 15:24:39 receivedData: 6
+2021.10.14 15:24:39 receivedData: 0
+2021.10.14 15:24:39 receivedData: 8
+2021.10.14 15:24:39 receivedData: 
+2021.10.14 15:24:39 receivedData: 
+2021.10.14 15:24:39 receivedData: 5
+2021.10.14 15:24:39 receivedData: C
+2021.10.14 15:24:39 receivedData: |
+2021.10.14 15:24:39 receivedData: 1
+2021.10.14 15:24:39 receivedData: |
+2021.10.14 15:24:39 receivedData: I
+2021.10.14 15:24:39 receivedData: |
+2021.10.14 15:24:39 receivedData: R
+2021.10.14 15:24:39 receivedData: e
+2021.10.14 15:24:39 receivedData: s
+2021.10.14 15:24:39 receivedData: u
+2021.10.14 15:24:39 receivedData: l
+2021.10.14 15:24:39 receivedData: t
+2021.10.14 15:24:39 receivedData: F
+2021.10.14 15:24:39 receivedData: l
+2021.10.14 15:24:39 receivedData: a
+2021.10.14 15:24:39 receivedData: g
+2021.10.14 15:24:39 receivedData:  
+2021.10.14 15:24:39 receivedData: 1
+2021.10.14 15:24:40 receivedData: 3
+2021.10.14 15:24:40 receivedData: 0
+2021.10.14 15:24:40 receivedData: |
+2021.10.14 15:24:40 receivedData: G
+2021.10.14 15:24:40 receivedData: 
+2021.10.14 15:24:40 receivedData: 
+2021.10.14 15:24:40 receivedData: 6
+2021.10.14 15:24:40 receivedData: L
+2021.10.14 15:24:40 receivedData: |
+2021.10.14 15:24:40 receivedData: 1
+2021.10.14 15:24:40 receivedData: 
+2021.10.14 15:24:40 receivedData: 
+2021.10.14 15:24:40 Получено для парсинга 442 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130712062P|1||ь|^^||ьM3O|1|23-101||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|11H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|45-54906||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 15:24:40 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 2 , '6', '1.522', '', '5', '**Є*', '', '54906','1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130712062P|1||ь|^^||ьM3O|1|23-101||^^Ю6|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю6^Fib^^ЮF|1.522|g/L||L||F||ь|202110130711505C|1|I|ResultFlag 32|G6L|11H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|45-54906||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1' );
+2021.10.14 15:26:38 receivedData: 
+2021.10.14 15:26:38 receivedData: 
+2021.10.14 15:26:38 receivedData: 
+2021.10.14 15:26:38 receivedData: 1
+2021.10.14 15:26:38 receivedData: H
+2021.10.14 15:26:38 receivedData: |
+2021.10.14 15:26:38 receivedData: \
+2021.10.14 15:26:38 receivedData: ^
+2021.10.14 15:26:38 receivedData: &
+2021.10.14 15:26:38 receivedData: |
+2021.10.14 15:26:38 receivedData: |
+2021.10.14 15:26:38 receivedData: ь
+2021.10.14 15:26:38 receivedData: B
+2021.10.14 15:26:38 receivedData: C
+2021.10.14 15:26:38 receivedData: S
+2021.10.14 15:26:38 receivedData: X
+2021.10.14 15:26:38 receivedData: P
+2021.10.14 15:26:38 receivedData: ^
+2021.10.14 15:26:38 receivedData: 1
+2021.10.14 15:26:39 receivedData: .
+2021.10.14 15:26:39 receivedData: 0
+2021.10.14 15:26:39 receivedData: ^
+2021.10.14 15:26:39 receivedData: 4
+2021.10.14 15:26:39 receivedData: 2
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: 6
+2021.10.14 15:26:39 receivedData: 9
+2021.10.14 15:26:39 receivedData: 2
+2021.10.14 15:26:39 receivedData: ^
+2021.10.14 15:26:39 receivedData: H
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: P
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: O1
+2021.10.14 15:26:39 receivedData: R
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: C
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: Q
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: L
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: ^
+2021.10.14 15:26:39 receivedData: 1
+2021.10.14 15:26:39 receivedData: .
+2021.10.14 15:26:39 receivedData: 0
+2021.10.14 15:26:39 receivedData: |
+2021.10.14 15:26:39 receivedData: |
+2021.10.14 15:26:40 receivedData: ь
+2021.10.14 15:26:40 receivedData: |
+2021.10.14 15:26:40 receivedData: ь
+2021.10.14 15:26:40 receivedData: |
+2021.10.14 15:26:40 receivedData: ь
+2021.10.14 15:26:40 receivedData: P
+2021.10.14 15:26:40 receivedData: |
+2021.10.14 15:26:40 receivedData: 1
+2021.10.14 15:26:40 receivedData: |
+2021.10.14 15:26:40 receivedData: 2
+2021.10.14 15:26:40 receivedData: 0
+2021.10.14 15:26:40 receivedData: 2
+2021.10.14 15:26:40 receivedData: 1
+2021.10.14 15:26:40 receivedData: 1
+2021.10.14 15:26:40 receivedData: 0
+2021.10.14 15:26:40 receivedData: 1
+2021.10.14 15:26:40 receivedData: 3
+2021.10.14 15:26:40 receivedData: 0
+2021.10.14 15:26:40 receivedData: 5
+2021.10.14 15:26:40 receivedData: 5
+2021.10.14 15:26:40 receivedData: 6
+2021.10.14 15:26:40 receivedData: 50
+2021.10.14 15:26:40 receivedData: 
+2021.10.14 15:26:40 receivedData: 
+2021.10.14 15:26:40 receivedData: 2
+2021.10.14 15:26:40 receivedData: P
+2021.10.14 15:26:40 receivedData: |
+2021.10.14 15:26:41 receivedData: 1
+2021.10.14 15:26:41 receivedData: |
+2021.10.14 15:26:41 receivedData: |
+2021.10.14 15:26:41 receivedData: ь
+2021.10.14 15:26:41 receivedData: |
+2021.10.14 15:26:41 receivedData: ^
+2021.10.14 15:26:41 receivedData: ^
+2021.10.14 15:26:41 receivedData: |
+2021.10.14 15:26:41 receivedData: |
+2021.10.14 15:26:41 receivedData: ь
+2021.10.14 15:26:41 receivedData: M
+2021.10.14 15:26:41 receivedData: 
+2021.10.14 15:26:41 receivedData: 
+2021.10.14 15:26:41 receivedData: 3
+2021.10.14 15:26:41 receivedData: O
+2021.10.14 15:26:41 receivedData: |
+2021.10.14 15:26:41 receivedData: 1|
+2021.10.14 15:26:41 receivedData: 1
+2021.10.14 15:26:41 receivedData: 2
+2021.10.14 15:26:41 receivedData: -
+2021.10.14 15:26:41 receivedData: 3
+2021.10.14 15:26:41 receivedData: 4
+2021.10.14 15:26:41 receivedData: 4
+2021.10.14 15:26:42 receivedData: 5
+2021.10.14 15:26:42 receivedData: 5
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ^
+2021.10.14 15:26:42 receivedData: ^
+2021.10.14 15:26:42 receivedData: Ю
+2021.10.14 15:26:42 receivedData: 5
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: R
+2021.10.14 15:26:42 receivedData: ||ь
+2021.10.14 15:26:42 receivedData: |ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:42 receivedData: ь
+2021.10.14 15:26:42 receivedData: |
+2021.10.14 15:26:43 receivedData: X
+2021.10.14 15:26:43 receivedData: 
+2021.10.14 15:26:43 receivedData: 
+2021.10.14 15:26:43 receivedData: 4
+2021.10.14 15:26:43 receivedData: R
+2021.10.14 15:26:43 receivedData: |
+2021.10.14 15:26:43 receivedData: 1
+2021.10.14 15:26:43 receivedData: |
+2021.10.14 15:26:43 receivedData: ^
+2021.10.14 15:26:43 receivedData: ^
+2021.10.14 15:26:43 receivedData: Ю
+2021.10.14 15:26:43 receivedData: 5
+2021.10.14 15:26:43 receivedData: ^
+2021.10.14 15:26:43 receivedData: B
+2021.10.14 15:26:43 receivedData: C
+2021.10.14 15:26:43 receivedData: .
+2021.10.14 15:26:43 receivedData: T
+2021.10.14 15:26:43 receivedData: T
+2021.10.14 15:26:43 receivedData: ^
+2021.10.14 15:26:43 receivedData: ^
+2021.10.14 15:26:43 receivedData: Ю
+2021.10.14 15:26:43 receivedData: F
+2021.10.14 15:26:43 receivedData: |
+2021.10.14 15:26:43 receivedData: *
+2021.10.14 15:26:43 receivedData: *
+2021.10.14 15:26:43 receivedData: Є
+2021.10.14 15:26:43 receivedData: *
+2021.10.14 15:26:43 receivedData: |
+2021.10.14 15:26:43 receivedData: s
+2021.10.14 15:26:43 receivedData: e
+2021.10.14 15:26:43 receivedData: c
+2021.10.14 15:26:43 receivedData: |
+2021.10.14 15:26:44 receivedData: |
+2021.10.14 15:26:44 receivedData: W
+2021.10.14 15:26:44 receivedData: |
+2021.10.14 15:26:44 receivedData: |
+2021.10.14 15:26:44 receivedData: F
+2021.10.14 15:26:44 receivedData: |
+2021.10.14 15:26:44 receivedData: |
+2021.10.14 15:26:44 receivedData: ь
+2021.10.14 15:26:44 receivedData: |
+2021.10.14 15:26:44 receivedData: 2
+2021.10.14 15:26:44 receivedData: 0
+2021.10.14 15:26:44 receivedData: 2
+2021.10.14 15:26:44 receivedData: 1
+2021.10.14 15:26:44 receivedData: 1
+2021.10.14 15:26:44 receivedData: 0
+2021.10.14 15:26:44 receivedData: 1
+2021.10.14 15:26:44 receivedData: 3
+2021.10.14 15:26:44 receivedData: 0
+2021.10.14 15:26:44 receivedData: 5
+2021.10.14 15:26:44 receivedData: 5
+2021.10.14 15:26:44 receivedData: 6
+2021.10.14 15:26:44 receivedData: 0
+2021.10.14 15:26:44 receivedData: 8
+2021.10.14 15:26:44 receivedData: 
+2021.10.14 15:26:44 receivedData: 
+2021.10.14 15:26:44 receivedData: 5
+2021.10.14 15:26:44 receivedData: C
+2021.10.14 15:26:44 receivedData: |
+2021.10.14 15:26:44 receivedData: 1
+2021.10.14 15:26:45 receivedData: |
+2021.10.14 15:26:45 receivedData: I
+2021.10.14 15:26:45 receivedData: |
+2021.10.14 15:26:45 receivedData: R
+2021.10.14 15:26:45 receivedData: e
+2021.10.14 15:26:45 receivedData: s
+2021.10.14 15:26:45 receivedData: u
+2021.10.14 15:26:45 receivedData: l
+2021.10.14 15:26:45 receivedData: t
+2021.10.14 15:26:45 receivedData: F
+2021.10.14 15:26:45 receivedData: l
+2021.10.14 15:26:45 receivedData: a
+2021.10.14 15:26:45 receivedData: g
+2021.10.14 15:26:45 receivedData:  
+2021.10.14 15:26:45 receivedData: 1
+2021.10.14 15:26:45 receivedData: 3
+2021.10.14 15:26:45 receivedData: 0
+2021.10.14 15:26:45 receivedData: |
+2021.10.14 15:26:45 receivedData: G
+2021.10.14 15:26:45 receivedData: 
+2021.10.14 15:26:45 receivedData: 
+2021.10.14 15:26:45 receivedData: 6
+2021.10.14 15:26:45 receivedData: L
+2021.10.14 15:26:45 receivedData: |
+2021.10.14 15:26:45 receivedData: 1
+2021.10.14 15:26:45 receivedData: 
+2021.10.14 15:26:45 receivedData: 
+2021.10.14 15:26:46 Получено для парсинга 219 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|12-34455||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 15:26:46 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 1 , '5', '**Є*', '', '34455','1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|12-34455||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1' );
+2021.10.14 15:28:48 receivedData: 
+2021.10.14 15:28:48 receivedData: 
+2021.10.14 15:28:48 receivedData: 
+2021.10.14 15:28:48 receivedData: 1
+2021.10.14 15:28:48 receivedData: H
+2021.10.14 15:28:48 receivedData: |
+2021.10.14 15:28:49 receivedData: \
+2021.10.14 15:28:49 receivedData: ^
+2021.10.14 15:28:49 receivedData: &
+2021.10.14 15:28:49 receivedData: |
+2021.10.14 15:28:49 receivedData: |
+2021.10.14 15:28:49 receivedData: ь
+2021.10.14 15:28:49 receivedData: BC
+2021.10.14 15:28:49 receivedData: S
+2021.10.14 15:28:49 receivedData: X
+2021.10.14 15:28:49 receivedData: P
+2021.10.14 15:28:49 receivedData: ^1
+2021.10.14 15:28:49 receivedData: .
+2021.10.14 15:28:49 receivedData: 0
+2021.10.14 15:28:49 receivedData: ^
+2021.10.14 15:28:49 receivedData: 4
+2021.10.14 15:28:49 receivedData: 2
+2021.10.14 15:28:49 receivedData: 1
+2021.10.14 15:28:49 receivedData: 6
+2021.10.14 15:28:49 receivedData: 9
+2021.10.14 15:28:49 receivedData: 2
+2021.10.14 15:28:49 receivedData: ^
+2021.10.14 15:28:49 receivedData: H
+2021.10.14 15:28:49 receivedData: 1
+2021.10.14 15:28:50 receivedData: P
+2021.10.14 15:28:50 receivedData: 1
+2021.10.14 15:28:50 receivedData: O1
+2021.10.14 15:28:50 receivedData: R
+2021.10.14 15:28:50 receivedData: 1
+2021.10.14 15:28:50 receivedData: C
+2021.10.14 15:28:50 receivedData: 1
+2021.10.14 15:28:50 receivedData: Q
+2021.10.14 15:28:50 receivedData: 1
+2021.10.14 15:28:50 receivedData: L
+2021.10.14 15:28:50 receivedData: 1
+2021.10.14 15:28:50 receivedData: ^
+2021.10.14 15:28:50 receivedData: 1
+2021.10.14 15:28:50 receivedData: .
+2021.10.14 15:28:50 receivedData: 0
+2021.10.14 15:28:50 receivedData: |
+2021.10.14 15:28:50 receivedData: |ь
+2021.10.14 15:28:50 receivedData: |
+2021.10.14 15:28:50 receivedData: ь
+2021.10.14 15:28:50 receivedData: |
+2021.10.14 15:28:50 receivedData: ь
+2021.10.14 15:28:50 receivedData: P
+2021.10.14 15:28:50 receivedData: |
+2021.10.14 15:28:50 receivedData: 1
+2021.10.14 15:28:50 receivedData: |
+2021.10.14 15:28:51 receivedData: 20
+2021.10.14 15:28:51 receivedData: 2
+2021.10.14 15:28:51 receivedData: 1
+2021.10.14 15:28:51 receivedData: 1
+2021.10.14 15:28:51 receivedData: 0
+2021.10.14 15:28:51 receivedData: 1
+2021.10.14 15:28:51 receivedData: 3
+2021.10.14 15:28:51 receivedData: 0
+2021.10.14 15:28:51 receivedData: 5
+2021.10.14 15:28:51 receivedData: 5
+2021.10.14 15:28:51 receivedData: 6
+2021.10.14 15:28:51 receivedData: 5
+2021.10.14 15:28:51 receivedData: 0
+2021.10.14 15:28:51 receivedData: 
+2021.10.14 15:28:51 receivedData: 
+2021.10.14 15:28:51 receivedData: 2P
+2021.10.14 15:28:51 receivedData: |
+2021.10.14 15:28:51 receivedData: 1
+2021.10.14 15:28:51 receivedData: |
+2021.10.14 15:28:51 receivedData: |
+2021.10.14 15:28:51 receivedData: ь
+2021.10.14 15:28:51 receivedData: |
+2021.10.14 15:28:51 receivedData: ^
+2021.10.14 15:28:51 receivedData: ^
+2021.10.14 15:28:51 receivedData: |
+2021.10.14 15:28:51 receivedData: |
+2021.10.14 15:28:51 receivedData: ь
+2021.10.14 15:28:52 receivedData: M
+2021.10.14 15:28:52 receivedData: 
+2021.10.14 15:28:52 receivedData: 
+2021.10.14 15:28:52 receivedData: 3
+2021.10.14 15:28:52 receivedData: O
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: 1
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: 8
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: ^
+2021.10.14 15:28:52 receivedData: ^
+2021.10.14 15:28:52 receivedData: Ю
+2021.10.14 15:28:52 receivedData: 5
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: R
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: ь
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: ь
+2021.10.14 15:28:52 receivedData: |
+2021.10.14 15:28:52 receivedData: ь
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: ь
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: ь
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: ь
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: ь
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: ь
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: ь
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: X
+2021.10.14 15:28:53 receivedData: 
+2021.10.14 15:28:53 receivedData: 4
+2021.10.14 15:28:53 receivedData: R
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: 1
+2021.10.14 15:28:53 receivedData: |
+2021.10.14 15:28:53 receivedData: ^
+2021.10.14 15:28:53 receivedData: ^
+2021.10.14 15:28:53 receivedData: Ю
+2021.10.14 15:28:53 receivedData: 5
+2021.10.14 15:28:53 receivedData: ^
+2021.10.14 15:28:53 receivedData: B
+2021.10.14 15:28:53 receivedData: C
+2021.10.14 15:28:53 receivedData: .
+2021.10.14 15:28:54 receivedData: T
+2021.10.14 15:28:54 receivedData: T
+2021.10.14 15:28:54 receivedData: ^
+2021.10.14 15:28:54 receivedData: ^
+2021.10.14 15:28:54 receivedData: Ю
+2021.10.14 15:28:54 receivedData: F
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: *
+2021.10.14 15:28:54 receivedData: *
+2021.10.14 15:28:54 receivedData: Є
+2021.10.14 15:28:54 receivedData: *
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: s
+2021.10.14 15:28:54 receivedData: e
+2021.10.14 15:28:54 receivedData: c
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: W
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: F
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: ь
+2021.10.14 15:28:54 receivedData: |
+2021.10.14 15:28:54 receivedData: 2
+2021.10.14 15:28:55 receivedData: 0
+2021.10.14 15:28:55 receivedData: 2
+2021.10.14 15:28:55 receivedData: 1
+2021.10.14 15:28:55 receivedData: 1
+2021.10.14 15:28:55 receivedData: 0
+2021.10.14 15:28:55 receivedData: 1
+2021.10.14 15:28:55 receivedData: 3
+2021.10.14 15:28:55 receivedData: 0
+2021.10.14 15:28:55 receivedData: 5
+2021.10.14 15:28:55 receivedData: 5
+2021.10.14 15:28:55 receivedData: 6
+2021.10.14 15:28:55 receivedData: 08
+2021.10.14 15:28:55 receivedData: 
+2021.10.14 15:28:55 receivedData: 
+2021.10.14 15:28:55 receivedData: 5
+2021.10.14 15:28:55 receivedData: C
+2021.10.14 15:28:55 receivedData: |
+2021.10.14 15:28:55 receivedData: 1
+2021.10.14 15:28:55 receivedData: |
+2021.10.14 15:28:55 receivedData: I
+2021.10.14 15:28:55 receivedData: |
+2021.10.14 15:28:55 receivedData: R
+2021.10.14 15:28:55 receivedData: e
+2021.10.14 15:28:55 receivedData: s
+2021.10.14 15:28:56 receivedData: u
+2021.10.14 15:28:56 receivedData: l
+2021.10.14 15:28:56 receivedData: t
+2021.10.14 15:28:56 receivedData: F
+2021.10.14 15:28:56 receivedData: l
+2021.10.14 15:28:56 receivedData: a
+2021.10.14 15:28:56 receivedData: g
+2021.10.14 15:28:56 receivedData:  
+2021.10.14 15:28:56 receivedData: 1
+2021.10.14 15:28:56 receivedData: 3
+2021.10.14 15:28:56 receivedData: 0
+2021.10.14 15:28:56 receivedData: |
+2021.10.14 15:28:56 receivedData: G
+2021.10.14 15:28:56 receivedData: 
+2021.10.14 15:28:56 receivedData: 6
+2021.10.14 15:28:56 receivedData: L
+2021.10.14 15:28:56 receivedData: |
+2021.10.14 15:28:56 receivedData: 1
+2021.10.14 15:28:56 receivedData: 
+2021.10.14 15:28:56 receivedData: 
+2021.10.14 15:28:56 Получено для парсинга 212 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|8||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 15:28:56 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 1 , '5', '**Є*', '', '8','1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|8||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1' );
+2021.10.14 15:36:41 receivedData: 
+2021.10.14 15:36:41 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|8||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag
+2021.10.14 15:36:41 receivedData:  
+2021.10.14 15:36:41 receivedData: 1
+2021.10.14 15:36:41 receivedData: 3
+2021.10.14 15:36:41 receivedData: 0
+2021.10.14 15:36:41 receivedData: |
+2021.10.14 15:36:41 receivedData: G
+2021.10.14 15:36:41 receivedData: 
+2021.10.14 15:36:42 receivedData: 
+2021.10.14 15:36:42 receivedData: 6L
+2021.10.14 15:36:42 receivedData: |
+2021.10.14 15:36:42 receivedData: 1
+2021.10.14 15:36:42 receivedData: 
+2021.10.14 15:36:42 receivedData: 
+2021.10.14 16:10:45 --- Запуск Sapphire ASU-911 user Версия 1.0.67.278 от 2021.10.14.1202
+2021.10.14 16:11:09 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|8-3456||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 16:14:41 --- Запуск Sapphire ASU-911 user Версия 1.0.67.278 от 2021.10.14.1202
+2021.10.14 16:15:00 receivedData: 1H|\^&||ьBCSXP^1.0^4216
+2021.10.14 16:15:00 receivedData: 92^H1P1O1R
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: C
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: Q
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: L
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: ^
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: .
+2021.10.14 16:15:01 receivedData: 0
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: ь
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: ь
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: ьP
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: 2
+2021.10.14 16:15:01 receivedData: 02
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: 10
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: 3
+2021.10.14 16:15:01 receivedData: 0
+2021.10.14 16:15:01 receivedData: 5
+2021.10.14 16:15:01 receivedData: 5
+2021.10.14 16:15:01 receivedData: 6
+2021.10.14 16:15:01 receivedData: 5
+2021.10.14 16:15:01 receivedData: 0
+2021.10.14 16:15:01 receivedData: 
+2021.10.14 16:15:01 receivedData: 
+2021.10.14 16:15:01 receivedData: 2
+2021.10.14 16:15:01 receivedData: P
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: 1
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: ь
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: ^
+2021.10.14 16:15:01 receivedData: ^
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: |
+2021.10.14 16:15:01 receivedData: ь
+2021.10.14 16:15:01 receivedData: M
+2021.10.14 16:15:01 receivedData: 
+2021.10.14 16:15:01 receivedData: 
+2021.10.14 16:15:01 receivedData: 3
+2021.10.14 16:15:02 receivedData: O
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: 1
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: 8
+2021.10.14 16:15:02 receivedData: -
+2021.10.14 16:15:02 receivedData: 3
+2021.10.14 16:15:02 receivedData: 4
+2021.10.14 16:15:02 receivedData: 5
+2021.10.14 16:15:02 receivedData: 6
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ^
+2021.10.14 16:15:02 receivedData: ^
+2021.10.14 16:15:02 receivedData: Ю
+2021.10.14 16:15:02 receivedData: 5
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: R
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: ь
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: X
+2021.10.14 16:15:02 receivedData: 
+2021.10.14 16:15:02 receivedData: 
+2021.10.14 16:15:02 receivedData: 4
+2021.10.14 16:15:02 receivedData: R
+2021.10.14 16:15:02 receivedData: |
+2021.10.14 16:15:02 receivedData: 1
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: ^
+2021.10.14 16:15:03 receivedData: ^
+2021.10.14 16:15:03 receivedData: Ю
+2021.10.14 16:15:03 receivedData: 5
+2021.10.14 16:15:03 receivedData: ^
+2021.10.14 16:15:03 receivedData: B
+2021.10.14 16:15:03 receivedData: C
+2021.10.14 16:15:03 receivedData: .T
+2021.10.14 16:15:03 receivedData: T
+2021.10.14 16:15:03 receivedData: ^
+2021.10.14 16:15:03 receivedData: ^
+2021.10.14 16:15:03 receivedData: Ю
+2021.10.14 16:15:03 receivedData: F
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: *
+2021.10.14 16:15:03 receivedData: *
+2021.10.14 16:15:03 receivedData: Є
+2021.10.14 16:15:03 receivedData: *
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: s
+2021.10.14 16:15:03 receivedData: e
+2021.10.14 16:15:03 receivedData: c
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: W
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: F
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: ь
+2021.10.14 16:15:03 receivedData: |
+2021.10.14 16:15:03 receivedData: 2
+2021.10.14 16:15:03 receivedData: 0
+2021.10.14 16:15:03 receivedData: 2
+2021.10.14 16:15:03 receivedData: 1
+2021.10.14 16:15:03 receivedData: 1
+2021.10.14 16:15:03 receivedData: 0
+2021.10.14 16:15:03 receivedData: 1
+2021.10.14 16:15:03 receivedData: 3
+2021.10.14 16:15:04 receivedData: 0
+2021.10.14 16:15:04 receivedData: 5
+2021.10.14 16:15:04 receivedData: 5
+2021.10.14 16:15:04 receivedData: 6
+2021.10.14 16:15:04 receivedData: 0
+2021.10.14 16:15:04 receivedData: 8
+2021.10.14 16:15:04 receivedData: 
+2021.10.14 16:15:04 receivedData: 
+2021.10.14 16:15:04 receivedData: 5
+2021.10.14 16:15:04 receivedData: C
+2021.10.14 16:15:04 receivedData: |
+2021.10.14 16:15:04 receivedData: 1
+2021.10.14 16:15:04 receivedData: |
+2021.10.14 16:15:04 receivedData: I
+2021.10.14 16:15:04 receivedData: |
+2021.10.14 16:15:04 receivedData: R
+2021.10.14 16:15:04 receivedData: e
+2021.10.14 16:15:04 receivedData: s
+2021.10.14 16:15:04 receivedData: u
+2021.10.14 16:15:04 receivedData: l
+2021.10.14 16:15:04 receivedData: t
+2021.10.14 16:15:04 receivedData: F
+2021.10.14 16:15:04 receivedData: l
+2021.10.14 16:15:04 receivedData: a
+2021.10.14 16:15:04 receivedData: g
+2021.10.14 16:15:04 receivedData:  
+2021.10.14 16:15:04 receivedData: 1
+2021.10.14 16:15:04 receivedData: 3
+2021.10.14 16:15:04 receivedData: 0
+2021.10.14 16:15:04 receivedData: |
+2021.10.14 16:15:04 receivedData: G
+2021.10.14 16:15:04 receivedData: 
+2021.10.14 16:15:04 receivedData: 
+2021.10.14 16:15:04 receivedData: 6
+2021.10.14 16:15:04 receivedData: L
+2021.10.14 16:15:04 receivedData: |
+2021.10.14 16:15:04 receivedData: 1
+2021.10.14 16:15:05 receivedData: 
+2021.10.14 16:15:05 receivedData: 
+2021.10.14 16:21:01 Получено для парсинга 217 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|8-3456||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 16:21:01 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 1 , '5', '**Є*', '', '3456','1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|8-3456||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1' );
+2021.10.14 16:22:08 receivedData: 
+2021.10.14 16:22:08 receivedData: 
+2021.10.14 16:22:08 receivedData: 
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:09 receivedData: H
+2021.10.14 16:22:09 receivedData: |
+2021.10.14 16:22:09 receivedData: \
+2021.10.14 16:22:09 receivedData: ^
+2021.10.14 16:22:09 receivedData: &
+2021.10.14 16:22:09 receivedData: |
+2021.10.14 16:22:09 receivedData: |
+2021.10.14 16:22:09 receivedData: ь
+2021.10.14 16:22:09 receivedData: B
+2021.10.14 16:22:09 receivedData: C
+2021.10.14 16:22:09 receivedData: S
+2021.10.14 16:22:09 receivedData: XP^
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:09 receivedData: .0^
+2021.10.14 16:22:09 receivedData: 4
+2021.10.14 16:22:09 receivedData: 21
+2021.10.14 16:22:09 receivedData: 6
+2021.10.14 16:22:09 receivedData: 9
+2021.10.14 16:22:09 receivedData: 2
+2021.10.14 16:22:09 receivedData: ^
+2021.10.14 16:22:09 receivedData: H
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:09 receivedData: P
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:09 receivedData: O
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:09 receivedData: R
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:09 receivedData: C
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:09 receivedData: Q
+2021.10.14 16:22:09 receivedData: 1
+2021.10.14 16:22:10 receivedData: L
+2021.10.14 16:22:10 receivedData: 1
+2021.10.14 16:22:10 receivedData: ^
+2021.10.14 16:22:10 receivedData: 1
+2021.10.14 16:22:10 receivedData: .
+2021.10.14 16:22:10 receivedData: 0
+2021.10.14 16:22:10 receivedData: |
+2021.10.14 16:22:10 receivedData: |
+2021.10.14 16:22:10 receivedData: ь
+2021.10.14 16:22:10 receivedData: |
+2021.10.14 16:22:10 receivedData: ь
+2021.10.14 16:22:10 receivedData: |
+2021.10.14 16:22:10 receivedData: ь
+2021.10.14 16:22:10 receivedData: P
+2021.10.14 16:22:10 receivedData: |
+2021.10.14 16:22:10 receivedData: 1
+2021.10.14 16:22:10 receivedData: |
+2021.10.14 16:22:10 receivedData: 2
+2021.10.14 16:22:10 receivedData: 0
+2021.10.14 16:22:10 receivedData: 2
+2021.10.14 16:22:10 receivedData: 1
+2021.10.14 16:22:10 receivedData: 1
+2021.10.14 16:22:10 receivedData: 0
+2021.10.14 16:22:10 receivedData: 1
+2021.10.14 16:22:10 receivedData: 3
+2021.10.14 16:22:10 receivedData: 0
+2021.10.14 16:22:10 receivedData: 5
+2021.10.14 16:22:10 receivedData: 5
+2021.10.14 16:22:10 receivedData: 6
+2021.10.14 16:22:10 receivedData: 5
+2021.10.14 16:22:10 receivedData: 0
+2021.10.14 16:22:10 receivedData: 
+2021.10.14 16:22:10 receivedData: 
+2021.10.14 16:22:10 receivedData: 2
+2021.10.14 16:22:10 receivedData: P
+2021.10.14 16:22:10 receivedData: |
+2021.10.14 16:22:11 receivedData: 1
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь|^^||ьM3O|1|12
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: |^
+2021.10.14 16:22:11 receivedData: ^
+2021.10.14 16:22:11 receivedData: Ю
+2021.10.14 16:22:11 receivedData: 5
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: R
+2021.10.14 16:22:11 receivedData: ||
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: ь
+2021.10.14 16:22:11 receivedData: |
+2021.10.14 16:22:11 receivedData: X
+2021.10.14 16:22:11 receivedData: 
+2021.10.14 16:22:11 receivedData: 
+2021.10.14 16:22:11 receivedData: 4
+2021.10.14 16:22:12 receivedData: R
+2021.10.14 16:22:12 receivedData: |1
+2021.10.14 16:22:12 receivedData: |
+2021.10.14 16:22:12 receivedData: ^
+2021.10.14 16:22:12 receivedData: ^
+2021.10.14 16:22:12 receivedData: Ю
+2021.10.14 16:22:12 receivedData: 5
+2021.10.14 16:22:12 receivedData: ^
+2021.10.14 16:22:12 receivedData: B
+2021.10.14 16:22:12 receivedData: C
+2021.10.14 16:22:12 receivedData: .
+2021.10.14 16:22:12 receivedData: T
+2021.10.14 16:22:12 receivedData: T
+2021.10.14 16:22:12 receivedData: ^
+2021.10.14 16:22:12 receivedData: ^
+2021.10.14 16:22:12 receivedData: Ю
+2021.10.14 16:22:12 receivedData: F
+2021.10.14 16:22:12 receivedData: |
+2021.10.14 16:22:12 receivedData: *
+2021.10.14 16:22:12 receivedData: *
+2021.10.14 16:22:12 receivedData: Є
+2021.10.14 16:22:12 receivedData: *
+2021.10.14 16:22:12 receivedData: |
+2021.10.14 16:22:12 receivedData: s
+2021.10.14 16:22:12 receivedData: e
+2021.10.14 16:22:12 receivedData: c
+2021.10.14 16:22:12 receivedData: ||
+2021.10.14 16:22:12 receivedData: W
+2021.10.14 16:22:12 receivedData: |
+2021.10.14 16:22:12 receivedData: |
+2021.10.14 16:22:12 receivedData: F
+2021.10.14 16:22:12 receivedData: |
+2021.10.14 16:22:13 receivedData: |
+2021.10.14 16:22:13 receivedData: ь
+2021.10.14 16:22:13 receivedData: |
+2021.10.14 16:22:13 receivedData: 2
+2021.10.14 16:22:13 receivedData: 0
+2021.10.14 16:22:13 receivedData: 2
+2021.10.14 16:22:13 receivedData: 1
+2021.10.14 16:22:13 receivedData: 1
+2021.10.14 16:22:13 receivedData: 01
+2021.10.14 16:22:13 receivedData: 3
+2021.10.14 16:22:13 receivedData: 0
+2021.10.14 16:22:13 receivedData: 5
+2021.10.14 16:22:13 receivedData: 5
+2021.10.14 16:22:13 receivedData: 6
+2021.10.14 16:22:13 receivedData: 0
+2021.10.14 16:22:13 receivedData: 8
+2021.10.14 16:22:13 receivedData: 
+2021.10.14 16:22:13 receivedData: 
+2021.10.14 16:22:13 receivedData: 5
+2021.10.14 16:22:13 receivedData: C
+2021.10.14 16:22:13 receivedData: |
+2021.10.14 16:22:13 receivedData: 1
+2021.10.14 16:22:13 receivedData: |I
+2021.10.14 16:22:13 receivedData: |
+2021.10.14 16:22:13 receivedData: R
+2021.10.14 16:22:13 receivedData: e
+2021.10.14 16:22:13 receivedData: s
+2021.10.14 16:22:13 receivedData: u
+2021.10.14 16:22:13 receivedData: l
+2021.10.14 16:22:13 receivedData: t
+2021.10.14 16:22:13 receivedData: F
+2021.10.14 16:22:14 receivedData: l
+2021.10.14 16:22:14 receivedData: a
+2021.10.14 16:22:14 receivedData: g
+2021.10.14 16:22:14 receivedData:  
+2021.10.14 16:22:14 receivedData: 1
+2021.10.14 16:22:14 receivedData: 3
+2021.10.14 16:22:14 receivedData: 0
+2021.10.14 16:22:14 receivedData: |
+2021.10.14 16:22:14 receivedData: G
+2021.10.14 16:22:14 receivedData: 
+2021.10.14 16:22:14 receivedData: 
+2021.10.14 16:22:14 receivedData: 6
+2021.10.14 16:22:14 receivedData: L
+2021.10.14 16:22:14 receivedData: |
+2021.10.14 16:22:14 receivedData: 1
+2021.10.14 16:22:14 receivedData: 
+2021.10.14 16:22:14 receivedData: 
+2021.10.14 16:28:44 --- Запуск Sapphire ASU-911 user Версия 1.0.67.279 от 2021.10.14.1328
+2021.10.14 16:28:58 receivedData: 1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|12||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 16:29:17 Получено для парсинга 213 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|12||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 16:29:17 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 1 , '5', '**Є*', '', '0','1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|12||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1' );
+2021.10.14 16:29:41 receivedData: 
+2021.10.14 16:29:41 receivedData: 
+2021.10.14 16:29:41 receivedData: 
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: H
+2021.10.14 16:29:41 receivedData: |
+2021.10.14 16:29:41 receivedData: \
+2021.10.14 16:29:41 receivedData: ^
+2021.10.14 16:29:41 receivedData: &
+2021.10.14 16:29:41 receivedData: |
+2021.10.14 16:29:41 receivedData: |
+2021.10.14 16:29:41 receivedData: ь
+2021.10.14 16:29:41 receivedData: B
+2021.10.14 16:29:41 receivedData: C
+2021.10.14 16:29:41 receivedData: S
+2021.10.14 16:29:41 receivedData: X
+2021.10.14 16:29:41 receivedData: P
+2021.10.14 16:29:41 receivedData: ^
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: .
+2021.10.14 16:29:41 receivedData: 0
+2021.10.14 16:29:41 receivedData: ^
+2021.10.14 16:29:41 receivedData: 4
+2021.10.14 16:29:41 receivedData: 2
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: 6
+2021.10.14 16:29:41 receivedData: 9
+2021.10.14 16:29:41 receivedData: 2
+2021.10.14 16:29:41 receivedData: ^
+2021.10.14 16:29:41 receivedData: H
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: P
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: O
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: R
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: C
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: Q
+2021.10.14 16:29:41 receivedData: 1
+2021.10.14 16:29:41 receivedData: L
+2021.10.14 16:29:42 receivedData: 1
+2021.10.14 16:29:42 receivedData: ^
+2021.10.14 16:29:42 receivedData: 1
+2021.10.14 16:29:42 receivedData: .
+2021.10.14 16:29:42 receivedData: 0
+2021.10.14 16:29:42 receivedData: |
+2021.10.14 16:29:42 receivedData: |
+2021.10.14 16:29:42 receivedData: ь
+2021.10.14 16:29:42 receivedData: |
+2021.10.14 16:29:42 receivedData: ь
+2021.10.14 16:29:42 receivedData: |
+2021.10.14 16:29:42 receivedData: ь
+2021.10.14 16:29:42 receivedData: P
+2021.10.14 16:29:42 receivedData: |
+2021.10.14 16:29:42 receivedData: 1
+2021.10.14 16:29:42 receivedData: |
+2021.10.14 16:29:42 receivedData: 2
+2021.10.14 16:29:42 receivedData: 0
+2021.10.14 16:29:42 receivedData: 2
+2021.10.14 16:29:42 receivedData: 1
+2021.10.14 16:29:42 receivedData: 1
+2021.10.14 16:29:42 receivedData: 0
+2021.10.14 16:29:42 receivedData: 1
+2021.10.14 16:29:42 receivedData: 3
+2021.10.14 16:29:42 receivedData: 0
+2021.10.14 16:29:42 receivedData: 5
+2021.10.14 16:29:42 receivedData: 5
+2021.10.14 16:29:42 receivedData: 6
+2021.10.14 16:29:42 receivedData: 5
+2021.10.14 16:29:42 receivedData: 0
+2021.10.14 16:29:42 receivedData: 
+2021.10.14 16:29:42 receivedData: 
+2021.10.14 16:29:42 receivedData: 2
+2021.10.14 16:29:43 receivedData: P
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: 1
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: ь
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: ^
+2021.10.14 16:29:43 receivedData: ^
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: ь
+2021.10.14 16:29:43 receivedData: M
+2021.10.14 16:29:43 receivedData: 
+2021.10.14 16:29:43 receivedData: 
+2021.10.14 16:29:43 receivedData: 3
+2021.10.14 16:29:43 receivedData: O
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: 1
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: 1
+2021.10.14 16:29:43 receivedData: 2
+2021.10.14 16:29:43 receivedData: -
+2021.10.14 16:29:43 receivedData: 3
+2021.10.14 16:29:43 receivedData: 4
+2021.10.14 16:29:43 receivedData: 4
+2021.10.14 16:29:43 receivedData: 5
+2021.10.14 16:29:43 receivedData: 5
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: ^
+2021.10.14 16:29:43 receivedData: ^
+2021.10.14 16:29:43 receivedData: Ю
+2021.10.14 16:29:43 receivedData: 5
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: R
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: |
+2021.10.14 16:29:43 receivedData: ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ь
+2021.10.14 16:29:44 receivedData: |ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ь
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: X
+2021.10.14 16:29:44 receivedData: 
+2021.10.14 16:29:44 receivedData: 
+2021.10.14 16:29:44 receivedData: 4
+2021.10.14 16:29:44 receivedData: R
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: 1
+2021.10.14 16:29:44 receivedData: |
+2021.10.14 16:29:44 receivedData: ^
+2021.10.14 16:29:44 receivedData: ^
+2021.10.14 16:29:44 receivedData: Ю
+2021.10.14 16:29:44 receivedData: 5
+2021.10.14 16:29:44 receivedData: ^
+2021.10.14 16:29:44 receivedData: B
+2021.10.14 16:29:44 receivedData: C
+2021.10.14 16:29:44 receivedData: .
+2021.10.14 16:29:44 receivedData: TT
+2021.10.14 16:29:44 receivedData: ^
+2021.10.14 16:29:44 receivedData: ^
+2021.10.14 16:29:44 receivedData: Ю
+2021.10.14 16:29:44 receivedData: F
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: *
+2021.10.14 16:29:45 receivedData: *
+2021.10.14 16:29:45 receivedData: Є
+2021.10.14 16:29:45 receivedData: *
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: s
+2021.10.14 16:29:45 receivedData: e
+2021.10.14 16:29:45 receivedData: c
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: W
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: F
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: ь
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:45 receivedData: 2
+2021.10.14 16:29:45 receivedData: 0
+2021.10.14 16:29:45 receivedData: 2
+2021.10.14 16:29:45 receivedData: 1
+2021.10.14 16:29:45 receivedData: 1
+2021.10.14 16:29:45 receivedData: 0
+2021.10.14 16:29:45 receivedData: 1
+2021.10.14 16:29:45 receivedData: 3
+2021.10.14 16:29:45 receivedData: 0
+2021.10.14 16:29:45 receivedData: 5
+2021.10.14 16:29:45 receivedData: 5
+2021.10.14 16:29:45 receivedData: 6
+2021.10.14 16:29:45 receivedData: 0
+2021.10.14 16:29:45 receivedData: 8
+2021.10.14 16:29:45 receivedData: 
+2021.10.14 16:29:45 receivedData: 
+2021.10.14 16:29:45 receivedData: 5
+2021.10.14 16:29:45 receivedData: C
+2021.10.14 16:29:45 receivedData: |
+2021.10.14 16:29:46 receivedData: 1
+2021.10.14 16:29:46 receivedData: |
+2021.10.14 16:29:46 receivedData: I
+2021.10.14 16:29:46 receivedData: |
+2021.10.14 16:29:46 receivedData: R
+2021.10.14 16:29:46 receivedData: e
+2021.10.14 16:29:46 receivedData: s
+2021.10.14 16:29:46 receivedData: u
+2021.10.14 16:29:46 receivedData: l
+2021.10.14 16:29:46 receivedData: t
+2021.10.14 16:29:46 receivedData: F
+2021.10.14 16:29:46 receivedData: l
+2021.10.14 16:29:46 receivedData: a
+2021.10.14 16:29:46 receivedData: g
+2021.10.14 16:29:46 receivedData:  
+2021.10.14 16:29:46 receivedData: 1
+2021.10.14 16:29:46 receivedData: 3
+2021.10.14 16:29:46 receivedData: 0
+2021.10.14 16:29:46 receivedData: |
+2021.10.14 16:29:46 receivedData: G
+2021.10.14 16:29:46 receivedData: 
+2021.10.14 16:29:46 receivedData: 
+2021.10.14 16:29:46 receivedData: 6
+2021.10.14 16:29:46 receivedData: L
+2021.10.14 16:29:46 receivedData: |1
+2021.10.14 16:29:46 receivedData: 
+2021.10.14 16:29:46 receivedData: 
+2021.10.14 16:29:46 Получено для парсинга 219 байт:
+1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|12-34455||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1
+2021.10.14 16:29:46 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, ResultText) values (18, host_name(), GetDate(), 1 , '5', '**Є*', '', '34455','1H|\^&||ьBCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0||ь|ь|ьP|1|202110130556502P|1||ь|^^||ьM3O|1|12-34455||^^Ю5|R||ь|ь|ь|ь|ь|ь|ь|ь|ь|X4R|1|^^Ю5^BC.TT^^ЮF|**Є*|sec||W||F||ь|202110130556085C|1|I|ResultFlag 130|G6L|1' );
+2021.10.14 16:30:11 --- передумал выходить :) UserClosing No
+2021.10.14 16:30:15 --- Завершение работы.

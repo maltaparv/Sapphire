@@ -88,7 +88,7 @@ namespace Sapphire
             this.RTBout.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.RTBout.Location = new System.Drawing.Point(12, 138);
             this.RTBout.Name = "RTBout";
-            this.RTBout.Size = new System.Drawing.Size(769, 388);
+            this.RTBout.Size = new System.Drawing.Size(769, 413);
             this.RTBout.TabIndex = 4;
             this.RTBout.Text = "<Контроль Rtb: >";
             // 
@@ -391,7 +391,7 @@ namespace Sapphire
             this.Stat1,
             this.Stat2,
             this.Stat3});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 529);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 554);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(793, 22);
             this.statusStrip1.TabIndex = 299;
@@ -463,7 +463,7 @@ namespace Sapphire
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(793, 551);
+            this.ClientSize = new System.Drawing.Size(793, 576);
             this.Controls.Add(this.Lbl_IP);
             this.Controls.Add(this.Pic1);
             this.Controls.Add(this.Btn_ACK);

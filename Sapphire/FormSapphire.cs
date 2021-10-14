@@ -77,9 +77,9 @@ namespace Sapphire
         // для результата Select
         private static string dateDone = "2019-12-31 23:59";  // дата-время выполнения анализа по часам на анализаторе
         private static string dateDone999 = "31-12-2019 23:59:00.000";  // дата-время выполнения анализа для SQL
-        private string st1_0 = "Insert into AnalyzerResults (Analyzer_id, HostName, HistoryNumber, ResultDate, CntParam";
+        private string st1_0 = "Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam";
         private string st1_1 = "";
-        private string st2_0 = ""; //$") values ({Analyzer_Id}, host_name(), {HistoryNumber}, GetDate(), {CntParam}, {ResultText}";    // для строки Insert...
+        private string st2_0 = ""; //$") values ({Analyzer_Id}, host_name(), GetDate(), {CntParam}, {ResultText}";    // для строки Insert...
         private string st2_1 = "";                          // для строки Insert...
         private string st0 = "";
         private static string HistoryNumber = "0", sResult = "", sEdizm = "", sRefVal = "", sFlag = "", dt_Done = "", ResultDate="", ResultText="";
@@ -394,13 +394,14 @@ namespace Sapphire
                     int im = sHist.IndexOf("-");
                     if (im == -1 | im == sHist.Length - 1)
                     {
-                        Add_RTB(RTBout, $"\nНет номера истории!\n", Color.Red);
+                        //Add_RTB(RTBout, $"\nНет номера истории!\n", Color.Red);
                         HistoryNumber = "0";
                         // return; BugFix 2021-06-03 пишем в SQL даже если нет номера истории.
                     }
-                    HistoryNumber = sHist.Substring(im + 1); // после первого минуса и до конца строки должен быть номер истории. 2021-05-31.
-                    if (HistoryNumber.Length == 0)
-                        HistoryNumber = "0";
+                    else
+                    {
+                        HistoryNumber = sHist.Substring(im + 1); // после первого минуса и до конца строки должен быть номер истории. 2021-05-31.
+                    }
                 }
 
                 if (sRecordType == "R")
@@ -481,8 +482,8 @@ namespace Sapphire
 
             // формирование строки SQL Insert...
             ResultText = inputString;
-            st2_0 = $", ResultText) values ({Analyzer_Id}, host_name(), {HistoryNumber}, GetDate(), {CntParam} ";    // для строки Insert...
-            st0 = st1_0 + st1_1 + st2_0 + st2_1 + $", '{ResultText}');";
+            st2_0 = $", HistoryNumber, ResultText) values ({Analyzer_Id}, host_name(), GetDate(), {CntParam} ";    // для строки Insert...
+            st0 = st1_0 + st1_1 + st2_0 + st2_1 + $", '{HistoryNumber}','{ResultText}' );";
             dtm = DateTime.Now;
             Add_RTB(RTBout, $"\n{dtm} Конец парсинга [{kRecord++}]. HistoryNumber:{HistoryNumber}.\n", Color.DarkViolet);
             WLog($"Получено для парсинга {inputString.Count()} байт:\n{inputString}");
