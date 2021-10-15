@@ -342,7 +342,7 @@ namespace Sapphire
             inputString = Regex.Replace(inputString, CR + LF, String.Empty);     // удаление CR+LF
             Regex rg = new Regex(patternHistN);   //string patternHistN = @"\d{0,6}";   // для выделения HistoryNumber - в параметрах ini-файла! 
             MatchCollection matched;
-            string sHist;  // " 25781/ ТЕСТОВЫЙ АФ АРО1";   "?16512 ^??????? ?.?. ???1"  - это первоначальная строка с номером ИБ, ФИО, ...
+            string sHist;  // " 25781/ ТЕСТОВЫЙ Ая АРО1";   "?16512 ^??????? ?.?. ???1"  - это первоначальная строка с номером ИБ, ФИО, ...
             string[] sRecord = inputString.Split(new string[] { CR, LF, ENQ, STX, EOT }, StringSplitOptions.RemoveEmptyEntries);
             int ks = sRecord.Count();
 
