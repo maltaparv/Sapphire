@@ -404,9 +404,10 @@ namespace Sapphire
                     }
                 }
 
-                if (sRecordType == "O" & Analyzer_Name == "SAPPHIRE")  // Serum - сыворотка, Urine,
+                if (sRecordType == "O" & Analyzer_Name == "SAPPHIRE")  // Serum - сыворотка, Urine, СМЖ
                 { // 3O|1||^1^77|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю16^??ї.??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F
-                  //  0  1 2 3    4                                                                                                                 5 6 7 8 9 10 11  12   
+                  //  0 1 2 3    4                                                                                                                 5 67 8 9 10 11  12   
+                        
                 }
 
                 if (sRecordType == "R")
