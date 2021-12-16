@@ -361,7 +361,7 @@ namespace Sapphire
                 }
                 string sRecordType = sRecord[i].Substring(1, 1);  // CheckSubLength
 
-                if (sRecordType == "P" & Analyzer_Name != "SIEMENS")
+                if (sRecordType == "P" & Analyzer_Name.ToUpper() != "SIEMENS")
                 {   // Patient  "2P|1|2020040150101|||19576 ^??????? ?.?   ???|||U|||||"
                     //           0  1 2            345                        67 
                     if (kField == 2)
@@ -387,7 +387,7 @@ namespace Sapphire
                         HistoryNumber = "0";
                 }
 
-                if (sRecordType == "O" & Analyzer_Name == "SIEMENS")  // выделяем номер истории - только для SIEMENS
+                if (sRecordType == "O" & Analyzer_Name.ToUpper() == "SIEMENS")  // выделяем номер истории - только для SIEMENS
                 {   // Order "6O|2|2-23636||^^^1|R||||||||||||||||||||X"
                     //        0  1 2       
                     sHist = sField[2].Trim();
