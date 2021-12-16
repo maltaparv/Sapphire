@@ -384,8 +384,18 @@ namespace Sapphire
                     //}
                     if (matched.Count>0)
                         HistoryNumber = matched[0].Value;
-                    if (HistoryNumber.Length==0)
+                    if (HistoryNumber.Length == 0)
+                    {
                         HistoryNumber = "0";
+                        KodJournal = "0";
+                    }
+
+                    int indm = sHist.IndexOf("-");  // где минус после номера ИБ
+                    if (indm == -1)  // не ввели код журнала
+                        KodJournal = "0";
+                    else 
+                        KodJournal = sHist.Substring(indm + 1, 1);
+
                 }
 
                 if (sRecordType == "O" & Analyzer_Name.ToUpper() == "SIEMENS")  // выделяем номер истории - только для SIEMENS
@@ -395,17 +405,34 @@ namespace Sapphire
                     int im = sHist.IndexOf("-");
                     if (im == -1 | im == sHist.Length - 1)
                     {
-                        //Add_RTB(RTBout, $"\nНет номера истории!\n", Color.Red);
                         HistoryNumber = "0";
-                        // return; BugFix 2021-06-03 пишем в SQL даже если нет номера истории.
+                        KodJournal = "0";
                     }
                     else
                     {
-                        HistoryNumber = sHist.Substring(im + 1); // после первого минуса и до конца строки должен быть номер истории. 2021-05-31.
+                        string sHist2 = sHist.Substring(im + 1);
+                        int im2 = sHist2.IndexOf("-");  // второй минус после номера ИБ
+                        if (im2 == -1)  // не ввели код журнала
+                        {
+                            KodJournal = "0";
+                            HistoryNumber = sHist2;  //
+                        }
+                        else
+                        {
+                            KodJournal = sHist2.Substring(im2 + 1, 1);
+                            HistoryNumber = sHist2.Substring(0, im2 );  // до 2-го минуса д.б. номер истории.
+                        }
                     }
                 }
 
-                if (sRecordType == "O" & Analyzer_Name == "SAPPHIRE")  // Serum - сыворотка, Urine, СМЖ
+
+                List<string> list1 = new List<string>() { "1", "2", "3" };
+                if (list1.IndexOf(KodJournal) == -1)
+                {
+                    KodJournal = "0";
+                }
+
+                if (sRecordType == "O" & Analyzer_Name.ToUpper() == "SAPPHIRE")  // Serum - сыворотка, Urine, СМЖ
                 { // 3O|1||^1^77|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю16^??ї.??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь|F
                   //  0 1 2 3    4                                                                                                                 5 67 8 9 10 11  12   
                         
@@ -800,38 +827,32 @@ namespace Sapphire
                 #endregion --- пример теста 00_ скрыт! (нажми на "+" - раскрой region :)
                 case "тест 01":
                     // ...
-                    
-                    sResult = "123.45??/?";
-                    sResult = sResult.Replace("?", "");
-                    sResult = sResult.Replace("/", "");
-                    Add_RTB(RTBout, $"\n {testSelect}. sResult={sResult}", Color.Blue);
+
+                    string sHist = "2-23636";
+                    int im = sHist.IndexOf("-");
+                    if (im == -1 | im == sHist.Length - 1)
+                    {
+                        HistoryNumber = "0";
+                        KodJournal = "0";
+                    }
+                    else
+                    {
+                        string sHist2 = sHist.Substring(im + 1);
+                        int im2 = sHist2.IndexOf("-");  // второй минус после номера ИБ
+                        if (im2 == -1)  // не ввели код журнала
+                        {
+                            KodJournal = "0";
+                            HistoryNumber = sHist2;  //
+                        }
+                        else
+                        {
+                            KodJournal = sHist2.Substring(im2 + 1, 1);
+                            HistoryNumber = sHist2.Substring(0, im2);  // после первого минуса и до конца строки должен быть номер истории. 2021-05-31.
+                        }
+                    }
+                    Add_RTB(RTBout, $"\n {testSelect}. HistoryNumber={HistoryNumber}, KodJ={KodJournal}", Color.Blue);
                     break;
                 case "тест 01-1":
-                    // ...
-                    // Order "6O|2|2-23636||^^^1|R||||||||||||||||||||X"
-                    //        0  1 2       
-                    string sHist;
-                    //sHist = sField[2].Trim();
-                    //sHist = "2-23636";
-                    //sHist = "132-77999";
-                    //sHist = "1277999";    // Нет номера истории!
-                    //sHist = "1-27-7999";  // будет 27-7999
-                    //sHist = "12-324asd9"; // будет 324asd9
-                    sHist = "2-";         // Нет номера истории!
-                    //Regex reg = new Regex(@"[0-9]{1,2}-[0-9]{1,6}");  // цифры 0-9 1 или 2 раза, затем минус, затем цифры 0-9 от 1 до 6 раз
-                    //matched = reg.Matches(sHist);
-                    //if (matched.Count > 0)
-                    //    HistoryNumber = matched[1].Value;
-                    int im = sHist.IndexOf("-");
-                    if (im==-1 | im==sHist.Length-1 )
-                    {
-                        Add_RTB(RTBout, $"\nНет номера истории!\n", Color.Red);
-                        HistoryNumber = "0";
-                        // return; BugFix 2021-06-03 пишем в SQL даже если нет номера истории.
-                    }
-                    HistoryNumber = sHist.Substring(im+1); // после первого минуса и до конца строки должен быть номер истории. 2021-05-31.
-                    if (HistoryNumber.Length == 0)
-                        HistoryNumber = "0";
 
                     Add_RTB(RTBout, $"\n {testSelect}.", Color.Blue);
                     break;
