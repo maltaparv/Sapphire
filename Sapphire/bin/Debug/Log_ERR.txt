@@ -155,3 +155,44 @@ System.Data.SqlClient.SqlException: При установлении соединения с SQL Server про
 2021.12.16 10:07:32 Аварийное завершение работы.
 Ошибка открытия порта Com2.
 Порт 'Com2' не существует.
+
+2021.12.17 12:09:02 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: Недопустимое имя столбца "KodJournal".
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 541
+
+2021.12.17 12:09:02 Аварийное завершение работы.
+Ошибка при записи в SQL.
+
+2021.12.17 12:48:09 ERR: Ошибка в данных - неизвестный тип записи в 0-й строке:	.
+
+2021.12.17 12:53:11 Ошибка открытия порта
+
+2021.12.17 12:53:11 Аварийное завершение работы.
+Ошибка открытия порта Com2.
+Доступ к порту 'Com2' закрыт.
+
+2021.12.17 12:55:06 ERR: Ошибка в данных - неизвестный тип записи в 0-й строке:	.
+
+2021.12.17 13:01:08 Ошибка открытия порта
+
+2021.12.17 13:01:08 Аварийное завершение работы.
+Ошибка открытия порта Com2.
+Доступ к порту 'Com2' закрыт.
+
+2021.12.17 13:10:05 Ошибка открытия порта
+
+2021.12.17 13:10:05 Аварийное завершение работы.
+Ошибка открытия порта Com2.
+Доступ к порту 'Com2' закрыт.
+
+2021.12.17 13:10:17 Ошибка открытия порта
+
+2021.12.17 13:10:17 Аварийное завершение работы.
+Ошибка открытия порта Com2.
+Доступ к порту 'Com2' закрыт.

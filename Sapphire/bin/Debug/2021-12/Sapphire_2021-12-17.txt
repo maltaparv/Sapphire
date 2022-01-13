@@ -1,0 +1,4129 @@
+2021.12.17 12:03:45 --- Запуск Sapphire ASU-911 user Версия 1.0.67.290 от 2021.12.17.0903
+2021.12.17 12:08:04 receivedData: 
+2021.12.17 12:08:04 receivedData: 1H|\^&||ьBiOLiS NEO^SYSTEM1
+2021.12.17 12:08:04 receivedData: |
+2021.12.17 12:08:04 receivedData: |
+2021.12.17 12:08:04 receivedData: ь|ьHO
+2021.12.17 12:08:04 receivedData: S
+2021.12.17 12:08:04 receivedData: T
+2021.12.17 12:08:04 receivedData: ^
+2021.12.17 12:08:04 receivedData: P
+2021.12.17 12:08:04 receivedData: _
+2021.12.17 12:08:04 receivedData: 1
+2021.12.17 12:08:04 receivedData: |
+2021.12.17 12:08:04 receivedData: |
+2021.12.17 12:08:04 receivedData: P
+2021.12.17 12:08:04 receivedData: |
+2021.12.17 12:08:04 receivedData: 1
+2021.12.17 12:08:04 receivedData: |
+2021.12.17 12:08:04 receivedData: 2
+2021.12.17 12:08:04 receivedData: 0
+2021.12.17 12:08:04 receivedData: 2
+2021.12.17 12:08:04 receivedData: 1
+2021.12.17 12:08:04 receivedData: 1
+2021.12.17 12:08:04 receivedData: 2
+2021.12.17 12:08:04 receivedData: 1
+2021.12.17 12:08:04 receivedData: 5
+2021.12.17 12:08:04 receivedData: 0
+2021.12.17 12:08:04 receivedData: 0
+2021.12.17 12:08:04 receivedData: °
+2021.12.17 12:08:04 receivedData: 5
+2021.12.17 12:08:04 receivedData: 3
+2021.12.17 12:08:04 receivedData: 1
+2021.12.17 12:08:04 receivedData: 
+2021.12.17 12:08:05 receivedData: 
+2021.12.17 12:08:05 receivedData: 
+2021.12.17 12:08:05 receivedData: 2
+2021.12.17 12:08:05 receivedData: P
+2021.12.17 12:08:05 receivedData: |
+2021.12.17 12:08:05 receivedData: 1
+2021.12.17 12:08:05 receivedData: |
+2021.12.17 12:08:05 receivedData: 2
+2021.12.17 12:08:05 receivedData: 1
+2021.12.17 12:08:05 receivedData: 1
+2021.12.17 12:08:05 receivedData: 2
+2021.12.17 12:08:05 receivedData: 1
+2021.12.17 12:08:05 receivedData: 4
+2021.12.17 12:08:05 receivedData: 01
+2021.12.17 12:08:05 receivedData: 2
+2021.12.17 12:08:05 receivedData: 8
+2021.12.17 12:08:05 receivedData: |
+2021.12.17 12:08:05 receivedData: |
+2021.12.17 12:08:05 receivedData: ь
+2021.12.17 12:08:05 receivedData: 6
+2021.12.17 12:08:05 receivedData: 7
+2021.12.17 12:08:05 receivedData: 4
+2021.12.17 12:08:05 receivedData: 7
+2021.12.17 12:08:05 receivedData: 7
+2021.12.17 12:08:05 receivedData:  ^
+2021.12.17 12:08:05 receivedData:  
+2021.12.17 12:08:05 receivedData:  
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ї
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ї
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ї
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ї
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ї
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ї
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ї
+2021.12.17 12:08:05 receivedData:  
+2021.12.17 12:08:05 receivedData:  
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData: ?
+2021.12.17 12:08:05 receivedData:  
+2021.12.17 12:08:05 receivedData:  
+2021.12.17 12:08:06 receivedData: ?
+2021.12.17 12:08:06 receivedData: ?
+2021.12.17 12:08:06 receivedData: ї
+2021.12.17 12:08:06 receivedData: 1|
+2021.12.17 12:08:06 receivedData: |
+2021.12.17 12:08:06 receivedData: ь
+2021.12.17 12:08:06 receivedData: U
+2021.12.17 12:08:06 receivedData: |
+2021.12.17 12:08:06 receivedData: |
+2021.12.17 12:08:06 receivedData: ь
+2021.12.17 12:08:06 receivedData: |
+2021.12.17 12:08:06 receivedData: ь
+2021.12.17 12:08:06 receivedData: 
+2021.12.17 12:08:06 receivedData: 
+2021.12.17 12:08:06 receivedData: 
+2021.12.17 12:08:06 receivedData: 3
+2021.12.17 12:08:06 receivedData: O|
+2021.12.17 12:08:06 receivedData: 1
+2021.12.17 12:08:06 receivedData: |
+2021.12.17 12:08:06 receivedData: |
+2021.12.17 12:08:06 receivedData: ^
+2021.12.17 12:08:06 receivedData: 1
+2021.12.17 12:08:06 receivedData: ^
+2021.12.17 12:08:06 receivedData: 1
+2021.12.17 12:08:06 receivedData: 28
+2021.12.17 12:08:06 receivedData: |
+2021.12.17 12:08:06 receivedData: ^
+2021.12.17 12:08:06 receivedData: ^
+2021.12.17 12:08:06 receivedData: Ю
+2021.12.17 12:08:06 receivedData: 1
+2021.12.17 12:08:06 receivedData: ^
+2021.12.17 12:08:06 receivedData: ?
+2021.12.17 12:08:06 receivedData: ?
+2021.12.17 12:08:06 receivedData: ї
+2021.12.17 12:08:06 receivedData: ?
+2021.12.17 12:08:06 receivedData: ї
+2021.12.17 12:08:06 receivedData: ?
+2021.12.17 12:08:06 receivedData: ї
+2021.12.17 12:08:06 receivedData: ^
+2021.12.17 12:08:06 receivedData: 0
+2021.12.17 12:08:06 receivedData: \
+2021.12.17 12:08:06 receivedData: ^
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: Ю
+2021.12.17 12:08:07 receivedData: 5
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: .
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ї
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: 0
+2021.12.17 12:08:07 receivedData: \
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: Ю6
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ї
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ї
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ї
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: 0
+2021.12.17 12:08:07 receivedData: \
+2021.12.17 12:08:07 receivedData: ^^
+2021.12.17 12:08:07 receivedData: Ю
+2021.12.17 12:08:07 receivedData: 7
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ї
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ї
+2021.12.17 12:08:07 receivedData: -
+2021.12.17 12:08:07 receivedData: ?
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:07 receivedData: 0
+2021.12.17 12:08:07 receivedData: \
+2021.12.17 12:08:07 receivedData: ^
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: Ю
+2021.12.17 12:08:08 receivedData: 8
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ї
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ї?
+2021.12.17 12:08:08 receivedData: ї
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: 0
+2021.12.17 12:08:08 receivedData: \
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: Ю
+2021.12.17 12:08:08 receivedData: 9^
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ї
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: 0
+2021.12.17 12:08:08 receivedData: \
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: Ю
+2021.12.17 12:08:08 receivedData: 1
+2021.12.17 12:08:08 receivedData: 0
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ?
+2021.12.17 12:08:08 receivedData: ї
+2021.12.17 12:08:08 receivedData: ^
+2021.12.17 12:08:08 receivedData: 0
+2021.12.17 12:08:08 receivedData: \
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: ^Ю
+2021.12.17 12:08:09 receivedData: 1
+2021.12.17 12:08:09 receivedData: 1
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ї
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ї
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ї
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: 0
+2021.12.17 12:08:09 receivedData: \
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: Ю
+2021.12.17 12:08:09 receivedData: 1
+2021.12.17 12:08:09 receivedData: 2
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ї
+2021.12.17 12:08:09 receivedData: .
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ?
+2021.12.17 12:08:09 receivedData: ї
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: 0
+2021.12.17 12:08:09 receivedData: \
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: ^
+2021.12.17 12:08:09 receivedData: Ю
+2021.12.17 12:08:09 receivedData: 1
+2021.12.17 12:08:09 receivedData: 3
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: ?
+2021.12.17 12:08:10 receivedData: ?
+2021.12.17 12:08:10 receivedData: -
+2021.12.17 12:08:10 receivedData: ?
+2021.12.17 12:08:10 receivedData: ?
+2021.12.17 12:08:10 receivedData: ї
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: 0
+2021.12.17 12:08:10 receivedData: \
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: Ю
+2021.12.17 12:08:10 receivedData: 1
+2021.12.17 12:08:10 receivedData: 4
+2021.12.17 12:08:10 receivedData: ^?
+2021.12.17 12:08:10 receivedData: ?
+2021.12.17 12:08:10 receivedData: ї
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: 0
+2021.12.17 12:08:10 receivedData: \
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: Ю
+2021.12.17 12:08:10 receivedData: 1
+2021.12.17 12:08:10 receivedData: 5
+2021.12.17 12:08:10 receivedData: ^
+2021.12.17 12:08:10 receivedData: ?
+2021.12.17 12:08:10 receivedData: ?
+2021.12.17 12:08:10 receivedData: ї
+2021.12.17 12:08:11 receivedData: .
+2021.12.17 12:08:11 receivedData: ?
+2021.12.17 12:08:11 receivedData: ?
+2021.12.17 12:08:11 receivedData: ї
+2021.12.17 12:08:11 receivedData: .
+2021.12.17 12:08:11 receivedData: ^
+2021.12.17 12:08:11 receivedData: 0
+2021.12.17 12:08:11 receivedData: \
+2021.12.17 12:08:11 receivedData: ^
+2021.12.17 12:08:11 receivedData: ^Ю
+2021.12.17 12:08:11 receivedData: 1
+2021.12.17 12:08:11 receivedData: 6
+2021.12.17 12:08:11 receivedData: ^
+2021.12.17 12:08:11 receivedData: ?
+2021.12.17 12:08:11 receivedData: ?
+2021.12.17 12:08:11 receivedData: ї
+2021.12.17 12:08:11 receivedData: .
+2021.12.17 12:08:11 receivedData: ?
+2021.12.17 12:08:11 receivedData: ?
+2021.12.17 12:08:11 receivedData: ^
+2021.12.17 12:08:11 receivedData: 0
+2021.12.17 12:08:11 receivedData: \
+2021.12.17 12:08:11 receivedData: ^
+2021.12.17 12:08:11 receivedData: ^
+2021.12.17 12:08:11 receivedData: Ю
+2021.12.17 12:08:11 receivedData: 1
+2021.12.17 12:08:11 receivedData: 8
+2021.12.17 12:08:11 receivedData: ^
+2021.12.17 12:08:12 receivedData: ?
+2021.12.17 12:08:12 receivedData: -
+2021.12.17 12:08:12 receivedData: ?
+2021.12.17 12:08:12 receivedData: ?
+2021.12.17 12:08:12 receivedData: ^0
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: R|
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: ь
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: ь
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: ь|
+2021.12.17 12:08:12 receivedData: ь
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: S
+2021.12.17 12:08:12 receivedData: e
+2021.12.17 12:08:12 receivedData: r
+2021.12.17 12:08:12 receivedData: um
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: ь
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: ь
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: ь
+2021.12.17 12:08:12 receivedData: |
+2021.12.17 12:08:12 receivedData: ь
+2021.12.17 12:08:12 receivedData: 
+2021.12.17 12:08:12 receivedData: 9
+2021.12.17 12:08:13 receivedData: B
+2021.12.17 12:08:13 receivedData: 
+2021.12.17 12:08:13 receivedData: 4
+2021.12.17 12:08:13 receivedData: |
+2021.12.17 12:08:13 receivedData: F
+2021.12.17 12:08:13 receivedData: 
+2021.12.17 12:08:13 receivedData: 
+2021.12.17 12:08:13 receivedData: 
+2021.12.17 12:08:13 receivedData: 5
+2021.12.17 12:08:13 receivedData: R
+2021.12.17 12:08:13 receivedData: |
+2021.12.17 12:08:13 receivedData: 1
+2021.12.17 12:08:13 receivedData: |
+2021.12.17 12:08:13 receivedData: ^
+2021.12.17 12:08:13 receivedData: ^
+2021.12.17 12:08:13 receivedData: Ю
+2021.12.17 12:08:13 receivedData: 1
+2021.12.17 12:08:13 receivedData: ^
+2021.12.17 12:08:13 receivedData: ?
+2021.12.17 12:08:13 receivedData: ?
+2021.12.17 12:08:13 receivedData: ї
+2021.12.17 12:08:13 receivedData: ?
+2021.12.17 12:08:13 receivedData: ї
+2021.12.17 12:08:13 receivedData: ?
+2021.12.17 12:08:13 receivedData: ї
+2021.12.17 12:08:13 receivedData: ^
+2021.12.17 12:08:13 receivedData: 0
+2021.12.17 12:08:13 receivedData: |
+2021.12.17 12:08:13 receivedData:  
+2021.12.17 12:08:13 receivedData: 6
+2021.12.17 12:08:14 receivedData: .
+2021.12.17 12:08:14 receivedData: 0
+2021.12.17 12:08:14 receivedData: 8
+2021.12.17 12:08:14 receivedData: 8
+2021.12.17 12:08:14 receivedData: 3
+2021.12.17 12:08:14 receivedData: |
+2021.12.17 12:08:14 receivedData: ?
+2021.12.17 12:08:14 receivedData: ?
+2021.12.17 12:08:14 receivedData: ї
+2021.12.17 12:08:14 receivedData: ?
+2021.12.17 12:08:14 receivedData: ї
+2021.12.17 12:08:14 receivedData: /
+2021.12.17 12:08:14 receivedData: ?
+2021.12.17 12:08:14 receivedData: |
+2021.12.17 12:08:14 receivedData:  
+2021.12.17 12:08:14 receivedData: 4
+2021.12.17 12:08:14 receivedData: .
+2021.12.17 12:08:14 receivedData: 2
+2021.12.17 12:08:14 receivedData: 0
+2021.12.17 12:08:14 receivedData: 0
+2021.12.17 12:08:14 receivedData: °
+2021.12.17 12:08:14 receivedData:  
+2021.12.17 12:08:14 receivedData: T
+2021.12.17 12:08:14 receivedData: O
+2021.12.17 12:08:14 receivedData:  
+2021.12.17 12:08:14 receivedData:  
+2021.12.17 12:08:14 receivedData: 6
+2021.12.17 12:08:15 receivedData: .
+2021.12.17 12:08:15 receivedData: 4
+2021.12.17 12:08:15 receivedData: 0
+2021.12.17 12:08:15 receivedData: 0
+2021.12.17 12:08:15 receivedData: °
+2021.12.17 12:08:15 receivedData: |
+2021.12.17 12:08:15 receivedData: N
+2021.12.17 12:08:15 receivedData: |
+2021.12.17 12:08:15 receivedData: |
+2021.12.17 12:08:15 receivedData: F
+2021.12.17 12:08:15 receivedData: |
+2021.12.17 12:08:15 receivedData: |
+2021.12.17 12:08:15 receivedData: ь
+2021.12.17 12:08:15 receivedData: |
+2021.12.17 12:08:15 receivedData: 2
+2021.12.17 12:08:15 receivedData: 0
+2021.12.17 12:08:15 receivedData: 2
+2021.12.17 12:08:15 receivedData: 1
+2021.12.17 12:08:15 receivedData: 1
+2021.12.17 12:08:15 receivedData: 2
+2021.12.17 12:08:15 receivedData: 1
+2021.12.17 12:08:15 receivedData: 4
+2021.12.17 12:08:15 receivedData: 0
+2021.12.17 12:08:15 receivedData: 0
+2021.12.17 12:08:15 receivedData: °
+2021.12.17 12:08:15 receivedData: 5
+2021.12.17 12:08:15 receivedData: 0
+2021.12.17 12:08:15 receivedData: 1
+2021.12.17 12:08:16 receivedData: 
+2021.12.17 12:08:16 receivedData: 
+2021.12.17 12:08:16 receivedData: 
+2021.12.17 12:08:16 receivedData: 6
+2021.12.17 12:08:16 receivedData: R
+2021.12.17 12:08:16 receivedData: |
+2021.12.17 12:08:16 receivedData: 2
+2021.12.17 12:08:16 receivedData: |
+2021.12.17 12:08:16 receivedData: ^
+2021.12.17 12:08:16 receivedData: ^
+2021.12.17 12:08:16 receivedData: Ю
+2021.12.17 12:08:16 receivedData: 5
+2021.12.17 12:08:16 receivedData: ^
+2021.12.17 12:08:16 receivedData: ?
+2021.12.17 12:08:16 receivedData: ?
+2021.12.17 12:08:16 receivedData: .
+2021.12.17 12:08:16 receivedData: ?
+2021.12.17 12:08:16 receivedData: ?ї
+2021.12.17 12:08:16 receivedData: ^
+2021.12.17 12:08:16 receivedData: 0
+2021.12.17 12:08:16 receivedData: |
+2021.12.17 12:08:16 receivedData: 5
+2021.12.17 12:08:16 receivedData: 3.
+2021.12.17 12:08:16 receivedData: 7
+2021.12.17 12:08:16 receivedData: 0
+2021.12.17 12:08:16 receivedData: 3
+2021.12.17 12:08:16 receivedData: 3
+2021.12.17 12:08:16 receivedData: |
+2021.12.17 12:08:16 receivedData: ?
+2021.12.17 12:08:17 receivedData: /
+2021.12.17 12:08:17 receivedData: ?
+2021.12.17 12:08:17 receivedData: |
+2021.12.17 12:08:17 receivedData: 6
+2021.12.17 12:08:17 receivedData: 4
+2021.12.17 12:08:17 receivedData: .
+2021.12.17 12:08:17 receivedData: 0
+2021.12.17 12:08:17 receivedData: 0
+2021.12.17 12:08:17 receivedData: °0
+2021.12.17 12:08:17 receivedData:  
+2021.12.17 12:08:17 receivedData: T
+2021.12.17 12:08:17 receivedData: O
+2021.12.17 12:08:17 receivedData:  
+2021.12.17 12:08:17 receivedData: 8
+2021.12.17 12:08:17 receivedData: 3
+2021.12.17 12:08:17 receivedData: .
+2021.12.17 12:08:17 receivedData: 0
+2021.12.17 12:08:17 receivedData: 0
+2021.12.17 12:08:17 receivedData: °
+2021.12.17 12:08:17 receivedData: 0
+2021.12.17 12:08:17 receivedData: |
+2021.12.17 12:08:17 receivedData: L
+2021.12.17 12:08:17 receivedData: |
+2021.12.17 12:08:17 receivedData: |
+2021.12.17 12:08:17 receivedData: F
+2021.12.17 12:08:17 receivedData: ||
+2021.12.17 12:08:17 receivedData: ь
+2021.12.17 12:08:18 receivedData: |
+2021.12.17 12:08:18 receivedData: 2
+2021.12.17 12:08:18 receivedData: 0
+2021.12.17 12:08:18 receivedData: 2
+2021.12.17 12:08:18 receivedData: 1
+2021.12.17 12:08:18 receivedData: 1
+2021.12.17 12:08:18 receivedData: 2
+2021.12.17 12:08:18 receivedData: 1
+2021.12.17 12:08:18 receivedData: 4
+2021.12.17 12:08:18 receivedData: 0
+2021.12.17 12:08:18 receivedData: 0
+2021.12.17 12:08:18 receivedData: °
+2021.12.17 12:08:18 receivedData: 24
+2021.12.17 12:08:18 receivedData: 4
+2021.12.17 12:08:18 receivedData: 
+2021.12.17 12:08:18 receivedData: 
+2021.12.17 12:08:18 receivedData: 7
+2021.12.17 12:08:18 receivedData: R
+2021.12.17 12:08:18 receivedData: |
+2021.12.17 12:08:18 receivedData: 3
+2021.12.17 12:08:18 receivedData: |
+2021.12.17 12:08:18 receivedData: ^
+2021.12.17 12:08:18 receivedData: ^
+2021.12.17 12:08:18 receivedData: Ю
+2021.12.17 12:08:18 receivedData: 6
+2021.12.17 12:08:18 receivedData: ^
+2021.12.17 12:08:18 receivedData: ?
+2021.12.17 12:08:18 receivedData: ?
+2021.12.17 12:08:18 receivedData: ї?
+2021.12.17 12:08:18 receivedData: ї
+2021.12.17 12:08:18 receivedData: ?
+2021.12.17 12:08:18 receivedData: ї
+2021.12.17 12:08:19 receivedData: ?
+2021.12.17 12:08:19 receivedData: ^
+2021.12.17 12:08:19 receivedData: 0
+2021.12.17 12:08:19 receivedData: |
+2021.12.17 12:08:19 receivedData: 3
+2021.12.17 12:08:19 receivedData: 4
+2021.12.17 12:08:19 receivedData: .
+2021.12.17 12:08:19 receivedData: 8
+2021.12.17 12:08:19 receivedData: 5
+2021.12.17 12:08:19 receivedData: 5
+2021.12.17 12:08:19 receivedData: 0
+2021.12.17 12:08:19 receivedData: |
+2021.12.17 12:08:19 receivedData: ?
+2021.12.17 12:08:19 receivedData: /
+2021.12.17 12:08:19 receivedData: ?
+2021.12.17 12:08:19 receivedData: |
+2021.12.17 12:08:19 receivedData: 3
+2021.12.17 12:08:19 receivedData: 4
+2021.12.17 12:08:19 receivedData: .0
+2021.12.17 12:08:19 receivedData: 0
+2021.12.17 12:08:19 receivedData: °
+2021.12.17 12:08:19 receivedData: 0 
+2021.12.17 12:08:19 receivedData: TO
+2021.12.17 12:08:19 receivedData:  5
+2021.12.17 12:08:19 receivedData: 0
+2021.12.17 12:08:19 receivedData: .
+2021.12.17 12:08:19 receivedData: 0
+2021.12.17 12:08:19 receivedData: 0°
+2021.12.17 12:08:19 receivedData: 0
+2021.12.17 12:08:19 receivedData: |
+2021.12.17 12:08:20 receivedData: N
+2021.12.17 12:08:20 receivedData: |
+2021.12.17 12:08:20 receivedData: |F
+2021.12.17 12:08:20 receivedData: |
+2021.12.17 12:08:20 receivedData: |
+2021.12.17 12:08:20 receivedData: ь
+2021.12.17 12:08:20 receivedData: |2
+2021.12.17 12:08:20 receivedData: 0
+2021.12.17 12:08:20 receivedData: 2
+2021.12.17 12:08:20 receivedData: 1
+2021.12.17 12:08:20 receivedData: 1
+2021.12.17 12:08:20 receivedData: 2
+2021.12.17 12:08:20 receivedData: 1
+2021.12.17 12:08:20 receivedData: 4
+2021.12.17 12:08:20 receivedData: 0
+2021.12.17 12:08:20 receivedData: 0
+2021.12.17 12:08:20 receivedData: °
+2021.12.17 12:08:20 receivedData: 3
+2021.12.17 12:08:20 receivedData: 4
+2021.12.17 12:08:20 receivedData: 5
+2021.12.17 12:08:20 receivedData: 
+2021.12.17 12:08:20 receivedData: 
+2021.12.17 12:08:20 receivedData: 
+2021.12.17 12:08:20 receivedData: 0
+2021.12.17 12:08:20 receivedData: R
+2021.12.17 12:08:20 receivedData: |
+2021.12.17 12:08:20 receivedData: 4
+2021.12.17 12:08:20 receivedData: |
+2021.12.17 12:08:20 receivedData: ^
+2021.12.17 12:08:20 receivedData: ^
+2021.12.17 12:08:20 receivedData: Ю
+2021.12.17 12:08:20 receivedData: 7
+2021.12.17 12:08:21 receivedData: ^
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: ї
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: ї
+2021.12.17 12:08:21 receivedData: -
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: ^
+2021.12.17 12:08:21 receivedData: 0
+2021.12.17 12:08:21 receivedData: |
+2021.12.17 12:08:21 receivedData: 9
+2021.12.17 12:08:21 receivedData: 7
+2021.12.17 12:08:21 receivedData: .
+2021.12.17 12:08:21 receivedData: 3
+2021.12.17 12:08:21 receivedData: 5
+2021.12.17 12:08:21 receivedData: 4
+2021.12.17 12:08:21 receivedData: 8
+2021.12.17 12:08:21 receivedData: |
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: ї
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: ї
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: /
+2021.12.17 12:08:21 receivedData: ?
+2021.12.17 12:08:21 receivedData: |
+2021.12.17 12:08:22 receivedData: 7
+2021.12.17 12:08:22 receivedData: 1
+2021.12.17 12:08:22 receivedData: .
+2021.12.17 12:08:22 receivedData: 0
+2021.12.17 12:08:22 receivedData: 0
+2021.12.17 12:08:22 receivedData: °
+2021.12.17 12:08:22 receivedData: 0
+2021.12.17 12:08:22 receivedData:  
+2021.12.17 12:08:22 receivedData: T
+2021.12.17 12:08:22 receivedData: O
+2021.12.17 12:08:22 receivedData:  
+2021.12.17 12:08:22 receivedData: 1
+2021.12.17 12:08:22 receivedData: 1
+2021.12.17 12:08:22 receivedData: 5
+2021.12.17 12:08:22 receivedData: .
+2021.12.17 12:08:22 receivedData: 0
+2021.12.17 12:08:22 receivedData: 0
+2021.12.17 12:08:22 receivedData: °
+2021.12.17 12:08:22 receivedData: 0
+2021.12.17 12:08:22 receivedData: |
+2021.12.17 12:08:22 receivedData: N
+2021.12.17 12:08:22 receivedData: |
+2021.12.17 12:08:22 receivedData: |
+2021.12.17 12:08:22 receivedData: F
+2021.12.17 12:08:22 receivedData: |
+2021.12.17 12:08:22 receivedData: |
+2021.12.17 12:08:22 receivedData: ь
+2021.12.17 12:08:23 receivedData: |
+2021.12.17 12:08:23 receivedData: 2
+2021.12.17 12:08:23 receivedData: 0
+2021.12.17 12:08:23 receivedData: 2
+2021.12.17 12:08:23 receivedData: 1
+2021.12.17 12:08:23 receivedData: 1
+2021.12.17 12:08:23 receivedData: 2
+2021.12.17 12:08:23 receivedData: 1
+2021.12.17 12:08:23 receivedData: 4
+2021.12.17 12:08:23 receivedData: 0
+2021.12.17 12:08:23 receivedData: 0
+2021.12.17 12:08:23 receivedData: °
+2021.12.17 12:08:23 receivedData: 3
+2021.12.17 12:08:23 receivedData: 3
+2021.12.17 12:08:23 receivedData: 0
+2021.12.17 12:08:23 receivedData: 
+2021.12.17 12:08:23 receivedData: 
+2021.12.17 12:08:23 receivedData: 
+2021.12.17 12:08:23 receivedData: 1
+2021.12.17 12:08:23 receivedData: R
+2021.12.17 12:08:23 receivedData: |
+2021.12.17 12:08:23 receivedData: 5
+2021.12.17 12:08:23 receivedData: |
+2021.12.17 12:08:23 receivedData: ^
+2021.12.17 12:08:23 receivedData: ^
+2021.12.17 12:08:23 receivedData: Ю
+2021.12.17 12:08:24 receivedData: 8
+2021.12.17 12:08:24 receivedData: ^
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ї
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ї
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ї
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ^
+2021.12.17 12:08:24 receivedData: 0
+2021.12.17 12:08:24 receivedData: |
+2021.12.17 12:08:24 receivedData: 1
+2021.12.17 12:08:24 receivedData: 3
+2021.12.17 12:08:24 receivedData: .
+2021.12.17 12:08:24 receivedData: 4
+2021.12.17 12:08:24 receivedData: 9
+2021.12.17 12:08:24 receivedData: 4
+2021.12.17 12:08:24 receivedData: 4
+2021.12.17 12:08:24 receivedData: |
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ї
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:24 receivedData: ї
+2021.12.17 12:08:24 receivedData: /
+2021.12.17 12:08:24 receivedData: ?
+2021.12.17 12:08:25 receivedData: |
+2021.12.17 12:08:25 receivedData:  
+2021.12.17 12:08:25 receivedData: 1
+2021.12.17 12:08:25 receivedData: .
+2021.12.17 12:08:25 receivedData: 7
+2021.12.17 12:08:25 receivedData: 0
+2021.12.17 12:08:25 receivedData: 0
+2021.12.17 12:08:25 receivedData: °
+2021.12.17 12:08:25 receivedData:  
+2021.12.17 12:08:25 receivedData: T
+2021.12.17 12:08:25 receivedData: O
+2021.12.17 12:08:25 receivedData:  
+2021.12.17 12:08:25 receivedData:  
+2021.12.17 12:08:25 receivedData: 8
+2021.12.17 12:08:25 receivedData: .
+2021.12.17 12:08:25 receivedData: 3
+2021.12.17 12:08:25 receivedData: 0
+2021.12.17 12:08:25 receivedData: 0
+2021.12.17 12:08:25 receivedData: °
+2021.12.17 12:08:25 receivedData: |
+2021.12.17 12:08:25 receivedData: H
+2021.12.17 12:08:25 receivedData: |
+2021.12.17 12:08:25 receivedData: |
+2021.12.17 12:08:25 receivedData: F
+2021.12.17 12:08:25 receivedData: |
+2021.12.17 12:08:25 receivedData: |
+2021.12.17 12:08:25 receivedData: ь
+2021.12.17 12:08:25 receivedData: |
+2021.12.17 12:08:26 receivedData: 2
+2021.12.17 12:08:26 receivedData: 0
+2021.12.17 12:08:26 receivedData: 2
+2021.12.17 12:08:26 receivedData: 1
+2021.12.17 12:08:26 receivedData: 1
+2021.12.17 12:08:26 receivedData: 2
+2021.12.17 12:08:26 receivedData: 1
+2021.12.17 12:08:26 receivedData: 4
+2021.12.17 12:08:26 receivedData: 0
+2021.12.17 12:08:26 receivedData: 0
+2021.12.17 12:08:26 receivedData: °
+2021.12.17 12:08:26 receivedData: 1
+2021.12.17 12:08:26 receivedData: 5
+2021.12.17 12:08:26 receivedData: 9
+2021.12.17 12:08:26 receivedData: 
+2021.12.17 12:08:26 receivedData: 
+2021.12.17 12:08:26 receivedData: 
+2021.12.17 12:08:26 receivedData: 2R
+2021.12.17 12:08:26 receivedData: |
+2021.12.17 12:08:26 receivedData: 6
+2021.12.17 12:08:26 receivedData: |
+2021.12.17 12:08:26 receivedData: ^
+2021.12.17 12:08:26 receivedData: ^Ю
+2021.12.17 12:08:26 receivedData: 9
+2021.12.17 12:08:26 receivedData: ^
+2021.12.17 12:08:26 receivedData: ?
+2021.12.17 12:08:26 receivedData: ?
+2021.12.17 12:08:26 receivedData: ї
+2021.12.17 12:08:27 receivedData: ^
+2021.12.17 12:08:27 receivedData: 0
+2021.12.17 12:08:27 receivedData: |
+2021.12.17 12:08:27 receivedData: 4
+2021.12.17 12:08:27 receivedData: 9
+2021.12.17 12:08:27 receivedData: .
+2021.12.17 12:08:27 receivedData: 1
+2021.12.17 12:08:27 receivedData: 1
+2021.12.17 12:08:27 receivedData: 7
+2021.12.17 12:08:27 receivedData: 9
+2021.12.17 12:08:27 receivedData: |
+2021.12.17 12:08:27 receivedData: ?
+2021.12.17 12:08:27 receivedData: ?
+2021.12.17 12:08:27 receivedData: /
+2021.12.17 12:08:27 receivedData: ?
+2021.12.17 12:08:27 receivedData: |
+2021.12.17 12:08:27 receivedData:  
+2021.12.17 12:08:27 receivedData: 0
+2021.12.17 12:08:27 receivedData: .
+2021.12.17 12:08:27 receivedData: 0
+2021.12.17 12:08:27 receivedData: 0
+2021.12.17 12:08:27 receivedData: °
+2021.12.17 12:08:27 receivedData: 0
+2021.12.17 12:08:27 receivedData:  
+2021.12.17 12:08:28 receivedData: T
+2021.12.17 12:08:28 receivedData: O
+2021.12.17 12:08:28 receivedData:  
+2021.12.17 12:08:28 receivedData: 4
+2021.12.17 12:08:28 receivedData: 0
+2021.12.17 12:08:28 receivedData: .
+2021.12.17 12:08:28 receivedData: 0
+2021.12.17 12:08:28 receivedData: 0
+2021.12.17 12:08:28 receivedData: °
+2021.12.17 12:08:28 receivedData: 0
+2021.12.17 12:08:28 receivedData: |
+2021.12.17 12:08:28 receivedData: H
+2021.12.17 12:08:28 receivedData: |
+2021.12.17 12:08:28 receivedData: |
+2021.12.17 12:08:28 receivedData: F
+2021.12.17 12:08:28 receivedData: |
+2021.12.17 12:08:28 receivedData: |
+2021.12.17 12:08:28 receivedData: ь
+2021.12.17 12:08:28 receivedData: |
+2021.12.17 12:08:28 receivedData: 2
+2021.12.17 12:08:28 receivedData: 0
+2021.12.17 12:08:28 receivedData: 2
+2021.12.17 12:08:28 receivedData: 1
+2021.12.17 12:08:28 receivedData: 1
+2021.12.17 12:08:29 receivedData: 2
+2021.12.17 12:08:29 receivedData: 1
+2021.12.17 12:08:29 receivedData: 4
+2021.12.17 12:08:29 receivedData: 0
+2021.12.17 12:08:29 receivedData: 0
+2021.12.17 12:08:29 receivedData: °
+2021.12.17 12:08:29 receivedData: 3
+2021.12.17 12:08:29 receivedData: 1
+2021.12.17 12:08:29 receivedData: 5
+2021.12.17 12:08:29 receivedData: 
+2021.12.17 12:08:29 receivedData: 
+2021.12.17 12:08:29 receivedData: 
+2021.12.17 12:08:29 receivedData: 3
+2021.12.17 12:08:29 receivedData: R
+2021.12.17 12:08:29 receivedData: |
+2021.12.17 12:08:29 receivedData: 7
+2021.12.17 12:08:29 receivedData: |
+2021.12.17 12:08:29 receivedData: ^
+2021.12.17 12:08:29 receivedData: ^
+2021.12.17 12:08:29 receivedData: Ю
+2021.12.17 12:08:29 receivedData: 1
+2021.12.17 12:08:30 receivedData: 0
+2021.12.17 12:08:30 receivedData: ^
+2021.12.17 12:08:30 receivedData: ?
+2021.12.17 12:08:30 receivedData: ?
+2021.12.17 12:08:30 receivedData: ї
+2021.12.17 12:08:30 receivedData: ^
+2021.12.17 12:08:30 receivedData: 0
+2021.12.17 12:08:30 receivedData: |
+2021.12.17 12:08:30 receivedData: 4
+2021.12.17 12:08:30 receivedData: 6
+2021.12.17 12:08:30 receivedData: .
+2021.12.17 12:08:30 receivedData: 8
+2021.12.17 12:08:30 receivedData: 1
+2021.12.17 12:08:30 receivedData: 1
+2021.12.17 12:08:30 receivedData: 8
+2021.12.17 12:08:30 receivedData: |
+2021.12.17 12:08:30 receivedData: ?
+2021.12.17 12:08:30 receivedData: ?
+2021.12.17 12:08:30 receivedData: /
+2021.12.17 12:08:30 receivedData: ?
+2021.12.17 12:08:30 receivedData: |
+2021.12.17 12:08:30 receivedData:  
+2021.12.17 12:08:30 receivedData: 0
+2021.12.17 12:08:30 receivedData: .
+2021.12.17 12:08:30 receivedData: 0
+2021.12.17 12:08:31 receivedData: 0
+2021.12.17 12:08:31 receivedData: °
+2021.12.17 12:08:31 receivedData: 0
+2021.12.17 12:08:31 receivedData:  
+2021.12.17 12:08:31 receivedData: T
+2021.12.17 12:08:31 receivedData: O
+2021.12.17 12:08:31 receivedData:  
+2021.12.17 12:08:31 receivedData: 3
+2021.12.17 12:08:31 receivedData: 7
+2021.12.17 12:08:31 receivedData: .
+2021.12.17 12:08:31 receivedData: 0
+2021.12.17 12:08:31 receivedData: 0
+2021.12.17 12:08:31 receivedData: °
+2021.12.17 12:08:31 receivedData: 0
+2021.12.17 12:08:31 receivedData: |
+2021.12.17 12:08:31 receivedData: H
+2021.12.17 12:08:31 receivedData: |
+2021.12.17 12:08:31 receivedData: |
+2021.12.17 12:08:31 receivedData: F
+2021.12.17 12:08:31 receivedData: |
+2021.12.17 12:08:31 receivedData: |
+2021.12.17 12:08:31 receivedData: ь
+2021.12.17 12:08:31 receivedData: |
+2021.12.17 12:08:32 receivedData: 2
+2021.12.17 12:08:32 receivedData: 0
+2021.12.17 12:08:32 receivedData: 2
+2021.12.17 12:08:32 receivedData: 1
+2021.12.17 12:08:32 receivedData: 1
+2021.12.17 12:08:32 receivedData: 2
+2021.12.17 12:08:32 receivedData: 1
+2021.12.17 12:08:32 receivedData: 4
+2021.12.17 12:08:32 receivedData: 0
+2021.12.17 12:08:32 receivedData: 0
+2021.12.17 12:08:32 receivedData: °
+2021.12.17 12:08:32 receivedData: 3
+2021.12.17 12:08:32 receivedData: 0
+2021.12.17 12:08:32 receivedData: 0
+2021.12.17 12:08:32 receivedData: 
+2021.12.17 12:08:32 receivedData: 
+2021.12.17 12:08:32 receivedData: 
+2021.12.17 12:08:32 receivedData: 4
+2021.12.17 12:08:32 receivedData: R
+2021.12.17 12:08:32 receivedData: |
+2021.12.17 12:08:32 receivedData: 8
+2021.12.17 12:08:32 receivedData: |
+2021.12.17 12:08:33 receivedData: ^
+2021.12.17 12:08:33 receivedData: ^
+2021.12.17 12:08:33 receivedData: Ю
+2021.12.17 12:08:33 receivedData: 1
+2021.12.17 12:08:33 receivedData: 1
+2021.12.17 12:08:33 receivedData: ^
+2021.12.17 12:08:33 receivedData: ?
+2021.12.17 12:08:33 receivedData: ?
+2021.12.17 12:08:33 receivedData: ї
+2021.12.17 12:08:33 receivedData: ?
+2021.12.17 12:08:33 receivedData: ї
+2021.12.17 12:08:33 receivedData: ?
+2021.12.17 12:08:33 receivedData: ї
+2021.12.17 12:08:33 receivedData: ^
+2021.12.17 12:08:33 receivedData: 0
+2021.12.17 12:08:33 receivedData: |
+2021.12.17 12:08:33 receivedData: 8
+2021.12.17 12:08:33 receivedData: 1
+2021.12.17 12:08:33 receivedData: .
+2021.12.17 12:08:33 receivedData: 5
+2021.12.17 12:08:34 receivedData: 2
+2021.12.17 12:08:34 receivedData: 2
+2021.12.17 12:08:34 receivedData: 3
+2021.12.17 12:08:34 receivedData: |
+2021.12.17 12:08:34 receivedData: ?
+2021.12.17 12:08:34 receivedData: ?
+2021.12.17 12:08:34 receivedData: /
+2021.12.17 12:08:34 receivedData: ?
+2021.12.17 12:08:34 receivedData: |
+2021.12.17 12:08:34 receivedData: 2
+2021.12.17 12:08:34 receivedData: 8
+2021.12.17 12:08:34 receivedData: .
+2021.12.17 12:08:34 receivedData: 0
+2021.12.17 12:08:34 receivedData: 0
+2021.12.17 12:08:34 receivedData: °
+2021.12.17 12:08:34 receivedData: 0
+2021.12.17 12:08:35 receivedData:  
+2021.12.17 12:08:35 receivedData: T
+2021.12.17 12:08:35 receivedData: O
+2021.12.17 12:08:35 receivedData:  
+2021.12.17 12:08:35 receivedData: 1
+2021.12.17 12:08:35 receivedData: 0
+2021.12.17 12:08:35 receivedData: 0
+2021.12.17 12:08:35 receivedData: .
+2021.12.17 12:08:35 receivedData: 0
+2021.12.17 12:08:35 receivedData: 0
+2021.12.17 12:08:35 receivedData: °
+2021.12.17 12:08:35 receivedData: 0
+2021.12.17 12:08:35 receivedData: |
+2021.12.17 12:08:35 receivedData: N
+2021.12.17 12:08:35 receivedData: |
+2021.12.17 12:08:35 receivedData: |
+2021.12.17 12:08:35 receivedData: F
+2021.12.17 12:08:35 receivedData: |
+2021.12.17 12:08:35 receivedData: |
+2021.12.17 12:08:35 receivedData: ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0
+2021.12.17 12:08:36 receivedData: |
+2021.12.17 12:08:36 receivedData: H
+2021.12.17 12:08:36 receivedData: |
+2021.12.17 12:08:36 receivedData: |
+2021.12.17 12:08:36 receivedData: F
+2021.12.17 12:08:36 receivedData: |
+2021.12.17 12:08:36 receivedData: |ь
+2021.12.17 12:08:36 receivedData: |
+2021.12.17 12:08:36 receivedData: 2
+2021.12.17 12:08:36 receivedData: 0
+2021.12.17 12:08:36 receivedData: 2
+2021.12.17 12:08:36 receivedData: 1
+2021.12.17 12:08:36 receivedData: 1
+2021.12.17 12:08:36 receivedData: 2
+2021.12.17 12:08:36 receivedData: 1
+2021.12.17 12:08:36 receivedData: 4
+2021.12.17 12:08:36 receivedData: 0
+2021.12.17 12:08:36 receivedData: 0
+2021.12.17 12:08:36 receivedData: °
+2021.12.17 12:08:36 receivedData: 4
+2021.12.17 12:08:37 receivedData: 3
+2021.12.17 12:08:37 receivedData: 0
+2021.12.17 12:08:37 receivedData: 
+2021.12.17 12:08:37 receivedData: 
+2021.12.17 12:08:37 receivedData: 
+2021.12.17 12:08:37 receivedData: 6
+2021.12.17 12:08:37 receivedData: R
+2021.12.17 12:08:37 receivedData: |
+2021.12.17 12:08:37 receivedData: 1
+2021.12.17 12:08:37 receivedData: 0
+2021.12.17 12:08:37 receivedData: |
+2021.12.17 12:08:37 receivedData: ^
+2021.12.17 12:08:37 receivedData: ^
+2021.12.17 12:08:37 receivedData: Ю
+2021.12.17 12:08:37 receivedData: 1
+2021.12.17 12:08:37 receivedData: 3
+2021.12.17 12:08:37 receivedData: ^
+2021.12.17 12:08:37 receivedData: ?
+2021.12.17 12:08:37 receivedData: ?
+2021.12.17 12:08:38 receivedData: -
+2021.12.17 12:08:38 receivedData: ?
+2021.12.17 12:08:38 receivedData: ?
+2021.12.17 12:08:38 receivedData: ї
+2021.12.17 12:08:38 receivedData: ^
+2021.12.17 12:08:38 receivedData: 0
+2021.12.17 12:08:38 receivedData: |
+2021.12.17 12:08:38 receivedData: 3
+2021.12.17 12:08:38 receivedData: 2
+2021.12.17 12:08:38 receivedData: .
+2021.12.17 12:08:38 receivedData: 0
+2021.12.17 12:08:38 receivedData: 6
+2021.12.17 12:08:38 receivedData: 9
+2021.12.17 12:08:38 receivedData: 5
+2021.12.17 12:08:38 receivedData: |
+2021.12.17 12:08:38 receivedData: ?
+2021.12.17 12:08:38 receivedData: ?
+2021.12.17 12:08:38 receivedData: /
+2021.12.17 12:08:38 receivedData: ?
+2021.12.17 12:08:38 receivedData: |
+2021.12.17 12:08:38 receivedData:  
+2021.12.17 12:08:38 receivedData: 0
+2021.12.17 12:08:39 receivedData: .
+2021.12.17 12:08:39 receivedData: 0
+2021.12.17 12:08:39 receivedData: 0
+2021.12.17 12:08:39 receivedData: °
+2021.12.17 12:08:39 receivedData: 0
+2021.12.17 12:08:39 receivedData:  
+2021.12.17 12:08:39 receivedData: T
+2021.12.17 12:08:39 receivedData: O
+2021.12.17 12:08:39 receivedData:  
+2021.12.17 12:08:39 receivedData: 2
+2021.12.17 12:08:39 receivedData: 5
+2021.12.17 12:08:39 receivedData: .
+2021.12.17 12:08:39 receivedData: 0
+2021.12.17 12:08:39 receivedData: 0
+2021.12.17 12:08:39 receivedData: °
+2021.12.17 12:08:39 receivedData: 0
+2021.12.17 12:08:39 receivedData: |
+2021.12.17 12:08:39 receivedData: H
+2021.12.17 12:08:39 receivedData: |
+2021.12.17 12:08:39 receivedData: |
+2021.12.17 12:08:39 receivedData: F
+2021.12.17 12:08:40 receivedData: |
+2021.12.17 12:08:40 receivedData: |
+2021.12.17 12:08:40 receivedData: ь
+2021.12.17 12:08:40 receivedData: |
+2021.12.17 12:08:40 receivedData: 2
+2021.12.17 12:08:40 receivedData: 0
+2021.12.17 12:08:40 receivedData: 2
+2021.12.17 12:08:40 receivedData: 1
+2021.12.17 12:08:40 receivedData: 1
+2021.12.17 12:08:40 receivedData: 2
+2021.12.17 12:08:40 receivedData: 1
+2021.12.17 12:08:40 receivedData: 4
+2021.12.17 12:08:40 receivedData: 0
+2021.12.17 12:08:40 receivedData: 0
+2021.12.17 12:08:40 receivedData: °
+2021.12.17 12:08:40 receivedData: 446
+2021.12.17 12:08:40 receivedData: 
+2021.12.17 12:08:40 receivedData: 
+2021.12.17 12:08:40 receivedData: 
+2021.12.17 12:08:41 receivedData: 7
+2021.12.17 12:08:41 receivedData: R
+2021.12.17 12:08:41 receivedData: |
+2021.12.17 12:08:41 receivedData: 1
+2021.12.17 12:08:41 receivedData: 1
+2021.12.17 12:08:41 receivedData: |
+2021.12.17 12:08:41 receivedData: ^
+2021.12.17 12:08:41 receivedData: ^
+2021.12.17 12:08:41 receivedData: Ю
+2021.12.17 12:08:41 receivedData: 1
+2021.12.17 12:08:41 receivedData: 4
+2021.12.17 12:08:41 receivedData: ^
+2021.12.17 12:08:41 receivedData: ?
+2021.12.17 12:08:41 receivedData: ?
+2021.12.17 12:08:41 receivedData: ї
+2021.12.17 12:08:41 receivedData: ^
+2021.12.17 12:08:41 receivedData: 0
+2021.12.17 12:08:41 receivedData: |
+2021.12.17 12:08:42 receivedData: 6
+2021.12.17 12:08:42 receivedData: 6
+2021.12.17 12:08:42 receivedData: 9
+2021.12.17 12:08:42 receivedData: .
+2021.12.17 12:08:42 receivedData: 2
+2021.12.17 12:08:42 receivedData: 7
+2021.12.17 12:08:42 receivedData: 4
+2021.12.17 12:08:42 receivedData: 4
+2021.12.17 12:08:42 receivedData: |
+2021.12.17 12:08:42 receivedData: ?
+2021.12.17 12:08:42 receivedData: ?
+2021.12.17 12:08:42 receivedData: /
+2021.12.17 12:08:42 receivedData: ?
+2021.12.17 12:08:42 receivedData: |
+2021.12.17 12:08:42 receivedData: 2
+2021.12.17 12:08:42 receivedData: 3
+2021.12.17 12:08:42 receivedData: 0
+2021.12.17 12:08:43 receivedData: .
+2021.12.17 12:08:43 receivedData: 0
+2021.12.17 12:08:43 receivedData: 0
+2021.12.17 12:08:43 receivedData: °
+2021.12.17 12:08:43 receivedData: 0
+2021.12.17 12:08:43 receivedData:  
+2021.12.17 12:08:43 receivedData: T
+2021.12.17 12:08:43 receivedData: O
+2021.12.17 12:08:43 receivedData:  
+2021.12.17 12:08:43 receivedData: 4
+2021.12.17 12:08:43 receivedData: 6
+2021.12.17 12:08:43 receivedData: 0
+2021.12.17 12:08:43 receivedData: .
+2021.12.17 12:08:43 receivedData: 0
+2021.12.17 12:08:43 receivedData: 0
+2021.12.17 12:08:43 receivedData: °
+2021.12.17 12:08:43 receivedData: 0
+2021.12.17 12:08:43 receivedData: |
+2021.12.17 12:08:44 receivedData: H
+2021.12.17 12:08:44 receivedData: |
+2021.12.17 12:08:44 receivedData: |
+2021.12.17 12:08:44 receivedData: F
+2021.12.17 12:08:44 receivedData: |
+2021.12.17 12:08:44 receivedData: |
+2021.12.17 12:08:44 receivedData: ь
+2021.12.17 12:08:44 receivedData: |
+2021.12.17 12:08:44 receivedData: 20
+2021.12.17 12:08:44 receivedData: 2
+2021.12.17 12:08:44 receivedData: 1
+2021.12.17 12:08:44 receivedData: 1
+2021.12.17 12:08:44 receivedData: 2
+2021.12.17 12:08:44 receivedData: 1
+2021.12.17 12:08:44 receivedData: 4
+2021.12.17 12:08:44 receivedData: 0
+2021.12.17 12:08:44 receivedData: 0
+2021.12.17 12:08:45 receivedData: °
+2021.12.17 12:08:45 receivedData: 4
+2021.12.17 12:08:45 receivedData: 1
+2021.12.17 12:08:45 receivedData: 5
+2021.12.17 12:08:45 receivedData: 
+2021.12.17 12:08:45 receivedData: 
+2021.12.17 12:08:45 receivedData: 
+2021.12.17 12:08:45 receivedData: 0
+2021.12.17 12:08:45 receivedData: R
+2021.12.17 12:08:45 receivedData: |
+2021.12.17 12:08:45 receivedData: 1
+2021.12.17 12:08:45 receivedData: 2
+2021.12.17 12:08:45 receivedData: |
+2021.12.17 12:08:45 receivedData: ^
+2021.12.17 12:08:45 receivedData: ^
+2021.12.17 12:08:45 receivedData: Ю
+2021.12.17 12:08:45 receivedData: 1
+2021.12.17 12:08:45 receivedData: 5
+2021.12.17 12:08:45 receivedData: ^
+2021.12.17 12:08:45 receivedData: ?
+2021.12.17 12:08:46 receivedData: ?
+2021.12.17 12:08:46 receivedData: ї
+2021.12.17 12:08:46 receivedData: .
+2021.12.17 12:08:46 receivedData: ?
+2021.12.17 12:08:46 receivedData: ?
+2021.12.17 12:08:46 receivedData: ї
+2021.12.17 12:08:46 receivedData: .
+2021.12.17 12:08:46 receivedData: ^
+2021.12.17 12:08:46 receivedData: 0
+2021.12.17 12:08:46 receivedData: |
+2021.12.17 12:08:46 receivedData: 1
+2021.12.17 12:08:46 receivedData: 9
+2021.12.17 12:08:46 receivedData: 1
+2021.12.17 12:08:46 receivedData: .
+2021.12.17 12:08:46 receivedData: 5
+2021.12.17 12:08:46 receivedData: 4
+2021.12.17 12:08:46 receivedData: 8
+2021.12.17 12:08:46 receivedData: 8
+2021.12.17 12:08:47 receivedData: |
+2021.12.17 12:08:47 receivedData: ?
+2021.12.17 12:08:47 receivedData: ?
+2021.12.17 12:08:47 receivedData: /
+2021.12.17 12:08:47 receivedData: ?
+2021.12.17 12:08:47 receivedData: |
+2021.12.17 12:08:47 receivedData: 9
+2021.12.17 12:08:47 receivedData: 8
+2021.12.17 12:08:47 receivedData: .
+2021.12.17 12:08:47 receivedData: 0
+2021.12.17 12:08:47 receivedData: 0
+2021.12.17 12:08:47 receivedData: °
+2021.12.17 12:08:47 receivedData: 0
+2021.12.17 12:08:47 receivedData:  
+2021.12.17 12:08:47 receivedData: T
+2021.12.17 12:08:47 receivedData: O
+2021.12.17 12:08:47 receivedData:  
+2021.12.17 12:08:47 receivedData: 2
+2021.12.17 12:08:48 receivedData: 7
+2021.12.17 12:08:48 receivedData: 9
+2021.12.17 12:08:48 receivedData: .
+2021.12.17 12:08:48 receivedData: 0
+2021.12.17 12:08:48 receivedData: 0
+2021.12.17 12:08:48 receivedData: °
+2021.12.17 12:08:48 receivedData: 0
+2021.12.17 12:08:48 receivedData: |
+2021.12.17 12:08:48 receivedData: N
+2021.12.17 12:08:48 receivedData: |
+2021.12.17 12:08:48 receivedData: |
+2021.12.17 12:08:48 receivedData: F
+2021.12.17 12:08:48 receivedData: |
+2021.12.17 12:08:48 receivedData: |
+2021.12.17 12:08:48 receivedData: ь
+2021.12.17 12:08:48 receivedData: |
+2021.12.17 12:08:49 receivedData: 2
+2021.12.17 12:08:49 receivedData: 0
+2021.12.17 12:08:49 receivedData: 2
+2021.12.17 12:08:49 receivedData: 1
+2021.12.17 12:08:49 receivedData: 1
+2021.12.17 12:08:49 receivedData: 2
+2021.12.17 12:08:49 receivedData: 1
+2021.12.17 12:08:49 receivedData: 4
+2021.12.17 12:08:49 receivedData: 0
+2021.12.17 12:08:49 receivedData: 0
+2021.12.17 12:08:49 receivedData: °
+2021.12.17 12:08:49 receivedData: 4
+2021.12.17 12:08:49 receivedData: 0
+2021.12.17 12:08:49 receivedData: 0
+2021.12.17 12:08:49 receivedData: 
+2021.12.17 12:08:49 receivedData: 
+2021.12.17 12:08:49 receivedData: 
+2021.12.17 12:08:50 receivedData: 1
+2021.12.17 12:08:50 receivedData: R
+2021.12.17 12:08:50 receivedData: |
+2021.12.17 12:08:50 receivedData: 1
+2021.12.17 12:08:50 receivedData: 3
+2021.12.17 12:08:50 receivedData: |
+2021.12.17 12:08:50 receivedData: ^
+2021.12.17 12:08:50 receivedData: ^
+2021.12.17 12:08:50 receivedData: Ю
+2021.12.17 12:08:50 receivedData: 1
+2021.12.17 12:08:50 receivedData: 6
+2021.12.17 12:08:50 receivedData: ^
+2021.12.17 12:08:50 receivedData: ?
+2021.12.17 12:08:50 receivedData: ?
+2021.12.17 12:08:50 receivedData: ї
+2021.12.17 12:08:50 receivedData: .
+2021.12.17 12:08:51 receivedData: ?
+2021.12.17 12:08:51 receivedData: ?
+2021.12.17 12:08:51 receivedData: ^
+2021.12.17 12:08:51 receivedData: 0
+2021.12.17 12:08:51 receivedData: |
+2021.12.17 12:08:51 receivedData: 1
+2021.12.17 12:08:51 receivedData: 3
+2021.12.17 12:08:51 receivedData: .
+2021.12.17 12:08:51 receivedData: 5
+2021.12.17 12:08:51 receivedData: 2
+2021.12.17 12:08:51 receivedData: 5
+2021.12.17 12:08:51 receivedData: 6
+2021.12.17 12:08:51 receivedData: |
+2021.12.17 12:08:51 receivedData: ?
+2021.12.17 12:08:51 receivedData: ?
+2021.12.17 12:08:52 receivedData: ї
+2021.12.17 12:08:52 receivedData: ?
+2021.12.17 12:08:52 receivedData: ї
+2021.12.17 12:08:52 receivedData: ?
+2021.12.17 12:08:52 receivedData: /
+2021.12.17 12:08:52 receivedData: ?
+2021.12.17 12:08:52 receivedData: |
+2021.12.17 12:08:52 receivedData:  
+2021.12.17 12:08:52 receivedData: 0
+2021.12.17 12:08:52 receivedData: .
+2021.12.17 12:08:52 receivedData: 0
+2021.12.17 12:08:52 receivedData: 0
+2021.12.17 12:08:52 receivedData: °
+2021.12.17 12:08:52 receivedData: 0
+2021.12.17 12:08:52 receivedData:  
+2021.12.17 12:08:52 receivedData: T
+2021.12.17 12:08:52 receivedData: O
+2021.12.17 12:08:53 receivedData:  
+2021.12.17 12:08:53 receivedData: 2
+2021.12.17 12:08:53 receivedData: 1
+2021.12.17 12:08:53 receivedData: .
+2021.12.17 12:08:53 receivedData: 0
+2021.12.17 12:08:53 receivedData: 0
+2021.12.17 12:08:53 receivedData: °
+2021.12.17 12:08:53 receivedData: 0
+2021.12.17 12:08:53 receivedData: |
+2021.12.17 12:08:53 receivedData: N
+2021.12.17 12:08:53 receivedData: |
+2021.12.17 12:08:53 receivedData: |
+2021.12.17 12:08:53 receivedData: F
+2021.12.17 12:08:53 receivedData: ||
+2021.12.17 12:08:53 receivedData: ь
+2021.12.17 12:08:53 receivedData: |
+2021.12.17 12:08:54 receivedData: 2
+2021.12.17 12:08:54 receivedData: 0
+2021.12.17 12:08:54 receivedData: 2
+2021.12.17 12:08:54 receivedData: 1
+2021.12.17 12:08:54 receivedData: 1
+2021.12.17 12:08:54 receivedData: 2
+2021.12.17 12:08:54 receivedData: 14
+2021.12.17 12:08:54 receivedData: 0
+2021.12.17 12:08:54 receivedData: 0
+2021.12.17 12:08:54 receivedData: °
+2021.12.17 12:08:54 receivedData: 2
+2021.12.17 12:08:54 receivedData: 2
+2021.12.17 12:08:54 receivedData: 9
+2021.12.17 12:08:54 receivedData: 
+2021.12.17 12:08:54 receivedData: 
+2021.12.17 12:08:54 receivedData: 
+2021.12.17 12:08:54 receivedData: 2
+2021.12.17 12:08:54 receivedData: R
+2021.12.17 12:08:54 receivedData: |
+2021.12.17 12:08:55 receivedData: 1
+2021.12.17 12:08:55 receivedData: 4
+2021.12.17 12:08:55 receivedData: |
+2021.12.17 12:08:55 receivedData: ^
+2021.12.17 12:08:55 receivedData: ^
+2021.12.17 12:08:55 receivedData: Ю
+2021.12.17 12:08:55 receivedData: 1
+2021.12.17 12:08:55 receivedData: 8
+2021.12.17 12:08:55 receivedData: ^
+2021.12.17 12:08:55 receivedData: ?-
+2021.12.17 12:08:55 receivedData: ?
+2021.12.17 12:08:55 receivedData: ?
+2021.12.17 12:08:55 receivedData: ^
+2021.12.17 12:08:55 receivedData: 0
+2021.12.17 12:08:55 receivedData: |
+2021.12.17 12:08:55 receivedData: 2
+2021.12.17 12:08:55 receivedData: 5
+2021.12.17 12:08:56 receivedData: 0
+2021.12.17 12:08:56 receivedData: .
+2021.12.17 12:08:56 receivedData: 9
+2021.12.17 12:08:56 receivedData: 6
+2021.12.17 12:08:56 receivedData: 2
+2021.12.17 12:08:56 receivedData: 7
+2021.12.17 12:08:56 receivedData: |
+2021.12.17 12:08:56 receivedData: ?
+2021.12.17 12:08:56 receivedData: ?
+2021.12.17 12:08:56 receivedData: /
+2021.12.17 12:08:56 receivedData: ?
+2021.12.17 12:08:56 receivedData: |
+2021.12.17 12:08:56 receivedData:  
+2021.12.17 12:08:56 receivedData: 0
+2021.12.17 12:08:56 receivedData: .
+2021.12.17 12:08:57 receivedData: 0
+2021.12.17 12:08:57 receivedData: 0
+2021.12.17 12:08:57 receivedData: °
+2021.12.17 12:08:57 receivedData: 0
+2021.12.17 12:08:57 receivedData:  
+2021.12.17 12:08:57 receivedData: T
+2021.12.17 12:08:57 receivedData: O
+2021.12.17 12:08:57 receivedData:  
+2021.12.17 12:08:57 receivedData:  
+2021.12.17 12:08:57 receivedData: 5
+2021.12.17 12:08:57 receivedData: .
+2021.12.17 12:08:57 receivedData: 0
+2021.12.17 12:08:57 receivedData: 0
+2021.12.17 12:08:57 receivedData: °
+2021.12.17 12:08:57 receivedData: 0
+2021.12.17 12:08:57 receivedData: |
+2021.12.17 12:08:57 receivedData: H
+2021.12.17 12:08:57 receivedData: |
+2021.12.17 12:08:58 receivedData: |
+2021.12.17 12:08:58 receivedData: P
+2021.12.17 12:08:58 receivedData: |
+2021.12.17 12:08:58 receivedData: |
+2021.12.17 12:08:58 receivedData: ь
+2021.12.17 12:08:58 receivedData: |
+2021.12.17 12:08:58 receivedData: 2
+2021.12.17 12:08:58 receivedData: 0
+2021.12.17 12:08:58 receivedData: 2
+2021.12.17 12:08:58 receivedData: 1
+2021.12.17 12:08:58 receivedData: 1
+2021.12.17 12:08:58 receivedData: 2
+2021.12.17 12:08:58 receivedData: 1
+2021.12.17 12:08:58 receivedData: 4
+2021.12.17 12:08:58 receivedData: 0
+2021.12.17 12:08:58 receivedData: 0
+2021.12.17 12:08:59 receivedData: °
+2021.12.17 12:08:59 receivedData: 5
+2021.12.17 12:08:59 receivedData: 1
+2021.12.17 12:08:59 receivedData: 6
+2021.12.17 12:08:59 receivedData: 
+2021.12.17 12:08:59 receivedData: 
+2021.12.17 12:08:59 receivedData: 
+2021.12.17 12:08:59 receivedData: 3
+2021.12.17 12:08:59 receivedData: C
+2021.12.17 12:08:59 receivedData: |
+2021.12.17 12:08:59 receivedData: 1
+2021.12.17 12:08:59 receivedData: |
+2021.12.17 12:08:59 receivedData: I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00
+2021.12.17 12:08:59 receivedData: °
+2021.12.17 12:09:00 receivedData: 0
+2021.12.17 12:09:00 receivedData: |
+2021.12.17 12:09:00 receivedData: N||
+2021.12.17 12:09:00 receivedData: I
+2021.12.17 12:09:00 receivedData: |
+2021.12.17 12:09:00 receivedData: |
+2021.12.17 12:09:00 receivedData: ь
+2021.12.17 12:09:00 receivedData: |
+2021.12.17 12:09:00 receivedData: 5
+2021.12.17 12:09:00 receivedData: L
+2021.12.17 12:09:00 receivedData: |
+2021.12.17 12:09:00 receivedData: 1
+2021.12.17 12:09:00 receivedData: |
+2021.12.17 12:09:00 receivedData: N
+2021.12.17 12:09:00 receivedData: 
+2021.12.17 12:09:01 receivedData: 
+2021.12.17 12:09:01 receivedData: 
+2021.12.17 12:09:01 Получено для парсинга 1556 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N
+2021.12.17 12:09:01 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ParamName15, ParamValue15, ParamRef15, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 15 , '1', '6.0883', '4.200° TO 6.400°', '5', '53.7033', 'длина больше 16', '6', '34.8550', 'длина больше 16', '7', '97.3548', 'длина больше 16', '8', '13.4944', '1.700° TO 8.300°', '9', '49.1179', 'длина больше 16', '10', '46.8118', 'длина больше 16', '11', '81.5223', 'длина больше 16', '12', '711.3191', 'длина больше 16', '13', '32.0695', 'длина больше 16', '14', '669.2744', 'длина больше 16', '15', '191.5488', 'длина больше 16', '16', '13.5256', 'длина больше 16', '18', '250.9627', '0.00°0 TO 5.00°0', '18', '', '0.00°0 TO 5.00°0', '0', '0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N' );
+2021.12.17 12:09:02 Ошибка при записи в SQL.
+System.Data.SqlClient.SqlException: Недопустимое имя столбца "KodJournal".
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   в System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   в System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в Sapphire.FormSap.ToSQL(String st) в H:\Sapphire\Sapphire\FormSapphire.cs:строка 541
+2021.12.17 12:22:49 --- Запуск Sapphire ASU-911 user Версия 1.0.67.290 от 2021.12.17.0903
+2021.12.17 12:25:18 receivedData: 1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N
+2021.12.17 12:25:18 Получено для парсинга 1556 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N
+2021.12.17 12:25:18 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ParamName15, ParamValue15, ParamRef15, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 15 , '1', '6.0883', '4.200° TO 6.400°', '5', '53.7033', 'длина больше 16', '6', '34.8550', 'длина больше 16', '7', '97.3548', 'длина больше 16', '8', '13.4944', '1.700° TO 8.300°', '9', '49.1179', 'длина больше 16', '10', '46.8118', 'длина больше 16', '11', '81.5223', 'длина больше 16', '12', '711.3191', 'длина больше 16', '13', '32.0695', 'длина больше 16', '14', '669.2744', 'длина больше 16', '15', '191.5488', 'длина больше 16', '16', '13.5256', 'длина больше 16', '18', '250.9627', '0.00°0 TO 5.00°0', '18', '', '0.00°0 TO 5.00°0', '0', '0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N' );
+2021.12.17 12:25:35 receivedData: 
+2021.12.17 12:25:35 receivedData: 1
+2021.12.17 12:25:35 receivedData: H
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: \
+2021.12.17 12:25:36 receivedData: ^
+2021.12.17 12:25:36 receivedData: &
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: ь
+2021.12.17 12:25:36 receivedData: B
+2021.12.17 12:25:36 receivedData: i
+2021.12.17 12:25:36 receivedData: O
+2021.12.17 12:25:36 receivedData: L
+2021.12.17 12:25:36 receivedData: i
+2021.12.17 12:25:36 receivedData: S
+2021.12.17 12:25:36 receivedData:  
+2021.12.17 12:25:36 receivedData: N
+2021.12.17 12:25:36 receivedData: E
+2021.12.17 12:25:36 receivedData: O
+2021.12.17 12:25:36 receivedData: ^
+2021.12.17 12:25:36 receivedData: S
+2021.12.17 12:25:36 receivedData: Y
+2021.12.17 12:25:36 receivedData: S
+2021.12.17 12:25:36 receivedData: T
+2021.12.17 12:25:36 receivedData: E
+2021.12.17 12:25:36 receivedData: M
+2021.12.17 12:25:36 receivedData: 1
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: ь
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: ь
+2021.12.17 12:25:36 receivedData: H
+2021.12.17 12:25:36 receivedData: O
+2021.12.17 12:25:36 receivedData: ST
+2021.12.17 12:25:36 receivedData: ^
+2021.12.17 12:25:36 receivedData: P
+2021.12.17 12:25:36 receivedData: _
+2021.12.17 12:25:36 receivedData: 1
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: P
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: 1
+2021.12.17 12:25:36 receivedData: |
+2021.12.17 12:25:36 receivedData: 2
+2021.12.17 12:25:36 receivedData: 0
+2021.12.17 12:25:36 receivedData: 2
+2021.12.17 12:25:36 receivedData: 1
+2021.12.17 12:25:36 receivedData: 1
+2021.12.17 12:25:36 receivedData: 2
+2021.12.17 12:25:36 receivedData: 1
+2021.12.17 12:25:36 receivedData: 5
+2021.12.17 12:25:37 receivedData: 0
+2021.12.17 12:25:37 receivedData: 0
+2021.12.17 12:25:37 receivedData: °
+2021.12.17 12:25:37 receivedData: 5
+2021.12.17 12:25:37 receivedData: 3
+2021.12.17 12:25:37 receivedData: 1
+2021.12.17 12:25:37 receivedData: 
+2021.12.17 12:25:37 receivedData: 
+2021.12.17 12:25:37 receivedData: 
+2021.12.17 12:25:37 receivedData: 2
+2021.12.17 12:25:37 receivedData: P
+2021.12.17 12:25:37 receivedData: |
+2021.12.17 12:25:37 receivedData: 1
+2021.12.17 12:25:37 receivedData: |
+2021.12.17 12:25:37 receivedData: 2
+2021.12.17 12:25:37 receivedData: 1
+2021.12.17 12:25:37 receivedData: 1
+2021.12.17 12:25:37 receivedData: 2
+2021.12.17 12:25:37 receivedData: 1
+2021.12.17 12:25:37 receivedData: 4
+2021.12.17 12:25:37 receivedData: 0
+2021.12.17 12:25:37 receivedData: 1
+2021.12.17 12:25:37 receivedData: 2
+2021.12.17 12:25:37 receivedData: 8
+2021.12.17 12:25:37 receivedData: |
+2021.12.17 12:25:37 receivedData: |
+2021.12.17 12:25:37 receivedData: ь
+2021.12.17 12:25:37 receivedData: 67
+2021.12.17 12:25:37 receivedData: 4
+2021.12.17 12:25:37 receivedData: 7
+2021.12.17 12:25:37 receivedData: 7
+2021.12.17 12:25:37 receivedData:  
+2021.12.17 12:25:37 receivedData: ^
+2021.12.17 12:25:37 receivedData:  
+2021.12.17 12:25:37 receivedData:  
+2021.12.17 12:25:37 receivedData: ?
+2021.12.17 12:25:37 receivedData: ?
+2021.12.17 12:25:37 receivedData: ї
+2021.12.17 12:25:37 receivedData: ?
+2021.12.17 12:25:37 receivedData: ї
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ї
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ї
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ї
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ї?
+2021.12.17 12:25:38 receivedData: ї
+2021.12.17 12:25:38 receivedData:  
+2021.12.17 12:25:38 receivedData:  
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData:  
+2021.12.17 12:25:38 receivedData:  
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ї
+2021.12.17 12:25:38 receivedData: 1
+2021.12.17 12:25:38 receivedData: |
+2021.12.17 12:25:38 receivedData: |
+2021.12.17 12:25:38 receivedData: ь
+2021.12.17 12:25:38 receivedData: U
+2021.12.17 12:25:38 receivedData: ||ь|ь3O|1||^1^128|^^Ю1^??ї
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ї
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ї
+2021.12.17 12:25:38 receivedData: ^
+2021.12.17 12:25:38 receivedData: 0
+2021.12.17 12:25:38 receivedData: \
+2021.12.17 12:25:38 receivedData: ^
+2021.12.17 12:25:38 receivedData: ^
+2021.12.17 12:25:38 receivedData: Ю
+2021.12.17 12:25:38 receivedData: 5
+2021.12.17 12:25:38 receivedData: ^
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: ?
+2021.12.17 12:25:38 receivedData: .
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ї
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: 0
+2021.12.17 12:25:39 receivedData: \
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: Ю
+2021.12.17 12:25:39 receivedData: 6
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ї
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ї
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ї
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: 0
+2021.12.17 12:25:39 receivedData: \
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: Ю
+2021.12.17 12:25:39 receivedData: 7
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ї
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ї
+2021.12.17 12:25:39 receivedData: -
+2021.12.17 12:25:39 receivedData: ?
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: 0
+2021.12.17 12:25:39 receivedData: \
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:39 receivedData: ^
+2021.12.17 12:25:40 receivedData: Ю
+2021.12.17 12:25:40 receivedData: 8
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ї
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ї
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ї
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: 0
+2021.12.17 12:25:40 receivedData: \
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: Ю
+2021.12.17 12:25:40 receivedData: 9
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ї
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: 0
+2021.12.17 12:25:40 receivedData: \
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: Ю
+2021.12.17 12:25:40 receivedData: 1
+2021.12.17 12:25:40 receivedData: 0
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ?
+2021.12.17 12:25:40 receivedData: ї
+2021.12.17 12:25:40 receivedData: ^
+2021.12.17 12:25:40 receivedData: 0
+2021.12.17 12:25:41 receivedData: \
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: Ю
+2021.12.17 12:25:41 receivedData: 1
+2021.12.17 12:25:41 receivedData: 1
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ї
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ї
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ї
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: 0
+2021.12.17 12:25:41 receivedData: \
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: Ю
+2021.12.17 12:25:41 receivedData: 1
+2021.12.17 12:25:41 receivedData: 2
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ї
+2021.12.17 12:25:41 receivedData: .
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ?
+2021.12.17 12:25:41 receivedData: ї
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: 0
+2021.12.17 12:25:41 receivedData: \
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:41 receivedData: ^
+2021.12.17 12:25:42 receivedData: Ю
+2021.12.17 12:25:42 receivedData: 1
+2021.12.17 12:25:42 receivedData: 3
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: ?
+2021.12.17 12:25:42 receivedData: ?
+2021.12.17 12:25:42 receivedData: -
+2021.12.17 12:25:42 receivedData: ?
+2021.12.17 12:25:42 receivedData: ?
+2021.12.17 12:25:42 receivedData: ї
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: 0
+2021.12.17 12:25:42 receivedData: \
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: Ю
+2021.12.17 12:25:42 receivedData: 1
+2021.12.17 12:25:42 receivedData: 4
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: ?
+2021.12.17 12:25:42 receivedData: ?
+2021.12.17 12:25:42 receivedData: ї
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: 0
+2021.12.17 12:25:42 receivedData: \
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:42 receivedData: Ю
+2021.12.17 12:25:42 receivedData: 1
+2021.12.17 12:25:42 receivedData: 5
+2021.12.17 12:25:42 receivedData: ^
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ї
+2021.12.17 12:25:43 receivedData: .
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ї
+2021.12.17 12:25:43 receivedData: .
+2021.12.17 12:25:43 receivedData: ^
+2021.12.17 12:25:43 receivedData: 0
+2021.12.17 12:25:43 receivedData: \
+2021.12.17 12:25:43 receivedData: ^
+2021.12.17 12:25:43 receivedData: ^
+2021.12.17 12:25:43 receivedData: Ю
+2021.12.17 12:25:43 receivedData: 1
+2021.12.17 12:25:43 receivedData: 6
+2021.12.17 12:25:43 receivedData: ^
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ї
+2021.12.17 12:25:43 receivedData: .
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ?
+2021.12.17 12:25:43 receivedData: ^
+2021.12.17 12:25:43 receivedData: 0
+2021.12.17 12:25:43 receivedData: \
+2021.12.17 12:25:43 receivedData: ^
+2021.12.17 12:25:43 receivedData: ^
+2021.12.17 12:25:43 receivedData: Ю
+2021.12.17 12:25:44 receivedData: 1
+2021.12.17 12:25:44 receivedData: 8
+2021.12.17 12:25:44 receivedData: ^
+2021.12.17 12:25:44 receivedData: ?
+2021.12.17 12:25:44 receivedData: -
+2021.12.17 12:25:44 receivedData: ?
+2021.12.17 12:25:44 receivedData: ?
+2021.12.17 12:25:44 receivedData: ^
+2021.12.17 12:25:44 receivedData: 0
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: R
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: ь
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: ь
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: ь
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: ь
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: S
+2021.12.17 12:25:44 receivedData: e
+2021.12.17 12:25:44 receivedData: r
+2021.12.17 12:25:44 receivedData: u
+2021.12.17 12:25:44 receivedData: m
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: ь
+2021.12.17 12:25:44 receivedData: |
+2021.12.17 12:25:44 receivedData: ь
+2021.12.17 12:25:45 receivedData: |
+2021.12.17 12:25:45 receivedData: ь
+2021.12.17 12:25:45 receivedData: |
+2021.12.17 12:25:45 receivedData: ь
+2021.12.17 12:25:45 receivedData: 
+2021.12.17 12:25:45 receivedData: 9
+2021.12.17 12:25:45 receivedData: B
+2021.12.17 12:25:45 receivedData: 
+2021.12.17 12:25:45 receivedData: 
+2021.12.17 12:25:45 receivedData: 4
+2021.12.17 12:25:45 receivedData: |
+2021.12.17 12:25:45 receivedData: F
+2021.12.17 12:25:45 receivedData: 
+2021.12.17 12:25:45 receivedData: 
+2021.12.17 12:25:45 receivedData: 
+2021.12.17 12:25:45 receivedData: 5
+2021.12.17 12:25:45 receivedData: R
+2021.12.17 12:25:45 receivedData: |
+2021.12.17 12:25:45 receivedData: 1
+2021.12.17 12:25:45 receivedData: |
+2021.12.17 12:25:45 receivedData: ^
+2021.12.17 12:25:45 receivedData: ^
+2021.12.17 12:25:45 receivedData: Ю
+2021.12.17 12:25:45 receivedData: 1
+2021.12.17 12:25:45 receivedData: ^
+2021.12.17 12:25:45 receivedData: ?
+2021.12.17 12:25:45 receivedData: ?
+2021.12.17 12:25:45 receivedData: ї
+2021.12.17 12:25:45 receivedData: ?ї?ї^0| 6.
+2021.12.17 12:25:45 receivedData: 0
+2021.12.17 12:25:45 receivedData: 8
+2021.12.17 12:25:45 receivedData: 8
+2021.12.17 12:25:46 receivedData: 3
+2021.12.17 12:25:46 receivedData: |
+2021.12.17 12:25:46 receivedData: ?
+2021.12.17 12:25:46 receivedData: ?
+2021.12.17 12:25:46 receivedData: ї
+2021.12.17 12:25:46 receivedData: ?
+2021.12.17 12:25:46 receivedData: ї
+2021.12.17 12:25:46 receivedData: /
+2021.12.17 12:25:46 receivedData: ?
+2021.12.17 12:25:46 receivedData: |
+2021.12.17 12:25:46 receivedData:  
+2021.12.17 12:25:46 receivedData: 4
+2021.12.17 12:25:46 receivedData: .
+2021.12.17 12:25:46 receivedData: 2
+2021.12.17 12:25:46 receivedData: 0
+2021.12.17 12:25:46 receivedData: 0
+2021.12.17 12:25:46 receivedData: °
+2021.12.17 12:25:46 receivedData:  
+2021.12.17 12:25:46 receivedData: T
+2021.12.17 12:25:46 receivedData: O
+2021.12.17 12:25:46 receivedData:  
+2021.12.17 12:25:46 receivedData:  
+2021.12.17 12:25:46 receivedData: 6
+2021.12.17 12:25:46 receivedData: .
+2021.12.17 12:25:46 receivedData: 4
+2021.12.17 12:25:46 receivedData: 0
+2021.12.17 12:25:46 receivedData: 0
+2021.12.17 12:25:46 receivedData: °
+2021.12.17 12:25:47 receivedData: |
+2021.12.17 12:25:47 receivedData: N
+2021.12.17 12:25:47 receivedData: |
+2021.12.17 12:25:47 receivedData: |
+2021.12.17 12:25:47 receivedData: F
+2021.12.17 12:25:47 receivedData: |
+2021.12.17 12:25:47 receivedData: |
+2021.12.17 12:25:47 receivedData: ь
+2021.12.17 12:25:47 receivedData: |
+2021.12.17 12:25:47 receivedData: 2
+2021.12.17 12:25:47 receivedData: 0
+2021.12.17 12:25:47 receivedData: 2
+2021.12.17 12:25:47 receivedData: 1
+2021.12.17 12:25:47 receivedData: 1
+2021.12.17 12:25:47 receivedData: 2
+2021.12.17 12:25:47 receivedData: 1
+2021.12.17 12:25:47 receivedData: 4
+2021.12.17 12:25:47 receivedData: 0
+2021.12.17 12:25:47 receivedData: 0
+2021.12.17 12:25:47 receivedData: °
+2021.12.17 12:25:47 receivedData: 5
+2021.12.17 12:25:47 receivedData: 0
+2021.12.17 12:25:47 receivedData: 1
+2021.12.17 12:25:47 receivedData: 
+2021.12.17 12:25:47 receivedData: 
+2021.12.17 12:25:48 receivedData: 6
+2021.12.17 12:25:48 receivedData: R
+2021.12.17 12:25:48 receivedData: |
+2021.12.17 12:25:48 receivedData: 2
+2021.12.17 12:25:48 receivedData: |
+2021.12.17 12:25:48 receivedData: ^
+2021.12.17 12:25:48 receivedData: ^
+2021.12.17 12:25:48 receivedData: Ю
+2021.12.17 12:25:48 receivedData: 5
+2021.12.17 12:25:48 receivedData: ^
+2021.12.17 12:25:48 receivedData: ?
+2021.12.17 12:25:48 receivedData: ?
+2021.12.17 12:25:48 receivedData: .
+2021.12.17 12:25:48 receivedData: ?
+2021.12.17 12:25:48 receivedData: ?
+2021.12.17 12:25:48 receivedData: ї
+2021.12.17 12:25:48 receivedData: ^
+2021.12.17 12:25:48 receivedData: 0
+2021.12.17 12:25:48 receivedData: |
+2021.12.17 12:25:48 receivedData: 5
+2021.12.17 12:25:48 receivedData: 3
+2021.12.17 12:25:48 receivedData: .
+2021.12.17 12:25:48 receivedData: 7
+2021.12.17 12:25:48 receivedData: 0
+2021.12.17 12:25:48 receivedData: 3
+2021.12.17 12:25:48 receivedData: 3
+2021.12.17 12:25:48 receivedData: |
+2021.12.17 12:25:48 receivedData: ?
+2021.12.17 12:25:48 receivedData: /
+2021.12.17 12:25:48 receivedData: ?
+2021.12.17 12:25:49 receivedData: |
+2021.12.17 12:25:49 receivedData: 6
+2021.12.17 12:25:49 receivedData: 4
+2021.12.17 12:25:49 receivedData: .
+2021.12.17 12:25:49 receivedData: 0
+2021.12.17 12:25:49 receivedData: 0
+2021.12.17 12:25:49 receivedData: °
+2021.12.17 12:25:49 receivedData: 0
+2021.12.17 12:25:49 receivedData:  
+2021.12.17 12:25:49 receivedData: T
+2021.12.17 12:25:49 receivedData: O
+2021.12.17 12:25:49 receivedData:  
+2021.12.17 12:25:49 receivedData: 8
+2021.12.17 12:25:49 receivedData: 3
+2021.12.17 12:25:49 receivedData: .
+2021.12.17 12:25:49 receivedData: 0
+2021.12.17 12:25:49 receivedData: 0
+2021.12.17 12:25:49 receivedData: °
+2021.12.17 12:25:49 receivedData: 0
+2021.12.17 12:25:49 receivedData: |
+2021.12.17 12:25:49 receivedData: L
+2021.12.17 12:25:49 receivedData: |
+2021.12.17 12:25:49 receivedData: |
+2021.12.17 12:25:49 receivedData: F
+2021.12.17 12:25:49 receivedData: |
+2021.12.17 12:25:49 receivedData: |
+2021.12.17 12:25:49 receivedData: ь
+2021.12.17 12:25:49 receivedData: |
+2021.12.17 12:25:49 receivedData: 2
+2021.12.17 12:25:49 receivedData: 0
+2021.12.17 12:25:49 receivedData: 2
+2021.12.17 12:25:49 receivedData: 1
+2021.12.17 12:25:49 receivedData: 1
+2021.12.17 12:25:50 receivedData: 2
+2021.12.17 12:25:50 receivedData: 1
+2021.12.17 12:25:50 receivedData: 4
+2021.12.17 12:25:50 receivedData: 0
+2021.12.17 12:25:50 receivedData: 0
+2021.12.17 12:25:50 receivedData: °
+2021.12.17 12:25:50 receivedData: 2
+2021.12.17 12:25:50 receivedData: 4
+2021.12.17 12:25:50 receivedData: 4
+2021.12.17 12:25:50 receivedData: 
+2021.12.17 12:25:50 receivedData: 
+2021.12.17 12:25:50 receivedData: 
+2021.12.17 12:25:50 receivedData: 7
+2021.12.17 12:25:50 receivedData: R
+2021.12.17 12:25:50 receivedData: |
+2021.12.17 12:25:50 receivedData: 3
+2021.12.17 12:25:50 receivedData: |
+2021.12.17 12:25:50 receivedData: ^
+2021.12.17 12:25:50 receivedData: ^
+2021.12.17 12:25:50 receivedData: Ю
+2021.12.17 12:25:50 receivedData: 6
+2021.12.17 12:25:50 receivedData: ^
+2021.12.17 12:25:50 receivedData: ?
+2021.12.17 12:25:50 receivedData: ?
+2021.12.17 12:25:50 receivedData: ї
+2021.12.17 12:25:50 receivedData: ?
+2021.12.17 12:25:50 receivedData: ї
+2021.12.17 12:25:50 receivedData: ?
+2021.12.17 12:25:50 receivedData: ї
+2021.12.17 12:25:50 receivedData: ?
+2021.12.17 12:25:50 receivedData: ^
+2021.12.17 12:25:51 receivedData: 0
+2021.12.17 12:25:51 receivedData: |
+2021.12.17 12:25:51 receivedData: 3
+2021.12.17 12:25:51 receivedData: 4
+2021.12.17 12:25:51 receivedData: .
+2021.12.17 12:25:51 receivedData: 8
+2021.12.17 12:25:51 receivedData: 5
+2021.12.17 12:25:51 receivedData: 5
+2021.12.17 12:25:51 receivedData: 0
+2021.12.17 12:25:51 receivedData: |
+2021.12.17 12:25:51 receivedData: ?
+2021.12.17 12:25:51 receivedData: /
+2021.12.17 12:25:51 receivedData: ?
+2021.12.17 12:25:51 receivedData: |
+2021.12.17 12:25:51 receivedData: 3
+2021.12.17 12:25:51 receivedData: 4
+2021.12.17 12:25:51 receivedData: .
+2021.12.17 12:25:51 receivedData: 0
+2021.12.17 12:25:51 receivedData: 0
+2021.12.17 12:25:51 receivedData: °
+2021.12.17 12:25:51 receivedData: 0
+2021.12.17 12:25:51 receivedData:  
+2021.12.17 12:25:51 receivedData: T
+2021.12.17 12:25:51 receivedData: O
+2021.12.17 12:25:51 receivedData:  
+2021.12.17 12:25:51 receivedData: 5
+2021.12.17 12:25:51 receivedData: 0
+2021.12.17 12:25:51 receivedData: .
+2021.12.17 12:25:52 receivedData: 0
+2021.12.17 12:25:52 receivedData: 0
+2021.12.17 12:25:52 receivedData: °
+2021.12.17 12:25:52 receivedData: 0
+2021.12.17 12:25:52 receivedData: |
+2021.12.17 12:25:52 receivedData: N
+2021.12.17 12:25:52 receivedData: |
+2021.12.17 12:25:52 receivedData: |
+2021.12.17 12:25:52 receivedData: F
+2021.12.17 12:25:52 receivedData: |
+2021.12.17 12:25:52 receivedData: |
+2021.12.17 12:25:52 receivedData: ь
+2021.12.17 12:25:52 receivedData: |
+2021.12.17 12:25:52 receivedData: 2
+2021.12.17 12:25:52 receivedData: 0
+2021.12.17 12:25:52 receivedData: 2
+2021.12.17 12:25:52 receivedData: 1
+2021.12.17 12:25:52 receivedData: 1
+2021.12.17 12:25:52 receivedData: 2
+2021.12.17 12:25:52 receivedData: 1
+2021.12.17 12:25:52 receivedData: 4
+2021.12.17 12:25:52 receivedData: 0
+2021.12.17 12:25:52 receivedData: 0
+2021.12.17 12:25:52 receivedData: °
+2021.12.17 12:25:52 receivedData: 3
+2021.12.17 12:25:52 receivedData: 4
+2021.12.17 12:25:52 receivedData: 5
+2021.12.17 12:25:52 receivedData: 
+2021.12.17 12:25:52 receivedData: 
+2021.12.17 12:25:52 receivedData: 
+2021.12.17 12:25:52 receivedData: 0
+2021.12.17 12:25:53 receivedData: R
+2021.12.17 12:25:53 receivedData: |
+2021.12.17 12:25:53 receivedData: 4
+2021.12.17 12:25:53 receivedData: |
+2021.12.17 12:25:53 receivedData: ^
+2021.12.17 12:25:53 receivedData: ^
+2021.12.17 12:25:53 receivedData: Ю
+2021.12.17 12:25:53 receivedData: 7
+2021.12.17 12:25:53 receivedData: ^
+2021.12.17 12:25:53 receivedData: ?
+2021.12.17 12:25:53 receivedData: ?
+2021.12.17 12:25:53 receivedData: ї
+2021.12.17 12:25:53 receivedData: ?
+2021.12.17 12:25:53 receivedData: ї
+2021.12.17 12:25:53 receivedData: -
+2021.12.17 12:25:53 receivedData: ?
+2021.12.17 12:25:53 receivedData: ^
+2021.12.17 12:25:53 receivedData: 0
+2021.12.17 12:25:53 receivedData: |
+2021.12.17 12:25:53 receivedData: 9
+2021.12.17 12:25:53 receivedData: 7
+2021.12.17 12:25:53 receivedData: .
+2021.12.17 12:25:53 receivedData: 3
+2021.12.17 12:25:53 receivedData: 5
+2021.12.17 12:25:53 receivedData: 4
+2021.12.17 12:25:53 receivedData: 8
+2021.12.17 12:25:53 receivedData: |
+2021.12.17 12:25:54 receivedData: ?
+2021.12.17 12:25:54 receivedData: ?
+2021.12.17 12:25:54 receivedData: ї
+2021.12.17 12:25:54 receivedData: ?
+2021.12.17 12:25:54 receivedData: ї
+2021.12.17 12:25:54 receivedData: ?
+2021.12.17 12:25:54 receivedData: /
+2021.12.17 12:25:54 receivedData: ?
+2021.12.17 12:25:54 receivedData: |
+2021.12.17 12:25:54 receivedData: 7
+2021.12.17 12:25:54 receivedData: 1
+2021.12.17 12:25:54 receivedData: .
+2021.12.17 12:25:54 receivedData: 0
+2021.12.17 12:25:54 receivedData: 0
+2021.12.17 12:25:54 receivedData: °
+2021.12.17 12:25:54 receivedData: 0
+2021.12.17 12:25:54 receivedData:  
+2021.12.17 12:25:54 receivedData: T
+2021.12.17 12:25:54 receivedData: O
+2021.12.17 12:25:54 receivedData:  
+2021.12.17 12:25:54 receivedData: 1
+2021.12.17 12:25:54 receivedData: 1
+2021.12.17 12:25:54 receivedData: 5
+2021.12.17 12:25:54 receivedData: .
+2021.12.17 12:25:54 receivedData: 0
+2021.12.17 12:25:54 receivedData: 0
+2021.12.17 12:25:54 receivedData: °
+2021.12.17 12:25:54 receivedData: 0
+2021.12.17 12:25:55 receivedData: |
+2021.12.17 12:25:55 receivedData: N
+2021.12.17 12:25:55 receivedData: |
+2021.12.17 12:25:55 receivedData: |
+2021.12.17 12:25:55 receivedData: F
+2021.12.17 12:25:55 receivedData: |
+2021.12.17 12:25:55 receivedData: |
+2021.12.17 12:25:55 receivedData: ь
+2021.12.17 12:25:55 receivedData: |
+2021.12.17 12:25:55 receivedData: 2
+2021.12.17 12:25:55 receivedData: 0
+2021.12.17 12:25:55 receivedData: 2
+2021.12.17 12:25:55 receivedData: 1
+2021.12.17 12:25:55 receivedData: 1
+2021.12.17 12:25:55 receivedData: 2
+2021.12.17 12:25:55 receivedData: 1
+2021.12.17 12:25:55 receivedData: 400°3301R|5|^^
+2021.12.17 12:25:55 receivedData: Ю
+2021.12.17 12:25:55 receivedData: 8
+2021.12.17 12:25:55 receivedData: ^
+2021.12.17 12:25:55 receivedData: ?
+2021.12.17 12:25:55 receivedData: ?
+2021.12.17 12:25:55 receivedData: ї
+2021.12.17 12:25:55 receivedData: ?
+2021.12.17 12:25:56 receivedData: ї
+2021.12.17 12:25:56 receivedData: ?
+2021.12.17 12:25:56 receivedData: ї
+2021.12.17 12:25:56 receivedData: ?
+2021.12.17 12:25:56 receivedData: ^
+2021.12.17 12:25:56 receivedData: 0
+2021.12.17 12:25:56 receivedData: |
+2021.12.17 12:25:56 receivedData: 1
+2021.12.17 12:25:56 receivedData: 3
+2021.12.17 12:25:56 receivedData: .
+2021.12.17 12:25:56 receivedData: 4
+2021.12.17 12:25:56 receivedData: 9
+2021.12.17 12:25:56 receivedData: 4
+2021.12.17 12:25:56 receivedData: 4
+2021.12.17 12:25:56 receivedData: |
+2021.12.17 12:25:56 receivedData: ?
+2021.12.17 12:25:56 receivedData: ?
+2021.12.17 12:25:56 receivedData: ї
+2021.12.17 12:25:56 receivedData: ?
+2021.12.17 12:25:56 receivedData: ї
+2021.12.17 12:25:56 receivedData: /
+2021.12.17 12:25:56 receivedData: ?
+2021.12.17 12:25:56 receivedData: |
+2021.12.17 12:25:56 receivedData:  
+2021.12.17 12:25:57 receivedData: 1
+2021.12.17 12:25:57 receivedData: .
+2021.12.17 12:25:57 receivedData: 7
+2021.12.17 12:25:57 receivedData: 0
+2021.12.17 12:25:57 receivedData: 0
+2021.12.17 12:25:57 receivedData: °
+2021.12.17 12:25:57 receivedData:  
+2021.12.17 12:25:57 receivedData: T
+2021.12.17 12:25:57 receivedData: O
+2021.12.17 12:25:57 receivedData:  
+2021.12.17 12:25:57 receivedData:  
+2021.12.17 12:25:57 receivedData: 8
+2021.12.17 12:25:57 receivedData: .
+2021.12.17 12:25:57 receivedData: 3
+2021.12.17 12:25:57 receivedData: 0
+2021.12.17 12:25:57 receivedData: 0
+2021.12.17 12:25:57 receivedData: °
+2021.12.17 12:25:57 receivedData: |
+2021.12.17 12:25:57 receivedData: H
+2021.12.17 12:25:57 receivedData: ||
+2021.12.17 12:25:57 receivedData: F
+2021.12.17 12:25:58 receivedData: |
+2021.12.17 12:25:58 receivedData: |
+2021.12.17 12:25:58 receivedData: ь
+2021.12.17 12:25:58 receivedData: |
+2021.12.17 12:25:58 receivedData: 2
+2021.12.17 12:25:58 receivedData: 0
+2021.12.17 12:25:58 receivedData: 2
+2021.12.17 12:25:58 receivedData: 1
+2021.12.17 12:25:58 receivedData: 1
+2021.12.17 12:25:58 receivedData: 2
+2021.12.17 12:25:58 receivedData: 1
+2021.12.17 12:25:58 receivedData: 4
+2021.12.17 12:25:58 receivedData: 0
+2021.12.17 12:25:58 receivedData: 0
+2021.12.17 12:25:58 receivedData: °
+2021.12.17 12:25:58 receivedData: 1
+2021.12.17 12:25:58 receivedData: 5
+2021.12.17 12:25:58 receivedData: 9
+2021.12.17 12:25:58 receivedData: 
+2021.12.17 12:25:58 receivedData: 
+2021.12.17 12:25:59 receivedData: 
+2021.12.17 12:25:59 receivedData: 2
+2021.12.17 12:25:59 receivedData: R
+2021.12.17 12:25:59 receivedData: |
+2021.12.17 12:25:59 receivedData: 6
+2021.12.17 12:25:59 receivedData: |
+2021.12.17 12:25:59 receivedData: ^
+2021.12.17 12:25:59 receivedData: ^
+2021.12.17 12:25:59 receivedData: Ю
+2021.12.17 12:25:59 receivedData: 9
+2021.12.17 12:25:59 receivedData: ^
+2021.12.17 12:25:59 receivedData: ?
+2021.12.17 12:25:59 receivedData: ?
+2021.12.17 12:25:59 receivedData: ї
+2021.12.17 12:25:59 receivedData: ^
+2021.12.17 12:25:59 receivedData: 0
+2021.12.17 12:25:59 receivedData: |
+2021.12.17 12:25:59 receivedData: 4
+2021.12.17 12:25:59 receivedData: 9
+2021.12.17 12:25:59 receivedData: .
+2021.12.17 12:25:59 receivedData: 11
+2021.12.17 12:25:59 receivedData: 7
+2021.12.17 12:25:59 receivedData: 9
+2021.12.17 12:26:00 receivedData: |
+2021.12.17 12:26:00 receivedData: ?
+2021.12.17 12:26:00 receivedData: ?
+2021.12.17 12:26:00 receivedData: /
+2021.12.17 12:26:00 receivedData: ?
+2021.12.17 12:26:00 receivedData: |
+2021.12.17 12:26:00 receivedData:  
+2021.12.17 12:26:00 receivedData: 0
+2021.12.17 12:26:00 receivedData: .
+2021.12.17 12:26:00 receivedData: 0
+2021.12.17 12:26:00 receivedData: 0
+2021.12.17 12:26:00 receivedData: °
+2021.12.17 12:26:00 receivedData: 0
+2021.12.17 12:26:00 receivedData:  
+2021.12.17 12:26:00 receivedData: T
+2021.12.17 12:26:00 receivedData: O
+2021.12.17 12:26:00 receivedData:  
+2021.12.17 12:26:00 receivedData: 4
+2021.12.17 12:26:00 receivedData: 0
+2021.12.17 12:26:00 receivedData: .
+2021.12.17 12:26:00 receivedData: 0
+2021.12.17 12:26:00 receivedData: 0
+2021.12.17 12:26:01 receivedData: °
+2021.12.17 12:26:01 receivedData: 0
+2021.12.17 12:26:01 receivedData: |
+2021.12.17 12:26:01 receivedData: H
+2021.12.17 12:26:01 receivedData: |
+2021.12.17 12:26:01 receivedData: |
+2021.12.17 12:26:01 receivedData: F
+2021.12.17 12:26:01 receivedData: |
+2021.12.17 12:26:01 receivedData: |
+2021.12.17 12:26:01 receivedData: ь
+2021.12.17 12:26:01 receivedData: |
+2021.12.17 12:26:01 receivedData: 2
+2021.12.17 12:26:01 receivedData: 0
+2021.12.17 12:26:01 receivedData: 2
+2021.12.17 12:26:01 receivedData: 1
+2021.12.17 12:26:01 receivedData: 1
+2021.12.17 12:26:01 receivedData: 2
+2021.12.17 12:26:01 receivedData: 1
+2021.12.17 12:26:01 receivedData: 4
+2021.12.17 12:26:01 receivedData: 0
+2021.12.17 12:26:02 receivedData: 0
+2021.12.17 12:26:02 receivedData: °
+2021.12.17 12:26:02 receivedData: 3
+2021.12.17 12:26:02 receivedData: 1
+2021.12.17 12:26:02 receivedData: 5
+2021.12.17 12:26:02 receivedData: 
+2021.12.17 12:26:02 receivedData: 
+2021.12.17 12:26:02 receivedData: 
+2021.12.17 12:26:02 receivedData: 3
+2021.12.17 12:26:02 receivedData: R
+2021.12.17 12:26:02 receivedData: |
+2021.12.17 12:26:02 receivedData: 7
+2021.12.17 12:26:02 receivedData: |
+2021.12.17 12:26:02 receivedData: ^
+2021.12.17 12:26:02 receivedData: ^
+2021.12.17 12:26:02 receivedData: Ю
+2021.12.17 12:26:02 receivedData: 1
+2021.12.17 12:26:02 receivedData: 0
+2021.12.17 12:26:02 receivedData: ^
+2021.12.17 12:26:02 receivedData: ?
+2021.12.17 12:26:02 receivedData: ?
+2021.12.17 12:26:03 receivedData: ї
+2021.12.17 12:26:03 receivedData: ^
+2021.12.17 12:26:03 receivedData: 0
+2021.12.17 12:26:03 receivedData: |
+2021.12.17 12:26:03 receivedData: 4
+2021.12.17 12:26:03 receivedData: 6
+2021.12.17 12:26:03 receivedData: .
+2021.12.17 12:26:03 receivedData: 8
+2021.12.17 12:26:03 receivedData: 1
+2021.12.17 12:26:03 receivedData: 1
+2021.12.17 12:26:03 receivedData: 8
+2021.12.17 12:26:03 receivedData: |
+2021.12.17 12:26:03 receivedData: ?
+2021.12.17 12:26:03 receivedData: ?
+2021.12.17 12:26:03 receivedData: /
+2021.12.17 12:26:03 receivedData: ?
+2021.12.17 12:26:03 receivedData: |
+2021.12.17 12:26:03 receivedData:  
+2021.12.17 12:26:03 receivedData: 0
+2021.12.17 12:26:03 receivedData: .
+2021.12.17 12:26:04 receivedData: 0
+2021.12.17 12:26:04 receivedData: 0
+2021.12.17 12:26:04 receivedData: °
+2021.12.17 12:26:04 receivedData: 0
+2021.12.17 12:26:04 receivedData:  
+2021.12.17 12:26:04 receivedData: T
+2021.12.17 12:26:04 receivedData: O
+2021.12.17 12:26:04 receivedData:  
+2021.12.17 12:26:04 receivedData: 3
+2021.12.17 12:26:04 receivedData: 7
+2021.12.17 12:26:04 receivedData: .
+2021.12.17 12:26:04 receivedData: 0
+2021.12.17 12:26:04 receivedData: 0
+2021.12.17 12:26:04 receivedData: °
+2021.12.17 12:26:04 receivedData: 0
+2021.12.17 12:26:04 receivedData: |
+2021.12.17 12:26:04 receivedData: H
+2021.12.17 12:26:04 receivedData: |
+2021.12.17 12:26:04 receivedData: |F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 
+2021.12.17 12:26:04 receivedData: 4
+2021.12.17 12:26:04 receivedData: 6
+2021.12.17 12:26:05 receivedData: 0
+2021.12.17 12:26:05 receivedData: .
+2021.12.17 12:26:05 receivedData: 0
+2021.12.17 12:26:05 receivedData: 0
+2021.12.17 12:26:05 receivedData: °
+2021.12.17 12:26:05 receivedData: 0
+2021.12.17 12:26:05 receivedData: |
+2021.12.17 12:26:05 receivedData: H
+2021.12.17 12:26:05 receivedData: |
+2021.12.17 12:26:05 receivedData: |
+2021.12.17 12:26:05 receivedData: F
+2021.12.17 12:26:05 receivedData: |
+2021.12.17 12:26:05 receivedData: |
+2021.12.17 12:26:05 receivedData: ь
+2021.12.17 12:26:05 receivedData: |
+2021.12.17 12:26:05 receivedData: 2
+2021.12.17 12:26:05 receivedData: 0
+2021.12.17 12:26:05 receivedData: 2
+2021.12.17 12:26:06 receivedData: 1
+2021.12.17 12:26:06 receivedData: 1
+2021.12.17 12:26:06 receivedData: 2
+2021.12.17 12:26:06 receivedData: 1
+2021.12.17 12:26:06 receivedData: 4
+2021.12.17 12:26:06 receivedData: 0
+2021.12.17 12:26:06 receivedData: 0
+2021.12.17 12:26:06 receivedData: °
+2021.12.17 12:26:06 receivedData: 4
+2021.12.17 12:26:06 receivedData: 1
+2021.12.17 12:26:06 receivedData: 5
+2021.12.17 12:26:06 receivedData: 
+2021.12.17 12:26:06 receivedData: 
+2021.12.17 12:26:06 receivedData: 
+2021.12.17 12:26:06 receivedData: 0
+2021.12.17 12:26:06 receivedData: R
+2021.12.17 12:26:06 receivedData: |
+2021.12.17 12:26:06 receivedData: 12
+2021.12.17 12:26:06 receivedData: |
+2021.12.17 12:26:07 receivedData: ^
+2021.12.17 12:26:07 receivedData: ^
+2021.12.17 12:26:07 receivedData: Ю
+2021.12.17 12:26:07 receivedData: 1
+2021.12.17 12:26:07 receivedData: 5
+2021.12.17 12:26:07 receivedData: ^
+2021.12.17 12:26:07 receivedData: ?
+2021.12.17 12:26:07 receivedData: ?
+2021.12.17 12:26:07 receivedData: ї
+2021.12.17 12:26:07 receivedData: .
+2021.12.17 12:26:07 receivedData: ?
+2021.12.17 12:26:07 receivedData: ?
+2021.12.17 12:26:07 receivedData: ї
+2021.12.17 12:26:07 receivedData: .
+2021.12.17 12:26:07 receivedData: ^
+2021.12.17 12:26:07 receivedData: 0
+2021.12.17 12:26:07 receivedData: |
+2021.12.17 12:26:07 receivedData: 1
+2021.12.17 12:26:07 receivedData: 9
+2021.12.17 12:26:07 receivedData: 1
+2021.12.17 12:26:08 receivedData: .
+2021.12.17 12:26:08 receivedData: 5
+2021.12.17 12:26:08 receivedData: 4
+2021.12.17 12:26:08 receivedData: 8
+2021.12.17 12:26:08 receivedData: 8
+2021.12.17 12:26:08 receivedData: |
+2021.12.17 12:26:08 receivedData: ?
+2021.12.17 12:26:08 receivedData: ?
+2021.12.17 12:26:08 receivedData: /
+2021.12.17 12:26:08 receivedData: ?
+2021.12.17 12:26:08 receivedData: |
+2021.12.17 12:26:08 receivedData: 9
+2021.12.17 12:26:08 receivedData: 8
+2021.12.17 12:26:08 receivedData: .
+2021.12.17 12:26:08 receivedData: 0
+2021.12.17 12:26:08 receivedData: 0
+2021.12.17 12:26:08 receivedData: °
+2021.12.17 12:26:08 receivedData: 0
+2021.12.17 12:26:08 receivedData:  
+2021.12.17 12:26:09 receivedData: T
+2021.12.17 12:26:09 receivedData: O
+2021.12.17 12:26:09 receivedData:  
+2021.12.17 12:26:09 receivedData: 2
+2021.12.17 12:26:09 receivedData: 7
+2021.12.17 12:26:09 receivedData: 9
+2021.12.17 12:26:09 receivedData: .
+2021.12.17 12:26:09 receivedData: 0
+2021.12.17 12:26:09 receivedData: 0
+2021.12.17 12:26:09 receivedData: °
+2021.12.17 12:26:09 receivedData: 0
+2021.12.17 12:26:09 receivedData: |
+2021.12.17 12:26:09 receivedData: N
+2021.12.17 12:26:09 receivedData: |
+2021.12.17 12:26:09 receivedData: |
+2021.12.17 12:26:09 receivedData: F
+2021.12.17 12:26:09 receivedData: |
+2021.12.17 12:26:09 receivedData: |
+2021.12.17 12:26:09 receivedData: ь
+2021.12.17 12:26:10 receivedData: |
+2021.12.17 12:26:10 receivedData: 2
+2021.12.17 12:26:10 receivedData: 0
+2021.12.17 12:26:10 receivedData: 2
+2021.12.17 12:26:10 receivedData: 1
+2021.12.17 12:26:10 receivedData: 1
+2021.12.17 12:26:10 receivedData: 2
+2021.12.17 12:26:10 receivedData: 1
+2021.12.17 12:26:10 receivedData: 4
+2021.12.17 12:26:10 receivedData: 0
+2021.12.17 12:26:10 receivedData: 0
+2021.12.17 12:26:10 receivedData: °
+2021.12.17 12:26:10 receivedData: 4
+2021.12.17 12:26:10 receivedData: 0
+2021.12.17 12:26:10 receivedData: 0
+2021.12.17 12:26:10 receivedData: 
+2021.12.17 12:26:10 receivedData: 
+2021.12.17 12:26:10 receivedData: 
+2021.12.17 12:26:10 receivedData: 1
+2021.12.17 12:26:11 receivedData: R
+2021.12.17 12:26:11 receivedData: |
+2021.12.17 12:26:11 receivedData: 1
+2021.12.17 12:26:11 receivedData: 3
+2021.12.17 12:26:11 receivedData: |
+2021.12.17 12:26:11 receivedData: ^
+2021.12.17 12:26:11 receivedData: ^
+2021.12.17 12:26:11 receivedData: Ю
+2021.12.17 12:26:11 receivedData: 1
+2021.12.17 12:26:11 receivedData: 6
+2021.12.17 12:26:11 receivedData: ^
+2021.12.17 12:26:11 receivedData: ?
+2021.12.17 12:26:11 receivedData: ?
+2021.12.17 12:26:11 receivedData: ї
+2021.12.17 12:26:11 receivedData: .
+2021.12.17 12:26:11 receivedData: ?
+2021.12.17 12:26:11 receivedData: ?
+2021.12.17 12:26:12 receivedData: ^
+2021.12.17 12:26:12 receivedData: 0
+2021.12.17 12:26:12 receivedData: |
+2021.12.17 12:26:12 receivedData: 1
+2021.12.17 12:26:12 receivedData: 3
+2021.12.17 12:26:12 receivedData: .
+2021.12.17 12:26:12 receivedData: 5
+2021.12.17 12:26:12 receivedData: 2
+2021.12.17 12:26:12 receivedData: 5
+2021.12.17 12:26:12 receivedData: 6
+2021.12.17 12:26:12 receivedData: |
+2021.12.17 12:26:12 receivedData: ?
+2021.12.17 12:26:12 receivedData: ?
+2021.12.17 12:26:12 receivedData: ї
+2021.12.17 12:26:12 receivedData: ?
+2021.12.17 12:26:12 receivedData: ї
+2021.12.17 12:26:12 receivedData: ?
+2021.12.17 12:26:13 receivedData: /
+2021.12.17 12:26:13 receivedData: ?
+2021.12.17 12:26:13 receivedData: |
+2021.12.17 12:26:13 receivedData:  
+2021.12.17 12:26:13 receivedData: 0
+2021.12.17 12:26:13 receivedData: .
+2021.12.17 12:26:13 receivedData: 0
+2021.12.17 12:26:13 receivedData: 0
+2021.12.17 12:26:13 receivedData: °
+2021.12.17 12:26:13 receivedData: 0
+2021.12.17 12:26:13 receivedData:  
+2021.12.17 12:26:13 receivedData: T
+2021.12.17 12:26:13 receivedData: O
+2021.12.17 12:26:13 receivedData:  2
+2021.12.17 12:26:13 receivedData: 1
+2021.12.17 12:26:13 receivedData: .
+2021.12.17 12:26:13 receivedData: 0
+2021.12.17 12:26:13 receivedData: 0
+2021.12.17 12:26:14 receivedData: °
+2021.12.17 12:26:14 receivedData: 0
+2021.12.17 12:26:14 receivedData: |
+2021.12.17 12:26:14 receivedData: N
+2021.12.17 12:26:14 receivedData: |
+2021.12.17 12:26:14 receivedData: |
+2021.12.17 12:26:14 receivedData: F
+2021.12.17 12:26:14 receivedData: |
+2021.12.17 12:26:14 receivedData: |
+2021.12.17 12:26:14 receivedData: ь
+2021.12.17 12:26:14 receivedData: |
+2021.12.17 12:26:14 receivedData: 2
+2021.12.17 12:26:14 receivedData: 0
+2021.12.17 12:26:14 receivedData: 2
+2021.12.17 12:26:14 receivedData: 1
+2021.12.17 12:26:14 receivedData: 1
+2021.12.17 12:26:14 receivedData: 2
+2021.12.17 12:26:14 receivedData: 1
+2021.12.17 12:26:15 receivedData: 4
+2021.12.17 12:26:15 receivedData: 0
+2021.12.17 12:26:15 receivedData: 0
+2021.12.17 12:26:15 receivedData: °
+2021.12.17 12:26:15 receivedData: 2
+2021.12.17 12:26:15 receivedData: 2
+2021.12.17 12:26:15 receivedData: 9
+2021.12.17 12:26:15 receivedData: 
+2021.12.17 12:26:15 receivedData: 
+2021.12.17 12:26:15 receivedData: 
+2021.12.17 12:26:15 receivedData: 2
+2021.12.17 12:26:15 receivedData: R
+2021.12.17 12:26:15 receivedData: |
+2021.12.17 12:26:15 receivedData: 1
+2021.12.17 12:26:15 receivedData: 4
+2021.12.17 12:26:15 receivedData: |
+2021.12.17 12:26:15 receivedData: ^
+2021.12.17 12:26:15 receivedData: ^
+2021.12.17 12:26:15 receivedData: Ю
+2021.12.17 12:26:15 receivedData: 1
+2021.12.17 12:26:16 receivedData: 8
+2021.12.17 12:26:16 receivedData: ^
+2021.12.17 12:26:16 receivedData: ?
+2021.12.17 12:26:16 receivedData: -
+2021.12.17 12:26:16 receivedData: ?
+2021.12.17 12:26:16 receivedData: ?
+2021.12.17 12:26:16 receivedData: ^
+2021.12.17 12:26:16 receivedData: 0
+2021.12.17 12:26:16 receivedData: |
+2021.12.17 12:26:16 receivedData: 2
+2021.12.17 12:26:16 receivedData: 5
+2021.12.17 12:26:16 receivedData: 0
+2021.12.17 12:26:16 receivedData: .
+2021.12.17 12:26:16 receivedData: 9
+2021.12.17 12:26:16 receivedData: 6
+2021.12.17 12:26:16 receivedData: 2
+2021.12.17 12:26:16 receivedData: 7
+2021.12.17 12:26:16 receivedData: |
+2021.12.17 12:26:17 receivedData: ?
+2021.12.17 12:26:17 receivedData: ?
+2021.12.17 12:26:17 receivedData: /
+2021.12.17 12:26:17 receivedData: ?
+2021.12.17 12:26:17 receivedData: |
+2021.12.17 12:26:17 receivedData:  
+2021.12.17 12:26:17 receivedData: 0
+2021.12.17 12:26:17 receivedData: .
+2021.12.17 12:26:17 receivedData: 0
+2021.12.17 12:26:17 receivedData: 0
+2021.12.17 12:26:17 receivedData: °
+2021.12.17 12:26:17 receivedData: 0
+2021.12.17 12:26:17 receivedData:  
+2021.12.17 12:26:17 receivedData: T
+2021.12.17 12:26:17 receivedData: O
+2021.12.17 12:26:17 receivedData:  
+2021.12.17 12:26:17 receivedData:  
+2021.12.17 12:26:17 receivedData: 5
+2021.12.17 12:26:17 receivedData: .
+2021.12.17 12:26:18 receivedData: 0
+2021.12.17 12:26:18 receivedData: 0
+2021.12.17 12:26:18 receivedData: °
+2021.12.17 12:26:18 receivedData: 0
+2021.12.17 12:26:18 receivedData: |
+2021.12.17 12:26:18 receivedData: H
+2021.12.17 12:26:18 receivedData: |
+2021.12.17 12:26:18 receivedData: |
+2021.12.17 12:26:18 receivedData: P
+2021.12.17 12:26:18 receivedData: |
+2021.12.17 12:26:18 receivedData: |
+2021.12.17 12:26:18 receivedData: ь
+2021.12.17 12:26:18 receivedData: |
+2021.12.17 12:26:18 receivedData: 2
+2021.12.17 12:26:18 receivedData: 0
+2021.12.17 12:26:18 receivedData: 2
+2021.12.17 12:26:18 receivedData: 1
+2021.12.17 12:26:18 receivedData: 1
+2021.12.17 12:26:19 receivedData: 2
+2021.12.17 12:26:19 receivedData: 1
+2021.12.17 12:26:19 receivedData: 4
+2021.12.17 12:26:19 receivedData: 0
+2021.12.17 12:26:19 receivedData: 0
+2021.12.17 12:26:19 receivedData: °
+2021.12.17 12:26:19 receivedData: 5
+2021.12.17 12:26:19 receivedData: 1
+2021.12.17 12:26:19 receivedData: 6
+2021.12.17 12:26:19 receivedData: 
+2021.12.17 12:26:19 receivedData: 
+2021.12.17 12:26:19 receivedData: 
+2021.12.17 12:26:19 receivedData: 3
+2021.12.17 12:26:19 receivedData: C
+2021.12.17 12:26:19 receivedData: |
+2021.12.17 12:26:20 receivedData: 1
+2021.12.17 12:26:20 receivedData: |
+2021.12.17 12:26:20 receivedData: I
+2021.12.17 12:26:20 receivedData: |
+2021.12.17 12:26:20 receivedData: V
+2021.12.17 12:26:20 receivedData: |
+2021.12.17 12:26:20 receivedData: I
+2021.12.17 12:26:20 receivedData: 
+2021.12.17 12:26:20 receivedData: 
+2021.12.17 12:26:20 receivedData: 
+2021.12.17 12:26:20 receivedData: 4
+2021.12.17 12:26:20 receivedData: R
+2021.12.17 12:26:20 receivedData: |
+2021.12.17 12:26:20 receivedData: 1
+2021.12.17 12:26:20 receivedData: 5
+2021.12.17 12:26:20 receivedData: |
+2021.12.17 12:26:20 receivedData: ^
+2021.12.17 12:26:20 receivedData: ^
+2021.12.17 12:26:21 receivedData: Ю
+2021.12.17 12:26:21 receivedData: 1
+2021.12.17 12:26:21 receivedData: 8
+2021.12.17 12:26:21 receivedData: ^
+2021.12.17 12:26:21 receivedData: ?
+2021.12.17 12:26:21 receivedData: -
+2021.12.17 12:26:21 receivedData: ?
+2021.12.17 12:26:21 receivedData: ?
+2021.12.17 12:26:21 receivedData: ^
+2021.12.17 12:26:21 receivedData: 2
+2021.12.17 12:26:21 receivedData: |
+2021.12.17 12:26:21 receivedData: |
+2021.12.17 12:26:21 receivedData: ?
+2021.12.17 12:26:21 receivedData: ?
+2021.12.17 12:26:21 receivedData: /
+2021.12.17 12:26:21 receivedData: ?
+2021.12.17 12:26:21 receivedData: |
+2021.12.17 12:26:22 receivedData:  
+2021.12.17 12:26:22 receivedData: 0
+2021.12.17 12:26:22 receivedData: .
+2021.12.17 12:26:22 receivedData: 0
+2021.12.17 12:26:22 receivedData: 0
+2021.12.17 12:26:22 receivedData: °
+2021.12.17 12:26:22 receivedData: 0
+2021.12.17 12:26:22 receivedData:  
+2021.12.17 12:26:22 receivedData: T
+2021.12.17 12:26:22 receivedData: O
+2021.12.17 12:26:22 receivedData:  
+2021.12.17 12:26:22 receivedData:  
+2021.12.17 12:26:22 receivedData: 5
+2021.12.17 12:26:22 receivedData: .
+2021.12.17 12:26:22 receivedData: 0
+2021.12.17 12:26:22 receivedData: 0
+2021.12.17 12:26:22 receivedData: °
+2021.12.17 12:26:22 receivedData: 0
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:23 receivedData: N
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:23 receivedData: I
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:23 receivedData: ь
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:23 receivedData: 
+2021.12.17 12:26:23 receivedData: 
+2021.12.17 12:26:23 receivedData: 
+2021.12.17 12:26:23 receivedData: 5
+2021.12.17 12:26:23 receivedData: L
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:23 receivedData: 1
+2021.12.17 12:26:23 receivedData: |
+2021.12.17 12:26:24 receivedData: N
+2021.12.17 12:26:24 receivedData: 
+2021.12.17 12:26:24 receivedData: 
+2021.12.17 12:26:24 receivedData: 
+2021.12.17 12:26:24 Получено для парсинга 1556 байт:
+1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N
+2021.12.17 12:26:24 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ParamName15, ParamValue15, ParamRef15, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 15 , '1', '6.0883', '4.200° TO 6.400°', '5', '53.7033', 'длина больше 16', '6', '34.8550', 'длина больше 16', '7', '97.3548', 'длина больше 16', '8', '13.4944', '1.700° TO 8.300°', '9', '49.1179', 'длина больше 16', '10', '46.8118', 'длина больше 16', '11', '81.5223', 'длина больше 16', '12', '711.3191', 'длина больше 16', '13', '32.0695', 'длина больше 16', '14', '669.2744', 'длина больше 16', '15', '191.5488', 'длина больше 16', '16', '13.5256', 'длина больше 16', '18', '250.9627', '0.00°0 TO 5.00°0', '18', '', '0.00°0 TO 5.00°0', '0', '0', '1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N' );
+2021.12.17 12:41:34 --- Завершение работы.
+2021.12.17 12:47:46 --- Запуск Sapphire ASU-911 user Версия 1.0.67.291 от 2021.12.17.0947
+2021.12.17 12:48:09 receivedData: 	1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477-2 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N          ``
+2021.12.17 12:48:09 ERR: Ошибка в данных - неизвестный тип записи в 0-й строке:	.
+2021.12.17 12:48:10 Получено для парсинга 1571 байт:
+	1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477-2 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N          ``
+2021.12.17 12:48:10 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ParamName15, ParamValue15, ParamRef15, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 15 , '1', '6.0883', '4.200° TO 6.400°', '5', '53.7033', 'длина больше 16', '6', '34.8550', 'длина больше 16', '7', '97.3548', 'длина больше 16', '8', '13.4944', '1.700° TO 8.300°', '9', '49.1179', 'длина больше 16', '10', '46.8118', 'длина больше 16', '11', '81.5223', 'длина больше 16', '12', '711.3191', 'длина больше 16', '13', '32.0695', 'длина больше 16', '14', '669.2744', 'длина больше 16', '15', '191.5488', 'длина больше 16', '16', '13.5256', 'длина больше 16', '18', '250.9627', '0.00°0 TO 5.00°0', '18', '', '0.00°0 TO 5.00°0', '0', '0', '	1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477-2 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N          ``' );
+2021.12.17 12:53:11 --- Запуск Sapphire ASU-911 user Версия 1.0.67.291 от 2021.12.17.0947
+2021.12.17 12:53:54 --- Запуск Sapphire ASU-911 user Версия 1.0.67.291 от 2021.12.17.0947
+2021.12.17 12:54:10 receivedData: 	1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477-2 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь
+2021.12.17 12:54:10 receivedData: 3O|1||^1
+2021.12.17 12:54:10 receivedData: ^
+2021.12.17 12:54:10 receivedData: 1
+2021.12.17 12:54:10 receivedData: 2
+2021.12.17 12:54:11 receivedData: 8
+2021.12.17 12:54:11 receivedData: |
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: Ю
+2021.12.17 12:54:11 receivedData: 1
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: 0
+2021.12.17 12:54:11 receivedData: \
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: Ю
+2021.12.17 12:54:11 receivedData: 5
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: .
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: 0
+2021.12.17 12:54:11 receivedData: \
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: Ю
+2021.12.17 12:54:11 receivedData: 6
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: 0
+2021.12.17 12:54:11 receivedData: \
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: Ю
+2021.12.17 12:54:11 receivedData: 7
+2021.12.17 12:54:11 receivedData: ^
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:11 receivedData: ї
+2021.12.17 12:54:11 receivedData: -
+2021.12.17 12:54:11 receivedData: ?
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: 0
+2021.12.17 12:54:12 receivedData: \
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: Ю
+2021.12.17 12:54:12 receivedData: 8
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ї
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ї
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ї
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: 0
+2021.12.17 12:54:12 receivedData: \
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: Ю
+2021.12.17 12:54:12 receivedData: 9
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ї
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: 0
+2021.12.17 12:54:12 receivedData: \
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: Ю
+2021.12.17 12:54:12 receivedData: 1
+2021.12.17 12:54:12 receivedData: 0
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ?
+2021.12.17 12:54:12 receivedData: ї
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: 0
+2021.12.17 12:54:12 receivedData: \
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:12 receivedData: ^
+2021.12.17 12:54:13 receivedData: Ю
+2021.12.17 12:54:13 receivedData: 1
+2021.12.17 12:54:13 receivedData: 1
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: ??ї?
+2021.12.17 12:54:13 receivedData: ї
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ї
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: 0
+2021.12.17 12:54:13 receivedData: \
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: Ю
+2021.12.17 12:54:13 receivedData: 1
+2021.12.17 12:54:13 receivedData: 2
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ї
+2021.12.17 12:54:13 receivedData: .
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ї
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: 0
+2021.12.17 12:54:13 receivedData: \
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: Ю
+2021.12.17 12:54:13 receivedData: 1
+2021.12.17 12:54:13 receivedData: 3
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: -
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ?
+2021.12.17 12:54:13 receivedData: ї
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: 0
+2021.12.17 12:54:13 receivedData: \
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: ^
+2021.12.17 12:54:13 receivedData: Ю
+2021.12.17 12:54:14 receivedData: 1
+2021.12.17 12:54:14 receivedData: 4
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ї
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: 0
+2021.12.17 12:54:14 receivedData: \
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: Ю
+2021.12.17 12:54:14 receivedData: 1
+2021.12.17 12:54:14 receivedData: 5
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ї
+2021.12.17 12:54:14 receivedData: .
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ї
+2021.12.17 12:54:14 receivedData: .
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: 0
+2021.12.17 12:54:14 receivedData: \
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: Ю
+2021.12.17 12:54:14 receivedData: 1
+2021.12.17 12:54:14 receivedData: 6
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ї
+2021.12.17 12:54:14 receivedData: .?
+2021.12.17 12:54:14 receivedData: ?
+2021.12.17 12:54:14 receivedData: ^
+2021.12.17 12:54:14 receivedData: 0
+2021.12.17 12:54:15 receivedData: \
+2021.12.17 12:54:15 receivedData: ^
+2021.12.17 12:54:15 receivedData: ^
+2021.12.17 12:54:15 receivedData: Ю
+2021.12.17 12:54:15 receivedData: 1
+2021.12.17 12:54:15 receivedData: 8
+2021.12.17 12:54:15 receivedData: ^
+2021.12.17 12:54:15 receivedData: ?
+2021.12.17 12:54:15 receivedData: -
+2021.12.17 12:54:15 receivedData: ?
+2021.12.17 12:54:15 receivedData: ?
+2021.12.17 12:54:15 receivedData: ^
+2021.12.17 12:54:15 receivedData: 0
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: R
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: Serum||
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: |
+2021.12.17 12:54:15 receivedData: ь
+2021.12.17 12:54:15 receivedData: 
+2021.12.17 12:54:15 receivedData: 9
+2021.12.17 12:54:15 receivedData: B
+2021.12.17 12:54:16 receivedData: 
+2021.12.17 12:54:16 receivedData: 
+2021.12.17 12:54:16 receivedData: 4
+2021.12.17 12:54:16 receivedData: |
+2021.12.17 12:54:16 receivedData: F
+2021.12.17 12:54:16 receivedData: 
+2021.12.17 12:54:16 receivedData: 
+2021.12.17 12:54:16 receivedData: 5
+2021.12.17 12:54:16 receivedData: R
+2021.12.17 12:54:16 receivedData: |
+2021.12.17 12:54:16 receivedData: 1
+2021.12.17 12:54:16 receivedData: |
+2021.12.17 12:54:16 receivedData: ^
+2021.12.17 12:54:16 receivedData: ^
+2021.12.17 12:54:16 receivedData: Ю
+2021.12.17 12:54:16 receivedData: 1^
+2021.12.17 12:54:16 receivedData: ?
+2021.12.17 12:54:16 receivedData: ?ї
+2021.12.17 12:54:16 receivedData: ?
+2021.12.17 12:54:16 receivedData: ї
+2021.12.17 12:54:16 receivedData: ?ї
+2021.12.17 12:54:16 receivedData: ^
+2021.12.17 12:54:16 receivedData: 0
+2021.12.17 12:54:16 receivedData: | 
+2021.12.17 12:54:16 receivedData: 6
+2021.12.17 12:54:16 receivedData: .
+2021.12.17 12:54:16 receivedData: 0
+2021.12.17 12:54:16 receivedData: 8
+2021.12.17 12:54:16 receivedData: 8
+2021.12.17 12:54:16 receivedData: 3
+2021.12.17 12:54:16 receivedData: |
+2021.12.17 12:54:16 receivedData: ?
+2021.12.17 12:54:16 receivedData: ?
+2021.12.17 12:54:16 receivedData: ї
+2021.12.17 12:54:16 receivedData: ?
+2021.12.17 12:54:16 receivedData: ї
+2021.12.17 12:54:16 receivedData: /
+2021.12.17 12:54:16 receivedData: ?
+2021.12.17 12:54:17 receivedData: |
+2021.12.17 12:54:17 receivedData:  
+2021.12.17 12:54:17 receivedData: 4
+2021.12.17 12:54:17 receivedData: .
+2021.12.17 12:54:17 receivedData: 2
+2021.12.17 12:54:17 receivedData: 0
+2021.12.17 12:54:17 receivedData: 0
+2021.12.17 12:54:17 receivedData: °
+2021.12.17 12:54:17 receivedData:  
+2021.12.17 12:54:17 receivedData: T
+2021.12.17 12:54:17 receivedData: O
+2021.12.17 12:54:17 receivedData:  
+2021.12.17 12:54:17 receivedData:  
+2021.12.17 12:54:17 receivedData: 6
+2021.12.17 12:54:17 receivedData: .
+2021.12.17 12:54:17 receivedData: 4
+2021.12.17 12:54:17 receivedData: 0
+2021.12.17 12:54:17 receivedData: 0
+2021.12.17 12:54:17 receivedData: °
+2021.12.17 12:54:17 receivedData: |
+2021.12.17 12:54:17 receivedData: N
+2021.12.17 12:54:17 receivedData: |
+2021.12.17 12:54:17 receivedData: |
+2021.12.17 12:54:17 receivedData: F
+2021.12.17 12:54:17 receivedData: |
+2021.12.17 12:54:17 receivedData: |
+2021.12.17 12:54:17 receivedData: ь
+2021.12.17 12:54:17 receivedData: |
+2021.12.17 12:54:17 receivedData: 2
+2021.12.17 12:54:17 receivedData: 0
+2021.12.17 12:54:17 receivedData: 2
+2021.12.17 12:54:17 receivedData: 1
+2021.12.17 12:54:17 receivedData: 1
+2021.12.17 12:54:17 receivedData: 2
+2021.12.17 12:54:17 receivedData: 1
+2021.12.17 12:54:18 receivedData: 4
+2021.12.17 12:54:18 receivedData: 0
+2021.12.17 12:54:18 receivedData: 0
+2021.12.17 12:54:18 receivedData: °
+2021.12.17 12:54:18 receivedData: 5
+2021.12.17 12:54:18 receivedData: 0
+2021.12.17 12:54:18 receivedData: 1
+2021.12.17 12:54:18 receivedData: 
+2021.12.17 12:54:18 receivedData: 
+2021.12.17 12:54:18 receivedData: 
+2021.12.17 12:54:18 receivedData: 6
+2021.12.17 12:54:18 receivedData: R
+2021.12.17 12:54:18 receivedData: |
+2021.12.17 12:54:18 receivedData: 2
+2021.12.17 12:54:18 receivedData: |
+2021.12.17 12:54:18 receivedData: ^
+2021.12.17 12:54:18 receivedData: ^
+2021.12.17 12:54:18 receivedData: Ю
+2021.12.17 12:54:18 receivedData: 5
+2021.12.17 12:54:18 receivedData: ^
+2021.12.17 12:54:18 receivedData: ?
+2021.12.17 12:54:18 receivedData: ?
+2021.12.17 12:54:18 receivedData: .
+2021.12.17 12:54:18 receivedData: ?
+2021.12.17 12:54:18 receivedData: ?
+2021.12.17 12:54:18 receivedData: ї
+2021.12.17 12:54:19 receivedData: ^
+2021.12.17 12:54:19 receivedData: 0
+2021.12.17 12:54:19 receivedData: |
+2021.12.17 12:54:19 receivedData: 5
+2021.12.17 12:54:19 receivedData: 3
+2021.12.17 12:54:19 receivedData: .
+2021.12.17 12:54:19 receivedData: 7
+2021.12.17 12:54:19 receivedData: 0
+2021.12.17 12:54:19 receivedData: 3
+2021.12.17 12:54:19 receivedData: 3
+2021.12.17 12:54:19 receivedData: |
+2021.12.17 12:54:19 receivedData: ?
+2021.12.17 12:54:19 receivedData: /
+2021.12.17 12:54:19 receivedData: ?
+2021.12.17 12:54:19 receivedData: |
+2021.12.17 12:54:19 receivedData: 64
+2021.12.17 12:54:19 receivedData: .
+2021.12.17 12:54:19 receivedData: 0
+2021.12.17 12:54:19 receivedData: 0
+2021.12.17 12:54:19 receivedData: °
+2021.12.17 12:54:19 receivedData: 0
+2021.12.17 12:54:19 receivedData:  
+2021.12.17 12:54:19 receivedData: T
+2021.12.17 12:54:19 receivedData: O
+2021.12.17 12:54:19 receivedData:  
+2021.12.17 12:54:19 receivedData: 8
+2021.12.17 12:54:19 receivedData: 3
+2021.12.17 12:54:20 receivedData: .
+2021.12.17 12:54:20 receivedData: 0
+2021.12.17 12:54:20 receivedData: 0
+2021.12.17 12:54:20 receivedData: °
+2021.12.17 12:54:20 receivedData: 0
+2021.12.17 12:54:20 receivedData: |
+2021.12.17 12:54:20 receivedData: L
+2021.12.17 12:54:20 receivedData: |
+2021.12.17 12:54:20 receivedData: |
+2021.12.17 12:54:20 receivedData: F
+2021.12.17 12:54:20 receivedData: |
+2021.12.17 12:54:20 receivedData: |
+2021.12.17 12:54:20 receivedData: ь
+2021.12.17 12:54:20 receivedData: |
+2021.12.17 12:54:20 receivedData: 2
+2021.12.17 12:54:20 receivedData: 0
+2021.12.17 12:54:20 receivedData: 2
+2021.12.17 12:54:20 receivedData: 1
+2021.12.17 12:54:20 receivedData: 1
+2021.12.17 12:54:20 receivedData: 2
+2021.12.17 12:54:20 receivedData: 1
+2021.12.17 12:54:20 receivedData: 4
+2021.12.17 12:54:20 receivedData: 0
+2021.12.17 12:54:20 receivedData: 0
+2021.12.17 12:54:20 receivedData: °
+2021.12.17 12:54:21 receivedData: 2
+2021.12.17 12:54:21 receivedData: 4
+2021.12.17 12:54:21 receivedData: 4
+2021.12.17 12:54:21 receivedData: 
+2021.12.17 12:54:21 receivedData: 
+2021.12.17 12:54:21 receivedData: 
+2021.12.17 12:54:21 receivedData: 7
+2021.12.17 12:54:21 receivedData: R
+2021.12.17 12:54:21 receivedData: |
+2021.12.17 12:54:21 receivedData: 3
+2021.12.17 12:54:21 receivedData: |
+2021.12.17 12:54:21 receivedData: ^
+2021.12.17 12:54:21 receivedData: ^
+2021.12.17 12:54:21 receivedData: Ю
+2021.12.17 12:54:21 receivedData: 6
+2021.12.17 12:54:21 receivedData: ^
+2021.12.17 12:54:21 receivedData: ?
+2021.12.17 12:54:21 receivedData: ?
+2021.12.17 12:54:21 receivedData: ї
+2021.12.17 12:54:21 receivedData: ?
+2021.12.17 12:54:21 receivedData: ї
+2021.12.17 12:54:21 receivedData: ?
+2021.12.17 12:54:21 receivedData: ї
+2021.12.17 12:54:21 receivedData: ?
+2021.12.17 12:54:21 receivedData: ^
+2021.12.17 12:54:21 receivedData: 0
+2021.12.17 12:54:21 receivedData: |
+2021.12.17 12:54:21 receivedData: 3
+2021.12.17 12:54:21 receivedData: 4
+2021.12.17 12:54:22 receivedData: .
+2021.12.17 12:54:22 receivedData: 8
+2021.12.17 12:54:22 receivedData: 5
+2021.12.17 12:54:22 receivedData: 5
+2021.12.17 12:54:22 receivedData: 0
+2021.12.17 12:54:22 receivedData: |
+2021.12.17 12:54:22 receivedData: ?
+2021.12.17 12:54:22 receivedData: /
+2021.12.17 12:54:22 receivedData: ?
+2021.12.17 12:54:22 receivedData: |
+2021.12.17 12:54:22 receivedData: 3
+2021.12.17 12:54:22 receivedData: 4
+2021.12.17 12:54:22 receivedData: .0
+2021.12.17 12:54:22 receivedData: 0
+2021.12.17 12:54:22 receivedData: °
+2021.12.17 12:54:22 receivedData: 0
+2021.12.17 12:54:22 receivedData:  
+2021.12.17 12:54:22 receivedData: T
+2021.12.17 12:54:22 receivedData: O
+2021.12.17 12:54:22 receivedData:  
+2021.12.17 12:54:22 receivedData: 5
+2021.12.17 12:54:22 receivedData: 0
+2021.12.17 12:54:22 receivedData: .
+2021.12.17 12:54:22 receivedData: 0
+2021.12.17 12:54:22 receivedData: 0
+2021.12.17 12:54:22 receivedData: °
+2021.12.17 12:54:22 receivedData: 0
+2021.12.17 12:54:22 receivedData: |
+2021.12.17 12:54:22 receivedData: N
+2021.12.17 12:54:22 receivedData: |
+2021.12.17 12:54:23 receivedData: |
+2021.12.17 12:54:23 receivedData: F
+2021.12.17 12:54:23 receivedData: |
+2021.12.17 12:54:23 receivedData: |
+2021.12.17 12:54:23 receivedData: ь
+2021.12.17 12:54:23 receivedData: |
+2021.12.17 12:54:23 receivedData: 2
+2021.12.17 12:54:23 receivedData: 0
+2021.12.17 12:54:23 receivedData: 2
+2021.12.17 12:54:23 receivedData: 1
+2021.12.17 12:54:23 receivedData: 1
+2021.12.17 12:54:23 receivedData: 2
+2021.12.17 12:54:23 receivedData: 1
+2021.12.17 12:54:23 receivedData: 4
+2021.12.17 12:54:23 receivedData: 0
+2021.12.17 12:54:23 receivedData: 0
+2021.12.17 12:54:23 receivedData: °
+2021.12.17 12:54:23 receivedData: 3
+2021.12.17 12:54:23 receivedData: 4
+2021.12.17 12:54:23 receivedData: 5
+2021.12.17 12:54:23 receivedData: 
+2021.12.17 12:54:23 receivedData: 
+2021.12.17 12:54:23 receivedData: 
+2021.12.17 12:54:23 receivedData: 0
+2021.12.17 12:54:23 receivedData: R
+2021.12.17 12:54:23 receivedData: |
+2021.12.17 12:54:23 receivedData: 4
+2021.12.17 12:54:23 receivedData: |
+2021.12.17 12:54:23 receivedData: ^
+2021.12.17 12:54:24 receivedData: ^
+2021.12.17 12:54:24 receivedData: Ю
+2021.12.17 12:54:24 receivedData: 7
+2021.12.17 12:54:24 receivedData: ^
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: ї
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: ї
+2021.12.17 12:54:24 receivedData: -
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: ^
+2021.12.17 12:54:24 receivedData: 0
+2021.12.17 12:54:24 receivedData: |
+2021.12.17 12:54:24 receivedData: 9
+2021.12.17 12:54:24 receivedData: 7
+2021.12.17 12:54:24 receivedData: .
+2021.12.17 12:54:24 receivedData: 3
+2021.12.17 12:54:24 receivedData: 5
+2021.12.17 12:54:24 receivedData: 4
+2021.12.17 12:54:24 receivedData: 8
+2021.12.17 12:54:24 receivedData: |
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: ї
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: ї
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:24 receivedData: /
+2021.12.17 12:54:24 receivedData: ?
+2021.12.17 12:54:25 receivedData: |
+2021.12.17 12:54:25 receivedData: 7
+2021.12.17 12:54:25 receivedData: 1
+2021.12.17 12:54:25 receivedData: .
+2021.12.17 12:54:25 receivedData: 0
+2021.12.17 12:54:25 receivedData: 0
+2021.12.17 12:54:25 receivedData: °
+2021.12.17 12:54:25 receivedData: 0
+2021.12.17 12:54:25 receivedData:  
+2021.12.17 12:54:25 receivedData: T
+2021.12.17 12:54:25 receivedData: O
+2021.12.17 12:54:25 receivedData:  
+2021.12.17 12:54:25 receivedData: 1
+2021.12.17 12:54:25 receivedData: 1
+2021.12.17 12:54:25 receivedData: 5
+2021.12.17 12:54:25 receivedData: .
+2021.12.17 12:54:25 receivedData: 0
+2021.12.17 12:54:25 receivedData: 0
+2021.12.17 12:54:25 receivedData: °
+2021.12.17 12:54:25 receivedData: 0
+2021.12.17 12:54:25 receivedData: |
+2021.12.17 12:54:25 receivedData: N
+2021.12.17 12:54:25 receivedData: |
+2021.12.17 12:54:25 receivedData: |
+2021.12.17 12:54:25 receivedData: F
+2021.12.17 12:54:25 receivedData: |
+2021.12.17 12:54:25 receivedData: |
+2021.12.17 12:54:25 receivedData: ь
+2021.12.17 12:54:25 receivedData: |
+2021.12.17 12:54:25 receivedData: 2
+2021.12.17 12:54:25 receivedData: 0
+2021.12.17 12:54:25 receivedData: 2
+2021.12.17 12:54:25 receivedData: 1
+2021.12.17 12:54:25 receivedData: 1
+2021.12.17 12:54:25 receivedData: 2
+2021.12.17 12:54:26 receivedData: 1
+2021.12.17 12:54:26 receivedData: 4
+2021.12.17 12:54:26 receivedData: 0
+2021.12.17 12:54:26 receivedData: 0
+2021.12.17 12:54:26 receivedData: °
+2021.12.17 12:54:26 receivedData: 3
+2021.12.17 12:54:26 receivedData: 3
+2021.12.17 12:54:26 receivedData: 0
+2021.12.17 12:54:26 receivedData: 
+2021.12.17 12:54:26 receivedData: 
+2021.12.17 12:54:26 receivedData: 
+2021.12.17 12:54:26 receivedData: 1
+2021.12.17 12:54:26 receivedData: R
+2021.12.17 12:54:26 receivedData: |
+2021.12.17 12:54:26 receivedData: 5
+2021.12.17 12:54:26 receivedData: |
+2021.12.17 12:54:26 receivedData: ^
+2021.12.17 12:54:26 receivedData: ^
+2021.12.17 12:54:26 receivedData: Ю
+2021.12.17 12:54:26 receivedData: 8
+2021.12.17 12:54:26 receivedData: ^
+2021.12.17 12:54:26 receivedData: ?
+2021.12.17 12:54:26 receivedData: ?
+2021.12.17 12:54:26 receivedData: ї
+2021.12.17 12:54:26 receivedData: ?
+2021.12.17 12:54:26 receivedData: ї
+2021.12.17 12:54:26 receivedData: ?
+2021.12.17 12:54:26 receivedData: ї
+2021.12.17 12:54:26 receivedData: ?
+2021.12.17 12:54:26 receivedData: ^
+2021.12.17 12:54:26 receivedData: 0
+2021.12.17 12:54:26 receivedData: |
+2021.12.17 12:54:27 receivedData: 1
+2021.12.17 12:54:27 receivedData: 3
+2021.12.17 12:54:27 receivedData: .
+2021.12.17 12:54:27 receivedData: 4
+2021.12.17 12:54:27 receivedData: 9
+2021.12.17 12:54:27 receivedData: 4
+2021.12.17 12:54:27 receivedData: 4
+2021.12.17 12:54:27 receivedData: |
+2021.12.17 12:54:27 receivedData: ?
+2021.12.17 12:54:27 receivedData: ?
+2021.12.17 12:54:27 receivedData: ї
+2021.12.17 12:54:27 receivedData: ?
+2021.12.17 12:54:27 receivedData: ї
+2021.12.17 12:54:27 receivedData: /
+2021.12.17 12:54:27 receivedData: ?
+2021.12.17 12:54:27 receivedData: |
+2021.12.17 12:54:27 receivedData:  
+2021.12.17 12:54:27 receivedData: 1
+2021.12.17 12:54:27 receivedData: .
+2021.12.17 12:54:27 receivedData: 7
+2021.12.17 12:54:27 receivedData: 0
+2021.12.17 12:54:27 receivedData: 0
+2021.12.17 12:54:27 receivedData: °
+2021.12.17 12:54:27 receivedData:  
+2021.12.17 12:54:27 receivedData: T
+2021.12.17 12:54:27 receivedData: O
+2021.12.17 12:54:27 receivedData:  
+2021.12.17 12:54:27 receivedData:  
+2021.12.17 12:54:27 receivedData: 8
+2021.12.17 12:54:27 receivedData: .
+2021.12.17 12:54:27 receivedData: 3
+2021.12.17 12:54:27 receivedData: 0
+2021.12.17 12:54:28 receivedData: 0
+2021.12.17 12:54:28 receivedData: °
+2021.12.17 12:54:28 receivedData: |
+2021.12.17 12:54:28 receivedData: H
+2021.12.17 12:54:28 receivedData: |
+2021.12.17 12:54:28 receivedData: |
+2021.12.17 12:54:28 receivedData: F
+2021.12.17 12:54:28 receivedData: |
+2021.12.17 12:54:28 receivedData: |
+2021.12.17 12:54:28 receivedData: ь
+2021.12.17 12:54:28 receivedData: |
+2021.12.17 12:54:28 receivedData: 2
+2021.12.17 12:54:28 receivedData: 0
+2021.12.17 12:54:28 receivedData: 2
+2021.12.17 12:54:28 receivedData: 1
+2021.12.17 12:54:28 receivedData: 1
+2021.12.17 12:54:28 receivedData: 2
+2021.12.17 12:54:28 receivedData: 1
+2021.12.17 12:54:28 receivedData: 4
+2021.12.17 12:54:28 receivedData: 0
+2021.12.17 12:54:28 receivedData: 0
+2021.12.17 12:54:28 receivedData: °
+2021.12.17 12:54:28 receivedData: 1
+2021.12.17 12:54:28 receivedData: 5
+2021.12.17 12:54:28 receivedData: 9
+2021.12.17 12:54:28 receivedData: 
+2021.12.17 12:54:28 receivedData: 
+2021.12.17 12:54:28 receivedData: 
+2021.12.17 12:54:28 receivedData: 2
+2021.12.17 12:54:29 receivedData: R
+2021.12.17 12:54:29 receivedData: |
+2021.12.17 12:54:29 receivedData: 6
+2021.12.17 12:54:29 receivedData: |
+2021.12.17 12:54:29 receivedData: ^
+2021.12.17 12:54:29 receivedData: ^
+2021.12.17 12:54:29 receivedData: Ю
+2021.12.17 12:54:29 receivedData: 9
+2021.12.17 12:54:29 receivedData: ^
+2021.12.17 12:54:29 receivedData: ?
+2021.12.17 12:54:29 receivedData: ?
+2021.12.17 12:54:29 receivedData: ї
+2021.12.17 12:54:29 receivedData: ^0
+2021.12.17 12:54:29 receivedData: |
+2021.12.17 12:54:29 receivedData: 4
+2021.12.17 12:54:29 receivedData: 9
+2021.12.17 12:54:29 receivedData: .
+2021.12.17 12:54:29 receivedData: 1
+2021.12.17 12:54:29 receivedData: 1
+2021.12.17 12:54:29 receivedData: 7
+2021.12.17 12:54:29 receivedData: 9
+2021.12.17 12:54:29 receivedData: |
+2021.12.17 12:54:29 receivedData: ?
+2021.12.17 12:54:29 receivedData: ?
+2021.12.17 12:54:29 receivedData: /
+2021.12.17 12:54:29 receivedData: ?
+2021.12.17 12:54:29 receivedData: |
+2021.12.17 12:54:29 receivedData:  
+2021.12.17 12:54:29 receivedData: 0
+2021.12.17 12:54:30 receivedData: .
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:30 receivedData: °
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:30 receivedData:  
+2021.12.17 12:54:30 receivedData: T
+2021.12.17 12:54:30 receivedData: O
+2021.12.17 12:54:30 receivedData:  
+2021.12.17 12:54:30 receivedData: 4
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:30 receivedData: .
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:30 receivedData: °
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:30 receivedData: |
+2021.12.17 12:54:30 receivedData: H
+2021.12.17 12:54:30 receivedData: |
+2021.12.17 12:54:30 receivedData: |
+2021.12.17 12:54:30 receivedData: F
+2021.12.17 12:54:30 receivedData: |
+2021.12.17 12:54:30 receivedData: |
+2021.12.17 12:54:30 receivedData: ь
+2021.12.17 12:54:30 receivedData: |
+2021.12.17 12:54:30 receivedData: 2
+2021.12.17 12:54:30 receivedData: 0
+2021.12.17 12:54:31 receivedData: 2
+2021.12.17 12:54:31 receivedData: 11214
+2021.12.17 12:54:31 receivedData: 0
+2021.12.17 12:54:31 receivedData: 0
+2021.12.17 12:54:31 receivedData: °3
+2021.12.17 12:54:31 receivedData: 1
+2021.12.17 12:54:31 receivedData: 5
+2021.12.17 12:54:31 receivedData: 
+2021.12.17 12:54:31 receivedData: 
+2021.12.17 12:54:31 receivedData: 
+2021.12.17 12:54:31 receivedData: 3
+2021.12.17 12:54:31 receivedData: R
+2021.12.17 12:54:31 receivedData: |
+2021.12.17 12:54:31 receivedData: 7
+2021.12.17 12:54:31 receivedData: |
+2021.12.17 12:54:31 receivedData: ^
+2021.12.17 12:54:31 receivedData: ^
+2021.12.17 12:54:31 receivedData: Ю
+2021.12.17 12:54:31 receivedData: 1
+2021.12.17 12:54:31 receivedData: 0
+2021.12.17 12:54:31 receivedData: ^
+2021.12.17 12:54:31 receivedData: ?
+2021.12.17 12:54:31 receivedData: ?
+2021.12.17 12:54:31 receivedData: ї
+2021.12.17 12:54:32 receivedData: ^
+2021.12.17 12:54:32 receivedData: 0
+2021.12.17 12:54:32 receivedData: |
+2021.12.17 12:54:32 receivedData: 46
+2021.12.17 12:54:32 receivedData: .
+2021.12.17 12:54:32 receivedData: 8
+2021.12.17 12:54:32 receivedData: 1
+2021.12.17 12:54:32 receivedData: 1
+2021.12.17 12:54:32 receivedData: 8
+2021.12.17 12:54:32 receivedData: |
+2021.12.17 12:54:32 receivedData: ?
+2021.12.17 12:54:32 receivedData: ?/
+2021.12.17 12:54:32 receivedData: ?
+2021.12.17 12:54:32 receivedData: |
+2021.12.17 12:54:32 receivedData:  
+2021.12.17 12:54:32 receivedData: 0
+2021.12.17 12:54:32 receivedData: .
+2021.12.17 12:54:32 receivedData: 00
+2021.12.17 12:54:32 receivedData: °
+2021.12.17 12:54:32 receivedData: 0
+2021.12.17 12:54:32 receivedData:  
+2021.12.17 12:54:32 receivedData: T
+2021.12.17 12:54:32 receivedData: O
+2021.12.17 12:54:32 receivedData:  
+2021.12.17 12:54:32 receivedData: 3
+2021.12.17 12:54:33 receivedData: 7
+2021.12.17 12:54:33 receivedData: .
+2021.12.17 12:54:33 receivedData: 0
+2021.12.17 12:54:33 receivedData: 0
+2021.12.17 12:54:33 receivedData: °
+2021.12.17 12:54:33 receivedData: 0
+2021.12.17 12:54:33 receivedData: |
+2021.12.17 12:54:33 receivedData: H
+2021.12.17 12:54:33 receivedData: |
+2021.12.17 12:54:33 receivedData: |
+2021.12.17 12:54:33 receivedData: F
+2021.12.17 12:54:33 receivedData: |
+2021.12.17 12:54:33 receivedData: |
+2021.12.17 12:54:33 receivedData: ь
+2021.12.17 12:54:33 receivedData: |
+2021.12.17 12:54:33 receivedData: 2
+2021.12.17 12:54:33 receivedData: 0
+2021.12.17 12:54:33 receivedData: 2
+2021.12.17 12:54:33 receivedData: 1
+2021.12.17 12:54:33 receivedData: 1
+2021.12.17 12:54:33 receivedData: 2
+2021.12.17 12:54:33 receivedData: 1
+2021.12.17 12:54:33 receivedData: 4
+2021.12.17 12:54:33 receivedData: 0
+2021.12.17 12:54:33 receivedData: 0
+2021.12.17 12:54:34 receivedData: °
+2021.12.17 12:54:34 receivedData: 3
+2021.12.17 12:54:34 receivedData: 0
+2021.12.17 12:54:34 receivedData: 0
+2021.12.17 12:54:34 receivedData: 
+2021.12.17 12:54:34 receivedData: 
+2021.12.17 12:54:34 receivedData: 
+2021.12.17 12:54:34 receivedData: 4
+2021.12.17 12:54:34 receivedData: R
+2021.12.17 12:54:34 receivedData: |
+2021.12.17 12:54:34 receivedData: 8
+2021.12.17 12:54:34 receivedData: |
+2021.12.17 12:54:34 receivedData: ^
+2021.12.17 12:54:34 receivedData: ^
+2021.12.17 12:54:34 receivedData: Ю
+2021.12.17 12:54:34 receivedData: 1
+2021.12.17 12:54:34 receivedData: 1
+2021.12.17 12:54:34 receivedData: ^
+2021.12.17 12:54:34 receivedData: ?
+2021.12.17 12:54:34 receivedData: ?
+2021.12.17 12:54:34 receivedData: ї
+2021.12.17 12:54:34 receivedData: ?
+2021.12.17 12:54:34 receivedData: ї
+2021.12.17 12:54:34 receivedData: ?
+2021.12.17 12:54:34 receivedData: ї
+2021.12.17 12:54:35 receivedData: ^
+2021.12.17 12:54:35 receivedData: 0
+2021.12.17 12:54:35 receivedData: |
+2021.12.17 12:54:35 receivedData: 8
+2021.12.17 12:54:35 receivedData: 1
+2021.12.17 12:54:35 receivedData: .
+2021.12.17 12:54:35 receivedData: 5
+2021.12.17 12:54:35 receivedData: 2
+2021.12.17 12:54:35 receivedData: 2
+2021.12.17 12:54:35 receivedData: 3
+2021.12.17 12:54:35 receivedData: |
+2021.12.17 12:54:35 receivedData: ?
+2021.12.17 12:54:35 receivedData: ?
+2021.12.17 12:54:35 receivedData: /
+2021.12.17 12:54:35 receivedData: ?
+2021.12.17 12:54:35 receivedData: |
+2021.12.17 12:54:35 receivedData: 2
+2021.12.17 12:54:35 receivedData: 8
+2021.12.17 12:54:35 receivedData: .
+2021.12.17 12:54:35 receivedData: 0
+2021.12.17 12:54:35 receivedData: 0
+2021.12.17 12:54:35 receivedData: °
+2021.12.17 12:54:35 receivedData: 0
+2021.12.17 12:54:35 receivedData:  
+2021.12.17 12:54:36 receivedData: T
+2021.12.17 12:54:36 receivedData: O
+2021.12.17 12:54:36 receivedData:  
+2021.12.17 12:54:36 receivedData: 1
+2021.12.17 12:54:36 receivedData: 0
+2021.12.17 12:54:36 receivedData: 0
+2021.12.17 12:54:36 receivedData: .
+2021.12.17 12:54:36 receivedData: 0
+2021.12.17 12:54:36 receivedData: 0
+2021.12.17 12:54:36 receivedData: °
+2021.12.17 12:54:36 receivedData: 0
+2021.12.17 12:54:36 receivedData: |
+2021.12.17 12:54:36 receivedData: N
+2021.12.17 12:54:36 receivedData: |
+2021.12.17 12:54:36 receivedData: |
+2021.12.17 12:54:36 receivedData: F
+2021.12.17 12:54:36 receivedData: |
+2021.12.17 12:54:36 receivedData: |
+2021.12.17 12:54:36 receivedData: ь
+2021.12.17 12:54:36 receivedData: |
+2021.12.17 12:54:36 receivedData: 2
+2021.12.17 12:54:36 receivedData: 0
+2021.12.17 12:54:36 receivedData: 2
+2021.12.17 12:54:37 receivedData: 1
+2021.12.17 12:54:37 receivedData: 1
+2021.12.17 12:54:37 receivedData: 2
+2021.12.17 12:54:37 receivedData: 1
+2021.12.17 12:54:37 receivedData: 4
+2021.12.17 12:54:37 receivedData: 0
+2021.12.17 12:54:37 receivedData: 0
+2021.12.17 12:54:37 receivedData: °
+2021.12.17 12:54:37 receivedData: 2
+2021.12.17 12:54:37 receivedData: 1
+2021.12.17 12:54:37 receivedData: 4
+2021.12.17 12:54:37 receivedData: 
+2021.12.17 12:54:37 receivedData: 
+2021.12.17 12:54:37 receivedData: 
+2021.12.17 12:54:37 receivedData: 5
+2021.12.17 12:54:37 receivedData: R
+2021.12.17 12:54:37 receivedData: |
+2021.12.17 12:54:37 receivedData: 9
+2021.12.17 12:54:37 receivedData: |
+2021.12.17 12:54:37 receivedData: ^
+2021.12.17 12:54:37 receivedData: ^
+2021.12.17 12:54:38 receivedData: Ю
+2021.12.17 12:54:38 receivedData: 1
+2021.12.17 12:54:38 receivedData: 2
+2021.12.17 12:54:38 receivedData: ^
+2021.12.17 12:54:38 receivedData: ?
+2021.12.17 12:54:38 receivedData: ?
+2021.12.17 12:54:38 receivedData: ї
+2021.12.17 12:54:38 receivedData: .
+2021.12.17 12:54:38 receivedData: ?
+2021.12.17 12:54:38 receivedData: ?
+2021.12.17 12:54:38 receivedData: ї
+2021.12.17 12:54:38 receivedData: ^
+2021.12.17 12:54:38 receivedData: 0
+2021.12.17 12:54:38 receivedData: |
+2021.12.17 12:54:38 receivedData: 7
+2021.12.17 12:54:38 receivedData: 1
+2021.12.17 12:54:38 receivedData: 1
+2021.12.17 12:54:38 receivedData: .
+2021.12.17 12:54:38 receivedData: 3
+2021.12.17 12:54:38 receivedData: 1
+2021.12.17 12:54:38 receivedData: 9
+2021.12.17 12:54:39 receivedData: 1
+2021.12.17 12:54:39 receivedData: |
+2021.12.17 12:54:39 receivedData: ?
+2021.12.17 12:54:39 receivedData: ?
+2021.12.17 12:54:39 receivedData: /
+2021.12.17 12:54:39 receivedData: ?
+2021.12.17 12:54:39 receivedData: |
+2021.12.17 12:54:39 receivedData: 2
+2021.12.17 12:54:39 receivedData: 4
+2021.12.17 12:54:39 receivedData: .
+2021.12.17 12:54:39 receivedData: 0
+2021.12.17 12:54:39 receivedData: 0
+2021.12.17 12:54:39 receivedData: °
+2021.12.17 12:54:39 receivedData: 0
+2021.12.17 12:54:39 receivedData:  
+2021.12.17 12:54:39 receivedData: T
+2021.12.17 12:54:39 receivedData: O
+2021.12.17 12:54:39 receivedData:  
+2021.12.17 12:54:39 receivedData: 1
+2021.12.17 12:54:39 receivedData: 9
+2021.12.17 12:54:40 receivedData: 5
+2021.12.17 12:54:40 receivedData: .
+2021.12.17 12:54:40 receivedData: 0
+2021.12.17 12:54:40 receivedData: 0
+2021.12.17 12:54:40 receivedData: °
+2021.12.17 12:54:40 receivedData: 0
+2021.12.17 12:54:40 receivedData: |
+2021.12.17 12:54:40 receivedData: H
+2021.12.17 12:54:40 receivedData: |
+2021.12.17 12:54:40 receivedData: |
+2021.12.17 12:54:40 receivedData: F
+2021.12.17 12:54:40 receivedData: |
+2021.12.17 12:54:40 receivedData: |
+2021.12.17 12:54:40 receivedData: ь
+2021.12.17 12:54:40 receivedData: |
+2021.12.17 12:54:40 receivedData: 2
+2021.12.17 12:54:40 receivedData: 0
+2021.12.17 12:54:40 receivedData: 2
+2021.12.17 12:54:40 receivedData: 1
+2021.12.17 12:54:40 receivedData: 1
+2021.12.17 12:54:40 receivedData: 2
+2021.12.17 12:54:41 receivedData: 1
+2021.12.17 12:54:41 receivedData: 4
+2021.12.17 12:54:41 receivedData: 0
+2021.12.17 12:54:41 receivedData: 0
+2021.12.17 12:54:41 receivedData: °
+2021.12.17 12:54:41 receivedData: 4
+2021.12.17 12:54:41 receivedData: 3
+2021.12.17 12:54:41 receivedData: 0
+2021.12.17 12:54:41 receivedData: 
+2021.12.17 12:54:41 receivedData: 
+2021.12.17 12:54:41 receivedData: 
+2021.12.17 12:54:41 receivedData: 6
+2021.12.17 12:54:41 receivedData: R
+2021.12.17 12:54:41 receivedData: |
+2021.12.17 12:54:41 receivedData: 1
+2021.12.17 12:54:41 receivedData: 0
+2021.12.17 12:54:41 receivedData: |
+2021.12.17 12:54:41 receivedData: ^
+2021.12.17 12:54:41 receivedData: ^
+2021.12.17 12:54:41 receivedData: Ю
+2021.12.17 12:54:41 receivedData: 1
+2021.12.17 12:54:41 receivedData: 3
+2021.12.17 12:54:42 receivedData: ^
+2021.12.17 12:54:42 receivedData: ?
+2021.12.17 12:54:42 receivedData: ?
+2021.12.17 12:54:42 receivedData: -
+2021.12.17 12:54:42 receivedData: ?
+2021.12.17 12:54:42 receivedData: ?
+2021.12.17 12:54:42 receivedData: ї
+2021.12.17 12:54:42 receivedData: ^
+2021.12.17 12:54:42 receivedData: 0
+2021.12.17 12:54:42 receivedData: |
+2021.12.17 12:54:42 receivedData: 3
+2021.12.17 12:54:42 receivedData: 2
+2021.12.17 12:54:42 receivedData: .
+2021.12.17 12:54:42 receivedData: 0
+2021.12.17 12:54:42 receivedData: 6
+2021.12.17 12:54:42 receivedData: 9
+2021.12.17 12:54:42 receivedData: 5
+2021.12.17 12:54:42 receivedData: |
+2021.12.17 12:54:42 receivedData: ?
+2021.12.17 12:54:42 receivedData: ?
+2021.12.17 12:54:43 receivedData: /
+2021.12.17 12:54:43 receivedData: ?
+2021.12.17 12:54:43 receivedData: |
+2021.12.17 12:54:43 receivedData:  
+2021.12.17 12:54:43 receivedData: 0
+2021.12.17 12:54:43 receivedData: .
+2021.12.17 12:54:43 receivedData: 0
+2021.12.17 12:54:43 receivedData: 0
+2021.12.17 12:54:43 receivedData: °
+2021.12.17 12:54:43 receivedData: 0
+2021.12.17 12:54:43 receivedData:  
+2021.12.17 12:54:43 receivedData: T
+2021.12.17 12:54:43 receivedData: O
+2021.12.17 12:54:43 receivedData:  
+2021.12.17 12:54:43 receivedData: 2
+2021.12.17 12:54:43 receivedData: 5
+2021.12.17 12:54:43 receivedData: .
+2021.12.17 12:54:43 receivedData: 0
+2021.12.17 12:54:43 receivedData: 0
+2021.12.17 12:54:43 receivedData: °
+2021.12.17 12:54:43 receivedData: 0
+2021.12.17 12:54:44 receivedData: |
+2021.12.17 12:54:44 receivedData: H||F||ь|2021121400
+2021.12.17 12:54:44 receivedData: °
+2021.12.17 12:54:44 receivedData: 4
+2021.12.17 12:54:44 receivedData: 4
+2021.12.17 12:54:44 receivedData: 6
+2021.12.17 12:54:44 receivedData: 
+2021.12.17 12:54:44 receivedData: 
+2021.12.17 12:54:44 receivedData: 
+2021.12.17 12:54:44 receivedData: 7
+2021.12.17 12:54:44 receivedData: R
+2021.12.17 12:54:44 receivedData: |
+2021.12.17 12:54:44 receivedData: 1
+2021.12.17 12:54:44 receivedData: 1
+2021.12.17 12:54:44 receivedData: |
+2021.12.17 12:54:44 receivedData: ^
+2021.12.17 12:54:44 receivedData: ^
+2021.12.17 12:54:44 receivedData: Ю
+2021.12.17 12:54:45 receivedData: 1
+2021.12.17 12:54:45 receivedData: 4
+2021.12.17 12:54:45 receivedData: ^
+2021.12.17 12:54:45 receivedData: ?
+2021.12.17 12:54:45 receivedData: ?
+2021.12.17 12:54:45 receivedData: ї
+2021.12.17 12:54:45 receivedData: ^
+2021.12.17 12:54:45 receivedData: 0
+2021.12.17 12:54:45 receivedData: |
+2021.12.17 12:54:45 receivedData: 6
+2021.12.17 12:54:45 receivedData: 6
+2021.12.17 12:54:45 receivedData: 9
+2021.12.17 12:54:45 receivedData: .
+2021.12.17 12:54:45 receivedData: 2
+2021.12.17 12:54:45 receivedData: 7
+2021.12.17 12:54:45 receivedData: 4
+2021.12.17 12:54:45 receivedData: 4
+2021.12.17 12:54:45 receivedData: |
+2021.12.17 12:54:46 receivedData: ?
+2021.12.17 12:54:46 receivedData: ?
+2021.12.17 12:54:46 receivedData: /
+2021.12.17 12:54:46 receivedData: ?
+2021.12.17 12:54:46 receivedData: |
+2021.12.17 12:54:46 receivedData: 2
+2021.12.17 12:54:46 receivedData: 3
+2021.12.17 12:54:46 receivedData: 0
+2021.12.17 12:54:46 receivedData: .
+2021.12.17 12:54:46 receivedData: 0
+2021.12.17 12:54:46 receivedData: 0
+2021.12.17 12:54:46 receivedData: °
+2021.12.17 12:54:46 receivedData: 0
+2021.12.17 12:54:46 receivedData:  
+2021.12.17 12:54:46 receivedData: T
+2021.12.17 12:54:46 receivedData: O
+2021.12.17 12:54:46 receivedData:  
+2021.12.17 12:54:46 receivedData: 4
+2021.12.17 12:54:47 receivedData: 6
+2021.12.17 12:54:47 receivedData: 0
+2021.12.17 12:54:47 receivedData: .
+2021.12.17 12:54:47 receivedData: 0
+2021.12.17 12:54:47 receivedData: 0
+2021.12.17 12:54:47 receivedData: °
+2021.12.17 12:54:47 receivedData: 0
+2021.12.17 12:54:47 receivedData: |
+2021.12.17 12:54:47 receivedData: H
+2021.12.17 12:54:47 receivedData: |
+2021.12.17 12:54:47 receivedData: |
+2021.12.17 12:54:47 receivedData: F
+2021.12.17 12:54:47 receivedData: |
+2021.12.17 12:54:47 receivedData: |
+2021.12.17 12:54:47 receivedData: ь
+2021.12.17 12:54:47 receivedData: |
+2021.12.17 12:54:47 receivedData: 2
+2021.12.17 12:54:47 receivedData: 0
+2021.12.17 12:54:48 receivedData: 2
+2021.12.17 12:54:48 receivedData: 1
+2021.12.17 12:54:48 receivedData: 1
+2021.12.17 12:54:48 receivedData: 2
+2021.12.17 12:54:48 receivedData: 1
+2021.12.17 12:54:48 receivedData: 4
+2021.12.17 12:54:48 receivedData: 0
+2021.12.17 12:54:48 receivedData: 0
+2021.12.17 12:54:48 receivedData: °
+2021.12.17 12:54:48 receivedData: 4
+2021.12.17 12:54:48 receivedData: 1
+2021.12.17 12:54:48 receivedData: 5
+2021.12.17 12:54:48 receivedData: 
+2021.12.17 12:54:48 receivedData: 
+2021.12.17 12:54:48 receivedData: 
+2021.12.17 12:54:48 receivedData: 0
+2021.12.17 12:54:48 receivedData: R
+2021.12.17 12:54:49 receivedData: |
+2021.12.17 12:54:49 receivedData: 1
+2021.12.17 12:54:49 receivedData: 2
+2021.12.17 12:54:49 receivedData: |
+2021.12.17 12:54:49 receivedData: ^
+2021.12.17 12:54:49 receivedData: ^
+2021.12.17 12:54:49 receivedData: Ю
+2021.12.17 12:54:49 receivedData: 1
+2021.12.17 12:54:49 receivedData: 5
+2021.12.17 12:54:49 receivedData: ^
+2021.12.17 12:54:49 receivedData: ?
+2021.12.17 12:54:49 receivedData: ?
+2021.12.17 12:54:49 receivedData: ї
+2021.12.17 12:54:49 receivedData: .
+2021.12.17 12:54:49 receivedData: ?
+2021.12.17 12:54:49 receivedData: ?
+2021.12.17 12:54:49 receivedData: ї
+2021.12.17 12:54:49 receivedData: .
+2021.12.17 12:54:50 receivedData: ^
+2021.12.17 12:54:50 receivedData: 0
+2021.12.17 12:54:50 receivedData: |
+2021.12.17 12:54:50 receivedData: 1
+2021.12.17 12:54:50 receivedData: 9
+2021.12.17 12:54:50 receivedData: 1
+2021.12.17 12:54:50 receivedData: .
+2021.12.17 12:54:50 receivedData: 5
+2021.12.17 12:54:50 receivedData: 4
+2021.12.17 12:54:50 receivedData: 8
+2021.12.17 12:54:50 receivedData: 8
+2021.12.17 12:54:50 receivedData: |
+2021.12.17 12:54:50 receivedData: ?
+2021.12.17 12:54:50 receivedData: ?
+2021.12.17 12:54:50 receivedData: /
+2021.12.17 12:54:50 receivedData: ?
+2021.12.17 12:54:50 receivedData: |
+2021.12.17 12:54:50 receivedData: 9
+2021.12.17 12:54:50 receivedData: 8
+2021.12.17 12:54:50 receivedData: .
+2021.12.17 12:54:50 receivedData: 0
+2021.12.17 12:54:50 receivedData: 0
+2021.12.17 12:54:51 receivedData: °
+2021.12.17 12:54:51 receivedData: 0
+2021.12.17 12:54:51 receivedData:  
+2021.12.17 12:54:51 receivedData: T
+2021.12.17 12:54:51 receivedData: O
+2021.12.17 12:54:51 receivedData:  
+2021.12.17 12:54:51 receivedData: 2
+2021.12.17 12:54:51 receivedData: 7
+2021.12.17 12:54:51 receivedData: 9
+2021.12.17 12:54:51 receivedData: .
+2021.12.17 12:54:51 receivedData: 0
+2021.12.17 12:54:51 receivedData: 0
+2021.12.17 12:54:51 receivedData: °
+2021.12.17 12:54:51 receivedData: 0
+2021.12.17 12:54:51 receivedData: |
+2021.12.17 12:54:51 receivedData: N
+2021.12.17 12:54:51 receivedData: |
+2021.12.17 12:54:51 receivedData: |
+2021.12.17 12:54:51 receivedData: F
+2021.12.17 12:54:51 receivedData: |
+2021.12.17 12:54:51 receivedData: |
+2021.12.17 12:54:52 receivedData: ь
+2021.12.17 12:54:52 receivedData: |
+2021.12.17 12:54:52 receivedData: 2
+2021.12.17 12:54:52 receivedData: 0
+2021.12.17 12:54:52 receivedData: 2
+2021.12.17 12:54:52 receivedData: 1
+2021.12.17 12:54:52 receivedData: 1
+2021.12.17 12:54:52 receivedData: 2
+2021.12.17 12:54:52 receivedData: 1
+2021.12.17 12:54:52 receivedData: 4
+2021.12.17 12:54:52 receivedData: 0
+2021.12.17 12:54:52 receivedData: 0
+2021.12.17 12:54:52 receivedData: °
+2021.12.17 12:54:52 receivedData: 4
+2021.12.17 12:54:52 receivedData: 0
+2021.12.17 12:54:52 receivedData: 0
+2021.12.17 12:54:52 receivedData: 
+2021.12.17 12:54:53 receivedData: 
+2021.12.17 12:54:53 receivedData: 
+2021.12.17 12:54:53 receivedData: 1
+2021.12.17 12:54:53 receivedData: R
+2021.12.17 12:54:53 receivedData: |
+2021.12.17 12:54:53 receivedData: 1
+2021.12.17 12:54:53 receivedData: 3
+2021.12.17 12:54:53 receivedData: |
+2021.12.17 12:54:53 receivedData: ^
+2021.12.17 12:54:53 receivedData: ^
+2021.12.17 12:54:53 receivedData: Ю
+2021.12.17 12:54:53 receivedData: 1
+2021.12.17 12:54:53 receivedData: 6
+2021.12.17 12:54:53 receivedData: ^
+2021.12.17 12:54:53 receivedData: ?
+2021.12.17 12:54:53 receivedData: ?
+2021.12.17 12:54:53 receivedData: ї
+2021.12.17 12:54:53 receivedData: .
+2021.12.17 12:54:54 receivedData: ?
+2021.12.17 12:54:54 receivedData: ?
+2021.12.17 12:54:54 receivedData: ^
+2021.12.17 12:54:54 receivedData: 0
+2021.12.17 12:54:54 receivedData: |
+2021.12.17 12:54:54 receivedData: 1
+2021.12.17 12:54:54 receivedData: 3
+2021.12.17 12:54:54 receivedData: .
+2021.12.17 12:54:54 receivedData: 5
+2021.12.17 12:54:54 receivedData: 2
+2021.12.17 12:54:54 receivedData: 5
+2021.12.17 12:54:54 receivedData: 6
+2021.12.17 12:54:54 receivedData: |
+2021.12.17 12:54:54 receivedData: ?
+2021.12.17 12:54:54 receivedData: ?
+2021.12.17 12:54:54 receivedData: ї
+2021.12.17 12:54:54 receivedData: ?
+2021.12.17 12:54:55 receivedData: ї
+2021.12.17 12:54:55 receivedData: ?
+2021.12.17 12:54:55 receivedData: /
+2021.12.17 12:54:55 receivedData: ?
+2021.12.17 12:54:55 receivedData: |
+2021.12.17 12:54:55 receivedData:  
+2021.12.17 12:54:55 receivedData: 0
+2021.12.17 12:54:55 receivedData: .
+2021.12.17 12:54:55 receivedData: 00
+2021.12.17 12:54:55 receivedData: °
+2021.12.17 12:54:55 receivedData: 0
+2021.12.17 12:54:55 receivedData:  
+2021.12.17 12:54:55 receivedData: T
+2021.12.17 12:54:55 receivedData: O
+2021.12.17 12:54:55 receivedData:  
+2021.12.17 12:54:55 receivedData: 2
+2021.12.17 12:54:55 receivedData: 1
+2021.12.17 12:54:55 receivedData: .
+2021.12.17 12:54:56 receivedData: 0
+2021.12.17 12:54:56 receivedData: 0
+2021.12.17 12:54:56 receivedData: °
+2021.12.17 12:54:56 receivedData: 0
+2021.12.17 12:54:56 receivedData: |
+2021.12.17 12:54:56 receivedData: N
+2021.12.17 12:54:56 receivedData: |
+2021.12.17 12:54:56 receivedData: |
+2021.12.17 12:54:56 receivedData: F
+2021.12.17 12:54:56 receivedData: |
+2021.12.17 12:54:56 receivedData: |
+2021.12.17 12:54:56 receivedData: ь
+2021.12.17 12:54:56 receivedData: |
+2021.12.17 12:54:56 receivedData: 2
+2021.12.17 12:54:56 receivedData: 0
+2021.12.17 12:54:56 receivedData: 2
+2021.12.17 12:54:56 receivedData: 1
+2021.12.17 12:54:56 receivedData: 1
+2021.12.17 12:54:57 receivedData: 2
+2021.12.17 12:54:57 receivedData: 1
+2021.12.17 12:54:57 receivedData: 4
+2021.12.17 12:54:57 receivedData: 0
+2021.12.17 12:54:57 receivedData: 0
+2021.12.17 12:54:57 receivedData: °
+2021.12.17 12:54:57 receivedData: 2
+2021.12.17 12:54:57 receivedData: 2
+2021.12.17 12:54:57 receivedData: 9
+2021.12.17 12:54:57 receivedData: 
+2021.12.17 12:54:57 receivedData: 
+2021.12.17 12:54:57 receivedData: 
+2021.12.17 12:54:57 receivedData: 2
+2021.12.17 12:54:57 receivedData: R
+2021.12.17 12:54:57 receivedData: |
+2021.12.17 12:54:57 receivedData: 1
+2021.12.17 12:54:57 receivedData: 4
+2021.12.17 12:54:57 receivedData: |
+2021.12.17 12:54:57 receivedData: ^
+2021.12.17 12:54:58 receivedData: ^
+2021.12.17 12:54:58 receivedData: Ю
+2021.12.17 12:54:58 receivedData: 1
+2021.12.17 12:54:58 receivedData: 8
+2021.12.17 12:54:58 receivedData: ^
+2021.12.17 12:54:58 receivedData: ?
+2021.12.17 12:54:58 receivedData: -
+2021.12.17 12:54:58 receivedData: ?
+2021.12.17 12:54:58 receivedData: ?
+2021.12.17 12:54:58 receivedData: ^
+2021.12.17 12:54:58 receivedData: 0
+2021.12.17 12:54:58 receivedData: |
+2021.12.17 12:54:58 receivedData: 2
+2021.12.17 12:54:58 receivedData: 5
+2021.12.17 12:54:58 receivedData: 0
+2021.12.17 12:54:58 receivedData: .
+2021.12.17 12:54:58 receivedData: 9
+2021.12.17 12:54:59 receivedData: 6
+2021.12.17 12:54:59 receivedData: 2
+2021.12.17 12:54:59 receivedData: 7
+2021.12.17 12:54:59 receivedData: |
+2021.12.17 12:54:59 receivedData: ?
+2021.12.17 12:54:59 receivedData: ?
+2021.12.17 12:54:59 receivedData: /
+2021.12.17 12:54:59 receivedData: ?
+2021.12.17 12:54:59 receivedData: |
+2021.12.17 12:54:59 receivedData:  
+2021.12.17 12:54:59 receivedData: 0
+2021.12.17 12:54:59 receivedData: .
+2021.12.17 12:54:59 receivedData: 0
+2021.12.17 12:54:59 receivedData: 0
+2021.12.17 12:54:59 receivedData: °
+2021.12.17 12:54:59 receivedData: 0
+2021.12.17 12:54:59 receivedData:  
+2021.12.17 12:54:59 receivedData: T
+2021.12.17 12:55:00 receivedData: O
+2021.12.17 12:55:00 receivedData:  
+2021.12.17 12:55:00 receivedData:  
+2021.12.17 12:55:00 receivedData: 5
+2021.12.17 12:55:00 receivedData: .
+2021.12.17 12:55:00 receivedData: 0
+2021.12.17 12:55:00 receivedData: 0
+2021.12.17 12:55:00 receivedData: °
+2021.12.17 12:55:00 receivedData: 0
+2021.12.17 12:55:00 receivedData: |
+2021.12.17 12:55:00 receivedData: H
+2021.12.17 12:55:00 receivedData: |
+2021.12.17 12:55:00 receivedData: |
+2021.12.17 12:55:00 receivedData: P
+2021.12.17 12:55:00 receivedData: |
+2021.12.17 12:55:00 receivedData: |
+2021.12.17 12:55:00 receivedData: ь
+2021.12.17 12:55:01 receivedData: |
+2021.12.17 12:55:01 receivedData: 2
+2021.12.17 12:55:01 receivedData: 0
+2021.12.17 12:55:01 receivedData: 2
+2021.12.17 12:55:01 receivedData: 1
+2021.12.17 12:55:01 receivedData: 1
+2021.12.17 12:55:01 receivedData: 2
+2021.12.17 12:55:01 receivedData: 1
+2021.12.17 12:55:01 receivedData: 4
+2021.12.17 12:55:01 receivedData: 0
+2021.12.17 12:55:01 receivedData: 0
+2021.12.17 12:55:01 receivedData: °
+2021.12.17 12:55:01 receivedData: 5
+2021.12.17 12:55:01 receivedData: 1
+2021.12.17 12:55:01 receivedData: 6
+2021.12.17 12:55:01 receivedData: 
+2021.12.17 12:55:01 receivedData: 
+2021.12.17 12:55:01 receivedData: 
+2021.12.17 12:55:02 receivedData: 3
+2021.12.17 12:55:02 receivedData: C
+2021.12.17 12:55:02 receivedData: |
+2021.12.17 12:55:02 receivedData: 1
+2021.12.17 12:55:02 receivedData: |
+2021.12.17 12:55:02 receivedData: I
+2021.12.17 12:55:02 receivedData: |
+2021.12.17 12:55:02 receivedData: V
+2021.12.17 12:55:02 receivedData: |
+2021.12.17 12:55:02 receivedData: I
+2021.12.17 12:55:02 receivedData: 
+2021.12.17 12:55:02 receivedData: 
+2021.12.17 12:55:02 receivedData: 
+2021.12.17 12:55:02 receivedData: 4
+2021.12.17 12:55:02 receivedData: R
+2021.12.17 12:55:02 receivedData: |
+2021.12.17 12:55:03 receivedData: 1
+2021.12.17 12:55:03 receivedData: 5
+2021.12.17 12:55:03 receivedData: |
+2021.12.17 12:55:03 receivedData: ^
+2021.12.17 12:55:03 receivedData: ^
+2021.12.17 12:55:03 receivedData: Ю
+2021.12.17 12:55:03 receivedData: 18^?-??^2||??
+2021.12.17 12:55:03 receivedData: /
+2021.12.17 12:55:03 receivedData: ?
+2021.12.17 12:55:03 receivedData: |
+2021.12.17 12:55:03 receivedData:  
+2021.12.17 12:55:03 receivedData: 0
+2021.12.17 12:55:03 receivedData: .
+2021.12.17 12:55:03 receivedData: 0
+2021.12.17 12:55:03 receivedData: 0
+2021.12.17 12:55:04 receivedData: °
+2021.12.17 12:55:04 receivedData: 0
+2021.12.17 12:55:04 receivedData:  
+2021.12.17 12:55:04 receivedData: T
+2021.12.17 12:55:04 receivedData: O
+2021.12.17 12:55:04 receivedData:  
+2021.12.17 12:55:04 receivedData:  
+2021.12.17 12:55:04 receivedData: 5
+2021.12.17 12:55:04 receivedData: .
+2021.12.17 12:55:04 receivedData: 0
+2021.12.17 12:55:04 receivedData: 0
+2021.12.17 12:55:04 receivedData: °
+2021.12.17 12:55:04 receivedData: 0
+2021.12.17 12:55:04 receivedData: |
+2021.12.17 12:55:04 receivedData: N
+2021.12.17 12:55:04 receivedData: |
+2021.12.17 12:55:04 receivedData: |
+2021.12.17 12:55:04 receivedData: I
+2021.12.17 12:55:04 receivedData: |
+2021.12.17 12:55:04 receivedData: |
+2021.12.17 12:55:05 receivedData: ь
+2021.12.17 12:55:05 receivedData: |
+2021.12.17 12:55:05 receivedData: 
+2021.12.17 12:55:05 receivedData: 
+2021.12.17 12:55:05 receivedData: 
+2021.12.17 12:55:05 receivedData: 5
+2021.12.17 12:55:05 receivedData: L
+2021.12.17 12:55:05 receivedData: |
+2021.12.17 12:55:05 receivedData: 1
+2021.12.17 12:55:05 receivedData: |N
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:05 receivedData:  
+2021.12.17 12:55:06 receivedData:  
+2021.12.17 12:55:06 receivedData: `
+2021.12.17 12:55:06 receivedData: `
+2021.12.17 12:55:06 receivedData: 
+2021.12.17 12:55:06 receivedData: 
+2021.12.17 12:55:06 receivedData: 
+2021.12.17 12:55:06 ERR: Ошибка в данных - неизвестный тип записи в 0-й строке:	.
+2021.12.17 12:55:06 Получено для парсинга 1571 байт:
+	1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477-2 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N          ``
+2021.12.17 12:55:06 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, ParamName6, ParamValue6, ParamRef6, ParamName7, ParamValue7, ParamRef7, ParamName8, ParamValue8, ParamRef8, ParamName9, ParamValue9, ParamRef9, ParamName10, ParamValue10, ParamRef10, ParamName11, ParamValue11, ParamRef11, ParamName12, ParamValue12, ParamRef12, ParamName13, ParamValue13, ParamRef13, ParamName14, ParamValue14, ParamRef14, ParamName15, ParamValue15, ParamRef15, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 15 , '1', '6.0883', '4.200° TO 6.400°', '5', '53.7033', 'длина больше 16', '6', '34.8550', 'длина больше 16', '7', '97.3548', 'длина больше 16', '8', '13.4944', '1.700° TO 8.300°', '9', '49.1179', 'длина больше 16', '10', '46.8118', 'длина больше 16', '11', '81.5223', 'длина больше 16', '12', '711.3191', 'длина больше 16', '13', '32.0695', 'длина больше 16', '14', '669.2744', 'длина больше 16', '15', '191.5488', 'длина больше 16', '16', '13.5256', 'длина больше 16', '18', '250.9627', '0.00°0 TO 5.00°0', '18', '', '0.00°0 TO 5.00°0', '0', '0', '	1H|\^&||ьBiOLiS NEO^SYSTEM1||ь|ьHOST^P_1||P|1|2021121500°5312P|1|2112140128||ь67477-2 ^  ??ї?ї?ї?ї?ї?ї?ї  ??  ??ї1||ьU||ь|ь3O|1||^1^128|^^Ю1^??ї?ї?ї^0\^^Ю5^??.??ї^0\^^Ю6^??ї?ї?ї?^0\^^Ю7^??ї?ї-?^0\^^Ю8^??ї?ї?ї?^0\^^Ю9^??ї^0\^^Ю10^??ї^0\^^Ю11^??ї?ї?ї^0\^^Ю12^??ї.??ї^0\^^Ю13^??-??ї^0\^^Ю14^??ї^0\^^Ю15^??ї.??ї.^0\^^Ю16^??ї.??^0\^^Ю18^?-??^0|R||ь|ь|ь|ь|Serum||ь|ь|ь|ь9B4|F5R|1|^^Ю1^??ї?ї?ї^0| 6.0883|??ї?ї/?| 4.200° TO  6.400°|N||F||ь|2021121400°5016R|2|^^Ю5^??.??ї^0|53.7033|?/?|64.00°0 TO 83.00°0|L||F||ь|2021121400°2447R|3|^^Ю6^??ї?ї?ї?^0|34.8550|?/?|34.00°0 TO 50.00°0|N||F||ь|2021121400°3450R|4|^^Ю7^??ї?ї-?^0|97.3548|??ї?ї?/?|71.00°0 TO 115.00°0|N||F||ь|2021121400°3301R|5|^^Ю8^??ї?ї?ї?^0|13.4944|??ї?ї/?| 1.700° TO  8.300°|H||F||ь|2021121400°1592R|6|^^Ю9^??ї^0|49.1179|??/?| 0.00°0 TO 40.00°0|H||F||ь|2021121400°3153R|7|^^Ю10^??ї^0|46.8118|??/?| 0.00°0 TO 37.00°0|H||F||ь|2021121400°3004R|8|^^Ю11^??ї?ї?ї^0|81.5223|??/?|28.00°0 TO 100.00°0|N||F||ь|2021121400°2145R|9|^^Ю12^??ї.??ї^0|711.3191|??/?|24.00°0 TO 195.00°0|H||F||ь|2021121400°4306R|10|^^Ю13^??-??ї^0|32.0695|??/?| 0.00°0 TO 25.00°0|H||F||ь|2021121400°4467R|11|^^Ю14^??ї^0|669.2744|??/?|230.00°0 TO 460.00°0|H||F||ь|2021121400°4150R|12|^^Ю15^??ї.??ї.^0|191.5488|??/?|98.00°0 TO 279.00°0|N||F||ь|2021121400°4001R|13|^^Ю16^??ї.??^0|13.5256|??ї?ї?/?| 0.00°0 TO 21.00°0|N||F||ь|2021121400°2292R|14|^^Ю18^?-??^0|250.9627|??/?| 0.00°0 TO  5.00°0|H||P||ь|2021121400°5163C|1|I|V|I4R|15|^^Ю18^?-??^2||??/?| 0.00°0 TO  5.00°0|N||I||ь|5L|1|N          ``' );
+2021.12.17 12:56:54 receivedData: 
+1H|\^&|||BiOLiS NEO^SYSTEM1|||||HOST^P_1||P|1|20200414114528
+EC
+2P|1|2020040140078|||16512 ^??????? ?.?. ???1|||U|||||
+2E
+3O|1||^1^78|^^^1^???????^0|R||||||||||Serum||||||||||F
+CF
+4R|1|^^^1^???????^0|22.9924|?????/?| 4.2000 TO  6.4000|H||F||||20200414114513
+53
+5R|2|^^^1^???????^2||?????/?| 4.2000 TO  6.4000|L||I||||
+38
+6L|1|N
+09
+
+2021.12.17 12:56:54 Получено для парсинга 329 байт:
+
+1H|\^&|||BiOLiS NEO^SYSTEM1|||||HOST^P_1||P|1|20200414114528
+2P|1|2020040140078|||16512 ^??????? ?.?. ???1|||U|||||
+3O|1||^1^78|^^^1^???????^0|R||||||||||Serum||||||||||F
+4R|1|^^^1^???????^0|22.9924|?????/?| 4.2000 TO  6.4000|H||F||||20200414114513
+5R|2|^^^1^???????^2||?????/?| 4.2000 TO  6.4000|L||I||||
+6L|1|N
+
+2021.12.17 12:56:54 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 2 , '1', '22.9924', '4.2000 TO 6.4000', '1', '', '4.2000 TO 6.4000', '16512', '0', '
+1H|\^&|||BiOLiS NEO^SYSTEM1|||||HOST^P_1||P|1|20200414114528
+2P|1|2020040140078|||16512 ^??????? ?.?. ???1|||U|||||
+3O|1||^1^78|^^^1^???????^0|R||||||||||Serum||||||||||F
+4R|1|^^^1^???????^0|22.9924|?????/?| 4.2000 TO  6.4000|H||F||||20200414114513
+5R|2|^^^1^???????^2||?????/?| 4.2000 TO  6.4000|L||I||||
+6L|1|N
+' );
+2021.12.17 12:57:21 receivedData: 
+1H|\^&|||BiOLiS NEO^SYSTEM1|||||HOST^P_1||P|1|20200414114528
+EC
+2P|1|2020040140078|||16512-2 ^??????? ?.?. ???1|||U|||||
+2E
+3O|1||^1^78|^^^1^???????^0|R||||||||||Serum||||||||||F
+CF
+4R|1|^^^1^???????^0|22.9924|?????/?| 4.2000 TO  6.4000|H||F||||20200414114513
+53
+5R|2|^^^1^???????^2||?????/?| 4.2000 TO  6.4000|L||I||||
+38
+6L|1|N
+09
+
+2021.12.17 12:57:21 Получено для парсинга 331 байт:
+
+1H|\^&|||BiOLiS NEO^SYSTEM1|||||HOST^P_1||P|1|20200414114528
+2P|1|2020040140078|||16512-2 ^??????? ?.?. ???1|||U|||||
+3O|1||^1^78|^^^1^???????^0|R||||||||||Serum||||||||||F
+4R|1|^^^1^???????^0|22.9924|?????/?| 4.2000 TO  6.4000|H||F||||20200414114513
+5R|2|^^^1^???????^2||?????/?| 4.2000 TO  6.4000|L||I||||
+6L|1|N
+
+2021.12.17 12:57:21 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 2 , '1', '22.9924', '4.2000 TO 6.4000', '1', '', '4.2000 TO 6.4000', '16512', '2', '
+1H|\^&|||BiOLiS NEO^SYSTEM1|||||HOST^P_1||P|1|20200414114528
+2P|1|2020040140078|||16512-2 ^??????? ?.?. ???1|||U|||||
+3O|1||^1^78|^^^1^???????^0|R||||||||||Serum||||||||||F
+4R|1|^^^1^???????^0|22.9924|?????/?| 4.2000 TO  6.4000|H||F||||20200414114513
+5R|2|^^^1^???????^2||?????/?| 4.2000 TO  6.4000|L||I||||
+6L|1|N
+' );
+2021.12.17 13:01:15 --- Завершение работы.
+2021.12.17 13:10:17 --- Запуск Sapphire ASU-911 user Версия 1.0.67.291 от 2021.12.17.0947
+2021.12.17 14:38:22 --- Запуск Sapphire ASU-911 user Версия 1.0.67.292 от 2021.12.17.1138
+2021.12.17 14:39:25 --- Завершение работы.
+2021.12.17 14:39:35 --- Запуск Sapphire ASU-911 user Версия 1.0.67.292 от 2021.12.17.1138
+2021.12.17 14:40:59 receivedData: 1H|\^&|||BCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0|||||||P|1|20211217102049
+2P|1||||^^|||M
+3O|1|52-68257-3||^^^4|R||||||||||||||||||||X
+4R|1|^^^4^PT.sec.TS^^^F|13.402|sec||H||F||||20211217101604
+5C|1|I|ResultFlag 16|G
+6O|2|52-68257||^^^1|R||||||||||||||||||||X
+7R|1|^^^1^aPTT.PSL^^^F|34.549|sec||||F||||20211217100806
+0C|1|I|ResultFlag 0|G
+1O|3|52-68257||^^^5|R||||||||||||||||||||X
+2R|1|^^^5^BC.TT^^^F|21.184|sec||H||F||||20211217100806
+3C|1|I|ResultFlag 16|G
+4O|4|52-68257||^^^6|R||||||||||||||||||||X
+5R|1|^^^6^Fib^^^F|3.652|g/L||H||F||||20211217100806
+6C|1|I|ResultFlag 16|G
+7O|5|52-68257||^^^2|R||||||||||||||||||||X
+0R|1|^^^2^PT.INR.Cal.TS.MC^^^F|1.133|||||F||||20211217101604
+1C|1|I|ResultFlag 0|G
+2L|1
+
+2021.12.17 14:40:59 Получено для парсинга 760 байт:
+1H|\^&|||BCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0|||||||P|1|20211217102049
+2P|1||||^^|||M
+3O|1|52-68257-3||^^^4|R||||||||||||||||||||X
+4R|1|^^^4^PT.sec.TS^^^F|13.402|sec||H||F||||20211217101604
+5C|1|I|ResultFlag 16|G
+6O|2|52-68257||^^^1|R||||||||||||||||||||X
+7R|1|^^^1^aPTT.PSL^^^F|34.549|sec||||F||||20211217100806
+0C|1|I|ResultFlag 0|G
+1O|3|52-68257||^^^5|R||||||||||||||||||||X
+2R|1|^^^5^BC.TT^^^F|21.184|sec||H||F||||20211217100806
+3C|1|I|ResultFlag 16|G
+4O|4|52-68257||^^^6|R||||||||||||||||||||X
+5R|1|^^^6^Fib^^^F|3.652|g/L||H||F||||20211217100806
+6C|1|I|ResultFlag 16|G
+7O|5|52-68257||^^^2|R||||||||||||||||||||X
+0R|1|^^^2^PT.INR.Cal.TS.MC^^^F|1.133|||||F||||20211217101604
+1C|1|I|ResultFlag 0|G
+2L|1
+
+2021.12.17 14:40:59 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, ParamName2, ParamValue2, ParamRef2, ParamName3, ParamValue3, ParamRef3, ParamName4, ParamValue4, ParamRef4, ParamName5, ParamValue5, ParamRef5, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 5 , '4', '13.402', '', '1', '34.549', '', '5', '21.184', '', '6', '3.652', '', '2', '1.133', '', '68257', '0', '1H|\^&|||BCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0|||||||P|1|20211217102049
+2P|1||||^^|||M
+3O|1|52-68257-3||^^^4|R||||||||||||||||||||X
+4R|1|^^^4^PT.sec.TS^^^F|13.402|sec||H||F||||20211217101604
+5C|1|I|ResultFlag 16|G
+6O|2|52-68257||^^^1|R||||||||||||||||||||X
+7R|1|^^^1^aPTT.PSL^^^F|34.549|sec||||F||||20211217100806
+0C|1|I|ResultFlag 0|G
+1O|3|52-68257||^^^5|R||||||||||||||||||||X
+2R|1|^^^5^BC.TT^^^F|21.184|sec||H||F||||20211217100806
+3C|1|I|ResultFlag 16|G
+4O|4|52-68257||^^^6|R||||||||||||||||||||X
+5R|1|^^^6^Fib^^^F|3.652|g/L||H||F||||20211217100806
+6C|1|I|ResultFlag 16|G
+7O|5|52-68257||^^^2|R||||||||||||||||||||X
+0R|1|^^^2^PT.INR.Cal.TS.MC^^^F|1.133|||||F||||20211217101604
+1C|1|I|ResultFlag 0|G
+2L|1
+' );
+2021.12.17 14:41:51 receivedData: 1H|\^&|||BCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0|||||||P|1|20211217102049
+2P|1||||^^|||M
+3O|1|52-68257-3||^^^4|R||||||||||||||||||||X
+4R|1|^^^4^PT.sec.TS^^^F|13.402|sec||H||F||||20211217101604
+5C|1|I|ResultFlag 16|G
+6O|2|52-68257||^^^1|R||||||||||||||||||||X
+7R|1|^^^1^aPTT.PSL^^^F|34.549|sec||||F||||20211217100806
+0C|1|I|ResultFlag 0|G
+1O|3|52-68257||^^^5|R||||||||||||||||||||X
+2R|1|^^^5^BC.TT^^^F|21.184|sec||H||F||||20211217100806
+3C|1|I|ResultFlag 16|G
+4O|4|52-68257||^^^6|R||||||||||||||||||||X
+5R|1|^^^6^Fib^^^F|3.652|g/L||H||F||||20211217100806
+6C|1|I|ResultFlag 16|G
+7O|5|52-68257||^^^2|R||||||||||||||||||||X
+0R|1|^^^2^PT.INR.Cal.TS.MC^^^F|1.133|||||F||||20211217101604
+1C|1|I|ResultFlag 0|G
+2L|1
+
+2021.12.17 14:56:06 --- Запуск Sapphire ASU-911 user Версия 1.0.67.292 от 2021.12.17.1138
+2021.12.17 14:56:24 receivedData: 1H|\^&|||BCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0|||||||P|1|20211217102049
+2P|1||||^^|||M
+3O|1|52-68257-3||^^^4|R||||||||||||||||||||X
+4R|1|^^^4^PT.sec.TS^^^F|13.402|sec||H||F||||20211217101604
+5C|1|I|ResultFlag 16|G
+2L|1
+
+2021.12.17 14:56:53 Получено для парсинга 237 байт:
+1H|\^&|||BCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0|||||||P|1|20211217102049
+2P|1||||^^|||M
+3O|1|52-68257-3||^^^4|R||||||||||||||||||||X
+4R|1|^^^4^PT.sec.TS^^^F|13.402|sec||H||F||||20211217101604
+5C|1|I|ResultFlag 16|G
+2L|1
+
+2021.12.17 14:56:53 Результаты: пишем в SQL. Insert into AnalyzerResults (Analyzer_id, HostName, ResultDate, CntParam, ParamName1, ParamValue1, ParamRef1, HistoryNumber, KodJournal, ResultText) values (18, host_name(), GetDate(), 1 , '4', '13.402', '', '68257', '3', '1H|\^&|||BCSXP^1.0^421692^H1P1O1R1C1Q1L1^1.0|||||||P|1|20211217102049
+2P|1||||^^|||M
+3O|1|52-68257-3||^^^4|R||||||||||||||||||||X
+4R|1|^^^4^PT.sec.TS^^^F|13.402|sec||H||F||||20211217101604
+5C|1|I|ResultFlag 16|G
+2L|1
+' );
+2021.12.17 15:59:39 --- Завершение работы.

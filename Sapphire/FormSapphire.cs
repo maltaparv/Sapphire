@@ -362,7 +362,7 @@ namespace Sapphire
                 }
                 string sRecordType = sRecord[i].Substring(1, 1);  // CheckSubLength
 
-                if (sRecordType == "P" & Analyzer_Name.ToUpper() != "SIEMENS")
+                if (sRecordType == "P" & Analyzer_Name.ToUpper() == "SAPPHIRE")
                 {   // Patient  "2P|1|2020040150101|||19576 ^??????? ?.?   ???|||U|||||"
                     //           0  1 2            345                        67 
                     if (kField == 2)
@@ -475,7 +475,7 @@ namespace Sapphire
                     if (sRefVal.Length > 16)
                         sRefVal = "длина больше 16";
                     
-                    if (Analyzer_Name == "SIEMENS")
+                    if (Analyzer_Name.ToUpper() == "SIEMENS")
                         sFlag = sField[7];
                     else
                         sFlag = sField[6];
@@ -518,10 +518,10 @@ namespace Sapphire
 
             // формирование строки SQL Insert...
             ResultText = inputString;
-            st2_0 = $", HistoryNumber, ResultText) values ({Analyzer_Id}, host_name(), GetDate(), {CntParam} ";    // для строки Insert...
-            st0 = st1_0 + st1_1 + st2_0 + st2_1 + $", '{HistoryNumber}','{ResultText}' );";
+            st2_0 = $", HistoryNumber, KodJournal, ResultText) values ({Analyzer_Id}, host_name(), GetDate(), {CntParam} ";    // для строки Insert...
+            st0 = st1_0 + st1_1 + st2_0 + st2_1 + $", '{HistoryNumber}', '{KodJournal}', '{ResultText}' );";
             dtm = DateTime.Now;
-            Add_RTB(RTBout, $"\n{dtm} Конец парсинга [{kRecord++}]. HistoryNumber:{HistoryNumber}.\n", Color.DarkViolet);
+            Add_RTB(RTBout, $"\n{dtm} Конец парсинга [{kRecord++}]. Код журнала {KodJournal}, HistoryNumber:{HistoryNumber}.\n", Color.DarkViolet);
             WLog($"Получено для парсинга {inputString.Count()} байт:\n{inputString}");
             Stat1.Text = "конец парсинга";
            }
